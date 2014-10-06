@@ -16,7 +16,8 @@ Personal goals made public. I want to take time out of my day and plan a schedul
 1. Use Github more often
 2. Contribute to Open Source
 3. Write more blogs
-4. Increase my page speed score
+4. Increase project efficiency
+5. Use the command line & keyboard for as much as possible
 
 ### Reading List
 1. http://www.filamentgroup.com/lab/performance-rwd.html
