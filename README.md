@@ -1,7 +1,9 @@
-personal-goals
+Personal Goals
 ==============
 
-Personal goals made public. I want to take time out of my day and plan a schedule to accomplish these goals.
+Personal goals made open source. 
+
+Why? Spending the time to get shit done. I'm open sourcing these goals for accesibility across computers I use, transparency, accountability, and versioning.
 
 # Overarching Goals
 1. Use Github more often
@@ -25,7 +27,10 @@ Personal goals made public. I want to take time out of my day and plan a schedul
 - Set up yeoman generator
 - Learn about web scraping with node
 
-### Code Things I Want to Do/Play With List
+### Things I'll do Backlog
+- ATX Sass website (im sorry :( )
+
+### Code Things I Want to Do/Play With Backlog
 1. Create yeoman generator
 2. Move sites off of 1and1 -- configure servers for gzipping
 3. Go through this talk I missed: http://anthonydispezio.com/sassconf2014/
@@ -44,4 +49,5 @@ Personal goals made public. I want to take time out of my day and plan a schedul
 2. How I sped my site up / moving servers process (once it happens)
 3. SVG icons theme map demo
 4. The effect of framing on personal work
+5. My Experience w/open sourcing personal goals
 
