@@ -24,7 +24,7 @@ Personal goals made public. I want to take time out of my day and plan a schedul
 
 ### Blog Post Ideas
 1. Designers in the Open Source Community
-2. How I sped my site up
-3. Moving off 1and1
-4. SVG icons theme map
+2. How I sped my site up / moving servers process
+3. SVG icons theme map
+4. The effect of framing on personal work
 
