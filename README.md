@@ -13,17 +13,17 @@ Personal goals made public. I want to take time out of my day and plan a schedul
 7. Learn about testing
 
 ## Things I'll Do This Week: October 6, 2014
-- Schedule time to focus on this list
-- Set up FED community learning sessions at work
-- Create gulp setup for unakravets.com 
-- Search Open Source projects with the need design tag
-- Check up on new Sass meetups
+- [ ] Schedule time to focus on this list
+- [ ] Set up FED community learning sessions at work
+- [ ] Create gulp setup for unakravets.com 
+- [ ] Search Open Source projects with the need design tag
+- [ ] Check up on new Sass meetups
 
 ### Things I'll Do This Month: October 2014
-- Internal Jekyll training
-- Set Up FED Play Date topics
-- Set up yeoman generator
-- Learn about web scraping with node
+- [ ] Internal Jekyll training
+- [ ] Set Up FED Play Date topics
+- [ ] Set up yeoman generator
+- [ ] Learn about web scraping with node
 
 ### Code Things I Want to Do/Play With List
 1. Create yeoman generator
