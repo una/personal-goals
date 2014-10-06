@@ -3,7 +3,7 @@ Personal Goals
 
 Personal goals made open source. 
 
-Why? Spending the time to get shit done. I'm open sourcing these goals for accesibility across computers I use, transparency, accountability, and versioning.
+Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
 # Overarching Goals
 1. Use Github more often
@@ -13,6 +13,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Use the command line & keyboard for as much as possible
 6. Get better at javascript (patterns, Angular, Node)
 7. Learn about testing
+8. Foster designer participation in open source projects
 
 ## Things I'll Do This Week: October 6, 2014
 - [ ] Schedule time to focus on this list
