@@ -22,10 +22,10 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Check up on new Sass meetups
 
 ### Things I'll Do This Month: October 2014
-- Internal Jekyll training
-- Set Up FED Play Date topics
-- Set up yeoman generator
-- Learn about web scraping with node
+- [ ] Internal Jekyll training
+- [ ] Set Up FED Play Date topics
+- [ ] Set up yeoman generator
+- [ ] Learn about web scraping with node
 
 ### Things I'll do Backlog
 1. ATX Sass website (im sorry :( )
