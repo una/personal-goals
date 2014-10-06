@@ -27,10 +27,14 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Set up yeoman generator
 - [ ] Learn about web scraping with node
 
-### Things I'll do Backlog
+### Reading List: October 2014
+- [ ] http://www.filamentgroup.com/lab/performance-rwd.html
+- [ ] http://abemedia.co.uk/blog/tutorials/speed-up-your-github-pages-website-with-cloudflare
+
+### Backlog: Things I Will Do :)
 1. ATX Sass website (im sorry :( )
 
-### Code Things I Want to Do/Play With Backlog
+### Backlog: Code Things I Want to Do/Play With
 1. Create yeoman generator
 2. Move sites off of 1and1 -- configure servers for gzipping
 3. Go through this talk I missed: http://anthonydispezio.com/sassconf2014/
@@ -40,9 +44,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 7. CodeSchool Advanced JS course
 8. Node web scraper
 
-### Reading List
-1. http://www.filamentgroup.com/lab/performance-rwd.html
-2. http://elifitch.com/blog/simple-web-scraping-node/
+### Backlog: Reading List
+1. http://elifitch.com/blog/simple-web-scraping-node/
 
 ### Blog Post Ideas
 1. Designers in the Open Source Community
