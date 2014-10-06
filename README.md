@@ -27,10 +27,14 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Set Up FED Play Date topics
 - [ ] Set up yeoman generator
 - [ ] Learn about web scraping with node
+- [ ] Move my hosting off of 1and1
+- [ ] Write at least 1 blog post
 
 ### Reading List: October 2014
 - [ ] http://www.filamentgroup.com/lab/performance-rwd.html
 - [ ] http://abemedia.co.uk/blog/tutorials/speed-up-your-github-pages-website-with-cloudflare
+
+---
 
 ### Backlog: Things I Will Do :)
 1. ATX Sass website (im sorry :( )
@@ -48,10 +52,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### Backlog: Reading List
 1. http://elifitch.com/blog/simple-web-scraping-node/
 
+---
+
 ### Blog Post Ideas
 1. Designers in the Open Source Community
 2. How I sped my site up / moving servers process (once it happens)
 3. SVG icons theme map demo
 4. The effect of framing on personal work
 5. My Experience w/open sourcing personal goals
+6. Github for non-code things
 
