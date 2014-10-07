@@ -40,8 +40,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] http://www.filamentgroup.com/lab/performance-rwd.html
 - [ ] http://abemedia.co.uk/blog/tutorials/speed-up-your-github-pages-website-with-cloudflare
 
----
-
 ### Backlog: Things I Will Do :)
 1. ATX Sass website (im sorry :( )
 
@@ -56,3 +54,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 8. Node web scraper
 
 ---
+
+[Blog Post Ideas](https://github.com/una/personal-goals/blob/master/blog-posts/blog-ideas.md)
+[Backlog Reading List](https://github.com/una/personal-goals/tree/master/reading-list)
