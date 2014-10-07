@@ -8,13 +8,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 # Overarching Goals
 1. Use Github more often
 2. Contribute to Open Source
-3. Write more blogs
+3. Write more blog posts
 4. Increase project efficiency
-5. Use the command line & keyboard for as much as possible
+5. Use the command line & keyboard as much as possible
 6. Get better at javascript (patterns, Angular, Node)
 7. Learn about testing
 8. Foster designer participation in open source projects
-9. Take the time necessary to relax and do self-care.
+9. Make more people smile
 
 ## Things I'll Do This Week: October 6, 2014
 - [ ] Schedule time to focus on this list
@@ -22,7 +22,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Create gulp setup for unakravets.com 
 - [ ] Search Open Source projects with the need design tag
 - [ ] Check up on new Sass meetups
-- [ ] Something fun and relaxing
+- [ ] Edit Nail Art video
 
 ### Things I'll Do This Month: October 2014
 - [ ] Internal Jekyll training
@@ -31,7 +31,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Learn about web scraping with node
 - [ ] Move my hosting off of 1and1
 - [ ] Write at least 1 blog post
-- [ ] Go outside and enjoy the sun before it's winter
+- [ ] Make another nail art video
+- [ ] Enjoy the sun before it's winter
 
 ### Reading List: October 2014
 - [ ] http://www.filamentgroup.com/lab/performance-rwd.html
