@@ -33,6 +33,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Write at least 1 blog post
 - [ ] Make another nail art video
 - [ ] Enjoy the sun before it's winter
+- [ ] See my family in Baltimore
 
 ### Reading List: October 2014
 - [ ] http://www.filamentgroup.com/lab/performance-rwd.html
