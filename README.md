@@ -53,6 +53,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 6. Figure out web scraping for v2 of sassme (also, rename sassme)
 7. CodeSchool Advanced JS course
 8. Node web scraper
+9. Incorporate critical inline CSS https://github.com/addyosmani/critical
 
 ### Backlog: Reading List
 1. http://elifitch.com/blog/simple-web-scraping-node/
