@@ -22,7 +22,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Create gulp setup for unakravets.com 
 - [ ] Search Open Source projects with the need design tag
 - [ ] Check up on new Sass meetups
-- [ ] Edit Nail Art video
+- [x] Edit Nail Art video
+- [ ] finish watching https://www.youtube.com/watch?v=WdYzPhOB_c8
 
 ### Things I'll Do This Month: October 2014
 - [ ] Internal Jekyll training
@@ -39,8 +40,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] http://www.filamentgroup.com/lab/performance-rwd.html
 - [ ] http://abemedia.co.uk/blog/tutorials/speed-up-your-github-pages-website-with-cloudflare
 
----
-
 ### Backlog: Things I Will Do :)
 1. ATX Sass website (im sorry :( )
 
@@ -55,16 +54,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 8. Node web scraper
 9. Incorporate critical inline CSS https://github.com/addyosmani/critical
 
-### Backlog: Reading List
-1. http://elifitch.com/blog/simple-web-scraping-node/
-
 ---
 
-### Blog Post Ideas
-1. Designers in the Open Source Community
-2. How I sped my site up / moving servers process (once it happens)
-3. SVG icons theme map demo
-4. The effect of framing on personal work
-5. My Experience w/open sourcing personal goals
-6. Github for non-code things
-
+[Blog Post Ideas](https://github.com/una/personal-goals/blob/master/blog-posts/blog-ideas.md)
+[Backlog Reading List](https://github.com/una/personal-goals/tree/master/reading-list)
