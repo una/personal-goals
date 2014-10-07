@@ -22,7 +22,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Create gulp setup for unakravets.com 
 - [ ] Search Open Source projects with the need design tag
 - [ ] Check up on new Sass meetups
-- [ ] Edit Nail Art video
+- [x] Edit Nail Art video
+- [ ] finish watching https://www.youtube.com/watch?v=WdYzPhOB_c8
 
 ### Things I'll Do This Month: October 2014
 - [ ] Internal Jekyll training
@@ -54,16 +55,4 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 7. CodeSchool Advanced JS course
 8. Node web scraper
 
-### Backlog: Reading List
-1. http://elifitch.com/blog/simple-web-scraping-node/
-
 ---
-
-### Blog Post Ideas
-1. Designers in the Open Source Community
-2. How I sped my site up / moving servers process (once it happens)
-3. SVG icons theme map demo
-4. The effect of framing on personal work
-5. My Experience w/open sourcing personal goals
-6. Github for non-code things
-
