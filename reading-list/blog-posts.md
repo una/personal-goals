@@ -6,3 +6,7 @@
 
 ### 3D CSS
 1. http://vimeo.com/98137613
+
+### Terminal
+1. http://ashleynolan.co.uk/blog/beginners-guide-to-terminal-aliases-and-functions
+2. http://ashleynolan.co.uk/blog/getting-started-with-terminal
