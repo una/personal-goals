@@ -18,16 +18,17 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week: October 6, 2014
 - [ ] Schedule time to focus on this list
-- [ ] Set up FED community learning sessions at work
+- [x] Set up FED community learning sessions at work
 - [ ] Create gulp setup for unakravets.com 
-- [ ] Search Open Source projects with the need design tag
+- [x] Search Open Source projects with the need design tag
 - [ ] Check up on new Sass meetups
-- [x] Edit Nail Art video
+- [ ] Edit Nail Art video
 - [ ] finish watching https://www.youtube.com/watch?v=WdYzPhOB_c8
+- [x] Set up nvite for October ATX Sass
 
 ### Things I'll Do This Month: October 2014
 - [ ] Internal Jekyll training
-- [ ] Set Up FED Play Date topics
+- [x] Set Up FED Play Date topics
 - [ ] Set up yeoman generator
 - [ ] Learn about web scraping with node
 - [ ] Move my hosting off of 1and1
@@ -53,6 +54,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 7. CodeSchool Advanced JS course
 8. Node web scraper
 9. Incorporate critical inline CSS https://github.com/addyosmani/critical
+10. Code School Angular course
 
 ---
 
