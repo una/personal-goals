@@ -55,5 +55,5 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ---
 
-[Blog Post Ideas](https://github.com/una/personal-goals/blob/master/blog-posts/blog-ideas.md)
-[Backlog Reading List](https://github.com/una/personal-goals/tree/master/reading-list)
+- [Blog Post Ideas](https://github.com/una/personal-goals/blob/master/blog-posts/blog-ideas.md)
+- [Backlog Reading List](https://github.com/una/personal-goals/tree/master/reading-list)
