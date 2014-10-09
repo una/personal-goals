@@ -55,6 +55,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 8. Node web scraper
 9. Incorporate critical inline CSS https://github.com/addyosmani/critical
 10. Code School Angular course
+11. Play with Velocity.js http://julian.com/research/velocity/
 
 ---
 
