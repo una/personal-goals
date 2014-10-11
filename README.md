@@ -21,7 +21,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] Set up FED community learning sessions at work
 - [ ] Create gulp setup for unakravets.com 
 - [x] Search Open Source projects with the need design tag
-- [ ] Check up on new Sass meetups
+- [x] Check up on new Sass meetups
 - [ ] Edit Nail Art video
 - [x] finish watching https://www.youtube.com/watch?v=WdYzPhOB_c8
 - [x] Set up nvite for October ATX Sass
