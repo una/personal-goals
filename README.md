@@ -23,7 +23,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] Search Open Source projects with the need design tag
 - [ ] Check up on new Sass meetups
 - [ ] Edit Nail Art video
-- [ ] finish watching https://www.youtube.com/watch?v=WdYzPhOB_c8
+- [x] finish watching https://www.youtube.com/watch?v=WdYzPhOB_c8
 - [x] Set up nvite for October ATX Sass
 
 ### Things I'll Do This Month: October 2014
