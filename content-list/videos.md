@@ -4,6 +4,7 @@
 ### Web Performance
 1. [Designing for Front-End Page Speed](https://www.youtube.com/watch?v=RtpVZ5OzJlc&feature=youtu.be) (27 mins)
 2. [Building for Performance and Resiliencee](http://vimeo.com/channels/smashingconf/102347448) (40 mins)
+3. [Delivering the Goods with Paul Irish](https://www.youtube.com/watch?v=R8W_6xWphtw) (24 mins)
 
 ### Web Components
 1. [The Road to Web Components](https://www.youtube.com/watch?v=6peu4KporaA) (32 mins)
@@ -19,6 +20,11 @@
 1. [Engineering Color on the Web -- Lea Verou](http://vimeo.com/channels/smashingconf/96426732) (40 mins)
 1. [Writing Testable JavaScript](https://www.youtube.com/watch?v=OzjogCFO4Zo) (40 mins)
 
-
 ### Web Browsers
 1. [Taming the Browsers of Tomorrow](https://www.youtube.com/watch?v=toKRa0MsI4Q&list=UUyBAm31tEpZ17hka6ZvVqcg) (26 mins)
+
+### SVG
+1. [Styling & Animating SVGs w/CSS](https://www.youtube.com/watch?v=hI9roqOKKO8) (39 mins)
+
+### Accessibility
+1. [JS for Everybody](https://www.youtube.com/watch?v=04DOp1F9Od4) (29 mins)

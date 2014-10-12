@@ -18,28 +18,22 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week: October 6, 2014
 - [ ] Schedule time to focus on this list
-- [x] Set up FED community learning sessions at work
-- [ ] Create gulp setup for unakravets.com 
-- [x] Search Open Source projects with the need design tag
-- [x] Check up on new Sass meetups
+- [ ] Sort out hosting/server situation
+- [ ] Create gulp setup for unakravets.com
+- [ ] Continue learning Angular
+- [ ] Publish a blog post
+- [ ] Prepare for a half-marathon
+- [ ] View/read >= 2 things from my [content list](https://github.com/una/personal-goals/tree/master/content-list)
 - [ ] Edit Nail Art video
-- [x] finish watching https://www.youtube.com/watch?v=WdYzPhOB_c8
-- [x] Set up nvite for October ATX Sass
 
 ### Things I'll Do This Month: October 2014
 - [ ] Internal Jekyll training
-- [x] Set Up FED Play Date topics
 - [ ] Set up yeoman generator
 - [ ] Learn about web scraping with node
 - [ ] Move my hosting off of 1and1
 - [ ] Write at least 1 blog post
 - [ ] Make another nail art video
 - [ ] Enjoy the sun before it's winter
-- [ ] See my family in Baltimore
-
-### Reading List: October 2014
-- [ ] http://www.filamentgroup.com/lab/performance-rwd.html
-- [ ] http://abemedia.co.uk/blog/tutorials/speed-up-your-github-pages-website-with-cloudflare
 
 ### Backlog: Things I Will Do :)
 1. ATX Sass website (im sorry :( )
@@ -60,4 +54,4 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ---
 
 - [Blog Post Ideas](https://github.com/una/personal-goals/blob/master/blog-posts/blog-ideas.md)
-- [Backlog Reading List](https://github.com/una/personal-goals/tree/master/reading-list)
+- [Backlog Content List](https://github.com/una/personal-goals/tree/master/content-list)
