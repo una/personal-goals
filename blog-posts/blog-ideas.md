@@ -6,3 +6,4 @@
 6. Github for non-code things
 7. The Future of Media Queries is Exciting http://dev.w3.org/csswg/mediaqueries-4
 8. AE --> Canvas
+9. Rebasing is not scary!
