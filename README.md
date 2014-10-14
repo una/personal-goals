@@ -22,7 +22,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Create gulp setup for unakravets.com
 - [ ] Continue learning Angular
 - [ ] Publish a blog post
-- [ ] Prepare for a half-marathon
+- [ ] Prepare for half-marathon
 - [ ] View/read >= 2 things from my [content list](https://github.com/una/personal-goals/tree/master/content-list)
 - [ ] Edit Nail Art video
 
@@ -50,6 +50,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 9. Incorporate critical inline CSS https://github.com/addyosmani/critical
 10. Code School Angular course
 11. Play with Velocity.js http://julian.com/research/velocity/
+12. Polymer <-- Make elements https://www.polymer-project.org/
 
 ---
 

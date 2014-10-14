@@ -8,3 +8,6 @@
 
 ### ST2 
 1. [Slides from CSS Dev Conf @wesbos](http://wesbos.github.io/Sublime-Text-Power-User-Talk)
+
+### CSS
+1. [Modern Layouts (shapes)](https://speakerdeck.com/jensimmons/css-dev-conf)

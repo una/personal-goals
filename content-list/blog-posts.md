@@ -1,8 +1,7 @@
+# Blog Posts and Resources
+
 ### Node.js
 1. [Web Scraping with Node](http://elifitch.com/blog/simple-web-scraping-node/)
-
-### Javascript
-1. [JS Patterns](http://shichuan.github.io/javascript-patterns/)
 
 ### CMS
 1. [Craft v Wordpress](http://viget.com/extend/craft-vs.-wordpress-the-good-the-bad-and-the-ugly-data)
@@ -19,8 +18,8 @@
 
 ### CSS/Sass
 1. [Write Sass Plugins Like a Pro](https://medium.com/@marcmintel/write-sass-plugins-like-a-pro-c765ecf3af27)
-2. [CSS Guidelines](http://cssguidelin.es/)
-3. [CSS Inheritance used & Abused -- Micah Godbolt](http://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/)
+2. [CSS Inheritance used & Abused -- Micah Godbolt](http://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/)
+3. [Cutting Edge Features to Use Today!](http://blog.teamtreehouse.com/cutting-edge-css-features-can-use-today?utm_source=CSS-Weekly&utm_campaign=Issue-132&utm_medium=email)
 
 ### SVG
 1. [SVG Clipping](http://sarasoueidan.com/blog/css-svg-clipping/)
@@ -39,3 +38,9 @@
 ### ST2
 1. [Sublime Text for Power Users](http://drewbarontini.com/setup/sublime-text/)
 2. [Mug of Sublime Text (shortcuts)](http://katiek2.github.io/most/)
+
+### Flexbox
+1. [Flexbox Cheatsheet Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/?utm_content=bufferfbf53&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
+### Web Components
+1. [Web Components on Github](https://github.com/webcomponents)
