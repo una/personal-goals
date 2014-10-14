@@ -23,8 +23,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Continue learning Angular
 - [ ] Publish a blog post
 - [ ] Prepare for half-marathon
-- [ ] View/read >= 2 things from my [content list](https://github.com/una/personal-goals/tree/master/content-list)
-- [ ] Edit Nail Art video
+- [x] View/read >= 2 things from my [content list](https://github.com/una/personal-goals/tree/master/content-list)
+- [ ] Read through this list of [CSS Dev Conf Resources](http://unakravets.tumblr.com/post/98971370655/sassconf-2014-resource-roundup)
 
 ### Things I'll Do This Month: October 2014
 - [ ] Internal Jekyll training
@@ -34,9 +34,12 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Write at least 1 blog post
 - [ ] Make another nail art video
 - [ ] Enjoy the sun before it's winter
+- [ ] Edit Nail Art video
 
-### Backlog: Things I Will Do :)
-1. ATX Sass website (im sorry :( )
+### Backlog: Projects I Need to Focus On :)
+1. [ATX Sass](https://github.com/una/ATXSass) website (im sorry :( )
+2. Work on [sassme v2](https://github.com/una/sassme) to scrape the web & get up-to-date content
+3. Focus again on [Sass Gifs](http://sassgifs.com)
 
 ### Backlog: Code Things I Want to Do/Play With
 1. Create yeoman generator
@@ -45,12 +48,12 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 4. Get Living Style Guide working on portfolio https://github.com/hagenburger/livingstyleguide
 5. Re-configure this article for contribution (sections for Reading List, etc.)
 6. Figure out web scraping for v2 of sassme (also, rename sassme)
-7. CodeSchool Advanced JS course
+7. CodeSchool Angular, Advanced JS course
 8. Node web scraper
 9. Incorporate critical inline CSS https://github.com/addyosmani/critical
-10. Code School Angular course
-11. Play with Velocity.js http://julian.com/research/velocity/
-12. Polymer <-- Make elements https://www.polymer-project.org/
+10. Play with Velocity.js http://julian.com/research/velocity/
+11. Polymer <-- Make elements https://www.polymer-project.org/
+12. Scss blend modes https://github.com/heygrady/scss-blend-modes
 
 ---
 
