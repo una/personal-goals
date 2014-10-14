@@ -1,9 +1,10 @@
 ### CSS
-[ ] [Adobe Web Platform](http://webplatform.adobe.com/)
-[ ] [CSS Guidelines](http://cssguidelin.es/)
+- [ ] [Adobe Web Platform](http://webplatform.adobe.com/)
+- [ ] [CSS Guidelines](http://cssguidelin.es/)
 
 ### JS
-[ ] [JS Patterns](http://shichuan.github.io/javascript-patterns/)
+- [ ] [JS Patterns](http://shichuan.github.io/javascript-patterns/)
+- [ ] [Learning Angular -- egghead.io](http://egghead.io)
 
 ### Tools
-[ ] [Mug of Sublime Text (shortcuts)](http://katiek2.github.io/most/)
+- [ ] [Mug of Sublime Text (shortcuts)](http://katiek2.github.io/most/)
