@@ -22,9 +22,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Create gulp setup for unakravets.com
 - [ ] Continue learning Angular
 - [ ] Publish a blog post
-- [ ] Prepare for half-marathon
+- [ ] Sign up for [calligraphy class](http://jezebel.com/heres-a-corgi-just-losing-his-shit-on-a-pumpkin-1644096404)
 - [x] View/read >= 2 things from my [content list](https://github.com/una/personal-goals/tree/master/content-list)
-- [ ] Read through this list of [CSS Dev Conf Resources](http://unakravets.tumblr.com/post/98971370655/sassconf-2014-resource-roundup)
+- [x] Read through this list of [CSS Dev Conf Resources](https://gist.github.com/jessabean/c17438f91d3621c279b6)
 
 ### Things I'll Do This Month: October 2014
 - [ ] Internal Jekyll training
@@ -35,6 +35,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Make another nail art video
 - [ ] Enjoy the sun before it's winter
 - [ ] Edit Nail Art video
+- [ ] Write a proposal for [CSS Conf Oakland](http://cssconfoak.land/)
 
 ### Backlog: Projects I Need to Focus On :)
 1. [ATX Sass](https://github.com/una/ATXSass) website (im sorry :( )
