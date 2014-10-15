@@ -16,7 +16,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 8. Foster designer participation in open source projects
 9. Make more people smile
 
-## Things I'll Do This Week: October 6, 2014
+## Things I'll Do This Week: October 13, 2014
 - [ ] Schedule time to focus on this list
 - [ ] Sort out hosting/server situation
 - [ ] Create gulp setup for unakravets.com

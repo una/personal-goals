@@ -8,3 +8,6 @@
 
 ### Tools
 - [ ] [Mug of Sublime Text (shortcuts)](http://katiek2.github.io/most/)
+
+### UI Patterns
+- [ ] [Pattern Library Resources](http://patternlab.io/resources.html)
