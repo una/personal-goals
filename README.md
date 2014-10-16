@@ -36,6 +36,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Enjoy the sun before it's winter
 - [ ] Edit Nail Art video
 - [ ] Write a proposal for [CSS Conf Oakland](http://cssconfoak.land/)
+- [ ] Contact Girl Develop It ATX
+- [ ] Write a post for the Sass Way
 
 ### Backlog: Projects I Need to Focus On :)
 1. [ATX Sass](https://github.com/una/ATXSass) website (im sorry :( )

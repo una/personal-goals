@@ -7,3 +7,6 @@
 7. The Future of Media Queries is Exciting http://dev.w3.org/csswg/mediaqueries-4
 8. AE --> Canvas
 9. Rebasing is not scary!
+10. Some Notes on Sketchnotes
+11. Sass Maps --> Browser Design
+12. How I moved my blog from Tumblr to Jekyll w/GH-Pages
