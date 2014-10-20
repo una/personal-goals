@@ -2,6 +2,7 @@
 
 ### Node.js
 - [ ] [Web Scraping with Node](http://elifitch.com/blog/simple-web-scraping-node/)
+- [ ] [Command Line Utilities w/Node.js](http://cruft.io/posts/node-command-line-utilities/)
 
 ### CMS
 - [ ] [Craft v Wordpress](http://viget.com/extend/craft-vs.-wordpress-the-good-the-bad-and-the-ugly-data)

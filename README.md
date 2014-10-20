@@ -25,6 +25,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Design new blog website
 - [ ] Make sure all of the old tumblr posts translated to new blog
 - [ ] Write 1 blog post
+- [ ] Work on Sass Bites Logo
 
 ### Things I'll Do This Month: October 2014
 - [ ] Internal Jekyll training
@@ -39,6 +40,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Write a post for the Sass Way
 - [x] Migrate blog posts to github
 - [ ] Design new blog
+- [ ] Design Sass Bites Logo
+- [ ] Help Jesse w/design for [The Q](http://the--q.herokuapp.com/jshawl/css)
 
 ### Backlog: Projects I Need to Focus On :)
 1. [ATX Sass](https://github.com/una/ATXSass) website (im sorry :( )
