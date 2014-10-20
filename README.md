@@ -16,33 +16,35 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 8. Foster designer participation in open source projects
 9. Make more people smile
 
-## Things I'll Do This Week: October 13, 2014
-- [ ] Schedule time to focus on this list
+## Things I'll Do This Week: October 20, 2014
+- [ ] Schedule time to focus on this list <-- I'm bad at this
 - [ ] Sort out hosting/server situation
 - [ ] Create gulp setup for unakravets.com
-- [ ] Continue learning Angular
-- [ ] Publish a blog post
-- [ ] Sign up for [calligraphy class](http://jezebel.com/heres-a-corgi-just-losing-his-shit-on-a-pumpkin-1644096404)
-- [x] View/read >= 2 things from my [content list](https://github.com/una/personal-goals/tree/master/content-list)
-- [x] Read through this list of [CSS Dev Conf Resources](https://gist.github.com/jessabean/c17438f91d3621c279b6)
+- [ ] Sign up for [calligraphy class](http://austinmuseum.augusoft.net/index.cfm?method=ClassInfo.ClassInformation&int_class_id=6435&int_category_id=1&int_sub_category_id=14&int_catalog_id=0)
+- [ ] Continue learning angular
+- [ ] Design new blog website
+- [ ] Make sure all of the old tumblr posts translated to new blog
+- [ ] Write 1 blog post
 
 ### Things I'll Do This Month: October 2014
 - [ ] Internal Jekyll training
 - [ ] Set up yeoman generator
 - [ ] Learn about web scraping with node
 - [ ] Move my hosting off of 1and1
-- [ ] Write at least 1 blog post
-- [ ] Make another nail art video
+- [x] Write at least 1 blog post
 - [ ] Enjoy the sun before it's winter
 - [ ] Edit Nail Art video
 - [ ] Write a proposal for [CSS Conf Oakland](http://cssconfoak.land/)
 - [ ] Contact Girl Develop It ATX
 - [ ] Write a post for the Sass Way
+- [x] Migrate blog posts to github
+- [ ] Design new blog
 
 ### Backlog: Projects I Need to Focus On :)
 1. [ATX Sass](https://github.com/una/ATXSass) website (im sorry :( )
 2. Work on [sassme v2](https://github.com/una/sassme) to scrape the web & get up-to-date content
 3. Focus again on [Sass Gifs](http://sassgifs.com)
+4. Redesign & migrate blog to una.github.io
 
 ### Backlog: Code Things I Want to Do/Play With
 1. Create yeoman generator

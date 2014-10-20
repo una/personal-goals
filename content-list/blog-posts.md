@@ -8,7 +8,7 @@
 
 ### Terminal
 - [ ] [Terminal Aliases & Functions](http://ashleynolan.co.uk/blog/beginners-guide-to-terminal-aliases-and-functions)
-- [ ] [Terminal Basic Commands](http://ashleynolan.co.uk/blog/getting-started-with-terminal)
+- [x] [Terminal Basic Commands](http://ashleynolan.co.uk/blog/getting-started-with-terminal)
 
 ### Accessibility
 - [ ] [Aria State Properties](http://www.w3.org/TR/wai-aria/states_and_properties)

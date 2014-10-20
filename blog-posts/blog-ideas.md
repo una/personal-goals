@@ -10,3 +10,4 @@
 10. Some Notes on Sketchnotes
 11. Sass Maps --> Browser Design
 12. How I moved my blog from Tumblr to Jekyll w/GH-Pages
+13. Tips on Becoming a Keyboard Wizard
