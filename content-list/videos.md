@@ -27,4 +27,4 @@
 - [ ] [Styling & Animating SVGs w/CSS](https://www.youtube.com/watch?v=hI9roqOKKO8) (39 mins)
 
 ### Accessibility
-- [ ] [JS for Everybody](https://www.youtube.com/watch?v=04DOp1F9Od4) (29 mins)
+- [x] [JS for Everybody](https://www.youtube.com/watch?v=04DOp1F9Od4) (29 mins)

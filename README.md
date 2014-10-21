@@ -54,7 +54,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 2. Move sites off of 1and1 -- configure servers for gzipping
 3. Go through this talk I missed: http://anthonydispezio.com/sassconf2014/
 4. Get Living Style Guide working on portfolio https://github.com/hagenburger/livingstyleguide
-5. Re-configure this article for contribution (sections for Reading List, etc.)
+5. Create a 3d-rendering with three.js and Rhino
 6. Figure out web scraping for v2 of sassme (also, rename sassme)
 7. CodeSchool Angular, Advanced JS course
 8. Node web scraper
@@ -62,6 +62,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 10. Play with Velocity.js http://julian.com/research/velocity/
 11. Polymer <-- Make elements https://www.polymer-project.org/
 12. Scss blend modes https://github.com/heygrady/scss-blend-modes
+13. Play with [Velocity.js](http://www.smashingmagazine.com/2014/06/18/faster-ui-animations-with-velocity-js/)
 
 ---
 

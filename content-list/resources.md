@@ -5,6 +5,7 @@
 ### JS
 - [ ] [JS Patterns](http://shichuan.github.io/javascript-patterns/)
 - [ ] [Learning Angular -- egghead.io](http://egghead.io)
+- [ ] [AngularJS Learning Resources](https://github.com/jmcunningham/AngularJS-Learning)
 
 ### Tools
 - [ ] [Mug of Sublime Text (shortcuts)](http://katiek2.github.io/most/)
