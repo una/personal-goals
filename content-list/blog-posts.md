@@ -46,7 +46,7 @@
 ### Web Components
 - [ ] [Web Components on Github](https://github.com/webcomponents)
 - [ ] [How GitHub is Using Web Components](http://webcomponents.org/articles/interview-with-joshua-peek/)
+- [ ] [Polymer Single Page Apps w/Web Components](https://www.polymer-project.org/articles/spa.html)
 
 ### Pattern Library
 - [ ] [Front End and UI Style Guides](http://sideproject.io/front-end-and-ui-style-guides/)
-- [ ]
