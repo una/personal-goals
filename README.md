@@ -22,10 +22,11 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Create gulp setup for unakravets.com
 - [ ] Sign up for [calligraphy class](http://austinmuseum.augusoft.net/index.cfm?method=ClassInfo.ClassInformation&int_class_id=6435&int_category_id=1&int_sub_category_id=14&int_catalog_id=0)
 - [ ] Continue learning angular
-- [ ] Design new blog website
+- [x] Design new blog website
 - [ ] Make sure all of the old tumblr posts translated to new blog
 - [ ] Write 1 blog post
 - [ ] Work on Sass Bites Logo
+- [x] Codeschool videos on JS
 
 ### Things I'll Do This Month: October 2014
 - [ ] Internal Jekyll training
@@ -42,6 +43,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Design new blog
 - [ ] Design Sass Bites Logo
 - [ ] Help Jesse w/design for [The Q](http://the--q.herokuapp.com/jshawl/css)
+- [ ] Review Programming Principles
 
 ### Backlog: Projects I Need to Focus On :)
 1. [ATX Sass](https://github.com/una/ATXSass) website (im sorry :( )
