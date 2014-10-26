@@ -28,7 +28,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Make at least 50 open source commits for [Hacktoberfest!](http://hacktoberfest.digitalocean.com/)
 
 
-
 ### Things I'll Do This Month: October 2014
 - [ ] Internal Jekyll training
 - [ ] Set up yeoman generator
@@ -45,11 +44,12 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Help Jesse w/design for [The Q](http://the--q.herokuapp.com/jshawl/css)
 - [ ] Review Programming Principles
 
-### Backlog: Projects I Need to Focus On :)
+### Backlog: Projects :)
 1. [ATX Sass](https://github.com/una/ATXSass) website (im sorry :( )
 2. Work on [sassme v2](https://github.com/una/sassme) to scrape the web & get up-to-date content
 3. Focus again on [Sass Gifs](http://sassgifs.com)
 4. Redesign & migrate blog to una.github.io
+5. Travel Book -- photography & writing
 
 ### Backlog: Code Things I Want to Do/Play With
 1. Create yeoman generator
