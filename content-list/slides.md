@@ -15,3 +15,6 @@
 - [ ] [Building Alice in Videoland](http://rachelnabors.com/alice-in-videoland/talk)
 - [ ] [Refactoring CSS Programming Principles](https://speakerdeck.com/jlong/refactoring-css-programming-principles-for-designers)
 - [ ] [Creating Your Own Starter Files](https://speakerdeck.com/emilylewis/create-your-own-starter-files)
+
+### Angular.js
+- [ ] [Angular 2.0](https://docs.google.com/presentation/d/1XQP0_NTzCUcFweauLlkZpbbhNVYbYy156oD--KLmXsk/preview?sle=true#slide=id.p)

@@ -16,17 +16,16 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 8. Foster designer participation in open source projects
 9. Make more people smile
 
-## Things I'll Do This Week: October 20, 2014
-- [ ] Schedule time to focus on this list <-- I'm bad at this
-- [ ] Sort out hosting/server situation
+## Things I'll Do This Week: October 27, 2014
+- [ ] Migrate Sites to Digital Ocean --> sort out databases
+- [ ] Publish 1 blog post
+- [ ] Write 1 blog post
+- [ ] Design new blog website
+- [ ] Continue learning angular
+- [ ] Continue learning command line shortcuts
 - [ ] Create gulp setup for unakravets.com
 - [ ] Sign up for [calligraphy class](http://austinmuseum.augusoft.net/index.cfm?method=ClassInfo.ClassInformation&int_class_id=6435&int_category_id=1&int_sub_category_id=14&int_catalog_id=0)
-- [ ] Continue learning angular
-- [x] Design new blog website
-- [ ] Make sure all of the old tumblr posts translated to new blog
-- [ ] Write 1 blog post
-- [ ] Work on Sass Bites Logo
-- [x] Codeschool videos on JS
+
 
 ### Things I'll Do This Month: October 2014
 - [ ] Internal Jekyll training
@@ -34,10 +33,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Learn about web scraping with node
 - [ ] Move my hosting off of 1and1
 - [x] Write at least 1 blog post
-- [ ] Enjoy the sun before it's winter
+- [x] Enjoy the sun before it's winter
 - [ ] Edit Nail Art video
 - [ ] Write a proposal for [CSS Conf Oakland](http://cssconfoak.land/)
-- [ ] Contact Girl Develop It ATX
 - [ ] Write a post for the Sass Way
 - [x] Migrate blog posts to github
 - [ ] Design new blog
