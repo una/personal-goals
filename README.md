@@ -65,7 +65,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 11. Polymer <-- Make elements https://www.polymer-project.org/
 12. Scss blend modes https://github.com/heygrady/scss-blend-modes
 13. Play with [Velocity.js](http://www.smashingmagazine.com/2014/06/18/faster-ui-animations-with-velocity-js/)
-
+ 
 ---
 
 - [Blog Post Ideas](https://github.com/una/personal-goals/blob/master/blog-posts/blog-ideas.md)
