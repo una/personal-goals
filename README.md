@@ -18,14 +18,15 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week: October 27, 2014
 - [ ] Migrate Sites to Digital Ocean --> sort out databases
-- [ ] Publish 1 blog post
+- [x] Publish 1 blog post
 - [ ] Write 1 blog post
 - [ ] Design new blog website
 - [ ] Continue learning angular
 - [ ] Continue learning command line shortcuts
 - [ ] Create gulp setup for unakravets.com
 - [ ] Sign up for [calligraphy class](http://austinmuseum.augusoft.net/index.cfm?method=ClassInfo.ClassInformation&int_class_id=6435&int_category_id=1&int_sub_category_id=14&int_catalog_id=0)
-- [ ] Make at least 50 open source commits for [Hacktoberfest!](http://hacktoberfest.digitalocean.com/)
+- [x] Make at least 50 open source commits for [Hacktoberfest!](http://hacktoberfest.digitalocean.com/)
+- [ ] Hang artwork in my apartment already! (so first, buy nails)
 
 
 ### Things I'll Do This Month: October 2014
