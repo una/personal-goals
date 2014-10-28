@@ -20,9 +20,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Migrate Sites to Digital Ocean --> sort out databases
 - [x] Publish 1 blog post
 - [ ] Write 1 blog post
-- [ ] Design new blog website
+- [ ] Design new blog website <-- working on it
 - [ ] Continue learning angular
-- [ ] Continue learning command line shortcuts
+- [x] Continue learning command line shortcuts <-- im using vim to edit this page!
 - [ ] Create gulp setup for unakravets.com
 - [ ] Sign up for [calligraphy class](http://austinmuseum.augusoft.net/index.cfm?method=ClassInfo.ClassInformation&int_class_id=6435&int_category_id=1&int_sub_category_id=14&int_catalog_id=0)
 - [x] Make at least 50 open source commits for [Hacktoberfest!](http://hacktoberfest.digitalocean.com/)
