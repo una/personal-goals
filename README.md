@@ -16,10 +16,14 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 8. Foster designer participation in open source projects
 9. Make more people smile
 
-## Things I'll Do This Week: October 27, 2014
+# October 27, 2014
+
+## This Week's Goal: Blog
+
+## Things I'll Do This Week:
 - [ ] Migrate Sites to Digital Ocean --> sort out databases
 - [x] Publish 1 blog post
-- [ ] Write 1 blog post
+- [x] Write 1 blog post
 - [ ] Design new blog website <-- working on it
 - [ ] Continue learning angular
 - [x] Continue learning command line shortcuts <-- im using vim to edit this page!
@@ -66,6 +70,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 11. Polymer <-- Make elements https://www.polymer-project.org/
 12. Scss blend modes https://github.com/heygrady/scss-blend-modes
 13. Play with [Velocity.js](http://www.smashingmagazine.com/2014/06/18/faster-ui-animations-with-velocity-js/)
+14. Learn about Meteor.js &B Famo.us
  
 ---
 

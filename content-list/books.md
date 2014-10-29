@@ -1,2 +1,3 @@
 - [Eloquent Javascript](http://eloquentjavascript.net/)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)s

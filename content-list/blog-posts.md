@@ -23,6 +23,7 @@
 - [ ] [Cutting Edge Features to Use Today!](http://blog.teamtreehouse.com/cutting-edge-css-features-can-use-today?utm_source=CSS-Weekly&utm_campaign=Issue-132&utm_medium=email)
 - [ ][Medium's CSS](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
 - [ ] [CSS Blend Mode Bgs -- Awesome Examples](http://bennettfeely.com/gradients/)
+- [ ] [CSS Blend Mode Article](http://css-tricks.com/basics-css-blend-modes/)
 
 ### SVG
 - [ ] [SVG Clipping](http://sarasoueidan.com/blog/css-svg-clipping/)
@@ -49,6 +50,11 @@
 - [ ] [Web Components on Github](https://github.com/webcomponents)
 - [ ] [How GitHub is Using Web Components](http://webcomponents.org/articles/interview-with-joshua-peek/)
 - [ ] [Polymer Single Page Apps w/Web Components](https://www.polymer-project.org/articles/spa.html)
+
+### Famo.us
+- [ ] (http://blog.percolatestudio.com/engineering/the-future-of-javascript-animation-with-famous/)
+
+### Meteor.js
 
 ### Pattern Library
 - [ ] [Front End and UI Style Guides](http://sideproject.io/front-end-and-ui-style-guides/)
