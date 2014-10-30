@@ -24,6 +24,7 @@
 - [ ][Medium's CSS](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
 - [ ] [CSS Blend Mode Bgs -- Awesome Examples](http://bennettfeely.com/gradients/)
 - [ ] [CSS Blend Mode Article](http://css-tricks.com/basics-css-blend-modes/)
+- [ ] [CSS vs JS Animations](http://css-tricks.com/myth-busting-css-animations-vs-javascript/)
 
 ### SVG
 - [ ] [SVG Clipping](http://sarasoueidan.com/blog/css-svg-clipping/)
@@ -58,3 +59,6 @@
 
 ### Pattern Library
 - [ ] [Front End and UI Style Guides](http://sideproject.io/front-end-and-ui-style-guides/)
+
+### Misc Javascript
+- [ ] [Object.observe](http://readwrite.com/2014/07/24/object-observe-javascript-api-impact)

@@ -28,3 +28,7 @@
 
 ### Accessibility
 - [x] [JS for Everybody](https://www.youtube.com/watch?v=04DOp1F9Od4) (29 mins)
+
+### Javascript
+- [x] [Meteor.js & Famo.us](https://www.youtube.com/watch?v=bmd-cXSGQAA&feature=youtu.be)
+- [ ] [Object.observe](http://addyosmani.com/blog/the-future-of-data-binding-is-object-observe/) 

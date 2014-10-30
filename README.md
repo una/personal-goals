@@ -24,7 +24,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Migrate Sites to Digital Ocean --> sort out databases
 - [x] Publish 1 blog post
 - [x] Write 1 blog post
-- [ ] Design new blog website <-- working on it
+- [x] Design new blog website <-- working on it
 - [ ] Continue learning angular
 - [x] Continue learning command line shortcuts <-- im using vim to edit this page!
 - [ ] Create gulp setup for unakravets.com
@@ -44,7 +44,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Write a proposal for [CSS Conf Oakland](http://cssconfoak.land/)
 - [ ] Write a post for the Sass Way
 - [x] Migrate blog posts to github
-- [ ] Design new blog
+- [x] Design new blog
 - [ ] Design Sass Bites Logo
 - [ ] Help Jesse w/design for [The Q](http://the--q.herokuapp.com/jshawl/css)
 - [ ] Review Programming Principles
