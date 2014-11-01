@@ -16,6 +16,7 @@
 
 ### Angular
 - [ ] [Angular Under the Hood](https://www.binpress.com/tutorial/angular-js-looking-under-the-hood/153)
+- [ ] [Can Angular Maintain its Dominance?](http://developer.telerik.com/featured/can-angularjs-maintain-dominance/)
 
 ### CSS/Sass
 - [ ] [Write Sass Plugins Like a Pro](https://medium.com/@marcmintel/write-sass-plugins-like-a-pro-c765ecf3af27)
@@ -25,10 +26,12 @@
 - [ ] [CSS Blend Mode Bgs -- Awesome Examples](http://bennettfeely.com/gradients/)
 - [ ] [CSS Blend Mode Article](http://css-tricks.com/basics-css-blend-modes/)
 - [ ] [CSS vs JS Animations](http://css-tricks.com/myth-busting-css-animations-vs-javascript/)
+- [ ] [The Specificity Graph](http://csswizardry.com/2014/10/the-specificity-graph/)
 
 ### SVG
 - [ ] [SVG Clipping](http://sarasoueidan.com/blog/css-svg-clipping/)
 - [ ] [A guide to SVG Animations](http://css-tricks.com/guide-svg-animations-smil/)
+- [ ] [SVG Animated Icons with Snap.svg](http://codyhouse.co/gem/animate-svg-icons-with-css-and-snap/)
 
 ### Git/hub
 - [ ] [GH Pages & Cloudflare](http://abemedia.co.uk/blog/tutorials/speed-up-your-github-pages-website-with-cloudflare)
@@ -53,7 +56,7 @@
 - [ ] [Polymer Single Page Apps w/Web Components](https://www.polymer-project.org/articles/spa.html)
 
 ### Famo.us
-- [ ] (http://blog.percolatestudio.com/engineering/the-future-of-javascript-animation-with-famous/)
+- [ ] [Famo.us JS Animation](http://blog.percolatestudio.com/engineering/the-future-of-javascript-animation-with-famous/)
 
 ### Meteor.js
 
