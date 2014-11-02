@@ -1,7 +1,7 @@
 Personal Goals
 ==============
 
-Personal goals made open source. 
+Personal goals made open source.
 
 Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
@@ -18,11 +18,11 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 # November 2, 2014
 
-## This Week's Goal: ATX Sass
+### This Week's Goal: ATX Sass
 
 ## Things I'll Do This Week:
 - [ ] Make slides & give talk on Keyboard Magic
-- [ ] Finish design of ATX Sass
+- [x] Finish design of ATX Sass
 - [ ] Finish design of new blog
 - [ ] Publicize new blog
 - [ ] Publish a blog post
@@ -35,13 +35,12 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Internal Jekyll training
 - [ ] Set up yeoman generator
 - [ ] Learn about web scraping with node
-- [ ] Edit Nail Art video
-- [ ] Write a proposal for [CSS Conf Oakland](http://cssconfoak.land/)
+- [-] Write a proposal for [CSS Conf Oakland](http://cssconfoak.land/) <-- opportunity ended :(
 - [ ] Write a post for the Sass Way
 - [ ] Design Sass Bites Logo
 - [ ] Help Jesse w/design for [The Q](http://the--q.herokuapp.com/jshawl/css)
 - [ ] Review Programming Principles
-- [ ] [ATX Sass](https://github.com/una/ATXSass) website (im sorry :( )
+- [x] Build [ATX Sass](https://github.com/una/ATXSass) website (im sorry :( )
 
 ### Backlog: Projects :)
 - [ ] Work on [sassme v2](https://github.com/una/sassme) to scrape the web & get up-to-date content
@@ -63,7 +62,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 12. Scss blend modes https://github.com/heygrady/scss-blend-modes
 13. Play with [Velocity.js](http://www.smashingmagazine.com/2014/06/18/faster-ui-animations-with-velocity-js/)
 14. Learn about Meteor.js &B Famo.us
- 
+
 ---
 
 - [Blog Post Ideas](https://github.com/una/personal-goals/blob/master/blog-posts/blog-ideas.md)
