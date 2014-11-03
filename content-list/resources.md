@@ -12,3 +12,6 @@
 
 ### UI Patterns
 - [ ] [Pattern Library Resources](http://patternlab.io/resources.html)
+
+### Workflow
+- [ ] [Vim Novice Videos](http://derekwyatt.org/vim/tutorials/novice/)

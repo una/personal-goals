@@ -65,3 +65,7 @@
 
 ### Misc Javascript
 - [ ] [Object.observe](http://readwrite.com/2014/07/24/object-observe-javascript-api-impact)
+
+### Workflow
+- [ ] [Vim Tutorial](http://blog.interlinked.org/tutorials/vim_tutorial.html)
+- [ ] [Simple Intro to Vi](http://heather.cs.ucdavis.edu/~matloff/UnixAndC/Editors/ViIntro.html)

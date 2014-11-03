@@ -21,8 +21,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### This Week's Goal: ATX Sass
 
 ## Things I'll Do This Week:
-- [ ] Make slides & give talk on Keyboard Magic
+- [x] Make slides & give talk on Keyboard Magic
 - [x] Finish design of ATX Sass
+- [ ] Use Vim more -- learn it better
 - [ ] Finish design of new blog
 - [ ] Publicize new blog
 - [ ] Publish a blog post
@@ -33,19 +34,21 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Things I'll Do This Month: November 2014
 - [ ] Internal Jekyll training
+- [ ] Sort Out Server Problems! Move to Digital Ocean!
 - [ ] Set up yeoman generator
 - [ ] Learn about web scraping with node
-- [-] Write a proposal for [CSS Conf Oakland](http://cssconfoak.land/) <-- opportunity ended :(
+- [ ] Write a proposal for [CSS Conf Oakland](http://cssconfoak.land/) <-- opportunity ended :(
 - [ ] Write a post for the Sass Way
 - [ ] Design Sass Bites Logo
 - [ ] Help Jesse w/design for [The Q](http://the--q.herokuapp.com/jshawl/css)
 - [ ] Review Programming Principles
 - [x] Build [ATX Sass](https://github.com/una/ATXSass) website (im sorry :( )
 
-### Backlog: Projects :)
+### Backlog: Side Projects :)
 - [ ] Work on [sassme v2](https://github.com/una/sassme) to scrape the web & get up-to-date content
 - [ ] Focus again on [Sass Gifs](http://sassgifs.com)
 - [ ] Travel Book -- photography & writing
+- [ ] Hand Lettering <-- this is a reminder to keep practicing
 
 ### Backlog: Code Things I Want to Do/Play With
 1. Create yeoman generator
