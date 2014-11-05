@@ -15,3 +15,6 @@
 
 ### Workflow
 - [ ] [Vim Novice Videos](http://derekwyatt.org/vim/tutorials/novice/)
+
+### Performance
+- [ ] [Google's Web Fundamentals](https://developers.google.com/web/fundamentals/)

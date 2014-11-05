@@ -20,13 +20,14 @@
 
 ### CSS/Sass
 - [ ] [Write Sass Plugins Like a Pro](https://medium.com/@marcmintel/write-sass-plugins-like-a-pro-c765ecf3af27)
-- [ ] [CSS Inheritance used & Abused -- Micah Godbolt](http://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/)
+- [ ] [CSS Inheritance used & Abused &mdash; Micah Godbolt](http://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/)
 - [ ] [Cutting Edge Features to Use Today!](http://blog.teamtreehouse.com/cutting-edge-css-features-can-use-today?utm_source=CSS-Weekly&utm_campaign=Issue-132&utm_medium=email)
 - [ ][Medium's CSS](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
-- [ ] [CSS Blend Mode Bgs -- Awesome Examples](http://bennettfeely.com/gradients/)
+- [ ] [CSS Blend Mode Bgs &mdash; Awesome Examples](http://bennettfeely.com/gradients/)
 - [ ] [CSS Blend Mode Article](http://css-tricks.com/basics-css-blend-modes/)
 - [ ] [CSS vs JS Animations](http://css-tricks.com/myth-busting-css-animations-vs-javascript/)
 - [ ] [The Specificity Graph](http://csswizardry.com/2014/10/the-specificity-graph/)
+- [ ] [Ruby Sass vs LibSass Right Now](http://www.sitepoint.com/switching-ruby-sass-libsass/)
 
 ### SVG
 - [ ] [SVG Clipping](http://sarasoueidan.com/blog/css-svg-clipping/)
@@ -38,10 +39,11 @@
 
 ### Performance
 - [ ] [Filament Group Performance CS](http://www.filamentgroup.com/lab/performance-rwd.html)
+- [ ] [Google Dev &ndash; Optimizing Performance](https://developers.google.com/web/fundamentals/performance/)
 
 ### Web Design
-- [ ] [Atomic Design -- Brad Frost](http://bradfrostweb.com/blog/post/atomic-web-design/)
-- [ ] [Future of Layouts -- Jen Simmons](https://github.com/jensimmons/thelayoutsahead)
+- [ ] [Atomic Design &mdash; Brad Frost](http://bradfrostweb.com/blog/post/atomic-web-design/)
+- [ ] [Future of Layouts &mdash; Jen Simmons](https://github.com/jensimmons/thelayoutsahead)
 
 ### ST2
 - [ ] [Sublime Text for Power Users](http://drewbarontini.com/setup/sublime-text/)
@@ -65,6 +67,7 @@
 
 ### Misc Javascript
 - [ ] [Object.observe](http://readwrite.com/2014/07/24/object-observe-javascript-api-impact)
+- [ ] [Javascript Performance](http://reefpoints.dockyard.com/2014/09/22/javascript-performance-for-the-win.html)
 
 ### Workflow
 - [ ] [Vim Tutorial](http://blog.interlinked.org/tutorials/vim_tutorial.html)
