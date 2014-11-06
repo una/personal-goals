@@ -26,7 +26,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Use Vim more -- learn it better
 - [x] Finish design of new blog
 - [x] Publicize new blog
-- [ ] Publish a blog post
+- [x] Publish a blog post
 - [ ] Continue learning angular
 - [ ] Migrate Sites to Digital Ocean --> sort out databases
 - [ ] Create gulp setup for unakravets.com
@@ -43,6 +43,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] Build [ATX Sass](https://github.com/una/ATXSass) website (im sorry :( )
 - [ ] Learn & Practice [Caligraphy](http://julieblanner.com/learn-calligraphy-basics/)
 - [ ] Begin to Read Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
+- [ ] Get Source Maps Working &mdash; [source maps & gulp](https://github.com/floridoo/gulp-sourcemaps)
 
 ### Backlog: Side Projects :)
 - [ ] Work on [sassme v2](https://github.com/una/sassme) to scrape the web & get up-to-date content
