@@ -8,7 +8,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 # Overarching Goals
 1. Use Github more often
 2. Contribute to Open Source
-3. Write more blog posts
+3. Blog more
 4. Increase project efficiency
 5. Use the command line & keyboard as much as possible
 6. Get better at javascript (patterns, Angular, Node)
@@ -22,28 +22,30 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 - [x] Make slides & give talk on Keyboard Magic
-- [x] Finish design of ATX Sass
-- [ ] Use Vim more -- learn it better
+- [x] Finish design of [ATX Sass](http://atxsass.com)
+- [x] Use Vim more -- learn it better
 - [x] Finish design of new blog
 - [x] Publicize new blog
 - [x] Publish a blog post
 - [ ] Continue learning angular
 - [ ] Migrate Sites to Digital Ocean --> sort out databases
 - [ ] Create gulp setup for unakravets.com
+- [ ] Send letters/ stickers
 
 ### Things I'll Do This Month: November 2014
 - [ ] Sort Out Server Problems on Digital Ocean!
 - [ ] Set up yeoman generator
 - [ ] Learn about web scraping with node
-- [ ] ~~Write a proposal for [CSS Conf Oakland](http://cssconfoak.land/)~~ <-- opportunity ended :(
+- [ ] ~~Write a proposal for [CSS Conf Oakland](http://cssconfoak.land/)~~
 - [ ] Write a post for the Sass Way
 - [ ] Finish Sass Bites Logo
 - [ ] Help Jesse w/design for [The Q](http://the--q.herokuapp.com/jshawl/css)
 - [ ] Review Programming Principles
 - [x] Build [ATX Sass](https://github.com/una/ATXSass) website (im sorry :( )
-- [ ] Learn & Practice [Caligraphy](http://julieblanner.com/learn-calligraphy-basics/)
+- [x] Learn & Practice [Caligraphy](http://julieblanner.com/learn-calligraphy-basics/)
 - [ ] Begin to Read Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
-- [ ] Get Source Maps Working &mdash; [source maps & gulp](https://github.com/floridoo/gulp-sourcemaps)
+- [ ] Get [Source Maps](http://www.sitepoint.com/using-source-maps-debug-sass-chrome/) Working &mdash; [source maps & gulp](https://github.com/floridoo/gulp-sourcemaps)
+- [ ] Create Singularity Examples bc [the cons here](http://web-design-weekly.com/2014/04/06/grid-frameworks-sass/)
 
 ### Backlog: Side Projects :)
 - [ ] Work on [sassme v2](https://github.com/una/sassme) to scrape the web & get up-to-date content

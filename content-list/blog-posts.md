@@ -72,3 +72,6 @@
 ### Workflow
 - [ ] [Vim Tutorial](http://blog.interlinked.org/tutorials/vim_tutorial.html)
 - [ ] [Simple Intro to Vi](http://heather.cs.ucdavis.edu/~matloff/UnixAndC/Editors/ViIntro.html)
+
+### Testing
+- [Visual Regression Testing](http://sonniesedge.co.uk/2014-10-17/visual-regression-testing.html)
