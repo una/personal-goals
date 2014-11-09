@@ -31,7 +31,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Migrate Sites to Digital Ocean --> sort out databases
 - [ ] Create gulp setup for unakravets.com
 - [ ] Send letters/ stickers
-- [ ] ultimate vim plugins
 
 ### Things I'll Do This Month: November 2014
 - [ ] Sort Out Server Problems on Digital Ocean!
@@ -53,6 +52,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Focus again on [Sass Gifs](http://sassgifs.com)
 - [ ] Travel Book -- photography & writing
 - [ ] Hand Lettering <-- this is a reminder to keep practicing
+- [ ] Open Source Design
 
 ### Backlog: Code Things I Want to Do/Play With
 1. Create yeoman generator
