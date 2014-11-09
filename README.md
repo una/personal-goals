@@ -31,6 +31,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Migrate Sites to Digital Ocean --> sort out databases
 - [ ] Create gulp setup for unakravets.com
 - [ ] Send letters/ stickers
+- [ ] ultimate vim plugins
 
 ### Things I'll Do This Month: November 2014
 - [ ] Sort Out Server Problems on Digital Ocean!
