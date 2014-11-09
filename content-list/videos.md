@@ -36,6 +36,6 @@
 ### Workflow
 
 ### Calligraphy
-- [ ](https://www.youtube.com/watch?v=F4165Pp8uns#t=38)s
-- [ ](https://www.youtube.com/watch?v=AcQPAHKxbQU)
+- [ ] [Roundhand Demo](https://www.youtube.com/watch?v=F4165Pp8uns#t=38)
+- [ ] [Have A Fantastic Day](https://www.youtube.com/watch?v=AcQPAHKxbQU)
 

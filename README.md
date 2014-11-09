@@ -16,27 +16,27 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 8. Foster designer participation in open source projects
 9. Make more people smile
 
-# November 2, 2014
+# November 9, 2014
 
-### This Week's Goal: ATX Sass
+### This Week's Goal: Community
 
 ## Things I'll Do This Week:
-- [x] Make slides & give talk on Keyboard Magic
-- [x] Finish design of [ATX Sass](http://atxsass.com)
-- [x] Use Vim more -- learn it better
-- [x] Finish design of new blog
-- [x] Publicize new blog
-- [x] Publish a blog post
-- [ ] Continue learning angular
-- [ ] Migrate Sites to Digital Ocean --> sort out databases
-- [ ] Create gulp setup for unakravets.com
-- [ ] Send letters/ stickers
+- [ ] Read/watch 3 Things from my content list
+- [ ] Finish SassBites logo
+- [ ] Try Using Singularity
+- [ ] Start [Singularity](https://www.youtube.com/watch?v=f7rw3MZS-OU) demos gathering of content (vid will be available)
+- [ ] Write Blog post about Open Source Design
+- [ ] Contribute more to [Design Open](http://designopen.org/)
+- [ ] Learn about these things I [just installed for vim](https://github.com/spf13/spf13-vim)
+- [ ] Write letter to Open Source Design Email list
+- [ ] Create Singularity Examples bc [the cons here](http://web-design-weekly.com/2014/04/06/grid-frameworks-sass/)
 
 ### Things I'll Do This Month: November 2014
 - [ ] Sort Out Server Problems on Digital Ocean!
+- [ ] Continue learning angular
+- [ ] Create gulp setup for unakravets.com
 - [ ] Set up yeoman generator
 - [ ] Learn about web scraping with node
-- [ ] ~~Write a proposal for [CSS Conf Oakland](http://cssconfoak.land/)~~
 - [ ] Write a post for the Sass Way
 - [ ] Finish Sass Bites Logo
 - [ ] Help Jesse w/design for [The Q](http://the--q.herokuapp.com/jshawl/css)
@@ -51,7 +51,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Work on [sassme v2](https://github.com/una/sassme) to scrape the web & get up-to-date content
 - [ ] Focus again on [Sass Gifs](http://sassgifs.com)
 - [ ] Travel Book -- photography & writing
-- [ ] Hand Lettering <-- this is a reminder to keep practicing
+- [ ] Hand Lettering (Code Calligraphy)
 - [ ] Open Source Design
 
 ### Backlog: Code Things I Want to Do/Play With
