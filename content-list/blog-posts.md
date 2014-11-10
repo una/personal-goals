@@ -70,8 +70,13 @@
 - [ ] [Javascript Performance](http://reefpoints.dockyard.com/2014/09/22/javascript-performance-for-the-win.html)
 
 ### Workflow
+- [ ] Contribute to [Design Open](http://designopen.org/)
 - [ ] [Vim Tutorial](http://blog.interlinked.org/tutorials/vim_tutorial.html)
 - [ ] [Simple Intro to Vi](http://heather.cs.ucdavis.edu/~matloff/UnixAndC/Editors/ViIntro.html)
+- [ ] [Semantic Versioning](http://semver.org/)
 
 ### Testing
-- [Visual Regression Testing](http://sonniesedge.co.uk/2014-10-17/visual-regression-testing.html)
+- [ ] [Visual Regression Testing](http://sonniesedge.co.uk/2014-10-17/visual-regression-testing.html)
+- [ ] [Wraith](http://responsivenews.co.uk/post/56884056177/wraith)
+- [ ] [Wraith & TravisCI](http://blog.kevinlamping.com/easy-ui-regression-testing-with-wraith-and-travisci/)
+

@@ -28,6 +28,7 @@
 
 ### Accessibility
 - [x] [JS for Everybody](https://www.youtube.com/watch?v=04DOp1F9Od4) (29 mins)
+- [ ] [Designing for Accessibility](http://teamtreehouse.com/library/generate-london-2014/designing-for-accessibility)
 
 ### Javascript
 - [x] [Meteor.js & Famo.us](https://www.youtube.com/watch?v=bmd-cXSGQAA&feature=youtu.be)
@@ -38,4 +39,3 @@
 ### Calligraphy
 - [ ] [Roundhand Demo](https://www.youtube.com/watch?v=F4165Pp8uns#t=38)
 - [ ] [Have A Fantastic Day](https://www.youtube.com/watch?v=AcQPAHKxbQU)
-
