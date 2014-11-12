@@ -28,6 +28,7 @@
 - [ ] [CSS vs JS Animations](http://css-tricks.com/myth-busting-css-animations-vs-javascript/)
 - [ ] [The Specificity Graph](http://csswizardry.com/2014/10/the-specificity-graph/)
 - [ ] [Ruby Sass vs LibSass Right Now](http://www.sitepoint.com/switching-ruby-sass-libsass/)
+- [ ] [3d CSS Transforms - Desandro](http://desandro.github.io/3dtransforms/docs/introduction.html)
 
 ### SVG
 - [ ] [SVG Clipping](http://sarasoueidan.com/blog/css-svg-clipping/)
@@ -55,7 +56,7 @@
 ### Web Components
 - [ ] [Web Components on Github](https://github.com/webcomponents)
 - [ ] [How GitHub is Using Web Components](http://webcomponents.org/articles/interview-with-joshua-peek/)
-- [ ] [Polymer Single Page Apps w/Web Components](https://www.polymer-project.org/articles/spa.html)
+- [ ] [Polymer Single Page Apps w/Web Components](https://www.polymer-project.org/articles/spa.html)-
 
 ### Famo.us
 - [ ] [Famo.us JS Animation](http://blog.percolatestudio.com/engineering/the-future-of-javascript-animation-with-famous/)
@@ -74,6 +75,7 @@
 - [ ] [Vim Tutorial](http://blog.interlinked.org/tutorials/vim_tutorial.html)
 - [ ] [Simple Intro to Vi](http://heather.cs.ucdavis.edu/~matloff/UnixAndC/Editors/ViIntro.html)
 - [ ] [Semantic Versioning](http://semver.org/)
+- [ ] [Source Maps](http://www.matrixgroup.net/snackoclock/2014/10/sass-maps-source-maps/)
 
 ### Testing
 - [ ] [Visual Regression Testing](http://sonniesedge.co.uk/2014-10-17/visual-regression-testing.html)

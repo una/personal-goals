@@ -26,8 +26,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Try Using Singularity
 - [ ] Start [Singularity](https://www.youtube.com/watch?v=f7rw3MZS-OU) demos gathering of content (vid will be available)
 - [ ] Write Blog post about Open Source Design
-- [ ] Contribute more to [Design Open](http://designopen.org/)
-- [ ] Learn about these things I [just installed for vim](https://github.com/spf13/spf13-vim)
+- [x] Contribute more to [Design Open](http://designopen.org/)
+- [x] Learn about these things I [just installed for vim](https://github.com/spf13/spf13-vim)
 - [ ] Write letter to Open Source Design Email list
 - [ ] Create Singularity Examples bc [the cons here](http://web-design-weekly.com/2014/04/06/grid-frameworks-sass/)
 
@@ -46,6 +46,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Begin to Read Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 - [ ] Get [Source Maps](http://www.sitepoint.com/using-source-maps-debug-sass-chrome/) Working &mdash; [source maps & gulp](https://github.com/floridoo/gulp-sourcemaps)
 - [ ] Create Singularity Examples bc [the cons here](http://web-design-weekly.com/2014/04/06/grid-frameworks-sass/)
+- [ ] Add search & tagging functionality to blog
 
 ### Backlog: Side Projects :)
 - [ ] Work on [sassme v2](https://github.com/una/sassme) to scrape the web & get up-to-date content
@@ -53,6 +54,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Travel Book -- photography & writing
 - [ ] Hand Lettering (Code Calligraphy)
 - [ ] Open Source Design
+- [ ] New blog website (i.e. performance and function)
+- [ ] Heiroglyph 
 
 ### Backlog: Code Things I Want to Do/Play With
 1. Create yeoman generator
@@ -69,6 +72,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 12. Scss blend modes https://github.com/heygrady/scss-blend-modes
 13. Play with [Velocity.js](http://www.smashingmagazine.com/2014/06/18/faster-ui-animations-with-velocity-js/)
 14. Learn about Meteor.js &B Famo.us
+15. Skillshare classes about hand lettering
+16. Look at [Myth](http://www.myth.io/) & Rework
 
 ---
 
