@@ -22,14 +22,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 - [ ] Read/watch 3 Things from my content list
-- [ ] Finish SassBites logo
-- [ ] Try Using Singularity
-- [ ] Start [Singularity](https://www.youtube.com/watch?v=f7rw3MZS-OU) demos gathering of content (vid will be available)
+- [x] Finish SassBites logo
+- [x] Try Using Singularity
+- [ ] Start [Singularity](https://www.youtube.com/watch?v=f7rw3MZS-OU) demos gathering of content (vid will be available) bc [the cons here](http://web-design-weekly.com/2014/04/06/grid-frameworks-sass/)
 - [ ] Write Blog post about Open Source Design
 - [x] Contribute more to [Design Open](http://designopen.org/)
 - [x] Learn about these things I [just installed for vim](https://github.com/spf13/spf13-vim)
 - [ ] Write letter to Open Source Design Email list
-- [ ] Create Singularity Examples bc [the cons here](http://web-design-weekly.com/2014/04/06/grid-frameworks-sass/)
 
 ### Things I'll Do This Month: November 2014
 - [ ] Sort Out Server Problems on Digital Ocean!
@@ -79,7 +78,4 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 - [Blog Post Ideas](https://github.com/una/personal-goals/blob/master/blog-posts/blog-ideas.md)
 - [Backlog Content List](https://github.com/una/personal-goals/tree/master/content-list)
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/una/personal-goals/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
