@@ -23,7 +23,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ## Things I'll Do This Week:
 - [ ] Read/watch 3 Things from my content list
 - [x] Finish SassBites logo
-- [x] Try Using Singularity
+- [ ] Try Using Singularity
 - [ ] Start [Singularity](https://www.youtube.com/watch?v=f7rw3MZS-OU) demos gathering of content (vid will be available) bc [the cons here](http://web-design-weekly.com/2014/04/06/grid-frameworks-sass/)
 - [ ] Write Blog post about Open Source Design
 - [x] Contribute more to [Design Open](http://designopen.org/)
