@@ -2,6 +2,9 @@
 - [ ] [Adobe Web Platform](http://webplatform.adobe.com/)
 - [ ] [CSS Guidelines](http://cssguidelin.es/)
 
+### Animation
+- [ ] [31 Days of Canvas Tutorials](http://creativejs.com/2011/08/31-days-of-canvas-tutorials/)
+
 ### JS
 - [ ] [JS Patterns](http://shichuan.github.io/javascript-patterns/)
 - [ ] [Learning Angular -- egghead.io](http://egghead.io)

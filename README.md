@@ -25,10 +25,11 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] Finish SassBites logo
 - [x] Try Using Singularity
 - [ ] Start [Singularity](https://www.youtube.com/watch?v=f7rw3MZS-OU) demos gathering of content (vid will be available) bc [the cons here](http://web-design-weekly.com/2014/04/06/grid-frameworks-sass/)
-- [ ] Write Blog post about Open Source Design
+- [x] Write Blog post about Open Source Design
 - [x] Contribute more to [Design Open](http://designopen.org/)
 - [x] Learn about these things I [just installed for vim](https://github.com/spf13/spf13-vim)
 - [ ] Write letter to Open Source Design Email list
+- [x] Practice calligraphy
 
 ### Things I'll Do This Month: November 2014
 - [ ] Sort Out Server Problems on Digital Ocean!
@@ -37,7 +38,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Set up yeoman generator
 - [ ] Learn about web scraping with node
 - [ ] Write a post for the Sass Way
-- [ ] Finish Sass Bites Logo
+- [x] Finish Sass Bites Logo
 - [ ] Help Jesse w/design for [The Q](http://the--q.herokuapp.com/jshawl/css)
 - [ ] Review Programming Principles
 - [x] Build [ATX Sass](https://github.com/una/ATXSass) website (im sorry :( )
@@ -53,7 +54,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Travel Book -- photography & writing
 - [ ] Hand Lettering (Code Calligraphy)
 - [ ] Open Source Design
-- [ ] New blog website (i.e. performance and function)
+- [ ] New blog website (i.e. performance and functionality improvements)
 - [ ] Heiroglyph 
 
 ### Backlog: Code Things I Want to Do/Play With
@@ -73,6 +74,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 14. Learn about Meteor.js &B Famo.us
 15. Skillshare classes about hand lettering
 16. Look at [Myth](http://www.myth.io/) & Rework
+17. Learn about [Phantom JS](http://phantomjs.org/)
 
 ---
 
