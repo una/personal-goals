@@ -2,7 +2,7 @@
 - [ ] [Ana Tudor is Awesome](http://vimeo.com/98137613) (60 mins)
 
 ### Web Performance
-- [ ] [Designing for Front-End Page Speed](https://www.youtube.com/watch?v=RtpVZ5OzJlc&feature=youtu.be) (27 mins)
+- [x] [Designing for Front-End Page Speed](https://www.youtube.com/watch?v=RtpVZ5OzJlc&feature=youtu.be) (27 mins)
 - [ ] [Building for Performance and Resiliencee](http://vimeo.com/channels/smashingconf/102347448) (40 mins)
 - [ ] [Delivering the Goods with Paul Irish](https://www.youtube.com/watch?v=R8W_6xWphtw) (24 mins)
 

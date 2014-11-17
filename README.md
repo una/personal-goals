@@ -16,20 +16,23 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 8. Foster designer participation in open source projects
 9. Make more people smile
 
-# November 9, 2014
+# November 16, 2014
 
 ### This Week's Goal: Community
 
 ## Things I'll Do This Week:
-- [ ] Read/watch 3 Things from my content list
-- [x] Finish SassBites logo
-- [x] Try Using Singularity
-- [ ] Start [Singularity](https://www.youtube.com/watch?v=f7rw3MZS-OU) demos gathering of content (vid will be available) bc [the cons here](http://web-design-weekly.com/2014/04/06/grid-frameworks-sass/)
-- [x] Write Blog post about Open Source Design
-- [x] Contribute more to [Design Open](http://designopen.org/)
-- [x] Learn about these things I [just installed for vim](https://github.com/spf13/spf13-vim)
+- [ ] Edit Keyboard Ninja Slides
+- [ ] Give Keyboard Ninja Talk for HillCountry JS
+- [ ] Write memo to IBM execs about why [performance](https://www.youtube.com/watch?feature=youtu.be&v=RtpVZ5OzJlc&app=desktop) needs to be a part of our culture --> design camp
+- [ ] Read/watch 3 Things from my content list (I got through 2 last week)
 - [ ] Write letter to Open Source Design Email list
-- [x] Practice calligraphy
+- [ ] Post blog post about Open Source Design
+- [ ] Implement search on my blog
+- [ ] Build styleguide for Open Source Design
+- [ ] ARIA accesibility for [Design Open](http://designopen.org)
+- [ ] Singularity home page -- start that
+- [ ] Singularity demos (collect more)
+- [ ] Send people letters (with caligraphed envelopes)
 
 ### Things I'll Do This Month: November 2014
 - [ ] Sort Out Server Problems on Digital Ocean!
@@ -47,6 +50,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Get [Source Maps](http://www.sitepoint.com/using-source-maps-debug-sass-chrome/) Working &mdash; [source maps & gulp](https://github.com/floridoo/gulp-sourcemaps)
 - [ ] Create Singularity Examples bc [the cons here](http://web-design-weekly.com/2014/04/06/grid-frameworks-sass/)
 - [ ] Add search & tagging functionality to blog
+- [ ] Work on making performance a part of the culture at work
 
 ### Backlog: Side Projects :)
 - [ ] Work on [sassme v2](https://github.com/una/sassme) to scrape the web & get up-to-date content
