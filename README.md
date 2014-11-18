@@ -59,7 +59,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Hand Lettering (Code Calligraphy)
 - [ ] Open Source Design
 - [ ] New blog website (i.e. performance and functionality improvements)
-- [ ] Heiroglyph 
+- [ ] Heiroglyph
+- [ ] Termoji
 
 ### Backlog: Code Things I Want to Do/Play With
 1. Create yeoman generator

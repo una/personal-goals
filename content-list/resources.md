@@ -23,3 +23,6 @@
 
 ### Performance
 - [ ] [Google's Web Fundamentals](https://developers.google.com/web/fundamentals/)
+
+### Testing
+- [ ] [Notes from UI Regression Testing Workshop](https://github.com/klamping/UIRegression/?utm_content=buffer43cfc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
