@@ -19,8 +19,8 @@
 - [ ] [Can Angular Maintain its Dominance?](http://developer.telerik.com/featured/can-angularjs-maintain-dominance/)
 
 ### CSS/Sass
-- [ ] [Write Sass Plugins Like a Pro](https://medium.com/@marcmintel/write-sass-plugins-like-a-pro-c765ecf3af27)
-- [ ] [CSS Inheritance used & Abused &mdash; Micah Godbolt](http://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/)
+- [x] [Write Sass Plugins Like a Pro](https://medium.com/@marcmintel/write-sass-plugins-like-a-pro-c765ecf3af27)
+- [x] [CSS Inheritance used & Abused &mdash; Micah Godbolt](http://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/)
 - [ ] [Cutting Edge Features to Use Today!](http://blog.teamtreehouse.com/cutting-edge-css-features-can-use-today?utm_source=CSS-Weekly&utm_campaign=Issue-132&utm_medium=email)
 - [ ] [Medium's CSS](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
 - [ ] [CSS Blend Mode Bgs &mdash; Awesome Examples](http://bennettfeely.com/gradients/)
