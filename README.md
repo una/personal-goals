@@ -15,14 +15,15 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 7. Learn about testing
 8. Foster designer participation in open source projects
 9. Make more people smile
+10. Learn more about WebGL & 3D graphics
 
 # November 16, 2014
 
 ### This Week's Goal: Community
 
 ## Things I'll Do This Week:
-- [ ] Edit Keyboard Ninja Slides
-- [ ] Give Keyboard Ninja Talk for HillCountry JS
+- [x] Edit Keyboard Ninja Slides
+- [x] Give Keyboard Ninja Talk for HillCountry JS
 - [ ] Write memo to IBM execs about why [performance](https://www.youtube.com/watch?feature=youtu.be&v=RtpVZ5OzJlc&app=desktop) needs to be a part of our culture --> design camp
 - [ ] Read/watch 3 Things from my content list (I got through 2 last week)
 - [ ] Write letter to Open Source Design Email list
