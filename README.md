@@ -11,7 +11,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 3. Blog more
 4. Increase project efficiency
 5. Use the command line & keyboard as much as possible
-6. Get better at javascript (patterns, Angular, Node)
+6. Up my JS Game (patterns, Angular, Node)
 7. Learn about testing
 8. Foster designer participation in open source projects
 9. Make more people smile
@@ -32,6 +32,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Email Dave about him speaking at ATXSass
 - [ ] Start logo for Ian
 - [ ] Begin to Read Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
+- [ ] Holiday card design
+- [ ] Read Responsible RWD <-- airplane reading?
 
 ### Things I'll Do This Month: November 2014
 - [ ] Sort Out Server Problems on Digital Ocean!
@@ -46,6 +48,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Create Singularity Examples bc [the cons here](http://web-design-weekly.com/2014/04/06/grid-frameworks-sass/)
 - [ ] Add search & tagging functionality to blog
 - [ ] Work on making performance a part of the culture at work
+- [ ] Apply to speak at [Converge SE](https://period3.wufoo.com/forms/convergese-2015-speakertalk-proposal/) (mid Jan)
+- [ ] Holiday cards (next month)
 
 ### Backlog: Side Projects :)
 - [ ] Work on [sassme v2](https://github.com/una/sassme) to scrape the web & get up-to-date content
@@ -77,6 +81,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 16. Look at [Myth](http://www.myth.io/) & Rework
 17. Learn about [Phantom JS](http://phantomjs.org/)
 18. Arduino!
+19. Learn about [Require.js](http://requirejs.org/)
 
 ---
 
