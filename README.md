@@ -17,23 +17,21 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 9. Make more people smile
 10. Learn more about WebGL & 3D graphics
 
-# November 16, 2014
+# November 23, 2014
 
-### This Week's Goal: Community
+### This Week's Goal: Leftovers
 
 ## Things I'll Do This Week:
-- [x] Edit Keyboard Ninja Slides
-- [x] Give Keyboard Ninja Talk for HillCountry JS
 - [ ] Write memo to IBM execs about why [performance](https://www.youtube.com/watch?feature=youtu.be&v=RtpVZ5OzJlc&app=desktop) needs to be a part of our culture --> design camp
-- [ ] Read/watch 3 Things from my content list (I got through 2 last week)
-- [ ] Write letter to Open Source Design Email list
-- [ ] Post blog post about Open Source Design
 - [ ] Implement search on my blog
 - [ ] Build styleguide for Open Source Design
-- [ ] ARIA accesibility for [Design Open](http://designopen.org)
+- [ ] Write letter to Open Source Design Email list
 - [ ] Singularity home page -- start that
-- [ ] Singularity demos (collect more)
-- [ ] Send people letters (with caligraphed envelopes)
+- [ ] Install [vim md plugin](https://github.com/suan/vim-instant-markdown)
+- [ ] Apply to speak at [Converge SE](https://period3.wufoo.com/forms/convergese-2015-speakertalk-proposal/) (mid Jan)
+- [ ] Email Dave about him speaking at ATXSass
+- [ ] Start logo for Ian
+- [ ] Begin to Read Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 
 ### Things I'll Do This Month: November 2014
 - [ ] Sort Out Server Problems on Digital Ocean!
@@ -42,12 +40,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Set up yeoman generator
 - [ ] Learn about web scraping with node
 - [ ] Write a post for the Sass Way
-- [x] Finish Sass Bites Logo
 - [ ] Help Jesse w/design for [The Q](http://the--q.herokuapp.com/jshawl/css)
 - [ ] Review Programming Principles
-- [x] Build [ATX Sass](https://github.com/una/ATXSass) website (im sorry :( )
-- [x] Learn & Practice [Caligraphy](http://julieblanner.com/learn-calligraphy-basics/)
-- [ ] Begin to Read Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 - [ ] Get [Source Maps](http://www.sitepoint.com/using-source-maps-debug-sass-chrome/) Working &mdash; [source maps & gulp](https://github.com/floridoo/gulp-sourcemaps)
 - [ ] Create Singularity Examples bc [the cons here](http://web-design-weekly.com/2014/04/06/grid-frameworks-sass/)
 - [ ] Add search & tagging functionality to blog
@@ -62,6 +56,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] New blog website (i.e. performance and functionality improvements)
 - [ ] Heiroglyph
 - [ ] Termoji
+- [ ] Contribution Graph IRL 
 
 ### Backlog: Code Things I Want to Do/Play With
 1. Create yeoman generator
@@ -81,6 +76,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 15. Skillshare classes about hand lettering
 16. Look at [Myth](http://www.myth.io/) & Rework
 17. Learn about [Phantom JS](http://phantomjs.org/)
+18. Arduino!
 
 ---
 

@@ -7,7 +7,7 @@
 - [ ] [Delivering the Goods with Paul Irish](https://www.youtube.com/watch?v=R8W_6xWphtw) (24 mins)
 
 ### Web Components
-- [ ] [The Road to Web Components](https://www.youtube.com/watch?v=6peu4KporaA) (32 mins)
+- [x] [The Road to Web Components](https://www.youtube.com/watch?v=6peu4KporaA) (32 mins)
 - [x] [Web Components: Google I/O 13](https://www.youtube.com/watch?v=fqULJBBEVQE) (32 mins)
 
 ### Testing

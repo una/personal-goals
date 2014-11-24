@@ -3,6 +3,7 @@
 ### Node.js
 - [ ] [Web Scraping with Node](http://elifitch.com/blog/simple-web-scraping-node/)
 - [ ] [Command Line Utilities w/Node.js](http://cruft.io/posts/node-command-line-utilities/)
+- [ ] [Intro to Node.js & Mongo DB](http://www.smashingmagazine.com/2014/05/22/detailed-introduction-nodejs-mongodb/)
 
 ### CMS
 - [ ] [Craft v Wordpress](http://viget.com/extend/craft-vs.-wordpress-the-good-the-bad-and-the-ugly-data)
@@ -29,6 +30,7 @@
 - [ ] [The Specificity Graph](http://csswizardry.com/2014/10/the-specificity-graph/)
 - [ ] [Ruby Sass vs LibSass Right Now](http://www.sitepoint.com/switching-ruby-sass-libsass/)
 - [ ] [3d CSS Transforms - Desandro](http://desandro.github.io/3dtransforms/docs/introduction.html)
+- [ ] [Sass Interpolation](http://webdesign.tutsplus.com/tutorials/all-you-ever-need-to-know-about-sass-interpolation--cms-21375)
 
 ### SVG
 - [ ] [SVG Clipping](http://sarasoueidan.com/blog/css-svg-clipping/)
@@ -69,6 +71,7 @@
 ### Misc Javascript
 - [ ] [Object.observe](http://readwrite.com/2014/07/24/object-observe-javascript-api-impact)
 - [ ] [Javascript Performance](http://reefpoints.dockyard.com/2014/09/22/javascript-performance-for-the-win.html)
+- [ ] [Javascript Promises](http://davidwalsh.name/write-javascript-promises)
 
 ### Workflow
 - [ ] Contribute to [Design Open](http://designopen.org/)
