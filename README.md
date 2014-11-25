@@ -2,7 +2,7 @@ Personal Goals
 ==============
 
 Personal goals made open source.
-
+e 
 Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
 # Overarching Goals
@@ -29,7 +29,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Singularity home page -- start that
 - [ ] Install [vim md plugin](https://github.com/suan/vim-instant-markdown)
 - [ ] Apply to speak at [Converge SE](https://period3.wufoo.com/forms/convergese-2015-speakertalk-proposal/) (mid Jan)
-- [ ] Email Dave about him speaking at ATXSass
+- [x] Email Dave about him speaking at ATXSass
 - [ ] Start logo for Ian
 - [ ] Begin to Read Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 - [ ] Holiday card design
@@ -48,7 +48,10 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Create Singularity Examples bc [the cons here](http://web-design-weekly.com/2014/04/06/grid-frameworks-sass/)
 - [ ] Add search & tagging functionality to blog
 - [ ] Work on making performance a part of the culture at work
+- [ ] Begin to Read Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
+- [ ] Holiday card design
 - [ ] Apply to speak at [Converge SE](https://period3.wufoo.com/forms/convergese-2015-speakertalk-proposal/) (mid Jan)
+
 - [ ] Holiday cards (next month)
 
 ### Backlog: Side Projects :)
