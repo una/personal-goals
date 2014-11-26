@@ -2,7 +2,7 @@ Personal Goals
 ==============
 
 Personal goals made open source.
-e 
+
 Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
 # Overarching Goals
@@ -22,17 +22,16 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### This Week's Goal: Leftovers
 
 ## Things I'll Do This Week:
-- [ ] Write memo to IBM execs about why [performance](https://www.youtube.com/watch?feature=youtu.be&v=RtpVZ5OzJlc&app=desktop) needs to be a part of our culture --> design camp
+- [x] Write memo to IBM execs about why [performance](https://www.youtube.com/watch?feature=youtu.be&v=RtpVZ5OzJlc&app=desktop) needs to be a part of our culture --> design camp
 - [ ] Implement search on my blog
 - [ ] Build styleguide for Open Source Design
 - [ ] Write letter to Open Source Design Email list
 - [ ] Singularity home page -- start that
-- [ ] Install [vim md plugin](https://github.com/suan/vim-instant-markdown)
 - [ ] Apply to speak at [Converge SE](https://period3.wufoo.com/forms/convergese-2015-speakertalk-proposal/) (mid Jan)
 - [x] Email Dave about him speaking at ATXSass
-- [ ] Start logo for Ian
+- [x] Start logo for Ian
 - [ ] Begin to Read Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
-- [ ] Holiday card design
+- [x] Holiday card design
 - [ ] Read Responsible RWD <-- airplane reading?
 
 ### Things I'll Do This Month: November 2014
@@ -53,6 +52,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Apply to speak at [Converge SE](https://period3.wufoo.com/forms/convergese-2015-speakertalk-proposal/) (mid Jan)
 
 - [ ] Holiday cards (next month)
+- [ ] Make Visual model of [this](http://ilikekillnerds.com/2014/07/what-a-front-end-developer-workflow-looks-like-in-20142015/) for blog post
+
 
 ### Backlog: Side Projects :)
 - [ ] Work on [sassme v2](https://github.com/una/sassme) to scrape the web & get up-to-date content
