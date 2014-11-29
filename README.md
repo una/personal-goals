@@ -61,10 +61,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Travel Book -- photography & writing
 - [ ] Hand Lettering (Code Calligraphy)
 - [ ] Open Source Design
-- [ ] New blog website (i.e. performance and functionality improvements)
+- [x] New blog website (i.e. performance and functionality improvements)
 - [ ] Heiroglyph
+
+### Other Project Ideas (unstarted)
 - [ ] Termoji
 - [ ] Contribution Graph IRL 
+- [ ] Resumaker
 
 ### Backlog: Code Things I Want to Do/Play With
 1. Create yeoman generator

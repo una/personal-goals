@@ -1,16 +1,16 @@
-- ~Designers in the Open Source Community~
+- ~~Designers in the Open Source Community~~
 - How I sped my site up / moving servers process (once it happens)
 - SVG icons theme map demo
 - The effect of framing on personal work
-- ~My Experience w/open sourcing personal goals~
+- ~~My Experience w/open sourcing personal goals~~
 - Github for non-code things
-- ~The Future of Media Queries~
+- ~~The Future of Media Queries~~
 - AE --> Canvas
 - Rebasing is not scary!
 - Some Notes on Sketchnotes
 - Sass Maps --> Browser Design
 - How I moved my blog from Tumblr to Jekyll w/GH-Pages
-- ~Tips on Becoming a Keyboard Wizard~
+- ~~Tips on Becoming a Keyboard Wizard~~
 - Vim isn't that scary!
 - How to Build a Portfolio Site Without Breaking the Internet (watch Paul Irish's Vid Again)
 	--> fix mine!
