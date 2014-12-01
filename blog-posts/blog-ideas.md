@@ -14,3 +14,6 @@
 - Vim isn't that scary!
 - How to Build a Portfolio Site Without Breaking the Internet (watch Paul Irish's Vid Again)
 	--> fix mine!
+- Accesibility & Russian culture
+- Dealing with Color
+- 2014 Year in Review: A Few of My Favorite Things

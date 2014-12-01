@@ -17,22 +17,22 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 9. Make more people smile
 10. Learn more about WebGL & 3D graphics
 
-# November 23, 2014
+# November 30, 2014
 
-### This Week's Goal: Leftovers
+### This Week's Goal: Holidays!
 
 ## Things I'll Do This Week:
-- [x] Write memo to IBM execs about why [performance](https://www.youtube.com/watch?feature=youtu.be&v=RtpVZ5OzJlc&app=desktop) needs to be a part of our culture --> design camp
-- [ ] Implement search on my blog
-- [ ] Build styleguide for Open Source Design
-- [ ] Write letter to Open Source Design Email list
-- [ ] Singularity home page -- start that
+- [ ] Read Eloquent JS
 - [ ] Apply to speak at [Converge SE](https://period3.wufoo.com/forms/convergese-2015-speakertalk-proposal/) (mid Jan)
-- [x] Email Dave about him speaking at ATXSass
-- [x] Start logo for Ian
-- [ ] Begin to Read Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
-- [x] Holiday card design
-- [ ] Read Responsible RWD <-- airplane reading?
+- Follow up on ATX Sass: Dave & Capital Factory
+- Set up JS Learning time 1x week with someone (http://addyosmani.com/blog/javascript-101-free-course/)
+- [ ] Work on Mr. Poole Logo
+- [ ] Audio API + tree Svg thing
+- [ ] Make all envelopes for holiday cards
+- [ ] Finish Reading RRD
+- [ ] List some book ideas
+- [ ] Publish new blog post
+- [ ] Singularity homepage content
 
 ### Things I'll Do This Month: November 2014
 - [ ] Sort Out Server Problems on Digital Ocean!
@@ -50,6 +50,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Begin to Read Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 - [ ] Holiday card design
 - [ ] Apply to speak at [Converge SE](https://period3.wufoo.com/forms/convergese-2015-speakertalk-proposal/) (mid Jan)
+- Look into [Harp](http://harpjs.com/)
 
 - [ ] Holiday cards (next month)
 - [ ] Make Visual model of [this](http://ilikekillnerds.com/2014/07/what-a-front-end-developer-workflow-looks-like-in-20142015/) for blog post
