@@ -17,7 +17,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 9. Make more people smile
 10. Learn more about WebGL & 3D graphics
 
-# November 30, 2014
+# December 7, 2014
 
 ## This Week's Goal: Light Heart
 
