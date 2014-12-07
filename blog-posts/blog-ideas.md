@@ -17,3 +17,4 @@
 - Accesibility & Russian culture
 - Dealing with Color
 - 2014 Year in Review: A Few of My Favorite Things
+- Make Visual model of [this](http://ilikekillnerds.com/2014/07/what-a-front-end-developer-workflow-looks-like-in-20142015/)

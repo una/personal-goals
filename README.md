@@ -19,23 +19,23 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 # November 30, 2014
 
-### This Week's Goal: Holidays!
+## This Week's Goal: Light Heart
 
-## Things I'll Do This Week:
-- [ ] Read Eloquent JS
-- [ ] Apply to speak at [Converge SE](https://period3.wufoo.com/forms/convergese-2015-speakertalk-proposal/) (mid Jan)
-- Follow up on ATX Sass: Dave & Capital Factory
-- Set up JS Learning time 1x week with someone (http://addyosmani.com/blog/javascript-101-free-course/)
+## Things I'll do This Week:
 - [ ] Work on Mr. Poole Logo
 - [ ] Audio API + tree Svg thing
-- [ ] Make all envelopes for holiday cards
 - [ ] Finish Reading RRD
 - [ ] List some book ideas
-- [ ] Publish new blog post
-- [ ] Singularity homepage content
+- [ ] Write a blog post about Vagrant
+- [ ] Singularity homepage content ?
+- [ ] Work on Design Comp of Urban Patchwork
+- [ ] Listen to Lots of Holiday Music
+- [ ] Get Holiday Cards finished
+- [ ] Get started with Happy Hack
 
-### Things I'll Do This Month: November 2014
-- [ ] Sort Out Server Problems on Digital Ocean!
+
+### Things I'll Do This Month: December 2014
+- [x] Sort Out Server Problems on Digital Ocean!
 - [ ] Continue learning angular
 - [ ] Create gulp setup for unakravets.com
 - [ ] Set up yeoman generator
@@ -48,13 +48,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Add search & tagging functionality to blog
 - [ ] Work on making performance a part of the culture at work
 - [ ] Begin to Read Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
-- [ ] Holiday card design
+- [x] Holiday card design
 - [ ] Apply to speak at [Converge SE](https://period3.wufoo.com/forms/convergese-2015-speakertalk-proposal/) (mid Jan)
-- Look into [Harp](http://harpjs.com/)
-
-- [ ] Holiday cards (next month)
+- [ ] Holiday cards
 - [ ] Make Visual model of [this](http://ilikekillnerds.com/2014/07/what-a-front-end-developer-workflow-looks-like-in-20142015/) for blog post
-
+- [ ] Read Eloquent JS
+- [ ] Happy Hack
+- [ ] Work on Urban Patchwork
 
 ### Backlog: Side Projects :)
 - [ ] Work on [sassme v2](https://github.com/una/sassme) to scrape the web & get up-to-date content
@@ -64,11 +64,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Open Source Design
 - [x] New blog website (i.e. performance and functionality improvements)
 - [ ] Heiroglyph
+- [ ] Urban Patchwork
 
 ### Other Project Ideas (unstarted)
 - [ ] Termoji
-- [ ] Contribution Graph IRL 
+- [ ] Contribution Graph IRL
 - [ ] Resumaker
+- [ ] Happy Hack
 
 ### Backlog: Code Things I Want to Do/Play With
 1. Create yeoman generator
@@ -90,6 +92,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 17. Learn about [Phantom JS](http://phantomjs.org/)
 18. Arduino!
 19. Learn about [Require.js](http://requirejs.org/)
+20. Look into [Harp](http://harpjs.com/)
 
 ---
 
