@@ -22,16 +22,18 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ## This Week's Goal: Light Heart
 
 ## Things I'll do This Week:
-- [ ] Work on Mr. Poole Logo
+- [x] Work on Mr. Poole Logo
 - [ ] Audio API + tree Svg thing
 - [ ] Finish Reading RRD
 - [ ] List some book ideas
 - [ ] Write a blog post about Vagrant
+- [ ] Sketchnotes Blog Post
 - [ ] Singularity homepage content ?
 - [ ] Work on Design Comp of Urban Patchwork
-- [ ] Listen to Lots of Holiday Music
-- [ ] Get Holiday Cards finished
+- [x] Listen to Lots of Holiday Music
+- [x] Get Holiday Cards finished
 - [ ] Get started with Happy Hack
+- [ ] ATX Sass site update
 
 
 ### Things I'll Do This Month: December 2014
@@ -48,13 +50,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Add search & tagging functionality to blog
 - [ ] Work on making performance a part of the culture at work
 - [ ] Begin to Read Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
-- [x] Holiday card design
 - [ ] Apply to speak at [Converge SE](https://period3.wufoo.com/forms/convergese-2015-speakertalk-proposal/) (mid Jan)
-- [ ] Holiday cards
+- [x] Holiday cards
 - [ ] Make Visual model of [this](http://ilikekillnerds.com/2014/07/what-a-front-end-developer-workflow-looks-like-in-20142015/) for blog post
 - [ ] Read Eloquent JS
 - [ ] Happy Hack
 - [ ] Work on Urban Patchwork
+- [ ] Create [Grand Budapest Hotel](https://www.behance.net/gallery/16495771/The-Grand-Budapest-Hotel-Flat) in CSS
 
 ### Backlog: Side Projects :)
 - [ ] Work on [sassme v2](https://github.com/una/sassme) to scrape the web & get up-to-date content
@@ -65,12 +67,15 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] New blog website (i.e. performance and functionality improvements)
 - [ ] Heiroglyph
 - [ ] Urban Patchwork
+- [ ] Slack bot for work
 
 ### Other Project Ideas (unstarted)
 - [ ] Termoji
 - [ ] Contribution Graph IRL
 - [ ] Resumaker
 - [ ] Happy Hack
+- [ ] Typeface
+- [ ] Pattern Page (oh yeah, thepatternproject.com)
 
 ### Backlog: Code Things I Want to Do/Play With
 1. Create yeoman generator
@@ -93,6 +98,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 18. Arduino!
 19. Learn about [Require.js](http://requirejs.org/)
 20. Look into [Harp](http://harpjs.com/)
+21. Play with slack [bots](https://api.slack.com/bot-users) and its [node API](https://github.com/slackhq/node-slack-client)
 
 ---
 

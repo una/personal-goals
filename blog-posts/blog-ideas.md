@@ -7,7 +7,7 @@
 - ~~The Future of Media Queries~~
 - AE --> Canvas
 - Rebasing is not scary!
-- Some Notes on Sketchnotes
+- **Some Notes on Sketchnotes**
 - Sass Maps --> Browser Design
 - How I moved my blog from Tumblr to Jekyll w/GH-Pages
 - ~~Tips on Becoming a Keyboard Wizard~~
@@ -18,3 +18,5 @@
 - Dealing with Color
 - 2014 Year in Review: A Few of My Favorite Things
 - Make Visual model of [this](http://ilikekillnerds.com/2014/07/what-a-front-end-developer-workflow-looks-like-in-20142015/)
+- Vagrant + Craft -- Setting up a team envrionment for Craft
+- SemVer for people who are confued by [this](http://semver.org/) <-- Semantic Versioning

@@ -4,9 +4,10 @@
 - [ ] [Web Scraping with Node](http://elifitch.com/blog/simple-web-scraping-node/)
 - [ ] [Command Line Utilities w/Node.js](http://cruft.io/posts/node-command-line-utilities/)
 - [ ] [Intro to Node.js & Mongo DB](http://www.smashingmagazine.com/2014/05/22/detailed-introduction-nodejs-mongodb/)
+- [ ] [Travis CI](http://code.tutsplus.com/tutorials/travis-ci-what-why-how--net-34771)
 
 ### CMS
-- [ ] [Craft v Wordpress](http://viget.com/extend/craft-vs.-wordpress-the-good-the-bad-and-the-ugly-data)
+- [x] [Craft v Wordpress](http://viget.com/extend/craft-vs.-wordpress-the-good-the-bad-and-the-ugly-data)
 
 ### Terminal
 - [ ] [Terminal Aliases & Functions](http://ashleynolan.co.uk/blog/beginners-guide-to-terminal-aliases-and-functions)
@@ -26,9 +27,9 @@
 - [ ] [Medium's CSS](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
 - [ ] [CSS Blend Mode Bgs &mdash; Awesome Examples](http://bennettfeely.com/gradients/)
 - [ ] [CSS Blend Mode Article](http://css-tricks.com/basics-css-blend-modes/)
-- [ ] [CSS vs JS Animations](http://css-tricks.com/myth-busting-css-animations-vs-javascript/)
-- [ ] [The Specificity Graph](http://csswizardry.com/2014/10/the-specificity-graph/)
-- [ ] [Ruby Sass vs LibSass Right Now](http://www.sitepoint.com/switching-ruby-sass-libsass/)
+- [x] [CSS vs JS Animations](http://css-tricks.com/myth-busting-css-animations-vs-javascript/)
+- [x] [The Specificity Graph](http://csswizardry.com/2014/10/the-specificity-graph/)
+- [x] [Ruby Sass vs LibSass Right Now](http://www.sitepoint.com/switching-ruby-sass-libsass/)
 - [ ] [3d CSS Transforms - Desandro](http://desandro.github.io/3dtransforms/docs/introduction.html)
 - [ ] [Sass Interpolation](http://webdesign.tutsplus.com/tutorials/all-you-ever-need-to-know-about-sass-interpolation--cms-21375)
 
@@ -38,14 +39,14 @@
 - [ ] [SVG Animated Icons with Snap.svg](http://codyhouse.co/gem/animate-svg-icons-with-css-and-snap/)
 
 ### Git/hub
-- [ ] [GH Pages & Cloudflare](http://abemedia.co.uk/blog/tutorials/speed-up-your-github-pages-website-with-cloudflare)
+- [x] [GH Pages & Cloudflare](http://abemedia.co.uk/blog/tutorials/speed-up-your-github-pages-website-with-cloudflare)
 
 ### Performance
-- [ ] [Filament Group Performance CS](http://www.filamentgroup.com/lab/performance-rwd.html)
+- [x] [Filament Group Performance CS](http://www.filamentgroup.com/lab/performance-rwd.html)
 - [ ] [Google Dev &ndash; Optimizing Performance](https://developers.google.com/web/fundamentals/performance/)
 
 ### Web Design
-- [ ] [Atomic Design &mdash; Brad Frost](http://bradfrostweb.com/blog/post/atomic-web-design/)
+- [x] [Atomic Design &mdash; Brad Frost](http://bradfrostweb.com/blog/post/atomic-web-design/)
 - [ ] [Future of Layouts &mdash; Jen Simmons](https://github.com/jensimmons/thelayoutsahead)
 
 ### ST2
@@ -79,9 +80,12 @@
 - [ ] [Simple Intro to Vi](http://heather.cs.ucdavis.edu/~matloff/UnixAndC/Editors/ViIntro.html)
 - [ ] [Semantic Versioning](http://semver.org/)
 - [ ] [Source Maps](http://www.matrixgroup.net/snackoclock/2014/10/sass-maps-source-maps/)
+- [ ] [Setting Up Robust Deployment](http://24ways.org/2014/developing-robust-deployment-procedures/)
 
 ### Testing
 - [ ] [Visual Regression Testing](http://sonniesedge.co.uk/2014-10-17/visual-regression-testing.html)
 - [ ] [Wraith](http://responsivenews.co.uk/post/56884056177/wraith)
 - [ ] [Wraith & TravisCI](http://blog.kevinlamping.com/easy-ui-regression-testing-with-wraith-and-travisci/)
 
+### Etc.
+- [ ] [A Brief History of Web Design with Animations](http://blog.froont.com/brief-history-of-web-design-for-designers/?utm_content=buffer83143&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
