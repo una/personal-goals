@@ -88,4 +88,5 @@
 - [ ] [Wraith & TravisCI](http://blog.kevinlamping.com/easy-ui-regression-testing-with-wraith-and-travisci/)
 
 ### Etc.
+- [ ] [Isomorphic Js](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)
 - [ ] [A Brief History of Web Design with Animations](http://blog.froont.com/brief-history-of-web-design-for-designers/?utm_content=buffer83143&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)

@@ -17,27 +17,28 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 9. Make more people smile
 10. Learn more about WebGL & 3D graphics
 
-# December 7, 2014
+# December 14, 2014
 
-## This Week's Goal: Light Heart
+## This Week's Goal: Javascript
 
 ## Things I'll do This Week:
-- [x] Work on Mr. Poole Logo
+- [x] Update ATXSass site with January meetup
+- [ ] Finish writing all of my holiday cards
+- [x] Go through [this](https://stormpath.com/blog/heroku-stormpath-and-expressjs/) tutorial to build an express.js app
+- [ ] Learn more about and use Swig
+- [x] Set up an app with Node & Express
+- [ ] Work on Happy Hack -- set up Gulp and basic page
 - [ ] Audio API + tree Svg thing
-- [ ] Finish Reading RRD
+- [ ] Read RRD
+- [ ] Listen to Make it So
 - [ ] List some book ideas
 - [ ] Write a blog post about Vagrant
-- [ ] Sketchnotes Blog Post
 - [ ] Singularity homepage content ?
 - [ ] Work on Design Comp of Urban Patchwork
-- [x] Listen to Lots of Holiday Music
-- [x] Get Holiday Cards finished
-- [ ] Get started with Happy Hack
-- [ ] ATX Sass site update
-
+- [ ] Leverage browser caching in .htaccess
+- [ ] Put in audio version of last blog post
 
 ### Things I'll Do This Month: December 2014
-- [x] Sort Out Server Problems on Digital Ocean!
 - [ ] Continue learning angular
 - [ ] Create gulp setup for unakravets.com
 - [ ] Set up yeoman generator
@@ -51,7 +52,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Work on making performance a part of the culture at work
 - [ ] Begin to Read Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 - [ ] Apply to speak at [Converge SE](https://period3.wufoo.com/forms/convergese-2015-speakertalk-proposal/) (mid Jan)
-- [x] Holiday cards
 - [ ] Make Visual model of [this](http://ilikekillnerds.com/2014/07/what-a-front-end-developer-workflow-looks-like-in-20142015/) for blog post
 - [ ] Read Eloquent JS
 - [ ] Happy Hack
@@ -68,12 +68,12 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Heiroglyph
 - [ ] Urban Patchwork
 - [ ] Slack bot for work
+- [ ] Happy Hack
 
 ### Other Project Ideas (unstarted)
 - [ ] Termoji
 - [ ] Contribution Graph IRL
 - [ ] Resumaker
-- [ ] Happy Hack
 - [ ] Typeface
 - [ ] Pattern Page (oh yeah, thepatternproject.com)
 
