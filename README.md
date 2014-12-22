@@ -19,10 +19,19 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 # December 14, 2014
 
-## This Week's Goal: Javascript
+## This Week's Goal: Reflect & Prep
 
 ## Things I'll do This Week:
-
+- [ ] Learn about [famo.us](http://famo.us/university/home/)
+- [ ] Watch intro [video](http://famo.us/university/home/) for famo.us
+- [ ] Audio API + tree Svg thing
+- [ ] Write a blog post about Vagrant
+- [ ] Leverage browser caching in .htaccess
+- [ ] Start Treehouse Tutorial on Node
+- [ ] Finish RRD
+- [ ] Put my 404 page live (ugh server things)
+- [ ] Make visual indicator for linked-out posts for blog
+- [ ] Decide which projects I will focus on in 2015
 
 ### Things I'll Do This Month: December 2014
 - [ ] Continue learning angular
