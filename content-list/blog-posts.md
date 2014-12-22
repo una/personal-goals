@@ -55,6 +55,7 @@
 
 ### Flexbox
 - [ ] [Flexbox Cheatsheet Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/?utm_content=bufferfbf53&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [ ] [Flexbox Adventures](http://chriswrightdesign.com/experiments/flexbox-adventures/)
 
 ### Web Components
 - [ ] [Web Components on Github](https://github.com/webcomponents)
@@ -81,6 +82,7 @@
 - [ ] [Semantic Versioning](http://semver.org/)
 - [ ] [Source Maps](http://www.matrixgroup.net/snackoclock/2014/10/sass-maps-source-maps/)
 - [ ] [Setting Up Robust Deployment](http://24ways.org/2014/developing-robust-deployment-procedures/)
+- [ ] [Node as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/#runningmultipletasks)
 
 ### Testing
 - [ ] [Visual Regression Testing](http://sonniesedge.co.uk/2014-10-17/visual-regression-testing.html)

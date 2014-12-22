@@ -22,21 +22,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ## This Week's Goal: Javascript
 
 ## Things I'll do This Week:
-- [x] Update ATXSass site with January meetup
-- [ ] Finish writing all of my holiday cards
-- [x] Go through [this](https://stormpath.com/blog/heroku-stormpath-and-expressjs/) tutorial to build an express.js app
-- [ ] Learn more about and use Swig
-- [x] Set up an app with Node & Express
-- [ ] Work on Happy Hack -- set up Gulp and basic page
-- [ ] Audio API + tree Svg thing
-- [ ] Read RRD
-- [ ] Listen to Make it So
-- [ ] List some book ideas
-- [ ] Write a blog post about Vagrant
-- [ ] Singularity homepage content ?
-- [ ] Work on Design Comp of Urban Patchwork
-- [ ] Leverage browser caching in .htaccess
-- [ ] Put in audio version of last blog post
+
 
 ### Things I'll Do This Month: December 2014
 - [ ] Continue learning angular
@@ -69,6 +55,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Urban Patchwork
 - [ ] Slack bot for work
 - [ ] Happy Hack
+- [ ] LegibiliMe
 
 ### Other Project Ideas (unstarted)
 - [ ] Termoji
@@ -99,7 +86,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 19. Learn about [Require.js](http://requirejs.org/)
 20. Look into [Harp](http://harpjs.com/)
 21. Play with slack [bots](https://api.slack.com/bot-users) and its [node API](https://github.com/slackhq/node-slack-client)
-
+22. [Picturefill](http://scottjehl.github.io/picturefill/) my portfolio
+23. Grunt [Perf Budget](https://www.npmjs.com/package/grunt-perfbudget) or [Page Speed Insights](https://www.npmjs.com/package/psi)
 ---
 
 - [Blog Post Ideas](https://github.com/una/personal-goals/blob/master/blog-posts/blog-ideas.md)

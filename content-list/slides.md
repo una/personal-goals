@@ -3,6 +3,7 @@
 - [ ] [The Critical Path](https://speakerdeck.com/patrickhamann/css-and-the-critical-path-cssconfeu-september-2014)
 - [ ] [Performance](http://larahogan.me/design/)
 - [ ] [Responsive Images](http://www.slideshare.net/teleject/cssdevconf-adaptive-images-in-responsive-web-design-2014)
+- [ ] [Delivering the Goods - Paul Irish](https://docs.google.com/presentation/d/1MtDBNTH1g7CZzhwlJ1raEJagA8qM3uoV7ta6i66bO2M/present?slide=id.p19)
 
 ### SVG
 - [ ] [Animating SVGs](http://slides.com/sarasoueidan/styling-animating-svgs-with-css?token=jCcrBSyuS6CmMQsd8Aof3TpxyZQr#/)
