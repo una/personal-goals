@@ -11,6 +11,7 @@
 - [ ] [AngularJS Learning Resources](https://github.com/jmcunningham/AngularJS-Learning)
 - [ ] [Free JS Books](http://jsbooks.revolunet.com/)
 - [ ] [JS Learning Resources](https://gist.github.com/jongrover/6263750)
+- [ ] [Superhero.js](http://superherojs.com/)
 
 ### Tools
 - [ ] [Mug of Sublime Text (shortcuts)](http://katiek2.github.io/most/)
