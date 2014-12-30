@@ -17,16 +17,16 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 9. Make more people smile
 10. Learn more about WebGL & 3D graphics
 
-# December 14, 2014
+# December 28, 2014
 
 ## This Week's Goal: Holidays & Reflection
 
 ## Things I'll do This Week:
 - [ ] Play with Arduino
-- [ ] Read more of Eloquent Javascript
+- [x] Read more of Eloquent Javascript
 - [ ] Try to get access to MyFitnessPal API
-- [ ] GET MY DARN SERVERS BACK UP
-- [ ] Put my 404 page live
+- [x] GET MY DARN SERVERS BACK UP
+- [x] Put my 404 page live
 - [ ] Leverage browser caching in .htaccess
 - [ ] Sort out goals/projects in 2015
 
