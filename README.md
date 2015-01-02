@@ -18,7 +18,7 @@ Personal goals made open source for accessibility across computers I use, transp
 
 # December 28, 2014
 
-## This Week's Goal: Holidays & Reflection
+### This Week's Goal: Holidays & Reflection
 
 ## Things I'll do This Week:
 - [x] Play with Arduino
@@ -27,10 +27,10 @@ Personal goals made open source for accessibility across computers I use, transp
 - [x] GET MY DARN SERVERS BACK UP
 - [x] Put my 404 page live
 - [ ] Leverage browser caching in .htaccess
-- [ ] Sort out goals/projects in 2015
+- [x] Sort out goals/projects in 2015
 - [ ] Apply to speak at [Converge SE](https://period3.wufoo.com/forms/convergese-2015-speakertalk-proposal/)
-- [ ] Start “Sass for Devs” Slides
-- [ ] Caret Cast website setup
+- [ ] Start on “Sass for Devs” Slides
+- [ ] Caret Cast website setup/outline
 
 ### Things I'll Do in the Future:
 - [ ] Set up yeoman generator
