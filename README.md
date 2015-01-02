@@ -22,13 +22,15 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ## This Week's Goal: Holidays & Reflection
 
 ## Things I'll do This Week:
-- [ ] Play with Arduino
+- [x] Play with Arduino
 - [x] Read more of Eloquent Javascript
 - [ ] Try to get access to MyFitnessPal API
 - [x] GET MY DARN SERVERS BACK UP
 - [x] Put my 404 page live
 - [ ] Leverage browser caching in .htaccess
 - [ ] Sort out goals/projects in 2015
+- [ ] Apply to speak at [Converge SE](https://period3.wufoo.com/forms/convergese-2015-speakertalk-proposal/)
+- [ ] Start “Sass for Devs” Slides
 
 ### Things I'll Do This Month: December 2014
 - [ ] Continue learning angular
