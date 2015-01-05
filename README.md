@@ -16,20 +16,22 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Radiate joy and kindness
 
-# December 28, 2014
+# January 4, 2015
 
-### This Week's Goal: Holidays & Reflection
+### This Week's Goal: Just Do It.
 
 ## Things I'll do This Week:
-- [x] Play with Arduino
-- [x] Read more of Eloquent Javascript
-- [ ] Try to get access to MyFitnessPal API
-- [x] GET MY DARN SERVERS BACK UP
-- [x] Put my 404 page live
-- [ ] Leverage browser caching in .htaccess
-- [x] Sort out goals/projects in 2015
+- [ ] Start to Read [ES6](https://leanpub.com/understandinges6/read/)
+- [ ] Figure out how to put Emojis in my slides
+- [ ] Finish "Sass for Developers" Slides
+- [ ] codewars.com kata practice
+- [ ] Attend a meetup
+- [ ] Sketch a cute wearable jewelry/purse device idea (talk to Mellissa about making it happen)
+- [ ] Figure out what the smallest microcontroller I can find is
+- [ ] Contact the two girls from Urban Patchwork
+- [ ] Buy tickets to Colorado (hack & hike in Colorado?)
+- [ ] Go on a run > 4 miles
 - [ ] Apply to speak at [Converge SE](https://period3.wufoo.com/forms/convergese-2015-speakertalk-proposal/)
-- [ ] Start on “Sass for Devs” Slides
 - [ ] Caret Cast website setup/outline
 
 ### Things I'll Do in the Future:
