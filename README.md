@@ -62,6 +62,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] [Picturefill](http://scottjehl.github.io/picturefill/) my portfolio
 - [ ] Grunt [Perf Budget](https://www.npmjs.com/package/grunt-perfbudget) or [Page Speed Insights](https://www.npmjs.com/package/psi)
 - [ ] Build something cool with Arduino
+- [ ] Create my own, cleaner reveal.js 
 
 ### Backlog: Side Projects & Other Ideas
 - [Apps & Other Projects](https://github.com/una/personal-goals/tree/master/ideas/app-ideas.md)

@@ -21,3 +21,5 @@ Things I want to work on, but need to keep out of the main page because its gett
 - [ ] Slack bot for work
 - [ ] Pattern Page (oh yeah, thepatternproject.com)
 - [ ] Happy Moments App
+- [ ] A cleaner/more performant Reveal.js
+- [ ] Beautiful wearables (constellations)
