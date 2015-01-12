@@ -26,6 +26,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Start to Read [ES6](https://leanpub.com/understandinges6/read/)
 - [ ] Figure out how to put Emojis in my slides
 - [ ] Finish "Sass for Developers" Slides
+- [ ] Make Sass Director Work for All Directories
 - [ ] codewars.com kata practice
 - [ ] Contact the two girls from Urban Patchwork
 - [ ] Go on a run > 4 miles
