@@ -16,20 +16,18 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Radiate joy and kindness
 
-# January 4, 2015
+# January 1, 2015
 
-### This Week's Goal: Just Do It.
+### This Week's Goal: Community
 
 ## Things I'll do This Week:
+- [ ] Nginx Subdomains (blog.unakravets.com)
+- [ ] Set up dinner w/Maggie
 - [ ] Start to Read [ES6](https://leanpub.com/understandinges6/read/)
 - [ ] Figure out how to put Emojis in my slides
 - [ ] Finish "Sass for Developers" Slides
 - [ ] codewars.com kata practice
-- [ ] Attend a meetup
-- [ ] Sketch a cute wearable jewelry/purse device idea (talk to Mellissa about making it happen)
-- [ ] Figure out what the smallest microcontroller I can find is
 - [ ] Contact the two girls from Urban Patchwork
-- [ ] Buy tickets to Colorado (hack & hike in Colorado?)
 - [ ] Go on a run > 4 miles
 - [ ] Apply to speak at [Converge SE](https://period3.wufoo.com/forms/convergese-2015-speakertalk-proposal/)
 - [ ] Caret Cast website setup/outline
@@ -56,13 +54,13 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Learn about [Phantom JS](http://phantomjs.org/)
 - [ ] Use [Polymer](https://www.polymer-project.org/) to build web components
 - [ ] CodeSchool Javascript Best Practices course (& finish JS)
-- [ ] Learn about [Require.js](http://requirejs.org/)
+- [x] Learn about [Require.js](http://requirejs.org/)
 - [ ] Look into [Harp](http://harpjs.com/)
 - [ ] Play with slack [bots](https://api.slack.com/bot-users) and its [node API](https://github.com/slackhq/node-slack-client)
 - [ ] [Picturefill](http://scottjehl.github.io/picturefill/) my portfolio
-- [ ] Grunt [Perf Budget](https://www.npmjs.com/package/grunt-perfbudget) or [Page Speed Insights](https://www.npmjs.com/package/psi)
+- [x] Grunt [Perf Budget](https://www.npmjs.com/package/grunt-perfbudget) or [Page Speed Insights](https://www.npmjs.com/package/psi)
 - [ ] Build something cool with Arduino
-- [ ] Create my own, cleaner reveal.js 
+- [ ] Create my own, cleaner reveal.js
 
 ### Backlog: Side Projects & Other Ideas
 - [Apps & Other Projects](https://github.com/una/personal-goals/tree/master/ideas/app-ideas.md)

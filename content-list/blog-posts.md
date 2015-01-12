@@ -89,6 +89,9 @@
 - [ ] [Wraith](http://responsivenews.co.uk/post/56884056177/wraith)
 - [ ] [Wraith & TravisCI](http://blog.kevinlamping.com/easy-ui-regression-testing-with-wraith-and-travisci/)
 
+### CSS/Sass
+- [ ] [CSS You Can Get Excited About](http://www.webdesignerdepot.com/2015/01/css-you-can-get-excited-about-in-2015/?utm_source=CSS-Weekly&utm_campaign=Issue-144&utm_medium=email)
+
 ### Etc.
 - [ ] [Isomorphic Js](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)
 - [ ] [A Brief History of Web Design with Animations](http://blog.froont.com/brief-history-of-web-design-for-designers/?utm_content=buffer83143&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)

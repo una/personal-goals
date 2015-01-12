@@ -1,6 +1,10 @@
-### CSS
+### All the Front End Thing
+- [ ] [Beaqn](http://beaqn.in/frontend/)
+
+### CSS/Sass
 - [ ] [Adobe Web Platform](http://webplatform.adobe.com/)
 - [ ] [CSS Guidelines](http://cssguidelin.es/)
+= [ ] [Sass Guidelines](http://sass-guidelin.es/)
 
 ### Animation
 - [ ] [31 Days of Canvas Tutorials](http://creativejs.com/2011/08/31-days-of-canvas-tutorials/)
@@ -12,6 +16,10 @@
 - [ ] [Free JS Books](http://jsbooks.revolunet.com/)
 - [ ] [JS Learning Resources](https://gist.github.com/jongrover/6263750)
 - [ ] [Superhero.js](http://superherojs.com/)
+- [ ] [Adv. Js by John Resig](http://ejohn.org/apps/learn/)
+
+### Arduino/Electronics
+- [ ] [Johnny Five](https://github.com/rwaldron/johnny-five)
 
 ### Tools
 - [ ] [Mug of Sublime Text (shortcuts)](http://katiek2.github.io/most/)
