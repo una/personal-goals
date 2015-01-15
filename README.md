@@ -24,14 +24,15 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Nginx Subdomains (blog.unakravets.com)
 - [ ] Set up dinner w/Maggie
 - [ ] Start to Read [ES6](https://leanpub.com/understandinges6/read/)
-- [ ] Figure out how to put Emojis in my slides
-- [ ] Finish "Sass for Developers" Slides
+- [ ] ~~Figure out how to put Emojis in my slides~~
+- [x] Finish "Sass for Developers" Slides
 - [ ] Make Sass Director Work for All Directories
 - [ ] codewars.com kata practice
 - [ ] Contact the two girls from Urban Patchwork
 - [ ] Go on a run > 4 miles
-- [ ] Apply to speak at [Converge SE](https://period3.wufoo.com/forms/convergese-2015-speakertalk-proposal/)
+- [x] Apply to speak at [Converge SE](https://period3.wufoo.com/forms/convergese-2015-speakertalk-proposal/)
 - [ ] Caret Cast website setup/outline
+- [x] Speak at All Girl Hack Night
 
 ### Things I'll Do in the Future:
 - [ ] Set up yeoman generator

@@ -12,6 +12,7 @@ Things I want to work on, but need to keep out of the main page because its gett
 - [ ] Urban Patchwork
 - [ ] Happy Hack
 - [ ] LegibiliMe
+- [ ] Sass Director
 
 ## Other Project Ideas (unstarted)
 - [ ] Termoji

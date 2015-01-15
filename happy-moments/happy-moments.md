@@ -45,3 +45,15 @@ Today I built a bookcase and finally hung up my wall art. My room feels so much 
 01/11/2015
 ---
 Today I went swimming for the first time in a long time at the gym. I had such strong memories of my swim team days. It made me smile.
+
+01/12/2015
+---
+Today I came up with this great user testing idea using Pokemon cards. I felt pretty brilliant and I think its going to work.
+
+01/13/2015
+---
+I went to a free Master Pancake showing of Labryinth today at a beautiful theater in Austin. It was pretty great.
+
+01/14/2014
+---
+My talk at All Girl Hack Night went really well. And we had a really great conversation afterward :) I felt confident answering all of their questions too.
