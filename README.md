@@ -18,22 +18,21 @@ Personal goals made open source for accessibility across computers I use, transp
 
 # January 19, 2015
 
-### This Week's Goal: Ship It
+### This Week's Focus: Ship It
 
 ## Things I'll do This Week:
 - [ ] Download "Enders Game"
 - [ ] Photograph with svg interaction
-- [ ] Blog Sketchnotes
-- [ ] Blog Photo w/SVG thing
+- [ ] Blog: Sketchnotes
+- [ ] Blog: Photo w/SVG thing
 - [ ] Apply To Speak at CSS Conf AU
-- [x] Write a blog post about Sass Director
+- [x] Blog: post about Sass Director
 - [x] sassdirector.com
 - [ ] Nginx Subdomains (blog.unakravets.com)
 - [ ] Contact the two girls from Urban Patchwork
 - [ ] Caret Cast website setup/outline
 - [ ] Logo for MediatR
 - [ ] Singularity site
-
 
 ### Things I'll Do in the Future:
 - [ ] Set up yeoman generator
