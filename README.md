@@ -44,14 +44,13 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Create Singularity Examples bc [the cons here](http://web-design-weekly.com/2014/04/06/grid-frameworks-sass/)
 - [ ] Add search & tagging functionality to blog
 - [ ] Begin to Read Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
-- [ ] Apply to speak at [Converge SE](https://period3.wufoo.com/forms/convergese-2015-speakertalk-proposal/) (mid Jan)
 - [ ] Make Visual model of [this](http://ilikekillnerds.com/2014/07/what-a-front-end-developer-workflow-looks-like-in-20142015/) for blog post
 - [ ] Read Eloquent JavaScript
 - [ ] Create [Grand Budapest Hotel](https://www.behance.net/gallery/16495771/The-Grand-Budapest-Hotel-Flat) in CSS
 - [ ] Read Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 - [ ] Go through this talk I missed: http://anthonydispezio.com/sassconf2014/
 - [ ] Play with [Velocity.js](http://www.smashingmagazine.com/2014/06/18/faster-ui-animations-with-velocity-js/)
-- [ ] Learn about Meteor.js &B Famo.us
+- [x] Learn about & try out Meteor.js & Famo.us
 - [ ] Skillshare classes about hand lettering
 - [ ] Look at [Myth](http://www.myth.io/) & Rework
 - [ ] Learn about [Phantom JS](http://phantomjs.org/)
