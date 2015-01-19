@@ -16,23 +16,24 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Radiate joy and kindness
 
-# January 1, 2015
+# January 19, 2015
 
-### This Week's Goal: Community
+### This Week's Goal: Ship It
 
 ## Things I'll do This Week:
+- [ ] Download "Enders Game"
+- [ ] Photograph with svg interaction
+- [ ] Blog Sketchnotes
+- [ ] Blog Photo w/SVG thing
+- [ ] Apply To Speak at CSS Conf AU
+- [x] Write a blog post about Sass Director
+- [x] sassdirector.com
 - [ ] Nginx Subdomains (blog.unakravets.com)
-- [ ] Set up dinner w/Maggie
-- [ ] Start to Read [ES6](https://leanpub.com/understandinges6/read/)
-- [ ] ~~Figure out how to put Emojis in my slides~~
-- [x] Finish "Sass for Developers" Slides
-- [ ] Make Sass Director Work for All Directories
-- [ ] codewars.com kata practice
 - [ ] Contact the two girls from Urban Patchwork
-- [ ] Go on a run > 4 miles
-- [x] Apply to speak at [Converge SE](https://period3.wufoo.com/forms/convergese-2015-speakertalk-proposal/)
 - [ ] Caret Cast website setup/outline
-- [x] Speak at All Girl Hack Night
+- [ ] Logo for MediatR
+- [ ] Singularity site
+
 
 ### Things I'll Do in the Future:
 - [ ] Set up yeoman generator

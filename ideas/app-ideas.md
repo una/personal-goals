@@ -24,3 +24,4 @@ Things I want to work on, but need to keep out of the main page because its gett
 - [ ] Happy Moments App
 - [ ] A cleaner/more performant Reveal.js
 - [ ] Beautiful wearables (constellations)
+- [ ] Happy Moments Reminder Generator Site

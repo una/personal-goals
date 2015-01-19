@@ -54,6 +54,22 @@ Today I came up with this great user testing idea using Pokemon cards. I felt pr
 ---
 I went to a free Master Pancake showing of Labryinth today at a beautiful theater in Austin. It was pretty great.
 
-01/14/2014
+01/14/2015
 ---
 My talk at All Girl Hack Night went really well. And we had a really great conversation afterward :) I felt confident answering all of their questions too.
+
+01/15/2015
+---
+We had drawing club at work today. And it was pretty great! I did a decent job capturing others.
+
+01/16/2015
+---
+I had a JS beakthrough today! I had started Sass Director over with a recursive object method, and holy crap it worked! That moment of elation when all of your hard work has paid off!
+
+01/17/2015
+---
+On my run today I found somebody's wallet in the middle of the sidewalk, found them on social media, and returned it to them :) The gratefulness they felt was infectious.
+
+01/18/2015
+---
+It is SO beautiful outside right now in Austin that I want to cry. Instead of staying inside, I'm laying outside in the common lawn area of my apartment complex, and I'm going hiking with Lauren soon.

@@ -13,6 +13,9 @@
 - [ ] [Terminal Aliases & Functions](http://ashleynolan.co.uk/blog/beginners-guide-to-terminal-aliases-and-functions)
 - [x] [Terminal Basic Commands](http://ashleynolan.co.uk/blog/getting-started-with-terminal)
 
+### JS in General
+- [ ] [2015: The End of the Monolithic JavaScript Framework](https://andywalpole.me/#!/blog/142134/2015-the-end-the-monolithic-javascript-framework)
+
 ### Accessibility
 - [ ] [Aria State Properties](http://www.w3.org/TR/wai-aria/states_and_properties)
 
