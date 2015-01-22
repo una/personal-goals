@@ -25,14 +25,17 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Photograph with svg interaction
 - [ ] Blog: Sketchnotes
 - [ ] Blog: Photo w/SVG thing
-- [ ] Apply To Speak at CSS Conf AU
+- [x] Apply To Speak at CSS Conf AU
 - [x] Blog: post about Sass Director
 - [x] sassdirector.com
 - [ ] Nginx Subdomains (blog.unakravets.com)
 - [ ] Contact the two girls from Urban Patchwork
-- [ ] Caret Cast website setup/outline
-- [ ] Logo for MediatR
+- [ ] Caret Cast website setup/outline (use Polymer eventually)
+- [x] Update ATXSass Site with Sponsors
+- [ ] ATXSass!
+- [x] Logo for MediatR
 - [ ] Singularity site
+- [ ] Send Thank Yous to Contributors
 
 ### Things I'll Do in the Future:
 - [ ] Set up yeoman generator
@@ -62,6 +65,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [x] Grunt [Perf Budget](https://www.npmjs.com/package/grunt-perfbudget) or [Page Speed Insights](https://www.npmjs.com/package/psi)
 - [ ] Build something cool with Arduino
 - [ ] Create my own, cleaner reveal.js
+- [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
 
 ### Backlog: Side Projects & Other Ideas
 - [Apps & Other Projects](https://github.com/una/personal-goals/tree/master/ideas/app-ideas.md)

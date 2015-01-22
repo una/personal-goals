@@ -73,3 +73,15 @@ On my run today I found somebody's wallet in the middle of the sidewalk, found t
 01/18/2015
 ---
 It is SO beautiful outside right now in Austin that I want to cry. Instead of staying inside, I'm laying outside in the common lawn area of my apartment complex, and I'm going hiking with Lauren soon.
+
+01/19/2015
+---
+Other than launching sassdirector.com, today I solved Michael's VM: Vagrant runner issues without having any errors to help me out AND another coworker told me that his New Years Resolution was to attend all of the weekly events for the FED Knowledge Share I started at IBM. Pretty awesome day.
+
+01/20/2015
+---
+Today was a reminder of why I love the open source community so much. Yesterday I publicized Sass Director, and somebody has already built a node module for it. Another person did their first PR for it :)
+
+01/21/2015
+---
+//It feels so good to make people who mentored me throughout college proud. Today both
