@@ -84,4 +84,20 @@ Today was a reminder of why I love the open source community so much. Yesterday 
 
 01/21/2015
 ---
-//It feels so good to make people who mentored me throughout college proud. Today both
+It feels so good to make people who mentored me throughout college proud. Today I got a lot of Twitter praise for Sass Director from them :)
+
+01/22/2015
+---
+Today was ATXSass with Dave Rupert. The event went really, really well and we had a bunch of people there. It was awesome to see the event taking off.
+
+01/23/2015
+---
+Bryan and I drove to Tahoe today. The stars were inCREDIBLE. I've never seen so many in my life. The entire drive up I kept trying to peek up to see them more and when we arrived I was just blown away.
+
+01/24/2015
+---
+Today I went skiing for the first time. Yes, I was terrible at first, but then I really got the hang of it. I ended up seriously kicking ass (only on the green trails!) but still it felt like I was flying.
+
+01/25/2015
+---
+Today I watched the lights change on the Bay Bridge. It was stunnning and super interesting to watch and I couldn't look away.

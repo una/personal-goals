@@ -23,7 +23,7 @@ Personal goals made open source for accessibility across computers I use, transp
 ## Things I'll do This Week:
 - [ ] Download "Enders Game"
 - [ ] Photograph with svg interaction
-- [ ] Blog: Sketchnotes
+- [x] Blog: Sketchnotes
 - [ ] Blog: Photo w/SVG thing
 - [x] Apply To Speak at CSS Conf AU
 - [x] Blog: post about Sass Director
@@ -32,7 +32,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Contact the two girls from Urban Patchwork
 - [ ] Caret Cast website setup/outline (use Polymer eventually)
 - [x] Update ATXSass Site with Sponsors
-- [ ] ATXSass!
+- [x] ATXSass!
 - [x] Logo for MediatR
 - [ ] Singularity site
 - [ ] Send Thank Yous to Contributors
