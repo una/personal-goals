@@ -101,3 +101,15 @@ Today I went skiing for the first time. Yes, I was terrible at first, but then I
 01/25/2015
 ---
 Today I watched the lights change on the Bay Bridge. It was stunnning and super interesting to watch and I couldn't look away.
+
+01/27/2015
+---
+I made cards for the people who contributed to my Open Source projects today -- watercolor calligraphy and handwritten thank yous.
+
+01/28/2015
+---
+Today I left work early to work outside from my roof deck of my apartment. :) It was absolutely perfect out.
+
+01/29/2015
+---
+Today I went to a coffee shop called Cherrywood for the first time with Mae and Dahn. There was live music and we sat outside.
