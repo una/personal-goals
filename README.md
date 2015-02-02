@@ -16,24 +16,23 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Radiate joy and kindness
 
-# January 25, 2015
+# February 1, 2015
 
-### This Week's Focus: Appreciation
+### This Week's Focus: Breathe
 
 ## Things I'll do This Week:
+- [ ] Apply to speak at conferences
+- [ ] Watch [this](https://www.youtube.com/watch?v=ji5_MqicxSo#t=239) talk
 - [ ] Photograph with svg interaction
 - [ ] Nginx Subdomains (blog.unakravets.com)
-- [ ] Caret Cast website setup/outline (use Polymer eventually)
 - [ ] Singularity site
-- [x] Send Thank Yous to Contributors
 - [ ] Blog: Persistence of Vision & Design
 - [ ] Blog: New Sass workflow with Sass Director
-- [ ] Prep for Skillcrush class on Sunday, Feb 1
-- [ ] Read the [Offline Cookbook](http://jakearchibald.com/2014/offline-cookbook/)
-- [x] Watch future of tech vids: [this](http://vimeo.com/110386621), and [this](https://www.youtube.com/watch?v=ji4TyY14UWU)
-- [ ] Create ASCII art & an intro for Sass Director node version
 - [ ] Fix RSS "error" thing for una.github.io
-- [ ] Record Sketchnotes blog post audio
+- [ ] Make OSD Slides for Talk @ Memphis Web Workers
+- [ ] Learn more about Polymer for Caret Cast site
+- [ ] Make something w/new metallic inks (calligraphy)
+- [ ] Advanced JS Weekend Class
 
 ### Things I'll Do in the Future:
 - [ ] Set up yeoman generator

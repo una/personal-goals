@@ -113,3 +113,11 @@ Today I left work early to work outside from my roof deck of my apartment. :) It
 01/29/2015
 ---
 Today I went to a coffee shop called Cherrywood for the first time with Mae and Dahn. There was live music and we sat outside.
+
+01/30/2015
+---
+One of my new friends came over tonight and really confided in me about her life and relationship. We sat on my porch and talked. I'm really glad that she felt so comfortable with me already to be so honest with me.
+
+02/02/2015
+---
+Today I presented a master class on Sass for Skillcrush. Someone tweeted at me afterward saying "@Una thank you so much for the Sass class! I can't wait to learn more and you're a wonderful inspiration!"
