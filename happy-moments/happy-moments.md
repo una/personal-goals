@@ -1,6 +1,6 @@
 # Happy Moments
 
-One happy moment per day, so by the end of the year, I'll have 365 happy moments to look back on :)
+## One happy moment per day, so by the end of the year, I'll have 365 happy moments to look back on :)
 
 01/01/2015
 ---
@@ -118,6 +118,10 @@ Today I went to a coffee shop called Cherrywood for the first time with Mae and 
 ---
 One of my new friends came over tonight and really confided in me about her life and relationship. We sat on my porch and talked. I'm really glad that she felt so comfortable with me already to be so honest with me.
 
-02/02/2015
+01/31/2015
+---
+Today was a rainy, Seattle-like day so I hung out at my current "new favorite coffee shop". The nicest little old man came in with his own lamp to work under. It was really cute :)
+
+02/01/2015
 ---
 Today I presented a master class on Sass for Skillcrush. Someone tweeted at me afterward saying "@Una thank you so much for the Sass class! I can't wait to learn more and you're a wonderful inspiration!"
