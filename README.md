@@ -21,14 +21,14 @@ Personal goals made open source for accessibility across computers I use, transp
 ### This Week's Focus: Breathe
 
 ## Things I'll do This Week:
-- [ ] Apply to speak at a conference
+- [x] Apply to speak at a conference
 - [x] Watch [this](https://www.youtube.com/watch?v=ji5_MqicxSo#t=239) talk
 - [ ] Photograph with svg interaction
-- [ ] Nginx Subdomains (blog.unakravets.com)
+- [x] Nginx Subdomains (blog.unakravets.com)
 - [ ] Singularity site
 - [ ] Blog: Persistence of Vision & Design
 - [ ] Blog: New Sass workflow with Sass Director
-- [ ] Fix RSS "error" thing for una.github.io
+- [x] Fix RSS "error" thing for una.github.io
 - [ ] Make OSD Slides for Talk @ Memphis Web Workers
 - [ ] Learn more about Polymer for Caret Cast site
 - [x] Make something w/new metallic inks (calligraphy)
@@ -63,6 +63,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Build something cool with Arduino
 - [ ] Create my own, cleaner reveal.js
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
+- [ ] Audiobook version recording of Eloquent Javascript
 
 ### Backlog: Side Projects & Other Ideas
 - [Apps & Other Projects](https://github.com/una/personal-goals/tree/master/ideas/app-ideas.md)

@@ -125,3 +125,28 @@ Today was a rainy, Seattle-like day so I hung out at my current "new favorite co
 02/01/2015
 ---
 Today I presented a master class on Sass for Skillcrush. Someone tweeted at me afterward saying "@Una thank you so much for the Sass class! I can't wait to learn more and you're a wonderful inspiration!"
+
+02/02/2015
+---
+I finally got a page speed insights score of at least 95/100 on every test for my blog website by optimizing some of my assets. Yay!
+
+02/03/2015
+---
+I went to nodeschool tonight and had this awesome lightbulb moment. We were learning about streams in node and everything suddenly clicked (like the fact that with the Libsass version, there's no .sass-cache) about the differences in how Ruby Sass and Node Sass work!
+
+02/04/2015
+---
+I did a ton of nerdy research on neuroscience and animation today about how the DOM renders elements. I was super excited about it at work and explained it to my coworker, Ryan at way-too-excited of a manner.
+
+02/05/2015
+---
+Today I discoverd Dark and Stormys (the cocktail) at a jazz bar. It's definitely going on my yes list.
+
+02/06/2015
+---
+Oh my god. Today was the best day ever. One of my coworkers introduced me to Lara Hogan via email, and she later told him that she didn't need an introduction to me -- she's a fan of my work. I can't even express how overwhelmingly happy that made me.
+
+02/07/2015
+---
+
+

@@ -43,3 +43,6 @@
 
 ### Design
 - [ ] [Making Good Design Descisions Fireside Chat](http://www.organizedwonder.com/videos/2449)
+
+### Dev Tools
+- [ ] [Google Dev Tools Vids](http://discover-devtools.codeschool.com/)
