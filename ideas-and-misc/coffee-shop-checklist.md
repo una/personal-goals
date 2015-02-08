@@ -2,8 +2,6 @@
 
 Gotta catch 'em all.
 
-ATX Coffee Shop Checklist
-
 - [x] Halcyon Coffee, Bar & Lounge
 - [x] Cherrywood Coffeehouse
 - [x] Cenote
@@ -28,4 +26,4 @@ ATX Coffee Shop Checklist
 - [ ] Strange Brew
 - [ ] 7th Flag Coffee Co.
 - [ ] Café Crème
-- [ ] La Tazza Fresca-
+- [ ] La Tazza Fresca
