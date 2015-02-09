@@ -16,13 +16,14 @@ Gotta catch 'em all.
 - [x] Mozart's Coffee
 - [x] Epoch Coffee
 - [ ] Pacha
+- [ ] Patika
 - [x] Houndstooth Coffee
 - [x] Flightpath Coffeehouse
 - [x] Summermoon Coffee Bar
 - [x] Quack's 43rd Street Bakery
 - [x] Austin Java
 - [x] Figure 8 Coffee Purveyors
-- [ ] Dominican Joe Cofee Shop
+- [ ] Dominican Joe Coffee Shop
 - [ ] Strange Brew
 - [ ] 7th Flag Coffee Co.
 - [ ] Café Crème
