@@ -148,5 +148,9 @@ Oh my god. Today was the best day ever. One of my coworkers introduced me to Lar
 
 02/07/2015
 ---
+Tonight I went out to Midnight Cowboy (a pretty legit speakeasy on 6th street) with Troy & Jefferson. I loved catching up with them and talking about life over an absinthe cocktail.
 
+02/08/2015
+---
+Tonight I had a really Sassy dinner with Elyse, Jeffery (her now fiance!), and Claudina. We went to La Condesa and had the best time :) and most delicious food. That corn! Lifechanger!
 
