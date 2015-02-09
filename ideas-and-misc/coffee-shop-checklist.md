@@ -27,3 +27,5 @@ Gotta catch 'em all.
 - [ ] 7th Flag Coffee Co.
 - [ ] Café Crème
 - [ ] La Tazza Fresca
+- [ ] Radio Coffee & Beer
+- [ ] Monkey Nest Coffee

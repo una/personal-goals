@@ -16,23 +16,24 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Radiate joy and kindness
 
-# February 1, 2015
+# February 8, 2015
 
-### This Week's Focus: Breathe
+### This Week's Focus: OSD
 
 ## Things I'll do This Week:
-- [x] Apply to speak at a conference
-- [x] Watch [this](https://www.youtube.com/watch?v=ji5_MqicxSo#t=239) talk
-- [ ] Photograph with svg interaction
-- [x] Nginx Subdomains (blog.unakravets.com)
+- [ ] Sassbit.es visual styling
+- [ ] mustach visual styling: https://github.com/mustache/mustache.github.com
+- [ ] Add Slack [hooks](http://blog.james-carr.org/2014/08/21/open-a-github-issue-from-slack/) to make issues
+- [ ] Make something for [here](http://give-n-go.co/)
+- [ ] Read All of these [notes](http://www.yoroy.com/tag/fosdem2015) on OSD from FOSDEM
+- [ ] Watch Dev Tools [Videos](http://discover-devtools.codeschool.com/)
+- [ ] Edit Blog post on Sass Community for Site Point
+- [ ] PR for Shower for gulp integration
+- [ ] Link bank account to Paypal
+- [ ] Read Eloquent JS Chapter 4
 - [ ] Singularity site
-- [ ] Blog: Persistence of Vision & Design
 - [ ] Blog: New Sass workflow with Sass Director
-- [x] Fix RSS "error" thing for una.github.io
-- [ ] Make OSD Slides for Talk @ Memphis Web Workers
 - [ ] Learn more about Polymer for Caret Cast site
-- [x] Make something w/new metallic inks (calligraphy)
-- [ ] Advanced JS Weekend Class
 
 ### Things I'll Do in the Future:
 - [ ] Set up yeoman generator
