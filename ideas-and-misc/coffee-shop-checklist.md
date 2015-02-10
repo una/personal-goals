@@ -29,3 +29,7 @@ Gotta catch 'em all.
 - [ ] La Tazza Fresca
 - [ ] Radio Coffee & Beer
 - [ ] Monkey Nest Coffee
+- - [ ] Sa-Ten
+- [ ] Flat Track
+- [ ] 1886 Cafe & Bakery
+- [ ] Spider House
