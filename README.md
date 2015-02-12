@@ -24,16 +24,17 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Sassbit.es visual styling
 - [ ] mustach visual styling: https://github.com/mustache/mustache.github.com
 - [ ] Add Slack [hooks](http://blog.james-carr.org/2014/08/21/open-a-github-issue-from-slack/) to make issues
-- [ ] Make something for [here](http://give-n-go.co/)
-- [ ] Read All of these [notes](http://www.yoroy.com/tag/fosdem2015) on OSD from FOSDEM
+- [ ] Make something for [Give n Go](http://give-n-go.co/)
+- [x] Read All of these [notes](http://www.yoroy.com/tag/fosdem2015) on OSD from FOSDEM
 - [ ] Watch Dev Tools [Videos](http://discover-devtools.codeschool.com/)
-- [ ] Edit Blog post on Sass Community for Site Point
+- [x] Edit Blog post on Sass Community for Site Point
 - [ ] PR for Shower for gulp integration
-- [ ] Link bank account to Paypal
+- [x] Link bank account to Paypal
 - [ ] Read Eloquent JS Chapter 4
 - [ ] Singularity site
 - [ ] Blog: New Sass workflow with Sass Director
 - [ ] Learn more about Polymer for Caret Cast site
+- [x] Give OSD Talk @ Memphic Web Workers
 
 ### Things I'll Do in the Future:
 - [ ] Set up yeoman generator

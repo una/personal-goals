@@ -36,11 +36,11 @@ At home, I use two pieces of foam board as a base to "extend my desk" when I pul
 
 01/09/2015
 ---
-I played board games all night with friends! It's been so long since I've done a game night, and it was pretty great.
+I played board games all night with Mae and Dahn and their friends! It's been so long since I've done a game night, and it was pretty great.
 
 01/10/1015
 ---
-Today I built a bookcase and finally hung up my wall art. My room feels so much more cozy and I love it :)
+Today I built a bookcase with the help of Lauren and her friend, and finally hung up my wall art. My room feels so much more cozy and I love it :)
 
 01/11/2015
 ---
@@ -52,7 +52,7 @@ Today I came up with this great user testing idea using Pokemon cards. I felt pr
 
 01/13/2015
 ---
-I went to a free Master Pancake showing of Labryinth today at a beautiful theater in Austin. It was pretty great.
+I went to a free Master Pancake showing of Labryinth today with Lauren and Jefferson at a beautiful theater in Austin. It was pretty great.
 
 01/14/2015
 ---
@@ -154,3 +154,14 @@ Tonight I went out to Midnight Cowboy (a pretty legit speakeasy on 6th street) w
 ---
 Tonight I had a really Sassy dinner with Elyse, Jeffery (her now fiance!), and Claudina. We went to La Condesa and had the best time :) and most delicious food. That corn! Lifechanger!
 
+02/09/2015
+---
+February, and so warm today. I rode in Jefferson's new car on the way to lunch and it was so nice that we opened the sun roof and I stuck my hands through to feel the breeze.
+
+02/10/2015
+---
+Tonight I went out to Frank and Midnight Cowboy (again :)) with some developers in the community. Afterward, I just grabbed a drink with Claudina and had an amazing time talking about life and traveling, and heard some exciting news about this year's SassConf :D
+
+02/11/2015
+---
+I'm getting better at making coffee at home. My milk frother has literally changed my life. I started frothing the coffee itself, too.
