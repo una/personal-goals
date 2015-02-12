@@ -22,10 +22,14 @@ Gotta catch 'em all.
 - [x] Quack's 43rd Street Bakery
 - [x] Austin Java
 - [x] Figure 8 Coffee Purveyors
-- [ ] Dominican Joe Cofee Shop
+- [ ] Dominican Joe Coffee Shop
 - [ ] Strange Brew
 - [ ] 7th Flag Coffee Co.
 - [ ] Café Crème
 - [ ] La Tazza Fresca
 - [ ] Radio Coffee & Beer
 - [ ] Monkey Nest Coffee
+- - [ ] Sa-Ten
+- [ ] Flat Track
+- [ ] 1886 Cafe & Bakery
+- [ ] Spider House
