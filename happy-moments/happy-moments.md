@@ -165,3 +165,7 @@ Tonight I went out to Frank and Midnight Cowboy (again :)) with some developers 
 02/11/2015
 ---
 I'm getting better at making coffee at home. My milk frother has literally changed my life. I started frothing the coffee itself, too.
+
+02/12/2015
+---
+Addy Osmani followed me on Twitter. I repeat. Addy Osmani followed me on Twitter. :O :O :O
