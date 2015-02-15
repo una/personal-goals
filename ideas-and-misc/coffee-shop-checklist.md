@@ -7,7 +7,7 @@ Gotta catch 'em all.
 - [x] Cenote
 - [x] Vintage Heart Coffee
 - [x] Thunderbird Coffee
-- [ ] Bennu Coffee
+- [x] Bennu Coffee
 - [x] Wright Bros. Brew & Brew
 - [ ] Buzz Mill
 - [ ] Jo’s Coffee
@@ -29,7 +29,7 @@ Gotta catch 'em all.
 - [ ] La Tazza Fresca
 - [ ] Radio Coffee & Beer
 - [ ] Monkey Nest Coffee
-- - [ ] Sa-Ten
-- [ ] Flat Track
+- [ ] Sa-Ten
+- [x] Flat Track
 - [ ] 1886 Cafe & Bakery
 - [ ] Spider House

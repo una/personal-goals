@@ -6,6 +6,7 @@
 - [x] [Designing for Front-End Page Speed](https://www.youtube.com/watch?v=RtpVZ5OzJlc&feature=youtu.be) (27 mins)
 - [ ] [Building for Performance and Resiliencee](http://vimeo.com/channels/smashingconf/102347448) (40 mins)
 - [x] [Delivering the Goods with Paul Irish](https://www.youtube.com/watch?v=R8W_6xWphtw) (24 mins)
+- [ ] [Jank Busters](https://www.youtube.com/watch?v=hAzhayTnhEI#t=114)
 
 ### Web Components
 - [x] [The Road to Web Components](https://www.youtube.com/watch?v=6peu4KporaA) (32 mins)

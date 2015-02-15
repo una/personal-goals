@@ -23,11 +23,10 @@ Personal goals made open source for accessibility across computers I use, transp
 ## Things I'll do This Week:
 - [ ] Sassbit.es visual styling
 - [ ] mustach visual styling: https://github.com/mustache/mustache.github.com
-- [ ] Add Slack [hooks](http://blog.james-carr.org/2014/08/21/open-a-github-issue-from-slack/) to make issues
 - [ ] Make something for [Give n Go](http://give-n-go.co/). [This](https://dribbble.com/shots/1925708-Emojis?list=searches&tag=emojis&offset=0)
 - [x] Read All of these [notes](http://www.yoroy.com/tag/fosdem2015) on OSD from FOSDEM
 - [ ] Watch Dev Tools [Videos](http://discover-devtools.codeschool.com/)
-- [ ] Edit Blog post on Sass Community for Site Point
+- [x] Edit Blog post on Sass Community for Site Point
 - [ ] PR for Shower for gulp integration
 - [x] Link bank account to Paypal
 - [ ] Read Eloquent JS Chapter 4
