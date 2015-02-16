@@ -16,7 +16,7 @@ February 2015
 - [x] Weaving the Web -- Tim Berners-Lee
 - [x] The Book Thief -- Markus Zusak
 - [ ] Freakonomics -- Stephen J. Dubner & Steven D. Levitt
-- [ ] Ghost in The Wires -- Kevin Mitnick
+- [x] Ghost in The Wires -- Kevin Mitnick
 
 To-Read
 ---

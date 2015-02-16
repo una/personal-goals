@@ -169,3 +169,11 @@ I'm getting better at making coffee at home. My milk frother has literally chang
 02/12/2015
 ---
 Addy Osmani followed me on Twitter. I repeat. Addy Osmani followed me on Twitter. :O :O :O
+
+12/13/2015
+---
+I went out with a few friends to a bar called Cheer Up Charlies right near my apartment where they had Kale Lime Margaritas, and a drink called the Vegan Yeti. They were delicious.
+
+12/14/2015
+---
+Tonight I sat outside on my porch and split a bottle of Pinot Noir with my good friend Troy while looking out onto the cityscape :)

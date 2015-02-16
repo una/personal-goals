@@ -16,24 +16,25 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Radiate joy and kindness
 
-# February 8, 2015
+# February 15, 2015
 
-### This Week's Focus: OSD
+### This Week's Focus: Finish Things from Last Week
 
 ## Things I'll do This Week:
-- [ ] Sassbit.es visual styling
-- [ ] mustach visual styling: https://github.com/mustache/mustache.github.com
-- [ ] Make something for [Give n Go](http://give-n-go.co/). [This](https://dribbble.com/shots/1925708-Emojis?list=searches&tag=emojis&offset=0)
-- [x] Read All of these [notes](http://www.yoroy.com/tag/fosdem2015) on OSD from FOSDEM
+- [ ] Watch a video on testing w/Wraith, Phantom, etc.
+- [ ] Record audio for last blog post
+- [ ] Blog for Site Point: 5 Uses for Sass Maps
+- [ ] Give perf talk to Design Camp
+- [ ] Go over edits/finish perf talk
+- [ ] Sign up for personal training session
+- [ ] Continue Sassbites visual styling
+- [ ] Continue working on the thing for [Give n Go](http://give-n-go.co/). [This](https://dribbble.com/shots/1925708-Emojis?list=searches&tag=emojis&offset=0)
 - [ ] Watch Dev Tools [Videos](http://discover-devtools.codeschool.com/)
-- [x] Edit Blog post on Sass Community for Site Point
-- [ ] PR for Shower for gulp integration
-- [x] Link bank account to Paypal
-- [ ] Read Eloquent JS Chapter 4
+- [ ] Read Eloquent JS Chapter 4 & 5
 - [ ] Singularity site
 - [ ] Blog: New Sass workflow with Sass Director
 - [ ] Learn more about Polymer for Caret Cast site
-- [x] Give OSD Talk @ Memphis Web Workers
+- [ ] PR for Shower for gulp integration
 
 ### Things I'll Do in the Future:
 - [ ] Set up yeoman generator
