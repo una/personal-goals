@@ -35,6 +35,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Blog: New Sass workflow with Sass Director
 - [ ] Learn more about Polymer for Caret Cast site
 - [ ] PR for Shower for gulp integration
+- [ ] Submit talks to the next 2 confs on list
 
 ### Things I'll Do in the Future:
 - [ ] Set up yeoman generator
