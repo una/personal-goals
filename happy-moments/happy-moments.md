@@ -177,3 +177,15 @@ I went out with a few friends to a bar called Cheer Up Charlies right near my ap
 12/14/2015
 ---
 Tonight I sat outside on my porch and split a bottle of Pinot Noir with my good friend Troy while looking out onto the cityscape :)
+
+12/15/2015
+---
+I checked out Bennu Coffee today, and caught up with Liza on my walk up there. She is so happy and in love with her new boyfriend that it brightened my day :) I love seeing my friends happy.
+
+12/16/2015
+---
+HOLY CRAP IM GOING TO BE SPEAKING AT CSS CONF AU IN MELBOURNE WITH SOME OF MY BIGGEST WEB DEV HEROES! I MAY OR MAY NOT HAVE CRIED AFTER RUNNING OUTSIDE IN SHORTS AND JUMPING AROUND AND SCREAMING!
+
+12/17/2015
+---
+Today was just a whirlwind day. I couldn't sleep last night because of my excitement from finding out about CSS Conf AU.

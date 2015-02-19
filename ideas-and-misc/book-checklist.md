@@ -17,7 +17,8 @@ February 2015
 - [x] The Book Thief -- Markus Zusak
 - [ ] Freakonomics -- Stephen J. Dubner & Steven D. Levitt
 - [x] Ghost in The Wires -- Kevin Mitnick
-- [ ] Outliers -- Malcolm Gladwell
+- [x] Outliers -- Malcolm Gladwell
+- [ ] The Scorch Trials -- James Dashner (Maze Runner Sequel)
 
 To-Read
 ---
@@ -29,7 +30,6 @@ To-Read
 - [ ] The Biography of Steve Jobs -- Walter Isaacson
 - [ ] The Girl with The Dragon Tattoo
 - [ ] The Martian -- Andy Weir
-- [ ] The Scorch Trials -- James Dashner (Maze Runner Sequel)
 - [ ] The Time Machine - H.G. Wells
 
 Recommendations

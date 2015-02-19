@@ -24,17 +24,14 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Watch a video on testing w/Wraith, Phantom, etc.
 - [ ] Record audio for last blog post
 - [ ] Blog for Site Point: 5 Uses for Sass Maps
-- [ ] Give perf talk to Design Camp
 - [ ] Go over edits/finish perf talk
-- [ ] Sign up for personal training session
+- [x] Sign up for personal training session
 - [ ] Continue Sassbites visual styling
-- [ ] Continue working on the thing for [Give n Go](http://give-n-go.co/). [This](https://dribbble.com/shots/1925708-Emojis?list=searches&tag=emojis&offset=0)
+- [ ] Continue working on the emojis for [Give n Go](http://give-n-go.co/). [This](https://dribbble.com/shots/1925708-Emojis?list=searches&tag=emojis&offset=0)
 - [ ] Watch Dev Tools [Videos](http://discover-devtools.codeschool.com/)
-- [ ] Read Eloquent JS Chapter 4 & 5
 - [ ] Singularity site
-- [ ] Blog: New Sass workflow with Sass Director
 - [ ] Learn more about Polymer for Caret Cast site
-- [ ] PR for Shower for gulp integration
+- [x] Shower for gulp integration
 - [ ] Submit talks to the next 2 confs on list
 
 ### Things I'll Do in the Future:
