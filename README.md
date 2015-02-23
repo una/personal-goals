@@ -16,7 +16,7 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Radiate joy and kindness
 
-# February 15, 2015
+# February 22, 2015
 
 ### This Week's Focus: Finish Things from Last Week
 
@@ -28,7 +28,8 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Blog for Site Point: 5 Uses for Sass Maps
 - [ ] Continue Sassbites visual styling
 - [ ] Learn more about Polymer for Caret Cast site
-- [ ] Submit talks to the next 2 confs on list
+- [ ] Submit talk to Front End Design Conf
+- [ ] Seriously read through all of these dev tools [docs](https://developer.chrome.com/devtools/docs/network)
 
 ### Things I'll Do in the Future:
 - [ ] Set up yeoman generator
