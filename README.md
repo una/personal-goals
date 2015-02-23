@@ -21,17 +21,13 @@ Personal goals made open source for accessibility across computers I use, transp
 ### This Week's Focus: Finish Things from Last Week
 
 ## Things I'll do This Week:
+- [ ] Blog: New Sass workflow with Sass Director
+- [ ] Give perf talk to Design Camp
+- [ ] Continue working on emojis
 - [ ] Watch a video on testing w/Wraith, Phantom, etc.
-- [ ] Record audio for last blog post
 - [ ] Blog for Site Point: 5 Uses for Sass Maps
-- [ ] Go over edits/finish perf talk
-- [x] Sign up for personal training session
 - [ ] Continue Sassbites visual styling
-- [ ] Continue working on the emojis for [Give n Go](http://give-n-go.co/). [This](https://dribbble.com/shots/1925708-Emojis?list=searches&tag=emojis&offset=0)
-- [ ] Watch Dev Tools [Videos](http://discover-devtools.codeschool.com/)
-- [ ] Singularity site
 - [ ] Learn more about Polymer for Caret Cast site
-- [x] Shower for gulp integration
 - [ ] Submit talks to the next 2 confs on list
 
 ### Things I'll Do in the Future:

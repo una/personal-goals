@@ -170,22 +170,34 @@ I'm getting better at making coffee at home. My milk frother has literally chang
 ---
 Addy Osmani followed me on Twitter. I repeat. Addy Osmani followed me on Twitter. :O :O :O
 
-12/13/2015
+02/13/2015
 ---
 I went out with a few friends to a bar called Cheer Up Charlies right near my apartment where they had Kale Lime Margaritas, and a drink called the Vegan Yeti. They were delicious.
 
-12/14/2015
+02/14/2015
 ---
 Tonight I sat outside on my porch and split a bottle of Pinot Noir with my good friend Troy while looking out onto the cityscape :)
 
-12/15/2015
+02/15/2015
 ---
 I checked out Bennu Coffee today, and caught up with Liza on my walk up there. She is so happy and in love with her new boyfriend that it brightened my day :) I love seeing my friends happy.
 
-12/16/2015
+02/16/2015
 ---
 HOLY CRAP IM GOING TO BE SPEAKING AT CSS CONF AU IN MELBOURNE WITH SOME OF MY BIGGEST WEB DEV HEROES! I MAY OR MAY NOT HAVE CRIED AFTER RUNNING OUTSIDE IN SHORTS AND JUMPING AROUND AND SCREAMING!
 
-12/17/2015
+02/17/2015
 ---
-Today was just a whirlwind day. I couldn't sleep last night because of my excitement from finding out about CSS Conf AU.
+Today was just a whirlwind day. I couldn't sleep last night because of my excitement from finding out about CSS Conf AU and I was able to let people know today.
+
+02/18/2015
+---
+I spoke with Lara Hogan today about her trip to Austin that we got funded. Instead of doing a technical talk for the front end developers, she offered to do a talk together! That is going to be so awesome.
+
+02/19/2015
+---
+Today my first SitePoint article on Code and Community went live and I got some really positive feedback. I'm really happy to have been able to write it :)
+
+02/20/2015
+---
+I went to see 50 Shades of Grey as Master Pancake show at the Alamo Drafthouse tonight with Mae. We got really drunk on Sangria at the show and then want dancing. We had an audience. It was so much fun. I havent done that in a while.

@@ -2,7 +2,7 @@
 
 Feel free to add to the list :)
 
-January 2015
+## January 2015
 
 - [x] The Willpower Instinct -- Kelly McGonigal
 - [x] The Maze Runner -- James Dashner
@@ -11,21 +11,22 @@ January 2015
 - [x] Ender's Game -- Orson Scott Card
 - [ ] Yes Please! -- Amy Poehler
 
-February 2015
+## February 2015
 
 - [x] Weaving the Web -- Tim Berners-Lee
 - [x] The Book Thief -- Markus Zusak
 - [ ] Freakonomics -- Stephen J. Dubner & Steven D. Levitt
 - [x] Ghost in The Wires -- Kevin Mitnick
 - [x] Outliers -- Malcolm Gladwell
-- [ ] The Scorch Trials -- James Dashner (Maze Runner Sequel)
+- [x] The Scorch Trials -- James Dashner (Maze Runner Sequel)
+- [x] How to Win Friends and Influence People -- Dale Carnegie
+- [ ] On the Road -- Jack Kerouak
 
 To-Read
 ---
 - [ ] City of Thieves -- David Benioff
 - [ ] Lets Explore Diabetes with Owls -- David Sedaris
 - [ ] Hitchhiker's Guide to the Galexy -- Douglas Adams
-- [ ] On the Road -- Jack Kerouak
 - [ ] Ready Player One -- Ernest Cline
 - [ ] The Biography of Steve Jobs -- Walter Isaacson
 - [ ] The Girl with The Dragon Tattoo
