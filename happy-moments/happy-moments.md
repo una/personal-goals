@@ -201,3 +201,15 @@ Today my first SitePoint article on Code and Community went live and I got some 
 02/20/2015
 ---
 I went to see 50 Shades of Grey as Master Pancake show at the Alamo Drafthouse tonight with Mae. We got really drunk on Sangria at the show and then want dancing. We had an audience. It was so much fun. I havent done that in a while.
+
+02/21/2015
+---
+I  spent the night trying out watercolor painting and it actually looked pretty good :) Found my new thing.
+
+02/22/2015
+---
+I got drinks at the East Side Show Room with Rebecca Murphey tonight. She always puts me in a wonderful mood because shes such an awesome person :)
+
+02/23/2015
+---
+Today at the gym I tried a new thing where I dangle from the machine and lift my legs into an "L". I don't know why but I totally felt like a badass.
