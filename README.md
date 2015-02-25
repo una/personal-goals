@@ -18,13 +18,13 @@ Personal goals made open source for accessibility across computers I use, transp
 
 # February 22, 2015
 
-### This Week's Focus: Finish Things from Last Week
+### This Week's Focus: OS Projects
 
 ## Things I'll do This Week:
 - [ ] Blog: New Sass workflow with Sass Director
-- [ ] Give perf talk to Design Camp
+- [x] Give perf talk to IBM Design Camp
 - [x] Continue working on emojis
-- [ ] Watch a video on testing w/Wraith, Phantom, etc.
+- [x] Watch a video on testing w/Wraith, Phantom, etc.
 - [ ] Blog for Site Point: 5 Uses for Sass Maps
 - [ ] Continue Sassbites visual styling
 - [ ] Learn more about Polymer for Caret Cast site
@@ -32,8 +32,9 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Seriously read through all of these dev tools [docs](https://developer.chrome.com/devtools/docs/network)
 - [ ] Respond to all PR's
 - [ ] Send Garth Sass stickers
-- [ ] Read post about [PostCSS](http://benfrain.com/breaking-up-with-sass-postcss/)
+- [x] Read post about [PostCSS](http://benfrain.com/breaking-up-with-sass-postcss/)
 - [x] Move everyones addresses from address book into mac contacts
+- [ ] ATXSass
 
 ### Things I'll Do in the Future:
 - [ ] Set up yeoman generator

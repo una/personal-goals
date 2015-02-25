@@ -10,14 +10,14 @@
 - [x] [Craft v Wordpress](http://viget.com/extend/craft-vs.-wordpress-the-good-the-bad-and-the-ugly-data)
 
 ### Terminal
-- [ ] [Terminal Aliases & Functions](http://ashleynolan.co.uk/blog/beginners-guide-to-terminal-aliases-and-functions)
+- [x] [Terminal Aliases & Functions](http://ashleynolan.co.uk/blog/beginners-guide-to-terminal-aliases-and-functions)
 - [x] [Terminal Basic Commands](http://ashleynolan.co.uk/blog/getting-started-with-terminal)
 
 ### JS in General
 - [ ] [2015: The End of the Monolithic JavaScript Framework](https://andywalpole.me/#!/blog/142134/2015-the-end-the-monolithic-javascript-framework)
 
 ### Accessibility
-- [ ] [Aria State Properties](http://www.w3.org/TR/wai-aria/states_and_properties)
+- [x] [Aria State Properties](http://www.w3.org/TR/wai-aria/states_and_properties)
 
 ### Angular
 - [ ] [Angular Under the Hood](https://www.binpress.com/tutorial/angular-js-looking-under-the-hood/153)
@@ -27,7 +27,7 @@
 - [x] [Write Sass Plugins Like a Pro](https://medium.com/@marcmintel/write-sass-plugins-like-a-pro-c765ecf3af27)
 - [x] [CSS Inheritance used & Abused &mdash; Micah Godbolt](http://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/)
 - [ ] [Cutting Edge Features to Use Today!](http://blog.teamtreehouse.com/cutting-edge-css-features-can-use-today?utm_source=CSS-Weekly&utm_campaign=Issue-132&utm_medium=email)
-- [ ] [Medium's CSS](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
+- [x] [Medium's CSS](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
 - [ ] [CSS Blend Mode Bgs &mdash; Awesome Examples](http://bennettfeely.com/gradients/)
 - [ ] [CSS Blend Mode Article](http://css-tricks.com/basics-css-blend-modes/)
 - [x] [CSS vs JS Animations](http://css-tricks.com/myth-busting-css-animations-vs-javascript/)
@@ -35,6 +35,7 @@
 - [x] [Ruby Sass vs LibSass Right Now](http://www.sitepoint.com/switching-ruby-sass-libsass/)
 - [ ] [3d CSS Transforms - Desandro](http://desandro.github.io/3dtransforms/docs/introduction.html)
 - [ ] [Sass Interpolation](http://webdesign.tutsplus.com/tutorials/all-you-ever-need-to-know-about-sass-interpolation--cms-21375)
+- [ ] [Compositing & Blend Modes](http://sarasoueidan.com/blog/compositing-and-blending-in-css/?mc_cid=3347508929&mc_eid=c3027ae9de)
 
 ### SVG
 - [ ] [SVG Clipping](http://sarasoueidan.com/blog/css-svg-clipping/)
@@ -93,7 +94,7 @@
 - [ ] [Wraith & TravisCI](http://blog.kevinlamping.com/easy-ui-regression-testing-with-wraith-and-travisci/)
 
 ### CSS/Sass
-- [ ] [CSS You Can Get Excited About](http://www.webdesignerdepot.com/2015/01/css-you-can-get-excited-about-in-2015/?utm_source=CSS-Weekly&utm_campaign=Issue-144&utm_medium=email)
+- [x] [CSS You Can Get Excited About](http://www.webdesignerdepot.com/2015/01/css-you-can-get-excited-about-in-2015/?utm_source=CSS-Weekly&utm_campaign=Issue-144&utm_medium=email)
 
 ### Etc.
 - [ ] [Isomorphic Js](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)

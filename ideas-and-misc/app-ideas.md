@@ -6,13 +6,13 @@ Things I want to work on, but need to keep out of the main page because its gett
 - [ ] Work on [sassme v2](https://github.com/una/sassme) to scrape the web & get up-to-date content
 - [ ] Focus again on [Sass Gifs](http://sassgifs.com)
 - [ ] Travel Book -- photography & writing
-- [ ] Hand Lettering (Code Calligraphy)
+- [x] Hand Lettering (Code Calligraphy)
 - [ ] Open Source Design
 - [ ] Heiroglyph
 - [ ] Urban Patchwork
 - [ ] Happy Hack
 - [ ] LegibiliMe
-- [ ] Sass Director
+- [x] Sass Director
 
 ## Other Project Ideas (unstarted)
 - [ ] Termoji
@@ -25,3 +25,4 @@ Things I want to work on, but need to keep out of the main page because its gett
 - [ ] A cleaner/more performant Reveal.js
 - [ ] Beautiful wearables (constellations)
 - [ ] Happy Moments Reminder Generator Site
+- [ ] Personal Goals node app (adding things in terminal)

@@ -31,7 +31,10 @@ To-Read
 - [ ] The Biography of Steve Jobs -- Walter Isaacson
 - [ ] The Girl with The Dragon Tattoo
 - [ ] The Martian -- Andy Weir
-- [ ] The Time Machine - H.G. Wells
+- [ ] The Time Machine -- H.G. Wells
+
+- [ ] Thinking, Fast and Slow -- Daniel Kahneman
+- [ ] How to Create a Mind -- Ray Kurzweil
 
 Recommendations
 ---
