@@ -6,11 +6,13 @@
 - [x] [Designing for Front-End Page Speed](https://www.youtube.com/watch?v=RtpVZ5OzJlc&feature=youtu.be) (27 mins)
 - [ ] [Building for Performance and Resiliencee](http://vimeo.com/channels/smashingconf/102347448) (40 mins)
 - [x] [Delivering the Goods with Paul Irish](https://www.youtube.com/watch?v=R8W_6xWphtw) (24 mins)
-- [ ] [Jank Busters](https://www.youtube.com/watch?v=hAzhayTnhEI#t=114)
+- [x] [Jank Busters](https://www.youtube.com/watch?v=hAzhayTnhEI#t=114)
+- [x] [Breaking the 1000ms to Glass Mobile Barrier](https://www.youtube.com/watch?v=Il4swGfTOSM) (46 mins)
 
 ### Web Components
 - [x] [The Road to Web Components](https://www.youtube.com/watch?v=6peu4KporaA) (32 mins)
 - [x] [Web Components: Google I/O 13](https://www.youtube.com/watch?v=fqULJBBEVQE) (32 mins)
+- [ ] [Let's Build Some Apps With Polymer!](https://www.youtube.com/watch?v=kV0hgdMpH28) (28 mins)
 
 ### Testing
 - [ ] [Writing Testable JS](https://www.youtube.com/watch?v=OzjogCFO4Zo) (40 mins)
@@ -35,6 +37,8 @@
 - [x] [Meteor.js & Famo.us](https://www.youtube.com/watch?v=bmd-cXSGQAA&feature=youtu.be)
 - [ ] [Object.observe](http://addyosmani.com/blog/the-future-of-data-binding-is-object-observe/)
 - [ ] [Must-Watch JS Videos List*](https://github.com/AllThingsSmitty/must-watch-javascript)
+- [ ] [Introducing React Native](https://www.youtube.com/watch?v=KVZ-P-ZI6W4) (32 mins)
+- [ ] [Rethinking Best Practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY) (29 mins)
 
 ### Calligraphy
 - [ ] [Roundhand Demo](https://www.youtube.com/watch?v=F4165Pp8uns#t=38)
