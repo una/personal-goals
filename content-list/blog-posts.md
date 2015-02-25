@@ -1,5 +1,7 @@
 # Blog Posts and Resources
 
+## Note: I use Pocket for most things now. You can see my public list [here](http://sharedli.st/ukravets). Also, don't pay attention to the archived, etc. I don't really use all of those features like I should.
+
 ### Node.js
 - [ ] [Web Scraping with Node](http://elifitch.com/blog/simple-web-scraping-node/)
 - [ ] [Command Line Utilities w/Node.js](http://cruft.io/posts/node-command-line-utilities/)
