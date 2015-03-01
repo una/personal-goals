@@ -213,3 +213,23 @@ I got drinks at the East Side Show Room with Rebecca Murphey tonight. She always
 02/23/2015
 ---
 Today at the gym I tried a new thing where I dangle from the machine and lift my legs into an "L". I don't know why but I totally felt like a badass.
+
+02/24/2015
+---
+I hit 2000 followers on Twitter today! How did that happen?!
+
+02/25/2015
+---
+Today Jo brought Georgetown cupcakes into the office. OH my gosh it was such a wonderful surprise and I felt like home <3
+
+02/26/2015
+---
+ATXSass was today. It went really well! I learned tons about toolkit and ligatures on the web.
+
+02/27/2015
+---
+Today my BDConf Talk was put up online for its Nashville conference. I was asked to do it two days ago so it was super quick turn around and very exciting.
+
+02/28/2015
+---
+Cristina was in Austin this weekend and we got breakfast together at 24 diner. A) their veggie frittata is AMAZING, B) it was really fantastic to see a college friend and catch up :)

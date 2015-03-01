@@ -28,13 +28,14 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Blog for Site Point: 5 Uses for Sass Maps
 - [ ] Continue Sassbites visual styling
 - [ ] Learn more about Polymer for Caret Cast site
-- [ ] Submit talk to Front End Design Conf
 - [ ] Seriously read through all of these dev tools [docs](https://developer.chrome.com/devtools/docs/network)
-- [ ] Respond to all PR's
+- [x] Respond to all PR's
 - [ ] Send Garth Sass stickers
 - [x] Read post about [PostCSS](http://benfrain.com/breaking-up-with-sass-postcss/)
 - [x] Move everyones addresses from address book into mac contacts
-- [ ] ATXSass
+- [x] Work on OSD Talk Slides
+- [x] Work on SXSW Talk Slides
+- [x] ATXSass
 
 ### Things I'll Do in the Future:
 - [ ] Set up yeoman generator
