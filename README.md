@@ -16,26 +16,26 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Radiate joy and kindness
 
-# February 22, 2015
+# March 1, 2015
 
-### This Week's Focus: OS Projects
+### This Week's Focus: Slides
 
 ## Things I'll do This Week:
-- [ ] Blog: New Sass workflow with Sass Director
-- [x] Give perf talk to IBM Design Camp
-- [x] Continue working on emojis
-- [x] Watch a video on testing w/Wraith, Phantom, etc.
+
+- [ ] Learn to use a screen reader to navigate the web
+- [ ] Read [this](http://webaim.org/techniques/screenreader/) in that respect
+- [ ] Play with Drawing SVGs in Sass. [This](http://blog.trifork.com/2014/05/14/advanced-theming-dynamic-svg-backgrounds-with-sass-the-right-way/) --> Blog?
+- [ ] Presentation with Lara
+- [ ] Watch [this](https://www.youtube.com/watch?v=i7mrZ_JsA8A)
 - [ ] Blog for Site Point: 5 Uses for Sass Maps
 - [ ] Continue Sassbites visual styling
-- [ ] Learn more about Polymer for Caret Cast site
 - [ ] Seriously read through all of these dev tools [docs](https://developer.chrome.com/devtools/docs/network)
-- [x] Respond to all PR's
-- [ ] Send Garth Sass stickers
-- [x] Read post about [PostCSS](http://benfrain.com/breaking-up-with-sass-postcss/)
-- [x] Move everyones addresses from address book into mac contacts
-- [x] Work on OSD Talk Slides
-- [x] Work on SXSW Talk Slides
-- [x] ATXSass
+- [ ] Blog: New Sass workflow with Sass Director
+- [ ] Buy tickets for Australia
+- [ ] Plan trip to Australia (look at Cairns!)
+- [ ] Finish Slides for CSS Conf AU
+- [ ] Work on slides for workshop with Lara
+- [ ] Finish slides for talk with Ryan
 
 ### Things I'll Do in the Future:
 - [ ] Set up yeoman generator
@@ -67,6 +67,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Create my own, cleaner reveal.js
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
 - [ ] Audiobook version recording of Eloquent Javascript
+- [ ] Learn to use a screen reader to navigate the web
 
 ### Backlog: Side Projects & Other Ideas
 - [Apps & Other Projects](https://github.com/una/personal-goals/tree/master/ideas/app-ideas.md)
