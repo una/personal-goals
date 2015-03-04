@@ -50,10 +50,13 @@
 ### Dev Tools
 - [x] [Google Dev Tools Vids](http://discover-devtools.codeschool.com/)
 
-## Recommendations from Twittersphere
+### Future of Web
+- [ ] [Future of Web is Offline](https://vimeo.com/120474703)
+
+### Recommendations from Twittersphere
 - [x] [What's the Harm in Sorting, by Jenn Schiffer](https://www.youtube.com/watch?v=pj4U_W0OFoE&autoplay=1&app=desktop) (18 mins)
-- [ ] [All Our Yesterdays -- Jeremy Keith](https://vimeo.com/34269615) (46 mins)
+- [x] [All Our Yesterdays -- Jeremy Keith](https://vimeo.com/34269615) (46 mins)
 - [x] [The ROI of Front-end Experiments -- Martin Ringlein](https://www.youtube.com/watch?v=AYrot4U9oLc&app=desktop) (30 mins)
 - [x] [Thinking Beyond Scalable CSS -- Nicolas Gallagher](https://www.youtube.com/watch?v=L8w3v9m6G04) (17 mins)
-- [ ] [10 Principles for effective Front-end Development -- Harry Roberts](https://www.youtube.com/watch?v=8adsZeMQjGQ) (17 mins)
+- [x] [10 Principles for effective Front-end Development -- Harry Roberts](https://www.youtube.com/watch?v=8adsZeMQjGQ) (17 mins)
 - [ ] [What is a CSS Framework Anyway -- Harry Roberts](https://vimeo.com/95734680) (48 mins)

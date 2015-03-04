@@ -25,14 +25,13 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Learn to use a screen reader to navigate the web
 - [ ] Read [this](http://webaim.org/techniques/screenreader/) in that respect
 - [ ] Play with Drawing SVGs in Sass. [This](http://blog.trifork.com/2014/05/14/advanced-theming-dynamic-svg-backgrounds-with-sass-the-right-way/) --> Blog?
-- [ ] Presentation with Lara
 - [ ] Watch [this](https://www.youtube.com/watch?v=i7mrZ_JsA8A)
 - [ ] Blog for Site Point: 5 Uses for Sass Maps
 - [ ] Continue Sassbites visual styling
 - [ ] Seriously read through all of these dev tools [docs](https://developer.chrome.com/devtools/docs/network)
-- [ ] Blog: New Sass workflow with Sass Director
-- [ ] Buy tickets for Australia
-- [ ] Plan trip to Australia (look at Cairns!)
+- [ ] Blog: New Sass workflow with Sass Director (weekend)
+- [x] Buy tickets for Australia
+- [x] Plan trip to Australia (look at Cairns!)
 - [ ] Finish Slides for CSS Conf AU
 - [ ] Work on slides for workshop with Lara
 - [ ] Finish slides for talk with Ryan
