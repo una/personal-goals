@@ -22,19 +22,22 @@ Feel free to add to the list :)
 - [x] How to Win Friends and Influence People -- Dale Carnegie
 - [ ] On the Road -- Jack Kerouak
 
+## March 2015
+- [x] The Biography of Steve Jobs -- Walter Isaacson
+- [ ] Thinking, Fast and Slow -- Daniel Kahneman
+
 To-Read
 ---
 - [ ] City of Thieves -- David Benioff
-- [ ] Lets Explore Diabetes with Owls -- David Sedaris
-- [ ] Hitchhiker's Guide to the Galexy -- Douglas Adams
+- [ ] Let's Explore Diabetes with Owls -- David Sedaris
+- [ ] Hitchhiker's Guide to the Galaxy -- Douglas Adams
 - [ ] Ready Player One -- Ernest Cline
-- [ ] The Biography of Steve Jobs -- Walter Isaacson
 - [ ] The Girl with The Dragon Tattoo
 - [ ] The Martian -- Andy Weir
 - [ ] The Time Machine -- H.G. Wells
-
-- [ ] Thinking, Fast and Slow -- Daniel Kahneman
 - [ ] How to Create a Mind -- Ray Kurzweil
+- [ ] We Are Anonymous -- Parmy Olson
+- [ ] The Art of Deception -- Kevin Mitnick
 
 Recommendations
 ---
