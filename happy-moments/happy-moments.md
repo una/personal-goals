@@ -233,3 +233,31 @@ Today my BDConf Talk was put up online for its Nashville conference. I was asked
 02/28/2015
 ---
 Cristina was in Austin this weekend and we got breakfast together at 24 diner. A) their veggie frittata is AMAZING, B) it was really fantastic to see a college friend and catch up :)
+
+01/01/2015
+---
+It was a very "Seattle" day today. I spent it in one of my favorite coffee shops, Cenote, writing slides and dreaming about Australia.
+
+01/02/2015
+---
+Scott Jehl followed me on Twitter today! :O :D and I bought tickets for Australia!
+
+01/03/2015
+---
+Talking to Lara Hogan always makes me feel so cheerful! Today I learned that she went to the same university and lived in the same apartment complex I did. I was so surprised!
+
+01/04/2015
+---
+My cousin was in town for a conference this week (the first of my family to come visit). I took him to Takoba and we had a great time catching up & eating.
+
+01/05/2015
+---
+Seeing my team pick up code with such enthusiasm is so rewarding! Tonight Britany messaged me excitedly saying she just set up my gulp environment without needing help. #littlewins
+
+01/06/2015
+---
+Ryan and I finished slides for our SXSW talk today. I'm so excited to give it! We have great energy and banter and it's a story I'm really passionate about sharing (designing in the open).
+
+01/07/2015
+---
+Today I went to the animal shelter with some friends and played with dogs! :D I love dogs! It was so hard not to leave with one!
