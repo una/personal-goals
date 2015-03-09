@@ -16,25 +16,24 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Radiate joy and kindness
 
-# March 1, 2015
+# March 8, 2015
 
-### This Week's Focus: Slides
+### This Week's Focus: Prep for SXSW Craziness
 
 ## Things I'll do This Week:
-
+- [ ] Read [this](http://thesassway.com/advanced/cubic-bezier-representation-in-sass) Cubic Bezier Article
+- [ ] Read [this](http://www.miltonglaser.com/files/Essays-10things-8400.pdf) Milton Glaser Essay
+- [ ] Apply to speak at CSS Dev Conf
+- [ ] Blog: Design: An Open Source Workflow
 - [ ] Learn to use a screen reader to navigate the web
 - [ ] Read [this](http://webaim.org/techniques/screenreader/) in that respect
 - [ ] Play with Drawing SVGs in Sass. [This](http://blog.trifork.com/2014/05/14/advanced-theming-dynamic-svg-backgrounds-with-sass-the-right-way/) --> Blog?
-- [x] Watch [this](https://www.youtube.com/watch?v=i7mrZ_JsA8A)
-- [ ] Blog for Site Point: 5 Uses for Sass Maps
 - [ ] Continue Sassbites visual styling
 - [ ] Seriously read through all of these dev tools [docs](https://developer.chrome.com/devtools/docs/network)
 - [ ] Blog: New Sass workflow with Sass Director (weekend)
-- [x] Buy tickets for Australia
-- [x] Plan trip to Australia (look at Cairns!)
 - [ ] Finish Slides for CSS Conf AU
 - [ ] Work on slides for workshop with Lara
-- [x] Finish slides for talk with Ryan
+- [ ] Get a haircut
 
 ### Things I'll Do in the Future:
 - [ ] Set up yeoman generator

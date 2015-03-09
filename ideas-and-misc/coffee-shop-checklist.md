@@ -33,3 +33,4 @@ Gotta catch 'em all.
 - [x] Flat Track
 - [ ] 1886 Cafe & Bakery
 - [ ] Spider House
+- [ ] Patika

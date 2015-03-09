@@ -261,3 +261,7 @@ Ryan and I finished slides for our SXSW talk today. I'm so excited to give it! W
 01/07/2015
 ---
 Today I went to the animal shelter with some friends and played with dogs! :D I love dogs! It was so hard not to leave with one!
+
+01/08/2015
+---
+I met a boy in a coffee shop today. He was drawing a really intricate rendering of a butterfly with pen in a book and we got to talking; turns out he's a petroleum engineer. We had a great chat about art & engineering.
