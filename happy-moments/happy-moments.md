@@ -234,34 +234,75 @@ Today my BDConf Talk was put up online for its Nashville conference. I was asked
 ---
 Cristina was in Austin this weekend and we got breakfast together at 24 diner. A) their veggie frittata is AMAZING, B) it was really fantastic to see a college friend and catch up :)
 
-01/01/2015
+03/03/2015
 ---
 It was a very "Seattle" day today. I spent it in one of my favorite coffee shops, Cenote, writing slides and dreaming about Australia.
 
-01/02/2015
+03/02/2015
 ---
 Scott Jehl followed me on Twitter today! :O :D and I bought tickets for Australia!
 
-01/03/2015
+03/03/2015
 ---
 Talking to Lara Hogan always makes me feel so cheerful! Today I learned that she went to the same university and lived in the same apartment complex I did. I was so surprised!
 
-01/04/2015
+03/04/2015
 ---
 My cousin was in town for a conference this week (the first of my family to come visit). I took him to Takoba and we had a great time catching up & eating.
 
-01/05/2015
+03/05/2015
 ---
 Seeing my team pick up code with such enthusiasm is so rewarding! Tonight Britany messaged me excitedly saying she just set up my gulp environment without needing help. #littlewins
 
-01/06/2015
+03/06/2015
 ---
 Ryan and I finished slides for our SXSW talk today. I'm so excited to give it! We have great energy and banter and it's a story I'm really passionate about sharing (designing in the open).
 
-01/07/2015
+03/07/2015
 ---
 Today I went to the animal shelter with some friends and played with dogs! :D I love dogs! It was so hard not to leave with one!
 
-01/08/2015
+03/08/2015
 ---
 I met a boy in a coffee shop today. He was drawing a really intricate rendering of a butterfly with pen in a book and we got to talking; turns out he's a petroleum engineer. We had a great chat about art & engineering.
+
+03/09/2015
+---
+Today I tweeted something about getting designers to want to learn coding rather than forcing it onto them -- it got 33 RTs and 53 faves!
+
+03/10/2015
+---
+I got my hair cut pretty short again and I absolutely love it. I got a lot of compliments today :D
+
+03/11/2015
+---
+I had a really great conversation with Garth today about the history of Free vs. Open Source. It's really amazing to work so fluidly with a team from such diverse backgrounds with such varying opinions.
+
+03/12/2015
+---
+I got my brows done today and discovered Anastasia brow wiz gel. My brows look great and I feel amazingg! Thanks, Benefit Brow Bar!
+
+03/13/2015
+---
+Gave a lightning talk with Ryan today at IBM's SXSW event. It was so much fun and we got SUCH a great response from everyone, including studio management. who have since asked me to speak more.
+
+03/14/2015
+---
+Day two of SXSW. It was just as crazy as day one. But I got to hang out with and dance with Julie Ann Horvath, who is an amazing dancer by the way!
+
+03/15/2015
+---
+After amazing drinks at the Facebook Factory SXSW happy hour, I went to the Netflix party and met some of the cast of Orange is the New Black! I had a great night dancing with my team and met some really talented devs.
+
+03/16/2015
+---
+I went to a Travelers & Travel Tech Meetup at SXSW today. There were mimosas, fruit, and I met some really awesome travel bloggers. It was so great to share stories!
+
+03/17/2015
+---
+There was a block party at the Trade Show at SXSW today. I got a flashing wine glass (what's better?) and got to play with some awesome upcoming Japanese toy technology.
+
+03/18/2015
+---
+Today I got to relax a tiny bit. I'm working from home, detoxing from SXSW, and trying to get some things done before hosting Erin. It's nice to chill.
+

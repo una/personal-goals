@@ -9,13 +9,13 @@ Feel free to add to the list :)
 - [x] 1984 -- George Orwell
 - [x] Me Talk Pretty One Day -- David Sedaris
 - [x] Ender's Game -- Orson Scott Card
-- [ ] Yes Please! -- Amy Poehler
+- [ ] Yes Please! -- Amy Poehler <-- got bored, stopped
 
 ## February 2015
 
 - [x] Weaving the Web -- Tim Berners-Lee
 - [x] The Book Thief -- Markus Zusak
-- [ ] Freakonomics -- Stephen J. Dubner & Steven D. Levitt
+- [ ] Freakonomics -- Stephen J. Dubner & Steven D. Levitt <-- subscription ran out
 - [x] Ghost in The Wires -- Kevin Mitnick
 - [x] Outliers -- Malcolm Gladwell
 - [x] The Scorch Trials -- James Dashner (Maze Runner Sequel)
@@ -25,7 +25,8 @@ Feel free to add to the list :)
 ## March 2015
 - [x] The Biography of Steve Jobs -- Walter Isaacson
 - [ ] Thinking, Fast and Slow -- Daniel Kahneman
-- [ ] How to Create a Mind -- Ray Kurzweil
+- [ ] How to Create a Mind -- Ray Kurzweil <-- got bored, stopped
+- [x] The Innovators -- Walter Isaacson
 
 To-Read
 ---
