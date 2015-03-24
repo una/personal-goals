@@ -16,21 +16,21 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Radiate joy and kindness
 
-# March 15, 2015
+# March 21, 2015
 
-### This Week's Focus: Post SX, Pre AU
+### This Week's Focus: CSS Conf AU
 
 ## Things I'll do This Week:
-- [ ] Read [this](http://addyosmani.com/blog/removing-unused-css/?utm_source=html5weekly&utm_medium=email)
-- [ ] Send IBM Stickers to Adam Onishi
-- [ ] Send screen print to Adi
-- [ ] Update site to include sitepoint article
-- [ ] Create Invoice
-- [ ] Blog: Design: An Open Source Workflow
-- [ ] Learn to use a screen reader to navigate the web
-- [ ] Read [this](http://webaim.org/techniques/screenreader/) in that respect
-- [ ] Play with Drawing SVGs in Sass. [This](http://blog.trifork.com/2014/05/14/advanced-theming-dynamic-svg-backgrounds-with-sass-the-right-way/) --> Blog?
-- [ ] Continue Sassbites visual styling
+- [x] Get to Australia
+- [x] Relax a bit in Sydney
+- [ ] Practice slides for CSS Conf AU
+- [ ] Give talk at CSS Conf AU
+- [ ] Selfie with a Koala
+- [x] Watch Addy Osmani's State of Dev Tools Video
+- [ ] Implement unused CSS gulp task
+- [ ] Send IBM Stickers to Adam Onishi (not this week, but keeping it in cue for home)
+- [ ] Send screen print to Adi (not this week, but keeping it in cue for home)
+- [ ] Finish Blog: Design: An Open Source Workflow
 - [ ] Seriously read through all of these dev tools [docs](https://developer.chrome.com/devtools/docs/network)
 - [ ] Blog: New Sass workflow with Sass Director
 - [ ] Work on slides for workshop with Lara
@@ -39,11 +39,10 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Set up yeoman generator
 - [ ] Learn about web scraping with node
 - [ ] Write a post for the Sass Way
-- [ ] Help Jesse w/design for [The Q](http://the--q.herokuapp.com/jshawl/css)
-- [ ] Get [Source Maps](http://www.sitepoint.com/using-source-maps-debug-sass-chrome/) Working &mdash; [source maps & gulp](https://github.com/floridoo/gulp-sourcemaps)
+- [x] Get [Source Maps](http://www.sitepoint.com/using-source-maps-debug-sass-chrome/) Working &mdash; [source maps & gulp](https://github.com/floridoo/gulp-sourcemaps)
 - [ ] Create Singularity Examples bc [the cons here](http://web-design-weekly.com/2014/04/06/grid-frameworks-sass/)
 - [ ] Add search & tagging functionality to blog
-- [ ] Begin to Read Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
+- [ ] Read all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 - [ ] Make Visual model of [this](http://ilikekillnerds.com/2014/07/what-a-front-end-developer-workflow-looks-like-in-20142015/) for blog post
 - [ ] Read Eloquent JavaScript
 - [ ] Create [Grand Budapest Hotel](https://www.behance.net/gallery/16495771/The-Grand-Budapest-Hotel-Flat) in CSS
@@ -51,9 +50,9 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Go through this talk I missed: http://anthonydispezio.com/sassconf2014/
 - [ ] Play with [Velocity.js](http://www.smashingmagazine.com/2014/06/18/faster-ui-animations-with-velocity-js/)
 - [x] Learn about & try out Meteor.js & Famo.us
-- [ ] Skillshare classes about hand lettering
+- [x] Skillshare classes about hand lettering
 - [ ] Look at [Myth](http://www.myth.io/) & Rework
-- [ ] Learn about [Phantom JS](http://phantomjs.org/)
+- [x] Learn about [Phantom JS](http://phantomjs.org/)
 - [ ] Use [Polymer](https://www.polymer-project.org/) to build web components
 - [ ] CodeSchool Javascript Best Practices course (& finish JS)
 - [x] Learn about [Require.js](http://requirejs.org/)

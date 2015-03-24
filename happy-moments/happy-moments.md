@@ -306,3 +306,22 @@ There was a block party at the Trade Show at SXSW today. I got a flashing wine g
 ---
 Today I got to relax a tiny bit. I'm working from home, detoxing from SXSW, and trying to get some things done before hosting Erin. It's nice to chill.
 
+03/19/2015
+---
+Went to Takoba with Erin for lunch and then just walked around East 6th street. We ended up walking into this awesome punk rock show with a big half pipe and it was pretty awesome.
+
+03/20/2015
+---
+Erin and I went to this event called Kegs and Eggs by Comedy Central where we had delicious free breakfast tacos and beer.
+
+03/21/2015
+---
+I got in a Twitter fight with someone today over men making decisions for women in tech. It was frustrating but a lot of his friends DMed me and told me they were in support of me and how I stood up to him.
+
+03/22/2015
+---
+I spent this entire day flying. And I slept on the entire plane ride, which was pretty great.
+
+03/23/2015
+---
+I walked all over Sydney today. After I landed I was on the prowl for eyeshadow and got my makeup done at a maekup store and the woman rejuvinated my skin. Amazing.
