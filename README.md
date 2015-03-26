@@ -23,13 +23,14 @@ Personal goals made open source for accessibility across computers I use, transp
 ## Things I'll do This Week:
 - [x] Get to Australia
 - [x] Relax a bit in Sydney
-- [ ] Practice slides for CSS Conf AU
+- [x] Practice slides for CSS Conf AU
 - [ ] Give talk at CSS Conf AU
-- [ ] Selfie with a Koala
+- [ ] Photo with a Koala
 - [x] Watch Addy Osmani's State of Dev Tools Video
 - [ ] Implement unused CSS gulp task
-- [ ] Send IBM Stickers to Adam Onishi (not this week, but keeping it in cue for home)
-- [ ] Send screen print to Adi (not this week, but keeping it in cue for home)
+- - - On Hold Until Home: - - -
+- [ ] Send IBM Stickers to Adam Onishi
+- [ ] Send screen print to Adi
 - [ ] Finish Blog: Design: An Open Source Workflow
 - [ ] Seriously read through all of these dev tools [docs](https://developer.chrome.com/devtools/docs/network)
 - [ ] Blog: New Sass workflow with Sass Director

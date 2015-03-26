@@ -24,21 +24,22 @@ Feel free to add to the list :)
 
 ## March 2015
 - [x] The Biography of Steve Jobs -- Walter Isaacson
-- [ ] Thinking, Fast and Slow -- Daniel Kahneman
+- [ ] Thinking, Fast and Slow -- Daniel Kahneman <-- got bored, stopped
 - [ ] How to Create a Mind -- Ray Kurzweil <-- got bored, stopped
 - [x] The Innovators -- Walter Isaacson
+- [ ] The Art of Deception -- Kevin Mitnick
+- [ ] Ready Player One -- Ernest Cline
 
 To-Read
 ---
 - [ ] City of Thieves -- David Benioff
 - [ ] Let's Explore Diabetes with Owls -- David Sedaris
 - [ ] Hitchhiker's Guide to the Galaxy -- Douglas Adams
-- [ ] Ready Player One -- Ernest Cline
 - [ ] The Girl with The Dragon Tattoo
 - [ ] The Martian -- Andy Weir
 - [ ] The Time Machine -- H.G. Wells
 - [ ] We Are Anonymous -- Parmy Olson
-- [ ] The Art of Deception -- Kevin Mitnick
+
 
 Recommendations
 ---
