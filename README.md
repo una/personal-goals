@@ -16,7 +16,8 @@ This Week's Focus: Refocus
 
 ## Things I'll do This Week:
 - [ ] Update portfolio
-- [ ] Finish a codeacademy course
+- [ ] Finish a codeacademy course 
+- [ ] Look into [this.](https://html5boilerplate.com/)
 
 ### Backlog: Side Projects & Other Ideas
 - [Backlog Reading List](https://github.com/una/personal-goals/tree/master/content-list)
