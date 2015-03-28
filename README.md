@@ -12,7 +12,7 @@ Personal goals made open source for accessibility across computers I use, transp
 
 # March 21, 2015
 
-### This Week's Focus: Refocus
+This Week's Focus: Refocus
 
 ## Things I'll do This Week:
 - [ ] Update portfolio
