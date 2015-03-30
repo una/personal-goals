@@ -16,25 +16,23 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Radiate joy and kindness
 
-# March 21, 2015
+# March 29, 2015
 
-### This Week's Focus: CSS Conf AU
+### This Week's Focus: Cairns
 
 ## Things I'll do This Week:
-- [x] Get to Australia
-- [x] Relax a bit in Sydney
-- [x] Practice slides for CSS Conf AU
-- [ ] Give talk at CSS Conf AU
-- [ ] Photo with a Koala
-- [x] Watch Addy Osmani's State of Dev Tools Video
+- [ ] Hang out in Cairns
+- [ ] Apply to Speak at CSSConfs
+- [ ] Go to the Daintree Rainforest
+- [ ] Refactor some slides for Camp Sass
+- [ ] Give talk at Camp Sass
+- [ ] Go snorkeling on the Great Barrier Reef
+- [ ] Finish slides for Lara talk
+- [ ] Play with gooey SVG
 - [ ] Implement unused CSS gulp task
-- - - On Hold Until Home: - - -
-- [ ] Send IBM Stickers to Adam Onishi
-- [ ] Send screen print to Adi
-- [ ] Finish Blog: Design: An Open Source Workflow
 - [ ] Seriously read through all of these dev tools [docs](https://developer.chrome.com/devtools/docs/network)
 - [ ] Blog: New Sass workflow with Sass Director
-- [ ] Work on slides for workshop with Lara
+
 
 ### Things I'll Do in the Future:
 - [ ] Set up yeoman generator

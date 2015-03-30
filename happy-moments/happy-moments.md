@@ -308,7 +308,7 @@ Today I got to relax a tiny bit. I'm working from home, detoxing from SXSW, and 
 
 03/19/2015
 ---
-Went to Takoba with Erin for lunch and then just walked around East 6th street. We ended up walking into this awesome punk rock show with a big half pipe and it was pretty awesome.
+I Went to Takoba with Erin for lunch and then just walked around East 6th street. We ended up walking into this awesome punk rock show with a big half pipe and it was pretty awesome.
 
 03/20/2015
 ---
@@ -325,3 +325,28 @@ I spent this entire day flying. And I slept on the entire plane ride, which was 
 03/23/2015
 ---
 I walked all over Sydney today. After I landed I was on the prowl for eyeshadow and got my makeup done at a maekup store and the woman rejuvinated my skin. Amazing.
+
+03/24/2015
+---
+Went to the Sydney Aquarium today with one of my hostel roomates. It was so well done and a lot of fun :)
+
+03/25/2015
+---
+I spent the morning at Bondi Beach and really enjoyed it :) I love how active Sydney is.
+
+03/26/2015
+---
+Today was the first day of CSS Conf AU! I had a really awesome time chatting with and getting to know the other attendees and speakers!
+
+03/27/2015
+---
+I gave my talk at CSS Conf AU today. It went pretty well and I got so much great, positive feedback. Such a rewarding experience.
+
+03/28/2015
+---
+I stayed up until 3 AM chatting with some of the other CSS Conf AU speakers (Kenneth, Thomas, Andrew, and Mike). I love this part of travel and meeting people -- really insightful late-night conversation.
+
+03/29/2015
+---
+The organizers and CSS Conf AU speakers went to the Healesville Sanctuary today (which was unbelieveable) and afterward there was a fun hat party on Glen's rooftop. Australians are so much fun.
+
