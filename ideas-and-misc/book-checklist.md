@@ -27,8 +27,11 @@ Feel free to add to the list :)
 - [ ] Thinking, Fast and Slow -- Daniel Kahneman <-- got bored, stopped
 - [ ] How to Create a Mind -- Ray Kurzweil <-- got bored, stopped
 - [x] The Innovators -- Walter Isaacson
-- [ ] The Art of Deception -- Kevin Mitnick
-- [ ] Ready Player One -- Ernest Cline
+- [ ] The Art of Deception -- Kevin Mitnick <-- got bored, stopped
+- [x] Ready Player One -- Ernest Cline
+
+## April 2015
+- [ ] We Are Anonymous -- Parmy Olson
 
 To-Read
 ---
@@ -38,8 +41,6 @@ To-Read
 - [ ] The Girl with The Dragon Tattoo
 - [ ] The Martian -- Andy Weir
 - [ ] The Time Machine -- H.G. Wells
-- [ ] We Are Anonymous -- Parmy Olson
-
 
 Recommendations
 ---

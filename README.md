@@ -21,12 +21,12 @@ Personal goals made open source for accessibility across computers I use, transp
 ### This Week's Focus: Cairns
 
 ## Things I'll do This Week:
-- [ ] Hang out in Cairns
+- [x] Hang out in Cairns
 - [ ] Apply to Speak at CSSConfs
-- [ ] Go to the Daintree Rainforest
+- [x] Go to the Daintree Rainforest
 - [ ] Refactor some slides for Camp Sass
 - [ ] Give talk at Camp Sass
-- [ ] Go snorkeling on the Great Barrier Reef
+- [x] Go snorkeling on the Great Barrier Reef
 - [ ] Finish slides for Lara talk
 - [ ] Play with gooey SVG
 - [ ] Implement unused CSS gulp task
