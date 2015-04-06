@@ -16,22 +16,26 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Radiate joy and kindness
 
-# March 29, 2015
+# April 5, 2015
 
 ### This Week's Focus: Cairns
 
 ## Things I'll do This Week:
-- [x] Hang out in Cairns
-- [ ] Apply to Speak at CSSConfs
-- [x] Go to the Daintree Rainforest
-- [ ] Refactor some slides for Camp Sass
-- [ ] Give talk at Camp Sass
-- [x] Go snorkeling on the Great Barrier Reef
-- [ ] Finish slides for Lara talk
+- [ ] Apply to Speak at CSSConf
+- [ ] Figure out whats going on w/Perf talk with Lara
+- [ ] Send IBM Stickers to Adam Onishi
+- [ ] Send screen print to Adi
+- [ ] Talk Proposal: Making a Game Plan for Winning CSS
 - [ ] Play with gooey SVG
 - [ ] Implement unused CSS gulp task
 - [ ] Seriously read through all of these dev tools [docs](https://developer.chrome.com/devtools/docs/network)
-- [ ] Blog: New Sass workflow with Sass Director
+- [ ] Blog: New Sass workflow with Sass
+- [ ] Blog: Dont Fear the Terminal
+- [ ] Blog: OSD Workflow
+- [ ] Chat w/Rebecca about branding/site
+- [ ] Prepare for Adv. Sass Workshop -- build repo
+- [ ] Make a gameplan for how to make a typeface
+- [ ] Make some progress on Sassbit.es
 
 
 ### Things I'll Do in the Future:
@@ -55,8 +59,8 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Use [Polymer](https://www.polymer-project.org/) to build web components
 - [ ] CodeSchool Javascript Best Practices course (& finish JS)
 - [x] Learn about [Require.js](http://requirejs.org/)
-- [ ] Look into [Harp](http://harpjs.com/)
-- [ ] Play with slack [bots](https://api.slack.com/bot-users) and its [node API](https://github.com/slackhq/node-slack-client)
+- [x] Look into [Harp](http://harpjs.com/)
+- [x] Play with slack [bots](https://api.slack.com/bot-users) and its [node API](https://github.com/slackhq/node-slack-client)
 - [ ] [Picturefill](http://scottjehl.github.io/picturefill/) my portfolio
 - [x] Grunt [Perf Budget](https://www.npmjs.com/package/grunt-perfbudget) or [Page Speed Insights](https://www.npmjs.com/package/psi)
 - [ ] Build something cool with Arduino

@@ -350,3 +350,26 @@ I stayed up until 3 AM chatting with some of the other CSS Conf AU speakers (Ken
 ---
 The organizers and CSS Conf AU speakers went to the Healesville Sanctuary today (which was unbelieveable) and afterward there was a fun hat party on Glen's rooftop. Australians are so much fun.
 
+03/30/2015
+---
+I arrived in Cairns today. What a beautiful, tropical little town full of backpackers. I went to the Esplanade to relax a bit and got into a conversation with other travelers. I love how when traveling alone you're never really alone.
+
+03/31/2015
+---
+Today was absolutely brilliant on so many levels. I did a day-trip to Cape Tribulation, through the Daintree Rainforest, and around the north Australian Wetlands. The drive along the coast on the way home was my favorite thing.
+
+04/01/2015
+---
+I snorkled the Great Barrier Reef today. It was amazing. There were so many little (and very big!) fish in a variety of pastel and neon shades swimming around and nibbling at the corals.
+
+04/02/2015
+---
+Today I did a really fun tour with
+
+04/03/2015
+---
+Today was a very long day of traveling but I ended up in Atlanta and had a pre-conference dinner with the Sass Camp folks. Great conversations and it was so nice to see everyone!
+
+04/04/2015
+---
+Today was Camp Sass! It was such a fun time! I ended up dancing to "Shake it Off" with Hampton Catlin at some point after the conference on stage :P
