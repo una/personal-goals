@@ -70,7 +70,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Learn to use a screen reader to navigate the web
 
 ### Backlog: Side Projects & Other Ideas
-- [Apps & Other Projects](https://github.com/una/personal-goals/tree/master/ideas/app-ideas.md)
-- [Blog Post Ideas](https://github.com/una/personal-goals/blob/master/blog-posts/blog-ideas.md)
+- [Apps & Other Projects](https://github.com/una/personal-goals/blob/master/ideas-and-misc/app-ideas.md)
+- [Blog Post Ideas](https://github.com/una/personal-goals/blob/master/ideas-and-misc/blog-ideas.md)
 - [Backlog Reading List](https://github.com/una/personal-goals/tree/master/content-list)
 
