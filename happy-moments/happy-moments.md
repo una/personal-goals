@@ -373,3 +373,11 @@ Today was a very long day of traveling but I ended up in Atlanta and had a pre-c
 04/04/2015
 ---
 Today was Camp Sass! It was such a fun time! I ended up dancing to "Shake it Off" with Hampton Catlin at some point after the conference on stage :P
+
+04/05/2015
+---
+Three Words: Dark Chocolate TimTams. I need to mention how happy they're making me before I realize how fat they're making me 😁
+
+04/06/2015
+---
+I went to Gloria's for happy hour after work today with Ryan, Matt, and Moody. Great drinks, great food, and great company (plus nerd chatter, my favorite type of chatter).

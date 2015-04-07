@@ -33,8 +33,8 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Blog: Dont Fear the Terminal
 - [ ] Blog: OSD Workflow
 - [ ] Chat w/Rebecca about branding/site
-- [ ] Prepare for Adv. Sass Workshop -- build repo
-- [ ] Make a gameplan for how to make a typeface
+- [x] Prepare for Adv. Sass Workshop -- build repo
+- [x] Make a gameplan for how to make a typeface
 - [ ] Make some progress on Sassbit.es
 
 
