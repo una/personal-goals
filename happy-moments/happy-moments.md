@@ -364,7 +364,7 @@ I snorkled the Great Barrier Reef today. It was amazing. There were so many litt
 
 04/02/2015
 ---
-Today I did a really fun tour with
+Today I did a really fun tour throughout the Tablelands a bit southwest of Cairns. We swam under a few beautiful waterfalls and did some short hikes. I'm constantly amazed by Australia's beauty.
 
 04/03/2015
 ---
@@ -381,3 +381,9 @@ Three Words: Dark Chocolate TimTams. I need to mention how happy they're making 
 04/06/2015
 ---
 I went to Gloria's for happy hour after work today with Ryan, Matt, and Moody. Great drinks, great food, and great company (plus nerd chatter, my favorite type of chatter).
+
+04/07/2015
+---
+Ryan and I kicked ass at work today, teaming up to make an encapsulated SVG animated Watson logo that responded to JS triggers!
+
+04/08/2015

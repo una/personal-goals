@@ -25,17 +25,17 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Figure out whats going on w/Perf talk with Lara
 - [ ] Send IBM Stickers to Adam Onishi
 - [ ] Send screen print to Adi
-- [ ] Talk Proposal: Making a Game Plan for Winning CSS
-- [ ] Play with gooey SVG
+- [ ] Write Up New Talk Proposals
+- [x] Play with gooey SVG
 - [ ] Implement unused CSS gulp task
 - [ ] Seriously read through all of these dev tools [docs](https://developer.chrome.com/devtools/docs/network)
-- [ ] Blog: New Sass workflow with Sass
+- [ ] Blog: New Sass workflow with Sass Director
 - [ ] Blog: Dont Fear the Terminal
 - [ ] Blog: OSD Workflow
 - [ ] Chat w/Rebecca about branding/site
 - [x] Prepare for Adv. Sass Workshop -- build repo
 - [x] Make a gameplan for how to make a typeface
-- [ ] Make some progress on Sassbit.es
+- [x] Make some progress on Sassbit.es
 
 
 ### Things I'll Do in the Future:
