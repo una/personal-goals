@@ -31,7 +31,9 @@ Feel free to add to the list :)
 - [x] Ready Player One -- Ernest Cline
 
 ## April 2015
-- [ ] We Are Anonymous -- Parmy Olson
+- [x] We Are Anonymous -- Parmy Olson
+- [x] The Time Machine -- H.G. Wells
+- [x] The Death Cure -- James Dashner (Maze Runner Sequel)
 
 To-Read
 ---
@@ -40,7 +42,7 @@ To-Read
 - [ ] Hitchhiker's Guide to the Galaxy -- Douglas Adams
 - [ ] The Girl with The Dragon Tattoo
 - [ ] The Martian -- Andy Weir
-- [ ] The Time Machine -- H.G. Wells
+
 
 Recommendations
 ---

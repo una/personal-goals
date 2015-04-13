@@ -387,3 +387,21 @@ I went to Gloria's for happy hour after work today with Ryan, Matt, and Moody. G
 Ryan and I kicked ass at work today, teaming up to make an encapsulated SVG animated Watson logo that responded to JS triggers!
 
 04/08/2015
+---
+I chatted with Rebecca today about her vision for the brand of her new podcast. I started designing immediately, playing with CSS blend modes and animation :D fun fun
+
+04/09/2015
+---
+Today I went to Curra's and had a great lunch with my Watson team to commemorate my last day there right before I flew home and surprised my Mom. We had margaritas and mexican food: my two favorites (the margs were fantastic)
+
+04/10/2015
+---
+I saw Liza today! We met up for coffee and caught up and I got to meet her new boyfriend and it was wonderful :)
+
+04/11/2015
+---
+I judged colorwar at Bitcamp today. It was definitely fun to do some live commentary on peoples' hacks.
+
+04/12/2015
+---
+I woke up to Lucy (my dog who lives with my parents in Baltimore) sleeping at my feet today in my bed (which I don't experience very often anymore). She always makes me happy :)
