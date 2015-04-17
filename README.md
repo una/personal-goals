@@ -9,16 +9,3 @@ Personal goals made open source for accessibility across computers I use, transp
 3. Appreciate the talented people in my life and learn as much as possible from them.
 4. Participate in more meet ups and conferences.
 5. Play more Starcraft 2 (and kick ass)
-
-# March 21, 2015
-
-This Week's Focus: Refocus
-
-## Things I'll do This Week:
-- [ ] Update portfolio
-- [ ] Finish a codeacademy course 
-- [ ] Look into [this.](https://html5boilerplate.com/)
-
-### Backlog: Side Projects & Other Ideas
-- [Backlog Reading List](https://github.com/una/personal-goals/tree/master/content-list)
-

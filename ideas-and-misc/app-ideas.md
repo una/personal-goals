@@ -1,28 +1,13 @@
 # App & Project Ideas
 
-Things I want to work on, but need to keep out of the main page because its getting a bit crowded.
+Things I want to work on.
 
 ## Side Projects I've Started
-- [ ] Work on [sassme v2](https://github.com/una/sassme) to scrape the web & get up-to-date content
-- [ ] Focus again on [Sass Gifs](http://sassgifs.com)
-- [ ] Travel Book -- photography & writing
-- [x] Hand Lettering (Code Calligraphy)
+- [ ] Personal portfolio- coded from scratch and using Jekyll
+- [ ] Photography- Hand painted signage around the country
+- [ ] Hand Lettering
 - [ ] Open Source Design
-- [ ] Heiroglyph
-- [ ] Urban Patchwork
-- [ ] Happy Hack
-- [ ] LegibiliMe
-- [x] Sass Director
+- [ ] Kin & Comfort
 
 ## Other Project Ideas (unstarted)
-- [ ] Termoji
-- [ ] Contribution Graph IRL
-- [ ] Resumaker
-- [ ] Typeface
-- [ ] Slack bot for work
-- [ ] Pattern Page (oh yeah, thepatternproject.com)
-- [ ] Happy Moments App
-- [ ] A cleaner/more performant Reveal.js
-- [ ] Beautiful wearables (constellations)
-- [ ] Happy Moments Reminder Generator Site
-- [ ] Personal Goals node app (adding things in terminal)
+- [ ] City Icons
