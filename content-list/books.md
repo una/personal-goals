@@ -9,7 +9,6 @@
 
 ### User Research
 - [ ] [Observing the User Experience: A Practitioner's Guide to User Research](http://www.amazon.com/Observing-User-Experience-Second-Edition/dp/0123848695#)
-- [ ] 
 
 ### Product Design
 - [ ] [Hidden in Plain Sight: How to Create Extraordinary Products for Tomorrow's Customers](http://www.amazon.com/Hidden-Plain-Sight-Extraordinary-Tomorrows/dp/0062125699/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20)
