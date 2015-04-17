@@ -5,7 +5,6 @@
 
 ### Microinteractions
 - [ ] [Microinteractions: Designing with Details](http://microinteractions.com/about-the-book/)
-- [ ] [Carons book]
 
 ### User Research
 - [ ] [Observing the User Experience: A Practitioner's Guide to User Research](http://www.amazon.com/Observing-User-Experience-Second-Edition/dp/0123848695#)
