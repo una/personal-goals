@@ -18,19 +18,19 @@ Personal goals made open source for accessibility across computers I use, transp
 
 # April 12, 2015
 
-### This Week's Focus: Workshop & Brand
+### This Week's Focus: Blog
 
 ## Things I'll do This Week:
 - [ ] Read and Record Audio For [SVG Pocket Guide](http://svgpocketguide.com/book/)
 - [ ] #BOSS tshirt
 - [ ] Adv. Sass workshop planning
 - [ ] Send Lara email
-- [ ] Implement unused CSS gulp task
+- [x] Implement unused CSS gulp task
 - [ ] Blog: New Sass workflow with Sass Director
 - [ ] Blog: Dont Fear the Terminal
 - [ ] Blog: OSD Workflow
 - [ ] Send screen print to Adi
-- [ ] Apply to Speak at CSSConf
+- [x] Apply to Speak at CSSConf
 - [ ] Book flight for PEERS
 - [ ] Go over talk for PEERS
 - [ ] Finish advanced Sass workshop

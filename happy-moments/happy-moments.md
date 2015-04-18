@@ -405,3 +405,23 @@ I judged colorwar at Bitcamp today. It was definitely fun to do some live commen
 04/12/2015
 ---
 I woke up to Lucy (my dog who lives with my parents in Baltimore) sleeping at my feet today in my bed (which I don't experience very often anymore). She always makes me happy :)
+
+04/13/2015
+---
+Today was my first day on the Bluemix team! We all went to get pho for lunch and it was just so nice to feel appreciated and like an important team member.
+
+04/14/2015
+---
+Back to the gym today! It sucks when you haven’t gone in a while, but it felt really good to be back (finally).
+
+04/15/2015
+---
+When I got home from the gym today, it was still light out and super warm! So I ended up going on the rooftop of my apartment and blogging and watching the sun set over the city :)
+
+04/16/2015
+---
+Today was this event called Party in the Park at IBM. It was actually really fun. I just went for a bit during the day, one of my coworkers was DJing and there was free wine.
+
+04/17/2015
+---
+Ryan announced that he accepted the offer from Facebook today. I know this sounds like a strange “Happy Moment” but I really AM super happy and excited for him! I know he’s been wanting this!

@@ -24,7 +24,6 @@ Feel free to add to the list :)
 
 ## March 2015
 - [x] The Biography of Steve Jobs -- Walter Isaacson
-- [ ] Thinking, Fast and Slow -- Daniel Kahneman <-- got bored, stopped
 - [ ] How to Create a Mind -- Ray Kurzweil <-- got bored, stopped
 - [x] The Innovators -- Walter Isaacson
 - [ ] The Art of Deception -- Kevin Mitnick <-- got bored, stopped
@@ -34,6 +33,8 @@ Feel free to add to the list :)
 - [x] We Are Anonymous -- Parmy Olson
 - [x] The Time Machine -- H.G. Wells
 - [x] The Death Cure -- James Dashner (Maze Runner Sequel)
+- [x] Copyright vs Community -- Richard Stallman
+- [ ] Thinking, Fast and Slow -- Daniel Kahneman <-- got bored, stopped
 
 To-Read
 ---
@@ -42,7 +43,18 @@ To-Read
 - [ ] Hitchhiker's Guide to the Galaxy -- Douglas Adams
 - [ ] The Girl with The Dragon Tattoo
 - [ ] The Martian -- Andy Weir
-
+- [ ] No Place to Hide -- Glen Greenwald
+- [ ] The Drunken Botanist -- Amy Stewart
+- [ ] What If: Serious Scientific Answers to Absurd Hypothetical Questions -- Randall Munroe
+- [ ] Decisive
+- [ ] The Art of Asking -- Amanda Palmer
+- [ ] Alan Turing -- Andrew Hodges
+- [ ] Abundance -- Peter H. Diamandis
+- [ ] Enchanted Objects -- David Rose
+- [ ] Revival -- Stephen King
+- [ ] Rich Dad, Poor Dad -- Robert Kiyosaki
+- [ ] Revolution -- Russell Brand
+- [ ] One More Thing -- B.J. Novak
 
 Recommendations
 ---
