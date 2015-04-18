@@ -10,3 +10,4 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Contribute to Open Source
 5. Appreciate the talented people in my life and learn as much as possible from them
 6. Play more Starcraft 2 (and not suck)
+7. Teach another designer code <3
