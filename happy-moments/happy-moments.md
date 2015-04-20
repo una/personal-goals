@@ -425,3 +425,11 @@ Today was this event called Party in the Park at IBM. It was actually really fun
 04/17/2015
 ---
 Ryan announced that he accepted the offer from Facebook today. I know this sounds like a strange “Happy Moment” but I really AM super happy and excited for him! I know he’s been wanting this!
+
+04/18/2015
+---
+Oh man, today was super productive. I picked up Harp and EJS to build and design a base homepage for the TTL podcast in 4 hours. Feeling very happy about that.
+
+04/19/2015
+---
+I got brunch today (at Takoba) for the first time in a long time :) It was so nice! Mimosa carafes and migas. Yum.
