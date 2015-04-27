@@ -433,3 +433,22 @@ Oh man, today was super productive. I picked up Harp and EJS to build and design
 04/19/2015
 ---
 I got brunch today (at Takoba) for the first time in a long time :) It was so nice! Mimosa carafes and migas. Yum.
+
+04/20/2015
+---
+Today I went to Kona Grill for lunch with most of the Bluemix team. The food was SO yum. I'm really enjoying being on this new team.
+
+04/21/2015
+---
+OMG! Today I found out I'll be going to Italy to speak at Front End Conf!
+
+04/22/2015
+---
+I had a carrot cake muffin today at work :) it was so yummy! I forgot how much I love carrot cake.
+
+04/23/2015
+---
+A girl who goes to ATX Sass messaged me later and said thank you for hosting the meetup & that it made an impact in her life. Those small things really remind me why I do it.
+
+04/24/2015
+---

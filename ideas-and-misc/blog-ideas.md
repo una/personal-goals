@@ -20,4 +20,4 @@
 - Vagrant + Craft -- Setting up a team envrionment for Craft
 - SemVer for people who are confued by [this](http://semver.org/) <-- Semantic Versioning
 - Using SassDoc
-- Making Terminal Less Intimidating
+- ~~Making Terminal Less Intimidating~~

@@ -16,27 +16,22 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Radiate joy and kindness
 
-# April 19, 2015
+# April 26, 2015
 
-### This Week's Focus: TTL & PEERS
+### This Week's Focus: PEERS
 
 ## Things I'll do This Week:
-- [ ] Apply to Speak at CSSConf
-- [ ] Give Adv. Sass Workshop at IBM (run-through)
-- [ ] Book flight to PEERS
-- [ ] Work on collab with Ana
-- [ ] Send letter to Lara
-- [ ] #BOSS tshirt
-- [ ] Blog: New Sass workflow with Sass Director
-- [ ] Send screen print to Adi
-- [ ] Book flight for PEERS
-- [ ] Finish advanced Sass workshop
+- [ ] Read and Record Audio For [SVG Pocket Guide](http://svgpocketguide.com/book/)
+- [ ] Topic for ALA Article
+- [ ] Read [this](https://jonsuh.com/blog/need-for-speed-2/) article
+- [ ] Read [this](http://carlcheo.com/compsci) too
+- [ ] Watch [this](http://aerotwist.com/blog/moar-performance/) video on performance
 - [ ] Practice PEERS talk
 - [ ] Work on Sassbit.es video
-- [ ] ATX Sass!
-- [ ] Sketchnoting Alterconf
-- [ ] Work on TTL Design
-- [ ] #the100DayProject
+- [ ] Blog: New Sass workflow with Sass Director
+- [ ] Apply to Speak at CSSConf/ CodeConf with Ryan
+- [ ] Give Adv. Sass Workshop at IBM (run-through)
+- [ ] Give PEERS Conf Talk
 
 ### Things I'll Do in the Future:
 - [ ] Set up yeoman generator
