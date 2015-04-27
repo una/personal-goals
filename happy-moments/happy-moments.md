@@ -452,3 +452,12 @@ A girl who goes to ATX Sass messaged me later and said thank you for hosting the
 
 04/24/2015
 ---
+Today was a happy hour for the Bluemix newbies (that's me!). What was even more fun was doing a bit of shopping with coworkers afterward.
+
+04/25/2015
+---
+I woke up early today to work out in the apartment gym before going to AlterConf. It felt SO good.
+
+04/26/2015
+---
+I love Game of Thrones nights at Troy's. Tonight was no exception :) it was a really funny episode.
