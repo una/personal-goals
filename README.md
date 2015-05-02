@@ -25,13 +25,14 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Topic for ALA Article
 - [ ] Read [this](https://jonsuh.com/blog/need-for-speed-2/) article
 - [ ] Read [this](http://carlcheo.com/compsci) too
-- [ ] Watch [this](http://aerotwist.com/blog/moar-performance/) video on performance
-- [ ] Practice PEERS talk
+- [x] Watch [this](http://aerotwist.com/blog/moar-performance/) video on performance
+- [x] Practice PEERS talk
 - [ ] Work on Sassbit.es video
 - [ ] Blog: New Sass workflow with Sass Director
 - [ ] Apply to Speak at CSSConf/ CodeConf with Ryan
-- [ ] Give Adv. Sass Workshop at IBM (run-through)
-- [ ] Give PEERS Conf Talk
+- [x] Give Adv. Sass Workshop at IBM (run-through)
+- [x] Give PEERS Conf Talk
+- [ ] Watch video on PostCSS
 
 ### Things I'll Do in the Future:
 - [ ] Set up yeoman generator

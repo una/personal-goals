@@ -461,3 +461,23 @@ I woke up early today to work out in the apartment gym before going to AlterConf
 04/26/2015
 ---
 I love Game of Thrones nights at Troy's. Tonight was no exception :) it was a really funny episode.
+
+04/27/2015
+---
+I had dinner with Ian at El Arroyo today. It was really nice that I had a chance to say bye to him!
+
+04/28/2015
+---
+I blew the minds of my coworkers when I gave my practice workshop before PEERS. They absolutely loved the ampersands part. It was awesome to see their reactions.
+
+04/29/2015
+---
+I spent this morning reverse-engineering a pixel-art generator Sass mixin and I finally understand how it works!
+
+04/30/2015
+---
+After PEERS Conf workshop happy hour, I went to a beautiful Cuban restaurant right next door and had an AMAZING dinner with a few people.
+
+05/01/2015
+---
+My performance talk at PEERS Conf went really really well today! I had a blast giving it.
