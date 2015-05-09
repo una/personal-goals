@@ -481,3 +481,31 @@ After PEERS Conf workshop happy hour, I went to a beautiful Cuban restaurant rig
 05/01/2015
 ---
 My performance talk at PEERS Conf went really really well today! I had a blast giving it.
+
+05/02/2015
+---
+My parents came up to Philly from Baltimore to visit me! We did a horse carriage tour and had such a nice time (and the weather was amazing)!
+
+05/03/2015
+---
+Today I released a blog post about how to make pixel art with Sass and it got a LOT of buzz. People really liked it.
+
+05/04/2015
+---
+
+
+05/05/2015
+---
+Cinco de Mayo! Today I decided to create a Yeoman generator for Bluemix. I went home on a mission and made one in like 4 hours. That is always pretty rewarding.
+
+05/06/2015
+---
+Oh my gosh today I found out that I was nominated for a Net award!! I'm freaking out!! OMG AHH!
+
+05/07/2015
+---
+I made a Yeoman generator in my spare time Tuesday for static Express Bluemix apps and it really impressed my teammates :) I got awesome feedback!
+
+05/08/2015
+---
+I played Mortal Combat II for a while at work today with some of my coworkers :) So much fun. I need to study up on the combos though haha.

@@ -24,18 +24,17 @@ Personal goals made open source for accessibility across computers I use, transp
 
 - [ ] Read [SVG Pocket Guide](http://svgpocketguide.com/book/)
 - [ ] Topic for ALA Article
-- [ ] Read [this](https://jonsuh.com/blog/need-for-speed-2/) article
+- [x] Read [this](https://jonsuh.com/blog/need-for-speed-2/) article
 - [ ] Work on Sassbit.es video
 - [ ] Blog: New Sass workflow with Sass Director
-- [ ] Apply to Speak at CSSConf/ CodeConf with Ryan
-- [ ] Watch video on PostCSS
-- [ ] Blog: Box Shadow Pixel Art
+- [ ] Apply to Speak at CSSConf/ CodeConf with Ryan (due May 10)
+- [x] Watch video on PostCSS (ended up watching [this one]((https://www.youtube.com/watch?t=47&v=73dl5dk9z4Q)))
+- [x] Blog: Box Shadow Pixel Art
 - [ ] Practice Keyboard Ninja Talk for Refresh ATX
-- [ ] TTL Podcast site touchups
-
+- [x] TTL Podcast site touch ups
 
 ### Things I'll Do in the Future:
-- [ ] Set up yeoman generator
+- [x] Set up yeoman generator
 - [ ] Learn about web scraping with node
 - [ ] Write a post for the Sass Way
 - [x] Get [Source Maps](http://www.sitepoint.com/using-source-maps-debug-sass-chrome/) Working &mdash; [source maps & gulp](https://github.com/floridoo/gulp-sourcemaps)
@@ -46,7 +45,6 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Read Eloquent JavaScript
 - [ ] Create [Grand Budapest Hotel](https://www.behance.net/gallery/16495771/The-Grand-Budapest-Hotel-Flat) in CSS
 - [ ] Read Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
-- [ ] Go through this talk I missed: http://anthonydispezio.com/sassconf2014/
 - [ ] Play with [Velocity.js](http://www.smashingmagazine.com/2014/06/18/faster-ui-animations-with-velocity-js/)
 - [x] Learn about & try out Meteor.js & Famo.us
 - [x] Skillshare classes about hand lettering
@@ -64,6 +62,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
 - [ ] Audiobook version recording of Eloquent Javascript
 - [ ] Learn to use a screen reader to navigate the web
+- [ ] Use CSSNext PostCSS plugin for something
 
 ### Backlog: Side Projects & Other Ideas
 - [Apps & Other Projects](https://github.com/una/personal-goals/blob/master/ideas-and-misc/app-ideas.md)

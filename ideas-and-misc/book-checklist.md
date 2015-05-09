@@ -34,7 +34,11 @@ Feel free to add to the list :)
 - [x] The Time Machine -- H.G. Wells
 - [x] The Death Cure -- James Dashner (Maze Runner Sequel)
 - [x] Copyright vs Community -- Richard Stallman
-- [ ] Thinking, Fast and Slow -- Daniel Kahneman <-- got bored, stopped
+- [x] Thinking, Fast and Slow -- Daniel Kahneman
+- [x] The Martian -- Andy Weir
+
+## May 2015
+- [ ] Enchanted Objects -- David Rose
 
 To-Read
 ---
@@ -42,15 +46,13 @@ To-Read
 - [ ] Let's Explore Diabetes with Owls -- David Sedaris
 - [ ] Hitchhiker's Guide to the Galaxy -- Douglas Adams
 - [ ] The Girl with The Dragon Tattoo
-- [ ] The Martian -- Andy Weir
 - [ ] No Place to Hide -- Glen Greenwald
 - [ ] The Drunken Botanist -- Amy Stewart
 - [ ] What If: Serious Scientific Answers to Absurd Hypothetical Questions -- Randall Munroe
-- [ ] Decisive
+- [ ] Decisive: How to Make Better Choices in Life and Work -- Chip Heath & Dan Heath
 - [ ] The Art of Asking -- Amanda Palmer
 - [ ] Alan Turing -- Andrew Hodges
 - [ ] Abundance -- Peter H. Diamandis
-- [ ] Enchanted Objects -- David Rose
 - [ ] Revival -- Stephen King
 - [ ] Rich Dad, Poor Dad -- Robert Kiyosaki
 - [ ] Revolution -- Russell Brand

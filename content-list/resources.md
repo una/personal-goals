@@ -1,5 +1,6 @@
-### All the Front End Thing
+### All the Front End Things
 - [Beaqn](http://beaqn.in/frontend/)
+- [Fluent 2015 Resources](https://github.com/jeffersonlam/talks/tree/master/fluent-2015)
 
 ### CSS/Sass
 - [Adobe Web Platform](http://webplatform.adobe.com/)
