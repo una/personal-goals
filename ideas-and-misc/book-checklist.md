@@ -1,6 +1,6 @@
 # Books I've Read & Books I Want to Read (or Listen to)
 
-Feel free to add to the list :)
+Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodreads.com/user/show/20177742-una-kravets) account.
 
 ## January 2015
 
@@ -38,7 +38,9 @@ Feel free to add to the list :)
 - [x] The Martian -- Andy Weir
 
 ## May 2015
-- [ ] Enchanted Objects -- David Rose
+- [x] Enchanted Objects -- David Rose
+- [x] The Four Hour Work Week -- Tim Ferriss
+- [ ] Automate This: How Algorithms Came to Rule Our World -- Christopher Steiner
 
 To-Read
 ---
