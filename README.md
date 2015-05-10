@@ -16,22 +16,25 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Radiate joy and kindness
 
-# May 3, 2015
+# May 10, 2015
 
-### This Week's Focus: Read/Learn & Blog
+### This Week's Focus: Keyboard Talk
 
 ## Things I'll do This Week:
 
+- [ ] Read Lean UX
+- [ ] Book flight to Cascadia JS
+- [ ] Book flight to BD Conf
 - [ ] Read [SVG Pocket Guide](http://svgpocketguide.com/book/)
+- [ ] Post a Blog Post
+- [ ] Create Yeoman Generator for Gulp Env.
+- [ ] Announce the thing :D
 - [ ] Topic for ALA Article
-- [x] Read [this](https://jonsuh.com/blog/need-for-speed-2/) article
 - [ ] Work on Sassbit.es video
 - [ ] Blog: New Sass workflow with Sass Director
-- [ ] Apply to Speak at CSSConf/ CodeConf with Ryan (due May 10)
-- [x] Watch video on PostCSS (ended up watching [this one]((https://www.youtube.com/watch?t=47&v=73dl5dk9z4Q)))
-- [x] Blog: Box Shadow Pixel Art
-- [ ] Practice Keyboard Ninja Talk for Refresh ATX
-- [x] TTL Podcast site touch ups
+- [ ] Go Over Keyboard Ninja Talk
+- [ ] Speak at Refresh Austin
+- [ ] Work out 4x this week
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator

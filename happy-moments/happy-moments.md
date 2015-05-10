@@ -492,7 +492,7 @@ Today I released a blog post about how to make pixel art with Sass and it got a 
 
 05/04/2015
 ---
-
+I played Mortal Combat II for a while at work today with some of my coworkers :) So much fun. I need to study up on the combos though haha.
 
 05/05/2015
 ---
@@ -508,4 +508,8 @@ I made a Yeoman generator in my spare time Tuesday for static Express Bluemix ap
 
 05/08/2015
 ---
-I played Mortal Combat II for a while at work today with some of my coworkers :) So much fun. I need to study up on the combos though haha.
+I snuck up to the top floor (34) of the brand new J.W. Marriott to see the views of Austin at 3 AM tonight with a new friend.
+
+05/09/2015
+---
+I caught up with Lauren today and we went shopping in the Domain and got dinner at NoRTH :)
