@@ -1,4 +1,5 @@
-# Books I've Read & Books I Want to Read (or Listen to)
+# Books I've Read & Want to Read
+### And by "Read" I mean Audiobooks I've Listened to
 
 Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodreads.com/user/show/20177742-una-kravets) account.
 
