@@ -40,7 +40,9 @@ Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodrea
 ## May 2015
 - [x] Enchanted Objects -- David Rose
 - [x] The Four Hour Work Week -- Tim Ferriss
-- [ ] Automate This: How Algorithms Came to Rule Our World -- Christopher Steiner
+- [x] Automate This: How Algorithms Came to Rule Our World -- Christopher Steiner
+- [ ] What If: Serious Scientific Answers to Absurd Hypothetical Questions -- Randall Munroe
+- [ ] Lean UX
 
 To-Read
 ---
@@ -50,7 +52,6 @@ To-Read
 - [ ] The Girl with The Dragon Tattoo
 - [ ] No Place to Hide -- Glen Greenwald
 - [ ] The Drunken Botanist -- Amy Stewart
-- [ ] What If: Serious Scientific Answers to Absurd Hypothetical Questions -- Randall Munroe
 - [ ] Decisive: How to Make Better Choices in Life and Work -- Chip Heath & Dan Heath
 - [ ] The Art of Asking -- Amanda Palmer
 - [ ] Alan Turing -- Andrew Hodges
@@ -59,8 +60,3 @@ To-Read
 - [ ] Rich Dad, Poor Dad -- Robert Kiyosaki
 - [ ] Revolution -- Russell Brand
 - [ ] One More Thing -- B.J. Novak
-
-Recommendations
----
-
-If you leave a rec, please sign your name!

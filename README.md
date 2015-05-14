@@ -10,7 +10,7 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Appreciate the creative & talented people in my life
 5. Use Vim + the keyboard more often
 6. Up my JS Game (patterns, node/io, angular)
-7. Peformance-first advocacy
+7. Performance-first advocacy
 8. Foster designer participation in OS projects
 9. Participate in conferences & community
 10. Use web components
@@ -22,7 +22,7 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll do This Week:
 
-- [ ] Read Lean UX
+- [x] Order Lean UX
 - [ ] Book flight to Cascadia JS
 - [ ] Book flight to BD Conf
 - [ ] Read [SVG Pocket Guide](http://svgpocketguide.com/book/)
@@ -32,8 +32,8 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Topic for ALA Article
 - [ ] Work on Sassbit.es video
 - [ ] Blog: New Sass workflow with Sass Director
-- [ ] Go Over Keyboard Ninja Talk
-- [ ] Speak at Refresh Austin
+- [x] Go Over Keyboard Ninja Talk
+- [x] Speak at Refresh Austin
 - [ ] Work out 4x this week
 
 ### Things I'll Do in the Future:
