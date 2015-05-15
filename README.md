@@ -25,10 +25,10 @@ Personal goals made open source for accessibility across computers I use, transp
 - [x] Order Lean UX
 - [ ] Book flight to Cascadia JS
 - [ ] Book flight to BD Conf
-- [ ] Read [SVG Pocket Guide](http://svgpocketguide.com/book/)
+- [x] Read [SVG Pocket Guide](http://svgpocketguide.com/book/)
 - [ ] Post a Blog Post
 - [ ] Create Yeoman Generator for Gulp Env.
-- [ ] Announce the thing :D
+- [x] Announce the thing :D
 - [ ] Topic for ALA Article
 - [ ] Work on Sassbit.es video
 - [ ] Blog: New Sass workflow with Sass Director
@@ -47,7 +47,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Make Visual model of [this](http://ilikekillnerds.com/2014/07/what-a-front-end-developer-workflow-looks-like-in-20142015/) for blog post
 - [ ] Read Eloquent JavaScript
 - [ ] Create [Grand Budapest Hotel](https://www.behance.net/gallery/16495771/The-Grand-Budapest-Hotel-Flat) in CSS
-- [ ] Read Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
+- [x] Read Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 - [ ] Play with [Velocity.js](http://www.smashingmagazine.com/2014/06/18/faster-ui-animations-with-velocity-js/)
 - [x] Learn about & try out Meteor.js & Famo.us
 - [x] Skillshare classes about hand lettering
