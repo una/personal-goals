@@ -24,7 +24,7 @@ Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodrea
 - [x] On the Road -- Jack Kerouak
 
 ## March 2015
-- [x] The Biography of Steve Jobs -- Walter Isaacson :star:
+- [x] The Biography of Steve Jobs -- Walter Isaacson
 - [ ] How to Create a Mind -- Ray Kurzweil :sleeping:
 - [x] The Innovators -- Walter Isaacson :star:
 - [ ] The Art of Deception -- Kevin Mitnick :sleeping:
@@ -42,7 +42,7 @@ Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodrea
 - [x] Enchanted Objects -- David Rose :star:
 - [x] The Four Hour Work Week -- Tim Ferriss
 - [x] Automate This: How Algorithms Came to Rule Our World -- Christopher Steiner :star:
-- [ ] What If: Serious Scientific Answers to Absurd Hypothetical Questions -- Randall Munroe
+- [x] What If: Serious Scientific Answers to Absurd Hypothetical Questions -- Randall Munroe
 - [ ] Lean UX
 
 To-Read

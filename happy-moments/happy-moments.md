@@ -500,7 +500,7 @@ Cinco de Mayo! Today I decided to create a Yeoman generator for Bluemix. I went 
 
 05/06/2015
 ---
-Oh my gosh today I found out that I was nominated for a Net award!! I'm freaking out!! OMG AHH!
+OMG! Today I found out that I was nominated for a Net award!! I'm freaking out!! OMG AHH!
 
 05/07/2015
 ---
@@ -513,3 +513,27 @@ I snuck up to the top floor (34) of the brand new J.W. Marriott to see the views
 05/09/2015
 ---
 I caught up with Lauren today and we went shopping in the Domain and got dinner at NoRTH :)
+
+05/10/2015
+---
+Today Game Of Thrones was just me and Troy. We ended up watching the 2 episodes I missed + the new one + Silicon Valley. 3.5 hours of TV later, we were both exhausted & I remembered why I don't watch TV :P
+
+05/11/2015
+---
+I have so many new clothes from shopping this weekend! I wore one of my new tops -- a flowy light blue one with booties and cuffed jeans and felt fabulous.
+
+05/12/2015
+---
+So many good things happened today -- but most of all, after my Refresh Austin talk on Keyboard Magicery, Dave Rupert gave me a really wonderful and heartfelt compliment about how naturally I present on stage.
+
+05/13/2015
+---
+Today I finally brought up that I wanted a raise to my new manager. And it went really well -- he seemed to be on my side :)
+
+05/14/2015
+---
+Today the Net Awards went public and my phone was blowing up all throughout this Adobe Creative Jam event. I was a bundle of excited energy all evening.
+
+05/15/2015
+---
+I came home from the gym to a package that Rebecca sent me (it was a really nice microphone!). Oh my gosh what an amazing gesture. This is way better than getting paid.
