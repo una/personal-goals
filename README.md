@@ -16,25 +16,23 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Radiate joy and kindness
 
-# May 10, 2015
+# May 17, 2015
 
-### This Week's Focus: Keyboard Talk
+### This Week's Focus: Book Flights!
 
-## Things I'll do This Week:
-
-- [x] Order Lean UX
-- [ ] Book flight to Cascadia JS
-- [ ] Book flight to BD Conf
-- [x] Read [SVG Pocket Guide](http://svgpocketguide.com/book/)
-- [ ] Post a Blog Post
-- [ ] Create Yeoman Generator for Gulp Env.
-- [x] Announce the thing :D
+- [ ] Start playing with recreating Instagram filters w/code
+- [ ] Outline with Links the Photoshop is Dead Talk (check bookmarks)
+- [ ] Make a card for Ryan (also get his address)
 - [ ] Topic for ALA Article
 - [ ] Work on Sassbit.es video
 - [ ] Blog: New Sass workflow with Sass Director
-- [x] Go Over Keyboard Ninja Talk
-- [x] Speak at Refresh Austin
-- [ ] Work out 4x this week
+- [ ] Create Yeoman Generator for Gulp Env.
+- [ ] Book flight to Cascadia JS
+- [ ] Book flight to BD Conf
+- [ ] Plan Colorado
+- [ ] Book flight to Colorado
+
+## Things I'll do This Week:
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
