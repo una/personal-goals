@@ -43,18 +43,18 @@ Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodrea
 - [x] The Four Hour Work Week -- Tim Ferriss
 - [x] Automate This: How Algorithms Came to Rule Our World -- Christopher Steiner :star:
 - [x] What If: Serious Scientific Answers to Absurd Hypothetical Questions -- Randall Munroe
-- [ ] Lean UX
+- [ ] Lean UX -- Jeff Gothelf
+- [x] Hitchhiker's Guide to the Galaxy -- Douglas Adams
+- [ ] The Art of Asking -- Amanda Palmer
 
 To-Read
 ---
 - [ ] City of Thieves -- David Benioff
 - [ ] Let's Explore Diabetes with Owls -- David Sedaris
-- [ ] Hitchhiker's Guide to the Galaxy -- Douglas Adams
 - [ ] The Girl with The Dragon Tattoo
 - [ ] No Place to Hide -- Glen Greenwald
 - [ ] The Drunken Botanist -- Amy Stewart
 - [ ] Decisive: How to Make Better Choices in Life and Work -- Chip Heath & Dan Heath
-- [ ] The Art of Asking -- Amanda Palmer
 - [ ] Alan Turing -- Andrew Hodges
 - [ ] Abundance -- Peter H. Diamandis
 - [ ] Revival -- Stephen King
