@@ -22,15 +22,15 @@ Personal goals made open source for accessibility across computers I use, transp
 
 - [ ] Start playing with recreating Instagram filters w/code
 - [ ] Outline with Links the Photoshop is Dead Talk (check bookmarks)
-- [ ] Make a card for Ryan (also get his address)
+- [ ] Make a card for Ryan (also get his new address)
 - [ ] Topic for ALA Article
 - [ ] Work on Sassbit.es video
 - [ ] Blog: New Sass workflow with Sass Director
 - [ ] Create Yeoman Generator for Gulp Env.
 - [ ] Book flight to Cascadia JS
-- [ ] Book flight to BD Conf
-- [ ] Plan Colorado
-- [ ] Book flight to Colorado
+- [x] Book flight to BD Conf
+- [x] Plan Memorial Day Weekend Trip
+- [ ] ~~Book flight to Colorado~~
 
 ## Things I'll do This Week:
 

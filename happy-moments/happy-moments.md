@@ -537,3 +537,15 @@ Today the Net Awards went public and my phone was blowing up all throughout this
 05/15/2015
 ---
 I came home from the gym to a package that Rebecca sent me (it was a really nice microphone!). Oh my gosh what an amazing gesture. This is way better than getting paid.
+
+05/16/2015
+---
+Tonight I went to Dave & Buster's for Jefferson's birthday. I teamed up with Troy and we had an amazing time playing games & collecting tickets. Then got capes with them :)
+
+05/17/2015
+---
+It was a beautiful day for a rooftop party. Ryan and Carter had their going away party tonight and Jefferson + Troy + I decided to go on a Memorial Day Weekend trip.
+
+05/18/2015
+---
+My Ringly finally came in!!! After 5 months of waiting -- and it's even more beautiful in person!
