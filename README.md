@@ -16,21 +16,18 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Radiate joy and kindness
 
-# May 17, 2015
+# May 24, 2015
 
-### This Week's Focus: Book Flights!
+### This Week's Focus: JS Conf
 
-- [ ] Start playing with recreating Instagram filters w/code
-- [ ] Outline with Links the Photoshop is Dead Talk (check bookmarks)
-- [ ] Make a card for Ryan (also get his new address)
-- [ ] Topic for ALA Article
-- [ ] Work on Sassbit.es video
-- [ ] Blog: New Sass workflow with Sass Director
+- [ ] Work on Eyeglass Module Yeoman [Generator](https://github.com/modularscale/modularscale-sass/issues/91#issuecomment-103504050)
+- [ ] Continue Udacity course on page performance
+- [ ] Add [visited](http://joelcalifa.com/blog/revisiting-visited/) & unvisited states to blog
+- [ ] Work on my stripped-down Reveal w/[this](http://codepen.io/jcalifa/pen/QwepvY)
 - [ ] Create Yeoman Generator for Gulp Env.
 - [ ] Book flight to Cascadia JS
-- [x] Book flight to BD Conf
-- [x] Plan Memorial Day Weekend Trip
-- [ ] ~~Book flight to Colorado~~
+- [ ] Book flight to CodeConf!
+- [ ] Outline with Links the Photoshop is Dead Talk (check bookmarks)
 
 ## Things I'll do This Week:
 
