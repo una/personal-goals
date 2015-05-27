@@ -25,6 +25,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Add [visited](http://joelcalifa.com/blog/revisiting-visited/) & unvisited states to blog
 - [ ] Work on my stripped-down Reveal w/[this](http://codepen.io/jcalifa/pen/QwepvY)
 - [ ] Create Yeoman Generator for Gulp Env.
+- [ ] Begin slides for Sass for Fun talk
 - [ ] Book flight to Cascadia JS
 - [ ] Book flight to CodeConf!
 - [ ] Outline with Links the Photoshop is Dead Talk (check bookmarks)
