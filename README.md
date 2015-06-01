@@ -22,7 +22,7 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll do This Week:
 
-- [ ] Applause.js <-- choose name, start design for PS is dead talk
+- [x] Applause.js <-- choose name, start design for PS is dead talk
 - [ ] Research good slide design for Applause (or w/e its called)
 - [ ] Book flight to Cascadia JS
 - [ ] Book flight to CodeConf!
@@ -31,6 +31,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Add [visited](http://joelcalifa.com/blog/revisiting-visited/) & unvisited states to blog
 - [ ] Work on my stripped-down Reveal
 - [ ] Create Yeoman Generator for Gulp Env.
+- [ ] Try to use Kimono
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
