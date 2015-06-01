@@ -16,25 +16,25 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Radiate joy and kindness
 
-# May 24, 2015
+# May 31, 2015
 
-### This Week's Focus: JS Conf
-
-- [ ] Work on Eyeglass Module Yeoman [Generator](https://github.com/modularscale/modularscale-sass/issues/91#issuecomment-103504050)
-- [ ] Continue Udacity course on page performance
-- [ ] Add [visited](http://joelcalifa.com/blog/revisiting-visited/) & unvisited states to blog
-- [ ] Work on my stripped-down Reveal w/[this](http://codepen.io/jcalifa/pen/QwepvY)
-- [ ] Create Yeoman Generator for Gulp Env.
-- [ ] Begin slides for Sass for Fun talk
-- [ ] Book flight to Cascadia JS
-- [ ] Book flight to CodeConf!
-- [ ] Outline with Links the Photoshop is Dead Talk (check bookmarks)
+### This Week's Focus: Build w/Something New
 
 ## Things I'll do This Week:
 
+- [ ] Applause.js <-- choose name, start design for PS is dead talk
+- [ ] Research good slide design for Applause (or w/e its called)
+- [ ] Book flight to Cascadia JS
+- [ ] Book flight to CodeConf!
+- [ ] Outline with Links the Photoshop is Dead Talk (check bookmarks)
+- [ ] Continue Udacity course on page performance
+- [ ] Add [visited](http://joelcalifa.com/blog/revisiting-visited/) & unvisited states to blog
+- [ ] Work on my stripped-down Reveal
+- [ ] Create Yeoman Generator for Gulp Env.
+
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
-- [ ] Learn about web scraping with node
+- [x] Learn about web scraping with node
 - [ ] Write a post for the Sass Way
 - [x] Get [Source Maps](http://www.sitepoint.com/using-source-maps-debug-sass-chrome/) Working &mdash; [source maps & gulp](https://github.com/floridoo/gulp-sourcemaps)
 - [ ] Create Singularity Examples bc [the cons here](http://web-design-weekly.com/2014/04/06/grid-frameworks-sass/)
@@ -62,6 +62,8 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Audiobook version recording of Eloquent Javascript
 - [ ] Learn to use a screen reader to navigate the web
 - [ ] Use CSSNext PostCSS plugin for something
+- [ ] Use [Kimono](https://www.kimonolabs.com/learn/calling-an-api) to scrape Sass notes site (Sass Me CLI)
+- [ ] Build something with [Ractive](http://ractivejs.org)
 
 ### Backlog: Side Projects & Other Ideas
 - [Apps & Other Projects](https://github.com/una/personal-goals/blob/master/ideas-and-misc/app-ideas.md)

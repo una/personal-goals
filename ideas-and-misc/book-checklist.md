@@ -24,6 +24,7 @@ Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodrea
 - [x] On the Road -- Jack Kerouak
 
 ## March 2015
+
 - [x] The Biography of Steve Jobs -- Walter Isaacson
 - [ ] How to Create a Mind -- Ray Kurzweil :sleeping:
 - [x] The Innovators -- Walter Isaacson :star:
@@ -31,6 +32,7 @@ Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodrea
 - [x] Ready Player One -- Ernest Cline
 
 ## April 2015
+
 - [x] We Are Anonymous -- Parmy Olson
 - [x] The Time Machine -- H.G. Wells
 - [x] The Death Cure -- James Dashner (Maze Runner Sequel)
@@ -39,13 +41,16 @@ Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodrea
 - [x] The Martian -- Andy Weir :star:
 
 ## May 2015
+
 - [x] Enchanted Objects -- David Rose :star:
 - [x] The Four Hour Work Week -- Tim Ferriss
 - [x] Automate This: How Algorithms Came to Rule Our World -- Christopher Steiner :star:
 - [x] What If: Serious Scientific Answers to Absurd Hypothetical Questions -- Randall Munroe
 - [ ] Lean UX -- Jeff Gothelf
 - [x] Hitchhiker's Guide to the Galaxy -- Douglas Adams
-- [ ] The Art of Asking -- Amanda Palmer
+- [x] The Art of Asking -- Amanda Palmer
+
+## June 2015
 
 To-Read
 ---

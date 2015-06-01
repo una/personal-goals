@@ -549,3 +549,55 @@ It was a beautiful day for a rooftop party. Ryan and Carter had their going away
 05/18/2015
 ---
 My Ringly finally came in!!! After 5 months of waiting -- and it's even more beautiful in person!
+
+05/19/2015
+---
+I had paleo sushi at Whole Foods today and I'm super happy to have found it -- raw fish & veggies wrapped in greens.
+
+05/20/2015
+---
+Idean had a pop-up happy hour today. I went to see Mad Max with a bunch of my coworkers afterward. What an intense & awesome movie.
+
+05/21/2015
+---
+I made a 404 page for Bluemix as a random little side project and today my manager told me they were going to implement it live.
+
+05/22/2015
+---
+Troy, Jefferson, and I drove to Alpine via San Antonio today after work. We walked along the (beautiful) river walk and ate delicious Mexican food.
+
+05/23/2015
+---
+Checked out Terralingua as a part of the road trip this weekend and we ate at this really relaxing quaint little restaurant as we watched the storm in the distance.
+
+05/24/2015
+---
+Spent the day hiking in Big Bend and oh my gosh THAT VIEW. Wow. It was really, really amazing at the top.
+
+05/25/2015
+---
+I drove back from Alpine today with Troy and Jefferson. We stopped by Fredericksburg and went western clothes shopping :) I got a fur vest.
+
+05/26/2015
+---
+Arrived in Florida for JS Conf today! We hung out at the beach this afternoon and had dinner there. This conference venue is insane.
+
+05/27/2015
+---
+Day one of JS Conf -- it is absolutely lovely here and the food is SO good. I had a chocolate muffin that was to die for.
+
+05/28/2015
+---
+I did the JS Conf scavenger hunt today -- had an awesome team! We won, then hung out and drank free fruity drinks at the pool all day.
+
+05/29/2015
+---
+Tonight was the after party for JSConf. It was really fun playing "We Didn't Play Test This" and drinking with some of the attendees and my coworkers.
+
+05/30/2015
+---
+I had the most delicious dinner tonight. We went to an amazing seafood restaurant on Amelia Island and I had crab-encrusted Grouper and oysters.
+
+05/31/2015
+---
+Moody, Brian and I had a very extended brunch at the Omni this morning. It was *AMAZING*. They had fresh raw fish at the brunch buffet.
