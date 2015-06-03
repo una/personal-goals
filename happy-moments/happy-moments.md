@@ -528,7 +528,7 @@ So many good things happened today -- but most of all, after my Refresh Austin t
 
 05/13/2015
 ---
-Today I finally brought up that I wanted a raise to my new manager. And it went really well -- he seemed to be on my side :)
+Today I finally brought up that I wanted a raise at work. And it went really well -- my manager seemed to be on my side :)
 
 05/14/2015
 ---
@@ -601,3 +601,11 @@ I had the most delicious dinner tonight. We went to an amazing seafood restauran
 05/31/2015
 ---
 Moody, Brian and I had a very extended brunch at the Omni this morning. It was *AMAZING*. They had fresh raw fish at the brunch buffet.
+
+06/01/2015
+---
+It felt SO amazing to be back in my own place after the crazy getting-home-after-JS-conf fiasco.
+
+06/02/2015
+---
+I sat inside the Quicky Picky coding today and eating an amazing Snickerdoodle ice cream sandwich.

@@ -31,7 +31,8 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Add [visited](http://joelcalifa.com/blog/revisiting-visited/) & unvisited states to blog
 - [ ] Work on my stripped-down Reveal
 - [ ] Create Yeoman Generator for Gulp Env.
-- [ ] Try to use Kimono
+- [x] Try to use Kimono
+- [ ] Review Slides for BDConf
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
