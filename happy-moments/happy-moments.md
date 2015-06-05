@@ -468,7 +468,7 @@ I had dinner with Ian at El Arroyo today. It was really nice that I had a chance
 
 04/28/2015
 ---
-I blew the minds of my coworkers when I gave my practice workshop before PEERS. They absolutely loved the ampersands part. It was awesome to see their reactions.
+I blew some minds at work today when I gave my practice workshop before PEERS. My coworkers absolutely loved the ampersands part. It was awesome to see their reactions.
 
 04/29/2015
 ---
@@ -504,11 +504,11 @@ OMG! Today I found out that I was nominated for a Net award!! I'm freaking out!!
 
 05/07/2015
 ---
-I made a Yeoman generator in my spare time Tuesday for static Express Bluemix apps and it really impressed my teammates :) I got awesome feedback!
+I made a Yeoman generator in my spare time Tuesday for static Express Bluemix apps and my teammates loved it :) I got awesome feedback!
 
 05/08/2015
 ---
-I snuck up to the top floor (34) of the brand new J.W. Marriott to see the views of Austin at 3 AM tonight with a new friend.
+I snuck up to the top floor (34) of the brand new J.W. Marriott to see the views of Austin at 3 AM tonight with someone :P
 
 05/09/2015
 ---
@@ -560,7 +560,7 @@ Idean had a pop-up happy hour today. I went to see Mad Max with a bunch of my co
 
 05/21/2015
 ---
-I made a 404 page for Bluemix as a random little side project and today my manager told me they were going to implement it live.
+I made a 404 page for Bluemix as a random little side project and today my manager told me they were going to implement it. That was a nice surprise.
 
 05/22/2015
 ---
@@ -609,3 +609,11 @@ It felt SO amazing to be back in my own place after the crazy getting-home-after
 06/02/2015
 ---
 I sat inside the Quicky Picky coding today and eating an amazing Snickerdoodle ice cream sandwich.
+
+06/03/2015
+---
+Oh my gosh node.js concepts are finally starting to click! I've got a long way to go, but still :)
+
+06/04/2015
+---
+I just got a personal email basically offering me my cheating ex-boyfriend's dream job. I'm not bitter, but success is the best revenge :P
