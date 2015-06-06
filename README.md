@@ -24,7 +24,7 @@ Personal goals made open source for accessibility across computers I use, transp
 
 - [x] Applause.js <-- choose name, start design for PS is dead talk
 - [ ] Research good slide design for Applause (or w/e its called)
-- [ ] Book flight to Cascadia JS
+- [x] Book flight to Cascadia JS
 - [ ] Book flight to CodeConf!
 - [ ] Outline with Links the Photoshop is Dead Talk (check bookmarks)
 - [ ] Continue Udacity course on page performance

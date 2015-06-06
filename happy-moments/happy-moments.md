@@ -192,7 +192,7 @@ Today was just a whirlwind day. I couldn't sleep last night because of my excite
 
 02/18/2015
 ---
-I spoke with Lara Hogan today about her trip to Austin that we got funded. Instead of doing a technical talk for the front end developers, she offered to do a talk together! That is going to be so awesome.
+I spoke with Lara Hogan today about her trip to Austin that we got funded. Instead of her doing a technical talk alone for the front end devs, she suggested we do a talk together! That is going to be so awesome.
 
 02/19/2015
 ---
@@ -376,7 +376,7 @@ Today was Camp Sass! It was such a fun time! I ended up dancing to "Shake it Off
 
 04/05/2015
 ---
-Three Words: Dark Chocolate TimTams. I need to mention how happy they're making me before I realize how fat they're making me 😁
+Three Words: Dark Chocolate TimTams. I need to mention how happy they're making me before I realize how fat they're making me :P
 
 04/06/2015
 ---
@@ -500,7 +500,7 @@ Cinco de Mayo! Today I decided to create a Yeoman generator for Bluemix. I went 
 
 05/06/2015
 ---
-OMG! Today I found out that I was nominated for a Net award!! I'm freaking out!! OMG AHH!
+OMG! Today I found out that I was nominated for a Net award!! I'm freaking out!! OMG AHHH!!!
 
 05/07/2015
 ---
@@ -616,4 +616,8 @@ Oh my gosh node.js concepts are finally starting to click! I've got a long way t
 
 06/04/2015
 ---
-I just got a personal email basically offering me my cheating ex-boyfriend's dream job. I'm not bitter, but success is the best revenge :P
+I just got a personal email basically offering me a cheating ex-boyfriend's dream job. I'm not bitter, but success is the best revenge :P
+
+06/05/2015
+---
+Today was national donut day, but someone brought in cupcakes to the office. I totally forgot how much I love cream cheese frosting. Yumm.
