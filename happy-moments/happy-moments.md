@@ -621,3 +621,11 @@ I just got a personal email basically offering me a cheating ex-boyfriend's drea
 06/05/2015
 ---
 Today was national donut day, but someone brought in cupcakes to the office. I totally forgot how much I love cream cheese frosting. Yumm.
+
+06/06/2015
+---
+After brunch with my roommate today, we looked at some apartments and stumbled into the prettiest little chocolate store. Such a cute place.
+
+06/07/2015
+---
+I saw so many people from my life today! Many of which I haven't seen in ages! It's the day before BDConf and I've already given so many hugs :D

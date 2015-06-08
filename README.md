@@ -16,23 +16,25 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Radiate joy and kindness
 
-# May 31, 2015
+# June 7, 2015
 
 ### This Week's Focus: Build w/Something New
 
 ## Things I'll do This Week:
 
-- [x] Applause.js <-- choose name, start design for PS is dead talk
-- [ ] Research good slide design for Applause (or w/e its called)
-- [x] Book flight to Cascadia JS
+- [ ] Review [these](http://slides.com/amandacheung/responsible-data-visualization#/) [Slides](https://docs.google.com/presentation/d/1r7QXGYOLCh4fcUq0jDdDwKJWNqWK1o4xMtYpKZCJYjM/present?slide=id.p19)
+- [ ] Read [this](http://2ndscale.com/rtomayko/2012/adopt-an-open-source-process-constraints) blog
+- [ ] Read [this](https://css-tricks.com/color-filters-can-turn-your-gray-skies-blue/) post
+- [ ] Ask someone to review my node code
+- [ ] Make "Happy Moments" work on mobile
+- [ ] Work on my stripped-down Reveal (Plaudit)
+- [ ] Create Yeoman Generator for Gulp Env.
 - [ ] Book flight to CodeConf!
 - [ ] Outline with Links the Photoshop is Dead Talk (check bookmarks)
+- [ ] Work on "Sass for Fun" Talk
+- [ ] Outline talk slides with Ryan
 - [ ] Continue Udacity course on page performance
-- [ ] Add [visited](http://joelcalifa.com/blog/revisiting-visited/) & unvisited states to blog
-- [ ] Work on my stripped-down Reveal
-- [ ] Create Yeoman Generator for Gulp Env.
-- [x] Try to use Kimono
-- [ ] Review Slides for BDConf
+
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
