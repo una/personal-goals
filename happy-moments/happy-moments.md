@@ -629,3 +629,15 @@ After brunch with my roommate today, we looked at some apartments and stumbled i
 06/07/2015
 ---
 I saw so many people from my life today! Many of which I haven't seen in ages! It's the day before BDConf and I've already given so many hugs :D
+
+06/08/2015
+---
+After BDConf day one, a bunch of us went to this taco place by the hotel. Oh my gosh. It was so delicious and the company was great.
+
+06/09/2015
+---
+I spoke at BDConf today, and got super positive feedback. One person told me he set up Penthouse & in-lined critical CSS immediately after the talk.
+
+06/10/2015
+---
+Coming back from Nashville to work today was really nice. Everyone was super welcoming back in the office :)

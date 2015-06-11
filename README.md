@@ -25,8 +25,8 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Review [these](http://slides.com/amandacheung/responsible-data-visualization#/) [Slides](https://docs.google.com/presentation/d/1r7QXGYOLCh4fcUq0jDdDwKJWNqWK1o4xMtYpKZCJYjM/present?slide=id.p19)
 - [ ] Read [this](http://2ndscale.com/rtomayko/2012/adopt-an-open-source-process-constraints) blog
 - [ ] Read [this](https://css-tricks.com/color-filters-can-turn-your-gray-skies-blue/) post
-- [ ] Ask someone to review my node code
-- [ ] Make "Happy Moments" work on mobile
+- [x] Ask someone to review my node code
+- [x] Make "Happy Moments" work on mobile
 - [ ] Work on my stripped-down Reveal (Plaudit)
 - [ ] Create Yeoman Generator for Gulp Env.
 - [ ] Book flight to CodeConf!
@@ -66,8 +66,9 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Audiobook version recording of Eloquent Javascript
 - [ ] Learn to use a screen reader to navigate the web
 - [ ] Use CSSNext PostCSS plugin for something
-- [ ] Use [Kimono](https://www.kimonolabs.com/learn/calling-an-api) to scrape Sass notes site (Sass Me CLI)
-- [ ] Build something with [Ractive](http://ractivejs.org)
+- [x] Use [Kimono](https://www.kimonolabs.com/learn/calling-an-api) to scrape Sass notes site (Sass Me CLI)
+- [x] Try out [Ractive](http://ractivejs.org)
+- [ ] Build web app that uses React.js & Camera
 
 ### Backlog: Side Projects & Other Ideas
 - [Apps & Other Projects](https://github.com/una/personal-goals/blob/master/ideas-and-misc/app-ideas.md)
