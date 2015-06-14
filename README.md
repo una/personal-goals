@@ -22,9 +22,9 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll do This Week:
 
-- [ ] Review [these](http://slides.com/amandacheung/responsible-data-visualization#/) [Slides](https://docs.google.com/presentation/d/1r7QXGYOLCh4fcUq0jDdDwKJWNqWK1o4xMtYpKZCJYjM/present?slide=id.p19)
-- [ ] Read [this](http://2ndscale.com/rtomayko/2012/adopt-an-open-source-process-constraints) blog
-- [ ] Read [this](https://css-tricks.com/color-filters-can-turn-your-gray-skies-blue/) post
+- [x] Review [these](http://slides.com/amandacheung/responsible-data-visualization#/) [Slides](https://docs.google.com/presentation/d/1r7QXGYOLCh4fcUq0jDdDwKJWNqWK1o4xMtYpKZCJYjM/present?slide=id.p19)
+- [x] Read [this](http://2ndscale.com/rtomayko/2012/adopt-an-open-source-process-constraints) blog
+- [x] Read [this](https://css-tricks.com/color-filters-can-turn-your-gray-skies-blue/) post
 - [x] Ask someone to review my node code
 - [x] Make "Happy Moments" work on mobile
 - [ ] Work on my stripped-down Reveal (Plaudit)
@@ -64,7 +64,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Create my own, cleaner reveal.js
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
 - [ ] Audiobook version recording of Eloquent Javascript
-- [ ] Learn to use a screen reader to navigate the web
+- [x] Learn to use a screen reader to navigate the web
 - [ ] Use CSSNext PostCSS plugin for something
 - [x] Use [Kimono](https://www.kimonolabs.com/learn/calling-an-api) to scrape Sass notes site (Sass Me CLI)
 - [x] Try out [Ractive](http://ractivejs.org)

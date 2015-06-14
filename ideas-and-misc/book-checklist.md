@@ -48,9 +48,10 @@ Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodrea
 - [x] What If: Serious Scientific Answers to Absurd Hypothetical Questions -- Randall Munroe
 - [ ] Lean UX -- Jeff Gothelf
 - [x] Hitchhiker's Guide to the Galaxy -- Douglas Adams
-- [x] The Art of Asking -- Amanda Palmer
+- [x] The Art of Asking (Autobiography of Amanda Palmer) -- Amanda Palmer
 
 ## June 2015
+- [x] Dataclysm: Who We Are (When We Think No One's Looking) -- Christian Rudder
 
 To-Read
 ---

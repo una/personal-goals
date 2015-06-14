@@ -641,3 +641,15 @@ I spoke at BDConf today, and got super positive feedback. One person told me he 
 06/10/2015
 ---
 Coming back from Nashville to work today was really nice. Everyone was super welcoming back in the office :)
+
+06/11/2015
+---
+My back has been hurting a bit lately (from sitting too much I think, accelerated by lengthy plane rides), and finally getting back to the gym made me feel much better.
+
+06/12/2015
+---
+I got Korean food today with a bunch of IBMers for lunch. I love that they give you all of these little appetizers. So cute.
+
+06/13/2015
+---
+Today Rebecca helped me with this very site (it is a site now!) and introduced me to some new JS concepts. Ugh I'm so excited to be learning server-side code.
