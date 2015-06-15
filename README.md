@@ -16,7 +16,7 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Radiate joy and kindness
 
-# June 7, 2015
+# June 14, 2015
 
 ### This Week's Focus: Workout
 
