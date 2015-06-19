@@ -653,3 +653,23 @@ I got Korean food today with a bunch of IBMers for lunch. I love that they give 
 06/13/2015
 ---
 Today Rebecca helped me with this very site (it is a site now!) and introduced me to some new JS concepts. Ugh I'm so excited to be learning server-side code.
+
+06/14/2015
+---
+GoT finale was today. Not sure if that counts as a happy moment, but I did love watching the entire season every week with a group.
+
+06/15/2015
+---
+Today I walked to Whole Foods for lunch with Dan and Jefferson. 1. I love walking to Whole Foods. 2. I got a smoothie :)
+
+06/16/2015
+---
+I went to my first Austin JS meetup tonight, where Kyle Simpson was speaking. He gave out a bunch of his books and I can't wait to get started reading them.
+
+06/17/2015
+---
+Its been a while since I painted my nails with any sort of nail art. But today I did an abstract geometric design that turned out pretty nicely.
+
+06/18/2015
+---
+I worked out with Troy & some of his other friends tonight. It was nice. I really like having people to work out with.

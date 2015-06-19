@@ -13,16 +13,18 @@ Things I want to work on, but need to keep out of the main page because its gett
 - [ ] Happy Hack
 - [ ] LegibiliMe
 - [x] Sass Director
+- [ ] Gitfolio
+- [ ] ECard-As-A-Service
 
 ## Other Project Ideas (unstarted)
 - [ ] Termoji
 - [ ] Contribution Graph IRL
 - [ ] Resumaker
 - [ ] Typeface
-- [ ] Slack bot for work
+- [x] Slack bot for work
 - [ ] Pattern Page (oh yeah, thepatternproject.com)
 - [ ] Happy Moments App
 - [ ] A cleaner/more performant Reveal.js
 - [ ] Beautiful wearables (constellations)
-- [ ] Happy Moments Reminder Generator Site
+- [x] Happy Moments Reminder Generator Site
 - [ ] Personal Goals node app (adding things in terminal)

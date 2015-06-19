@@ -22,20 +22,20 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll do This Week:
 
-- [ ] Contribute something to Open Design
+- [x] Contribute something to Open Design
 - [ ] Design Contribution Guidelines/ Examples for Heiroglyph
 - [ ] Implement localStorage to cache my stylesheet (also download it at bottom of page)
 - [ ] Finish CodeSchool course for Express
-- [ ] Outline YouMightNotNeedJs
+- [ ] Continue outline YouMightNotNeedJs
 - [ ] Watch [this](https://www.youtube.com/watch?v=d5_6yHixpsQ)
 - [ ] Read [this](http://www.html5rocks.com/en/tutorials/dnd/basics/)
-- [ ] Design GitHub-Portfolio Thing
+- [x] Design GitHub-Portfolio Thing
 - [ ] Work on my stripped-down Reveal (Plaudit)
 - [ ] Create Yeoman Generator for Gulp Env.
 - [ ] Outline with Links the Photoshop is Dead Talk (check bookmarks)
 - [ ] Work on "Sass for Fun" Talk
 - [ ] Deal w/ATX Sass Things
-- [ ] Send my dad a Father's Day card
+- [x] Send my dad a Father's Day card
 
 
 ### Things I'll Do in the Future:
