@@ -673,3 +673,11 @@ Its been a while since I painted my nails with any sort of nail art. But today I
 06/18/2015
 ---
 I worked out with Troy & some of his other friends tonight. It was nice. I really like having people to work out with.
+
+06/19/2015
+---
+I worked from Thunderbird after lunch today. I was way more productive than I would've been in the office, got to relax a bit, and did a few really fun visual iterations of navigation patterns.
+
+06/20/2015
+---
+This morning, I met up with 17 people(!) to get dim sum. It was so good! I'm so glad my friend Jo was there to help make the food decisions!

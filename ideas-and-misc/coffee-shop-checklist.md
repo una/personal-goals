@@ -26,7 +26,7 @@ Gotta catch 'em all.
 - [ ] Strange Brew
 - [ ] 7th Flag Coffee Co.
 - [ ] Café Crème
-- [ ] La Tazza Fresca
+- [x] La Tazza Fresca
 - [ ] Radio Coffee & Beer
 - [ ] Monkey Nest Coffee
 - [ ] Sa-Ten

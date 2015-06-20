@@ -25,7 +25,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [x] Contribute something to Open Design
 - [ ] Design Contribution Guidelines/ Examples for Heiroglyph
 - [ ] Implement localStorage to cache my stylesheet (also download it at bottom of page)
-- [ ] Finish CodeSchool course for Express
+- [x] Finish CodeSchool course for Express
 - [ ] Continue outline YouMightNotNeedJs
 - [ ] Watch [this](https://www.youtube.com/watch?v=d5_6yHixpsQ)
 - [ ] Read [this](http://www.html5rocks.com/en/tutorials/dnd/basics/)
