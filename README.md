@@ -16,27 +16,28 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Radiate joy and kindness
 
-# June 14, 2015
+# June 21, 2015
 
-### This Week's Focus: Workout
+### This Week's Focus: CodeConf
 
 ## Things I'll do This Week:
 
-- [x] Contribute something to Open Design
+- [ ] Read [this](http://www.sitepoint.com/future-generation-css-selectors-level-4/)
+- [ ] Watch [this](https://www.youtube.com/watch?v=twav6O53zIQ) video on Passport w/Express
+- [ ] Watch [this](https://www.youtube.com/watch?v=QU1JAW5LRKU) 9 min vid on site profiling
+- [ ] Watch [this](https://www.codeschool.com/screencasts/soup-to-bits-building-blocks-of-express-js/?utm_medium=email&utm_campaign=recommendation_soup_to_bits&utm_source=mandrill&utm_content=null) Code School screencast on Express (~2 hrs)
+- [ ] Learn about service workers
+- [x] Apply for scholarship for JSConfEU
 - [ ] Design Contribution Guidelines/ Examples for Heiroglyph
 - [ ] Implement localStorage to cache my stylesheet (also download it at bottom of page)
-- [x] Finish CodeSchool course for Express
 - [ ] Continue outline YouMightNotNeedJs
-- [ ] Watch [this](https://www.youtube.com/watch?v=d5_6yHixpsQ)
 - [ ] Read [this](http://www.html5rocks.com/en/tutorials/dnd/basics/)
-- [x] Design GitHub-Portfolio Thing
 - [ ] Work on my stripped-down Reveal (Plaudit)
 - [ ] Create Yeoman Generator for Gulp Env.
 - [ ] Outline with Links the Photoshop is Dead Talk (check bookmarks)
 - [ ] Work on "Sass for Fun" Talk
-- [ ] Deal w/ATX Sass Things
-- [x] Send my dad a Father's Day card
-
+- [ ] Give talk at CodeConf
+- [ ] Read Ch.3 YDKJS
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
