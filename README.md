@@ -22,22 +22,23 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll do This Week:
 
-- [ ] Read [this](http://www.sitepoint.com/future-generation-css-selectors-level-4/)
+- [x] Read [this](http://www.sitepoint.com/future-generation-css-selectors-level-4/)
 - [ ] Watch [this](https://www.youtube.com/watch?v=twav6O53zIQ) video on Passport w/Express
-- [ ] Watch [this](https://www.youtube.com/watch?v=QU1JAW5LRKU) 9 min vid on site profiling
+- [x] Watch [this](https://www.youtube.com/watch?v=QU1JAW5LRKU) 9 min vid on site profiling
 - [ ] Watch [this](https://www.codeschool.com/screencasts/soup-to-bits-building-blocks-of-express-js/?utm_medium=email&utm_campaign=recommendation_soup_to_bits&utm_source=mandrill&utm_content=null) Code School screencast on Express (~2 hrs)
 - [ ] Learn about service workers
 - [x] Apply for scholarship for JSConfEU
 - [ ] Design Contribution Guidelines/ Examples for Heiroglyph
 - [ ] Implement localStorage to cache my stylesheet (also download it at bottom of page)
 - [ ] Continue outline YouMightNotNeedJs
-- [ ] Read [this](http://www.html5rocks.com/en/tutorials/dnd/basics/)
+- [x] Read about [HTML Drag & Drop](http://www.html5rocks.com/en/tutorials/dnd/basics/)
 - [ ] Work on my stripped-down Reveal (Plaudit)
 - [ ] Create Yeoman Generator for Gulp Env.
 - [ ] Outline with Links the Photoshop is Dead Talk (check bookmarks)
 - [ ] Work on "Sass for Fun" Talk
-- [ ] Give talk at CodeConf
+- [x] Give talk at CodeConf
 - [ ] Read Ch.3 YDKJS
+- [ ] Create placeholder repo for new Express project
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator

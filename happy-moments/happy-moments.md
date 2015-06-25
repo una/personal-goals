@@ -681,3 +681,23 @@ I worked from Thunderbird after lunch today. I was way more productive than I wo
 06/20/2015
 ---
 This morning, I met up with 17 people(!) to get dim sum. It was so good! I'm so glad my friend Jo was there to help make the food decisions!
+
+06/21/2015
+---
+Oh my gosh! Today I bought my bike! And I went on a ride with Mae. And I love the bike so much already!
+
+06/22/2015
+---
+I went on a ride today with Lauren and Troy along the boardwalk and we ended up at the South Congress bridge :) So, so lovely!
+
+06/23/2015
+---
+I biked to Troys for the workout tonight and was able to climb EVERY hill that I definitely couldn't do before on the other bike. Gah I love it!
+
+06/24/2015
+---
+Speaker dinner for CodeConf was tonight & was amazing. They also gave the BEST speaker swag! Cowboy boots!
+
+06/25/2015
+---
+CodeConf is so well run :) I gave my talk with Ryan today and had a lot of fun on stage
