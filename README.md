@@ -16,29 +16,26 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Radiate joy and kindness
 
-# June 21, 2015
+# June 28, 2015
 
-### This Week's Focus: CodeConf
+### This Week's Focus: Finish Cascadia Slides
 
 ## Things I'll do This Week:
 
-- [x] Read [this](http://www.sitepoint.com/future-generation-css-selectors-level-4/)
 - [ ] Watch [this](https://www.youtube.com/watch?v=twav6O53zIQ) video on Passport w/Express
-- [x] Watch [this](https://www.youtube.com/watch?v=QU1JAW5LRKU) 9 min vid on site profiling
-- [ ] Watch [this](https://www.codeschool.com/screencasts/soup-to-bits-building-blocks-of-express-js/?utm_medium=email&utm_campaign=recommendation_soup_to_bits&utm_source=mandrill&utm_content=null) Code School screencast on Express (~2 hrs)
+- [ ] Finish [this](https://www.codeschool.com/screencasts/soup-to-bits-building-blocks-of-express-js/?utm_medium=email&utm_campaign=recommendation_soup_to_bits&utm_source=mandrill&utm_content=null) Code School screencast on Express (~2 hrs)
 - [ ] Learn about service workers
-- [x] Apply for scholarship for JSConfEU
-- [ ] Design Contribution Guidelines/ Examples for Heiroglyph
 - [ ] Implement localStorage to cache my stylesheet (also download it at bottom of page)
-- [ ] Continue outline YouMightNotNeedJs
-- [x] Read about [HTML Drag & Drop](http://www.html5rocks.com/en/tutorials/dnd/basics/)
-- [ ] Work on my stripped-down Reveal (Plaudit)
+- [ ] Finish Cascadia Slides
 - [ ] Create Yeoman Generator for Gulp Env.
 - [ ] Outline with Links the Photoshop is Dead Talk (check bookmarks)
 - [ ] Work on "Sass for Fun" Talk
-- [x] Give talk at CodeConf
-- [ ] Read Ch.3 YDKJS
-- [ ] Create placeholder repo for new Express project
+- [ ] Finish Ch.3 YDKJS
+- [ ] Read Ch.4 YDKJS
+- [ ] Work on Airport Wifi reviews app
+- [ ] Set up research thing for design open
+- [ ] Make more nail art, maybe Etsy it -- order [this](http://www.amazon.com/Blank-Microscope-Slides-Square-Cover/dp/B002OS6D9I)
+- [ ] Work out 4x/week
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
