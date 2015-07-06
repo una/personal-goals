@@ -700,4 +700,44 @@ Speaker dinner for CodeConf was tonight & was amazing. They also gave the BEST s
 
 06/25/2015
 ---
-CodeConf is so well run :) I gave my talk with Ryan today and had a lot of fun on stage
+CodeConf is so much fun! The after party featured a *really* good local band and karaoke after that was fantastic too.
+
+06/26/2015
+---
+Oh my gosh I love how well-run and on-theme CodeConf is! The food! The illustrations! Yes yes yes!
+
+06/27/2015
+---
+Today I flew back from Nashville, then went right to Blue Dahlia to do some writing and snacking :) I also biked to buy groceries.
+
+06/28/2015
+---
+It's my Austin-versary! I biked to Mozart's today and hung out for a little while (that was 11 miles!)
+
+06/29/2015
+---
+I am having so much fun playing with making little DIY nail art stickers. I made little octocats today!
+
+06/30/2015
+---
+I'm currently reading (aka listening too) Stephen King's novel 'Revival' and its so good! I can't stop.
+
+07/01/2015
+---
+There was an outdoor screening of Ferriss Bueler's day off today at the Long Center, so I biked over and watched it with friends.
+
+07/02/2015
+---
+I went to bed at 10:30 tonight. And there's no work tomorrow. It was great.
+
+07/03/2015
+---
+Had the day off for Independence day today! I went hiking & swimming at Twin Falls with a group :)
+
+07/04/2015
+---
+Happy fourth! We had a barbecue at my place and then went out on dirty 6th, ending up dancing outside at Swan Dive to this fantastic DJ.
+
+07/05/2015
+---
+Just got an email inviting me to come speak at CSS Conf EU! SO EXCITED! I'm GOING TO BERLIN!

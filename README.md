@@ -18,24 +18,20 @@ Personal goals made open source for accessibility across computers I use, transp
 
 # June 28, 2015
 
-### This Week's Focus: Finish Cascadia Slides
+### This Week's Focus: Cascadia
 
 ## Things I'll do This Week:
-
-- [ ] Watch [this](https://www.youtube.com/watch?v=twav6O53zIQ) video on Passport w/Express
-- [ ] Finish [this](https://www.codeschool.com/screencasts/soup-to-bits-building-blocks-of-express-js/?utm_medium=email&utm_campaign=recommendation_soup_to_bits&utm_source=mandrill&utm_content=null) Code School screencast on Express (~2 hrs)
-- [ ] Learn about service workers
 - [ ] Implement localStorage to cache my stylesheet (also download it at bottom of page)
-- [ ] Finish Cascadia Slides
 - [ ] Create Yeoman Generator for Gulp Env.
 - [ ] Outline with Links the Photoshop is Dead Talk (check bookmarks)
-- [ ] Work on "Sass for Fun" Talk
+- [ ] Finish "Sass for Fun" Talk
 - [ ] Finish Ch.3 YDKJS
 - [ ] Read Ch.4 YDKJS
-- [ ] Work on Airport Wifi reviews app
-- [ ] Set up research thing for design open
-- [ ] Make more nail art, maybe Etsy it -- order [this](http://www.amazon.com/Blank-Microscope-Slides-Square-Cover/dp/B002OS6D9I)
-- [ ] Work out 4x/week
+- [ ] Watch [this](https://www.youtube.com/watch?v=twav6O53zIQ) video on Passport w/Express
+- [ ] Watch some [videos](https://egghead.io/series/build-your-first-react-js-application) about React
+- [ ] Give talk as Cascadia.js
+- [ ] Practice Sass for Fun talk at IBM
+- [ ] Give talk at E4H
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
@@ -55,7 +51,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Look at [Myth](http://www.myth.io/) & Rework
 - [x] Learn about [Phantom JS](http://phantomjs.org/)
 - [ ] Use [Polymer](https://www.polymer-project.org/) to build web components
-- [ ] CodeSchool Javascript Best Practices course (& finish JS)
+- [ ] CodeSchool Javascript Best Practices course
 - [x] Learn about [Require.js](http://requirejs.org/)
 - [x] Look into [Harp](http://harpjs.com/)
 - [x] Play with slack [bots](https://api.slack.com/bot-users) and its [node API](https://github.com/slackhq/node-slack-client)
@@ -64,12 +60,12 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Build something cool with Arduino
 - [ ] Create my own, cleaner reveal.js
 - [ ] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
-- [ ] Audiobook version recording of Eloquent Javascript
 - [x] Learn to use a screen reader to navigate the web
 - [ ] Use CSSNext PostCSS plugin for something
 - [x] Use [Kimono](https://www.kimonolabs.com/learn/calling-an-api) to scrape Sass notes site (Sass Me CLI)
 - [x] Try out [Ractive](http://ractivejs.org)
-- [ ] Build web app that uses React.js & Camera
+- [ ] Build web app that uses React.js
+- [ ] Check out CSS compositing/blending [modes](http://www.w3.org/TR/compositing-1/)
 
 ### Backlog: Side Projects & Other Ideas
 - [Apps & Other Projects](https://github.com/una/personal-goals/blob/master/ideas-and-misc/app-ideas.md)

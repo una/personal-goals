@@ -52,6 +52,8 @@ Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodrea
 
 ## June 2015
 - [x] Dataclysm: Who We Are (When We Think No One's Looking) -- Christian Rudder
+- [x] Earthsearch Series 1 -- James Follett
+- [x] Earthsearch Series 2 -- James Follett
 - [x] No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State -- Glen Greenwald :star:
 - [x] Scope and Closures -- Kyle Simpson
 - [ ] The Social Animal -- David Brooks
