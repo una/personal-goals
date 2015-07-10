@@ -24,14 +24,14 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Implement localStorage to cache my stylesheet (also download it at bottom of page)
 - [ ] Create Yeoman Generator for Gulp Env.
 - [ ] Outline with Links the Photoshop is Dead Talk (check bookmarks)
-- [ ] Finish "Sass for Fun" Talk
+- [x] Finish "Sass for Fun" Talk
 - [ ] Finish Ch.3 YDKJS
 - [ ] Read Ch.4 YDKJS
 - [ ] Watch [this](https://www.youtube.com/watch?v=twav6O53zIQ) video on Passport w/Express
 - [ ] Watch some [videos](https://egghead.io/series/build-your-first-react-js-application) about React
-- [ ] Give talk as Cascadia.js
-- [ ] Practice Sass for Fun talk at IBM
-- [ ] Give talk at E4H
+- [x] Give talk as Cascadia.js
+- [x] Practice Sass for Fun talk at IBM
+- [x] Give talk at E4H
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator

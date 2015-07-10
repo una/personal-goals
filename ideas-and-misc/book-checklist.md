@@ -51,11 +51,16 @@ Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodrea
 - [x] The Art of Asking (Autobiography of Amanda Palmer) -- Amanda Palmer
 
 ## June 2015
+
 - [x] Dataclysm: Who We Are (When We Think No One's Looking) -- Christian Rudder
 - [x] Earthsearch Series 1 -- James Follett
 - [x] Earthsearch Series 2 -- James Follett
 - [x] No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State -- Glen Greenwald :star:
 - [x] Scope and Closures -- Kyle Simpson
+- [x] Revival -- Stephen King
+
+## July 2015
+
 - [ ] The Social Animal -- David Brooks
 
 To-Read
@@ -67,7 +72,6 @@ To-Read
 - [ ] Decisive: How to Make Better Choices in Life and Work -- Chip Heath & Dan Heath
 - [ ] Alan Turing -- Andrew Hodges
 - [ ] Abundance -- Peter H. Diamandis
-- [ ] Revival -- Stephen King
 - [ ] Rich Dad, Poor Dad -- Robert Kiyosaki
 - [ ] Revolution -- Russell Brand
 - [ ] One More Thing -- B.J. Novak

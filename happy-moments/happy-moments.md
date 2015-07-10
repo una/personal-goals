@@ -741,3 +741,19 @@ Happy fourth! We had a barbecue at my place and then went out on dirty 6th, endi
 07/05/2015
 ---
 Just got an email inviting me to come speak at CSS Conf EU! SO EXCITED! I'm GOING TO BERLIN!
+
+07/06/2015
+---
+I got this idea to create a digital version of SLTM. I am SO brimming with ideas and just want to start making!
+
+07/07/2015
+---
+Traveled to Seattle with Rebecca today for Cascadia. We arrived super early but got to hang out at a great coworking space for the day and got sushi, then margaritas later.
+
+07/08/2015
+---
+I gave my talk at Cascadia today! And oh my gosh it went so well :) I got a lot of love (so much love here!)
+
+07/09/2015
+---
+A lot of people were still chatting with me about my Cascadia talk and telling me about how it resonated. Always super good to hear & makes it all worth it.
