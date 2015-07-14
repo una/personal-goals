@@ -62,10 +62,10 @@ Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodrea
 ## July 2015
 
 - [ ] The Social Animal -- David Brooks
+- [ ] City of Thieves -- David Benioff
 
 To-Read
 ---
-- [ ] City of Thieves -- David Benioff
 - [ ] Let's Explore Diabetes with Owls -- David Sedaris
 - [ ] The Girl with The Dragon Tattoo
 - [ ] The Drunken Botanist -- Amy Stewart

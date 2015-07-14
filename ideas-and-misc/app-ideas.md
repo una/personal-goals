@@ -5,7 +5,7 @@ Things I want to work on, but need to keep out of the main page because its gett
 ## Side Projects I've Started
 - [ ] Work on [sassme v2](https://github.com/una/sassme) to scrape the web & get up-to-date content
 - [ ] Focus again on [Sass Gifs](http://sassgifs.com)
-- [ ] Travel Book -- photography & writing
+- [ ] Travel Book -- photography & writing <-- now online
 - [x] Hand Lettering (Code Calligraphy)
 - [ ] Open Source Design
 - [ ] Heiroglyph
@@ -15,6 +15,7 @@ Things I want to work on, but need to keep out of the main page because its gett
 - [x] Sass Director
 - [ ] Gitfolio
 - [ ] ECard-As-A-Service
+- [ ] Typeface
 
 ## Other Project Ideas (unstarted)
 - [ ] Termoji
@@ -28,3 +29,4 @@ Things I want to work on, but need to keep out of the main page because its gett
 - [ ] Beautiful wearables (constellations)
 - [x] Happy Moments Reminder Generator Site
 - [ ] Personal Goals node app (adding things in terminal)
+- [ ] Web App Store

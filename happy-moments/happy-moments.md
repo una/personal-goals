@@ -757,3 +757,19 @@ I gave my talk at Cascadia today! And oh my gosh it went so well :) I got a lot 
 07/09/2015
 ---
 A lot of people were still chatting with me about my Cascadia talk and telling me about how it resonated. Always super good to hear & makes it all worth it.
+
+07/10/2015
+---
+Today was the last day of Cascadiafest! I went exploring a little bit away from the resort with Kenneth and told him about the new clear life direction I have :)
+
+07/11/2015
+---
+Today was SUCH a wonderful day in Seattle! Kasey was an amazing host -- she showed me around the city and we got great seafood and went to see a comedy show.
+
+07/12/2015
+---
+Before flying back to Austin today, I had a really delicious brunch with Kasey (French toast and a fruit bar)! And it was just really lovely.
+
+07/13/2015
+---
+Holy shit! I got a promotion today! OH my gosh!!! Yay!!!

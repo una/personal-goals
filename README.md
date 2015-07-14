@@ -18,20 +18,23 @@ Personal goals made open source for accessibility across computers I use, transp
 
 # July 5, 2015
 
-### This Week's Focus: Cascadia
+### This Week's Focus: Idea Building
 
 ## Things I'll do This Week:
-- [ ] Implement localStorage to cache my stylesheet (also download it at bottom of page)
-- [ ] Create Yeoman Generator for Gulp Env.
-- [ ] Outline with Links the Photoshop is Dead Talk (check bookmarks)
-- [x] Finish "Sass for Fun" Talk
+
 - [ ] Finish Ch.3 YDKJS
 - [ ] Read Ch.4 YDKJS
 - [ ] Watch [this](https://www.youtube.com/watch?v=twav6O53zIQ) video on Passport w/Express
 - [ ] Watch some [videos](https://egghead.io/series/build-your-first-react-js-application) about React
-- [x] Give talk as Cascadia.js
-- [x] Practice Sass for Fun talk at IBM
-- [x] Give talk at E4H
+- [ ] Implement localStorage to cache my stylesheet (also download it at bottom of page)
+- [ ] Create Yeoman Generator for Gulp Env.
+- [ ] Outline with Links the Photoshop is Dead Talk (check bookmarks)
+- [ ] Work on PS Is Dead Talk
+- [ ] Finish blog post on travel tips
+- [ ] Better outline of GH for Designers Ideas
+- [ ] Do the whole Military diet (3 days)
+- [ ] Work on typeface (make words)
+- [ ] Deal with bills
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
