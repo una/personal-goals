@@ -12,7 +12,7 @@ Today I caught up with Jeff Rohde (someone I end up seeing biannualy but its alw
 
 01/03/2015
 ---
-Today I went out with my Russian girl friends in Baltimore. There weren’t many people out because of the Ravens game (Ravens > Steelers), but Sasha and I didn’t mind -- we danced like nobody was watching -- literally. And took over the entire dance floor. No fucks, just dancing :)
+Today I went out with my Russian girl friends in Baltimore. There weren't many people out because of the Ravens game (Ravens > Steelers), but Sasha and I didn't mind -- we danced like nobody was watching -- literally. And took over the entire dance floor. No fucks, just dancing :)
 
 01/04/2015
 ---
@@ -32,7 +32,7 @@ Today I bought tickets to go to San Francisco and Lake Tahoe in 15 days (hey, th
 
 01/08/2015
 ---
-At home, I use two pieces of foam board as a base to "extend my desk" when I pull out a drawe. Today I put a laptop on that setup on a treadmill at my apartment gym. Joyous discovery :) I guess I found a new office.
+At home, I use two pieces of foam board as a base to "extend my desk" when I pull out a drawer. Today I put a laptop on that setup on a treadmill at my apartment gym. Joyous discovery :) I guess I found a new office.
 
 01/09/2015
 ---
@@ -160,7 +160,7 @@ February, and so warm today. I rode in Jefferson's new car on the way to lunch a
 
 02/10/2015
 ---
-Tonight I went out to Frank and Midnight Cowboy (again :)) with some developers in the community. Afterward, I just grabbed a drink with Claudina and had an amazing time talking about life and traveling, and heard some exciting news about this year's SassConf :D
+Tonight I went out to Frank and Midnight Cowboy (again :)) with some developers in the community. Afterward, I just grabbed a drink with Claudina and chatted about life, traveling, and heard some exciting news about this years SassConf :D
 
 02/11/2015
 ---
@@ -200,7 +200,7 @@ Today my first SitePoint article on Code and Community went live and I got some 
 
 02/20/2015
 ---
-I went to see 50 Shades of Grey as Master Pancake show at the Alamo Drafthouse tonight with Mae. We got really drunk on Sangria at the show and then want dancing. We had an audience. It was so much fun. I havent done that in a while.
+I went to see 50 Shades of Grey as Master Pancake show at the Alamo Drafthouse tonight with Mae. We got really drunk on Sangria at the show and then want dancing. We had an audience. It was so much fun. I haven't done that in a while.
 
 02/21/2015
 ---
@@ -344,7 +344,7 @@ I gave my talk at CSS Conf AU today. It went pretty well and I got so much great
 
 03/28/2015
 ---
-I stayed up until 3 AM chatting with some of the other CSS Conf AU speakers (Kenneth, Thomas, Andrew, and Mike). I love this part of travel and meeting people -- really insightful late-night conversation.
+I stayed up until 3 AM chatting with some of the other CSS Conf AU speakers. I love this part of travel and meeting people -- really insightful late-night conversation.
 
 03/29/2015
 ---
@@ -728,7 +728,7 @@ There was an outdoor screening of Ferriss Bueler's day off today at the Long Cen
 
 07/02/2015
 ---
-I went to bed at 10:30 tonight. And there's no work tomorrow. It was great.
+I went to bed at 10:30 PM. And I didn't even have to go to work in the morning. It was great.
 
 07/03/2015
 ---
@@ -772,4 +772,28 @@ Before flying back to Austin today, I had a really delicious brunch with Kasey (
 
 07/13/2015
 ---
-Holy shit! I got a promotion today! OH my gosh!!! Yay!!!
+Holy shit!!! I got a promotion today! OH my gosh!!! Yay! Freaking out!
+
+07/14/2015
+---
+Today I took my first dance class in about two years and had a wonderful time :) I learned that I'm still somewhat flexible!
+
+07/15/2015
+---
+The ATX Tech ladies got together for a happy hour today at Halcyon. It was nice to chat in person.
+
+07/16/2015
+---
+I posted my email on Twitter for recruitment purposes today, but also for people to say hello, and got a LOT of really nice emails! It was so unexpected and made me super happy :)
+
+07/17/2015
+---
+I hung out at Cenote (one of my favorite spots in Austin) to do some work on my new side project and got a juice from the nearby juice bar for the first time.
+
+07/18/2015
+---
+I met some friends out at Weather Up tonight and it was really nice to hang out outside and chat over cocktails.
+
+07/19/2015
+---
+It took 4 hours, but I finally sorted out my flights for September. I'm pretty happy with that!

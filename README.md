@@ -28,13 +28,14 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Watch some [videos](https://egghead.io/series/build-your-first-react-js-application) about React
 - [ ] Implement localStorage to cache my stylesheet (also download it at bottom of page)
 - [ ] Create Yeoman Generator for Gulp Env.
-- [ ] Outline with Links the Photoshop is Dead Talk (check bookmarks)
-- [ ] Work on PS Is Dead Talk
-- [ ] Finish blog post on travel tips
+- [x] Outline with Links the Photoshop is Dead Talk (check bookmarks)
+- [x] Finish blog post on travel tips
+- [x] Figured out flights for September
 - [ ] Better outline of GH for Designers Ideas
-- [ ] Do the whole Military diet (3 days)
+- [x] Do the whole Military diet (3 days)
 - [ ] Work on typeface (make words)
-- [ ] Deal with bills
+- [x] Deal with bills
+- [x] Record audio for travel post
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
@@ -69,6 +70,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [x] Try out [Ractive](http://ractivejs.org)
 - [ ] Build web app that uses React.js
 - [ ] Check out CSS compositing/blending [modes](http://www.w3.org/TR/compositing-1/)
+- [ ] Make something with [Two.js](http://jonobr1.github.io/two.js/)
 
 ### Backlog: Side Projects & Other Ideas
 - [Apps & Other Projects](https://github.com/una/personal-goals/blob/master/ideas-and-misc/app-ideas.md)

@@ -62,7 +62,7 @@ Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodrea
 ## July 2015
 
 - [ ] The Social Animal -- David Brooks
-- [ ] City of Thieves -- David Benioff
+- [x] City of Thieves -- David Benioff :star:
 
 To-Read
 ---
