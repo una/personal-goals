@@ -16,26 +16,26 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Radiate joy and kindness
 
-# July 5, 2015
+# July 19, 2015
 
-### This Week's Focus: Idea Building
+### This Week's Focus: Birthday Week!
 
 ## Things I'll do This Week:
 
+- [ ] Read & internalize [this](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
+- [ ] Create Github AMA
+- [ ] Put sublet ad up on Craigslist/IBM DesignCampers
+- [ ] Upload Facebook Photos from past few weeks
+- [ ] Fix portfolio Gulp-Sass situation
+- [ ] Stop Ruby from being mad
 - [ ] Finish Ch.3 YDKJS
 - [ ] Read Ch.4 YDKJS
-- [ ] Watch [this](https://www.youtube.com/watch?v=twav6O53zIQ) video on Passport w/Express
-- [ ] Watch some [videos](https://egghead.io/series/build-your-first-react-js-application) about React
-- [ ] Implement localStorage to cache my stylesheet (also download it at bottom of page)
 - [ ] Create Yeoman Generator for Gulp Env.
-- [x] Outline with Links the Photoshop is Dead Talk (check bookmarks)
-- [x] Finish blog post on travel tips
-- [x] Figured out flights for September
 - [ ] Better outline of GH for Designers Ideas
-- [x] Do the whole Military diet (3 days)
 - [ ] Work on typeface (make words)
-- [x] Deal with bills
-- [x] Record audio for travel post
+- [ ] Work on PS is Dead Talk --> get it into slide form
+- [ ] Celebrate Birthday
+- [ ] Give talk at OSCon
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
