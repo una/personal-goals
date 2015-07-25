@@ -797,3 +797,23 @@ I met some friends out at Weather Up tonight and it was really nice to hang out 
 07/19/2015
 ---
 It took 4 hours, but I finally sorted out my flights for September. I'm pretty happy with that!
+
+07/20/2015
+---
+Today I had my first aerial class. It is HARD but so much fun! I also can't climb the silks yet, but I WILL.
+
+07/21/2015
+---
+I arrived in Portland today! I walked around and ended up at this huge book store called Powell's.
+
+07/22/2015
+---
+Today was my birthday! One of the OSCon organizers got me a carrot cake and I went to Salt & Straw :) SO many noms!
+
+07/23/2015
+---
+I did my OSCon talk today. It was the first time I saw written feedback from a talk, and I got all 5/5 stars, which was super reassuring.
+
+07/24/2015
+---
+Today was TXJS! And this conference has SUCH an awesome community! I met so many people I admire from the internet, and they were so much fun to hang out with.
