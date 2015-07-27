@@ -817,3 +817,11 @@ I did my OSCon talk today. It was the first time I saw written feedback from a t
 07/24/2015
 ---
 Today was TXJS! And this conference has SUCH an awesome community! I met so many people I admire from the internet, and they were so much fun to hang out with.
+
+07/25/2015
+---
+I came home for my birthday weekend. Liza gathered my hometown friends and we had a party on her boyfriend's rooftop in Canton before going out.
+
+07/26/2015
+---
+I hung out with my parents today in my hometown. It was really nice to spend some time with them.

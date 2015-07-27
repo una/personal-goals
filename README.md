@@ -16,26 +16,21 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Radiate joy and kindness
 
-# July 19, 2015
+# July 26, 2015
 
-### This Week's Focus: Birthday Week!
+### This Week's Focus: Back in Shape
 
 ## Things I'll do This Week:
 
+- [ ] Apply to speak @ [Craft Conf](http://craft-conf.com/2016/about)
 - [ ] Read & internalize [this](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
-- [x] Create Github AMA
 - [ ] Put sublet ad up on Craigslist/IBM DesignCampers
-- [x] Upload Facebook Photos from past few weeks
-- [x] Fix portfolio Gulp-Sass situation
-- [x] Stop Ruby from being mad
 - [ ] Finish Ch.3 YDKJS
-- [ ] Read Ch.4 YDKJS
 - [ ] Create Yeoman Generator for Gulp Env.
 - [ ] Better outline of GH for Designers Ideas
 - [ ] Work on typeface (make words)
-- [x] Work on PS is Dead Talk --> get it into slide form
-- [x] Celebrate Birthday
-- [x] Give talk at OSCon
+- [ ] Work on slides for PS is Dead
+- [ ] Do 3-Day Diet Reset
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
