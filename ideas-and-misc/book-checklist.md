@@ -15,7 +15,7 @@ Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodrea
 ## February 2015
 
 - [x] Weaving the Web -- Tim Berners-Lee :star:
-- [x] The Book Thief -- Markus Zusak
+- [x] The Book Thief -- Markus Zusak :star:
 - [ ] Freakonomics -- Stephen J. Dubner & Steven D. Levitt <-- subscription ran out
 - [x] Ghost in The Wires -- Kevin Mitnick :star:
 - [x] Outliers -- Malcolm Gladwell :star:
@@ -63,11 +63,12 @@ Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodrea
 
 - [ ] The Social Animal -- David Brooks
 - [x] City of Thieves -- David Benioff :star:
+- [x] The Girl with The Dragon Tattoo -- Stieg Larsson
+- [ ] CSS Secrets -- Lea Verou
 
 To-Read
 ---
 - [ ] Let's Explore Diabetes with Owls -- David Sedaris
-- [ ] The Girl with The Dragon Tattoo
 - [ ] The Drunken Botanist -- Amy Stewart
 - [ ] Decisive: How to Make Better Choices in Life and Work -- Chip Heath & Dan Heath
 - [ ] Alan Turing -- Andrew Hodges

@@ -31,6 +31,8 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Work on typeface (make words)
 - [ ] Work on slides for PS is Dead
 - [ ] Do 3-Day Diet Reset
+- [ ] Make sure SXSW entry gets updated
+- [x] Work on Travels project
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator

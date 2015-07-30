@@ -825,3 +825,15 @@ I came home for my birthday weekend. Liza gathered my hometown friends and we ha
 07/26/2015
 ---
 I hung out with my parents today in my hometown. It was really nice to spend some time with them.
+
+07/27/2015
+---
+Back to work! Lauren gave me a really cute card and notebook for my birthday today.
+
+07/28/2015
+---
+I got drinks with Edd Snowen & Jake Archibald today at Bangers & around Rainey. They're really awesome people to hang out with :)
+
+07/29/2015
+---
+Today was aerial class day! I'm still sore from Monday but definitely getting better!
