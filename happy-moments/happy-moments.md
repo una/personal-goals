@@ -837,3 +837,11 @@ I got drinks with Edd Snowen & Jake Archibald today at Bangers & around Rainey. 
 07/29/2015
 ---
 Today was aerial class day! I'm still sore from Monday but definitely getting better!
+
+07/30/2015
+---
+I spent a bit of time trolling the internet for typefaces (for the travels project) today. I forgot how much I loved doing that.
+
+07/31/2015
+---
+I stayed in tonight and worked on my travels project :) it makes me so happy. I had way too much fun with mix blend modes & gradients.

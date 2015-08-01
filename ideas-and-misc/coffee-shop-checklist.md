@@ -34,3 +34,4 @@ Gotta catch 'em all. (:star: == fave)
 - [ ] 1886 Cafe & Bakery
 - [ ] Spider House
 - [ ] Patika
+- [x] Genuine Joe

@@ -14,7 +14,7 @@ Personal goals made open source for accessibility across computers I use, transp
 8. Foster designer participation in OS projects
 9. Participate in conferences & community
 10. Use web components
-11. Radiate joy and kindness
+11. Be kinder
 
 # July 26, 2015
 
@@ -23,14 +23,14 @@ Personal goals made open source for accessibility across computers I use, transp
 ## Things I'll do This Week:
 
 - [ ] Apply to speak @ [Craft Conf](http://craft-conf.com/2016/about)
-- [ ] Read & internalize [this](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
+- [x] Read & internalize [this](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 - [ ] Put sublet ad up on Craigslist/IBM DesignCampers
 - [ ] Finish Ch.3 YDKJS
 - [ ] Create Yeoman Generator for Gulp Env.
 - [ ] Better outline of GH for Designers Ideas
 - [ ] Work on typeface (make words)
-- [ ] Work on slides for PS is Dead
-- [ ] Do 3-Day Diet Reset
+- [x] Work on slides for PS is Dead
+- [x] Do 3-Day Diet Reset
 - [ ] Make sure SXSW entry gets updated
 - [x] Work on Travels project
 
@@ -68,6 +68,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Build web app that uses React.js
 - [ ] Check out CSS compositing/blending [modes](http://www.w3.org/TR/compositing-1/)
 - [ ] Make something with [Two.js](http://jonobr1.github.io/two.js/)
+- [ ] Start this [Functional Programming](http://jhusain.github.io/learnrx/) course
 
 ### Backlog: Side Projects & Other Ideas
 - [Apps & Other Projects](https://github.com/una/personal-goals/blob/master/ideas-and-misc/app-ideas.md)
