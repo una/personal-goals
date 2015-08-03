@@ -16,23 +16,29 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Be kinder
 
-# July 26, 2015
+# August 2, 2015
 
-### This Week's Focus: Back in Shape
+### This Week's Focus:
 
-## Things I'll do This Week:
+## Things I'll do This Week: CSS Fun
 
-- [ ] Apply to speak @ [Craft Conf](http://craft-conf.com/2016/about)
-- [x] Read & internalize [this](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
+- [ ] Rename sassme to sassdocs-cmd
+- [ ] Create API to scrape Sass Docs site
+- [ ] Go through all PRs (check sass director)
+- [ ] Finish [Functional Programming](http://jhusain.github.io/learnrx/) course
+- [ ] Set up hair appointment
+- [ ] Fix Happy Moments App hash
+- [ ] Watch [this](https://www.youtube.com/watch?v=tCfF6HI0JKs&feature=em-subs_digest) vid on perf audits
 - [ ] Put sublet ad up on Craigslist/IBM DesignCampers
 - [ ] Finish Ch.3 YDKJS
 - [ ] Create Yeoman Generator for Gulp Env.
 - [ ] Better outline of GH for Designers Ideas
 - [ ] Work on typeface (make words)
-- [x] Work on slides for PS is Dead
-- [x] Do 3-Day Diet Reset
 - [ ] Make sure SXSW entry gets updated
-- [x] Work on Travels project
+- [ ] Apply to speak @ [Craft Conf](http://craft-conf.com/2016/about)
+- [ ] Clean my room!
+- [ ] Work on Travels project
+- [ ] Work on slids for PS is Dead
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
