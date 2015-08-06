@@ -22,10 +22,10 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll do This Week: CSS Fun
 
-- [ ] Rename sassme to sassdocs-cmd
+- [x] Rename sassme to sassdocs-cmd
 - [ ] Create API to scrape Sass Docs site
 - [ ] Go through all PRs (check sass director)
-- [ ] Finish [Functional Programming](http://jhusain.github.io/learnrx/) course
+- [ ] Work on [Functional Programming](http://jhusain.github.io/learnrx/) course
 - [ ] Set up hair appointment
 - [ ] Fix Happy Moments App hash
 - [ ] Watch [this](https://www.youtube.com/watch?v=tCfF6HI0JKs&feature=em-subs_digest) vid on perf audits
@@ -34,11 +34,11 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Create Yeoman Generator for Gulp Env.
 - [ ] Better outline of GH for Designers Ideas
 - [ ] Work on typeface (make words)
-- [ ] Make sure SXSW entry gets updated
+- [x] Make sure SXSW entry gets updated
 - [ ] Apply to speak @ [Craft Conf](http://craft-conf.com/2016/about)
-- [ ] Clean my room!
+- [x] Clean my room!
 - [ ] Work on Travels project
-- [ ] Work on slids for PS is Dead
+- [x] Work on slides for PS is Dead
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator

@@ -845,3 +845,23 @@ I spent a bit of time trolling the internet for typefaces (for the travels proje
 07/31/2015
 ---
 I stayed in tonight and worked on my travels project :) it makes me so happy. I had way too much fun with mix blend modes & gradients.
+
+08/01/2015
+---
+Went on a date tonight for the first time in a while and it was really awesome. He gave me a CD of his and crayons to color the case with :)
+
+08/02/2015
+---
+Today I recorded a podcast with Code Newbie! It was a lot of fun and Saron, the host, is wonderful and super professional!
+
+08/03/2015
+---
+I climbed the silks today!! I climbed the silks in aerial class!! AHH! That's super exciting for me!
+
+08/04/2015
+---
+Today my manager approved staying in Europe for an extra few days to visit the Boeblingen studio! Which means I'll be trekking through rural Germany :D
+
+08/05/2015
+---
+Tonight was the CodeNewbie chat surrounding my podcast episode -- what an awesome community! I really enjoyed chatting.
