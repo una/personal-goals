@@ -848,7 +848,7 @@ I stayed in tonight and worked on my travels project :) it makes me so happy. I 
 
 08/01/2015
 ---
-Went on a date tonight for the first time in a while and it was really awesome. He gave me a CD of his and crayons to color the case with :)
+Met up with a musician who was new to Austin today and it was really awesome. He gave me a CD of his and crayons to color the case with :)
 
 08/02/2015
 ---
@@ -865,3 +865,7 @@ Today my manager approved staying in Europe for an extra few days to visit the B
 08/05/2015
 ---
 Tonight was the CodeNewbie chat surrounding my podcast episode -- what an awesome community! I really enjoyed chatting.
+
+08/06/2015
+---
+Today Brittany and I exchanged flowers at lunch from Whole Foods! Now I have beautiful lilies at my desk and they smell amazing!

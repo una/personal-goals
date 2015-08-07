@@ -23,13 +23,13 @@ Personal goals made open source for accessibility across computers I use, transp
 ## Things I'll do This Week: CSS Fun
 
 - [x] Rename sassme to sassdocs-cmd
-- [ ] Create API to scrape Sass Docs site
+- [ ] ~Create API to scrape Sass Docs site~
 - [ ] Go through all PRs (check sass director)
 - [ ] Work on [Functional Programming](http://jhusain.github.io/learnrx/) course
-- [ ] Set up hair appointment
-- [ ] Fix Happy Moments App hash
-- [ ] Watch [this](https://www.youtube.com/watch?v=tCfF6HI0JKs&feature=em-subs_digest) vid on perf audits
-- [ ] Put sublet ad up on Craigslist/IBM DesignCampers
+- [ ] Set up hair appointment for before Europe
+- [x] Fix Happy Moments App hash
+- [x] Watch [this](https://www.youtube.com/watch?v=tCfF6HI0JKs&feature=em-subs_digest) vid on perf audits
+- [ ] Put sublet ad up on Craigslist/DesignCampers/ Figure out Sublet
 - [ ] Finish Ch.3 YDKJS
 - [ ] Create Yeoman Generator for Gulp Env.
 - [ ] Better outline of GH for Designers Ideas
@@ -39,6 +39,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [x] Clean my room!
 - [ ] Work on Travels project
 - [x] Work on slides for PS is Dead
+- [ ] Prepare for and do Global Entry Interview
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
