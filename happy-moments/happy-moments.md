@@ -869,3 +869,11 @@ Tonight was the CodeNewbie chat surrounding my podcast episode -- what an awesom
 08/06/2015
 ---
 Today Brittany and I exchanged flowers at lunch from Whole Foods! Now I have beautiful lilies at my desk and they smell amazing!
+
+08/07/2015
+---
+I got cocktails at the Townsend tonight with a some great developers and the drinks & ambiance was SO. GOOD. I got a Gin Fizz & Bottom Buzzer (drink w/Chartreuse) YUMM.
+
+08/08/2015
+---
+I got an email from the organizer of DotCSS today inviting me to come speak on their *beautiful* stage in Paris! In Montmartre! Freakingg outttt.
