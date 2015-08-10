@@ -65,7 +65,10 @@ Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodrea
 - [x] City of Thieves -- David Benioff :star:
 - [x] The Girl with The Dragon Tattoo -- Stieg Larsson
 - [ ] CSS Secrets -- Lea Verou
-- [ ] Decisive -- Chip Heath & Dan Heath
+
+## August 2015
+
+- [x] Decisive -- Chip Heath & Dan Heath
 
 To-Read
 ---

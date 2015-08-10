@@ -16,30 +16,23 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Be kinder
 
-# August 2, 2015
+# August 10, 2015
 
-### This Week's Focus:
+### This Week's Focus: Slides for CSSConf Talk
 
-## Things I'll do This Week: CSS Fun
+## Things I'll do This Week:
 
-- [x] Rename sassme to sassdocs-cmd
-- [ ] ~~Create API to scrape Sass Docs site~~
+- [ ] SRSLY BOOK FLIGHT TO EUROPE
+- [ ] Apply to speak @ [Craft Conf](http://craft-conf.com/2016/about)
+- [ ] Put sublet ad up on Craigslist/DesignCampers/ Figure out Sublet
 - [ ] Go through all PRs (check sass director)
 - [ ] Work on [Functional Programming](http://jhusain.github.io/learnrx/) course
-- [x] Set up hair appointment for before Europe
-- [x] Fix Happy Moments App hash
-- [x] Watch [this](https://www.youtube.com/watch?v=tCfF6HI0JKs&feature=em-subs_digest) vid on perf audits
-- [ ] Put sublet ad up on Craigslist/DesignCampers/ Figure out Sublet
 - [ ] Finish Ch.3 YDKJS
 - [ ] Create Yeoman Generator for Gulp Env.
 - [ ] Better outline of GH for Designers Ideas
-- [ ] Work on typeface (make words)
-- [x] Make sure SXSW entry gets updated
-- [ ] Apply to speak @ [Craft Conf](http://craft-conf.com/2016/about)
-- [x] Clean my room!
-- [x] Work on Travels project
-- [x] Work on slides for PS is Dead
-- [x] Prepare for and do Global Entry Interview
+- [ ] Work on Travels project (get it all to be mobile friendly)
+- [ ] Finish Outline for PS is Dead
+- [ ] Read CSS Secrets
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
@@ -75,7 +68,8 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Build web app that uses React.js
 - [ ] Check out CSS compositing/blending [modes](http://www.w3.org/TR/compositing-1/)
 - [ ] Make something with [Two.js](http://jonobr1.github.io/two.js/)
-- [ ] Start this [Functional Programming](http://jhusain.github.io/learnrx/) course
+- [ ] Do this [Functional Programming](http://jhusain.github.io/learnrx/) course
+- [ ] Play around with CSS Transforms for fun
 
 ### Backlog: Side Projects & Other Ideas
 - [Apps & Other Projects](https://github.com/una/personal-goals/blob/master/ideas-and-misc/app-ideas.md)

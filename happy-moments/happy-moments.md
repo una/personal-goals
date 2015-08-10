@@ -877,3 +877,7 @@ I got cocktails at the Townsend tonight with a some great developers and the dri
 08/08/2015
 ---
 I got an email from the organizer of DotCSS today inviting me to come speak on their *beautiful* stage in Paris! In Montmartre! Freakingg outttt.
+
+08/09/2015
+---
+Today was a beautiful lake day on Troy's boat :) We blasted music and danced and the lake was so much higher than last time I was out here!
