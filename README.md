@@ -22,17 +22,17 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll do This Week:
 
-- [ ] SRSLY BOOK FLIGHT TO EUROPE
+- [x] SRSLY BOOK FLIGHT TO EUROPE
 - [ ] Apply to speak @ [Craft Conf](http://craft-conf.com/2016/about)
-- [ ] Put sublet ad up on Craigslist/DesignCampers/ Figure out Sublet
+- [x] Put sublet ad up on Craigslist/DesignCampers/ Figure out Sublet
 - [ ] Go through all PRs (check sass director)
 - [ ] Work on [Functional Programming](http://jhusain.github.io/learnrx/) course
 - [ ] Finish Ch.3 YDKJS
 - [ ] Create Yeoman Generator for Gulp Env.
 - [ ] Better outline of GH for Designers Ideas
-- [ ] Work on Travels project (get it all to be mobile friendly)
+- [x] Work on Travels project (get it all to be mobile friendly)
 - [ ] Finish Outline for PS is Dead
-- [ ] Read CSS Secrets
+- [x] Read CSS Secrets
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator

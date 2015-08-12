@@ -881,3 +881,11 @@ I got an email from the organizer of DotCSS today inviting me to come speak on t
 08/09/2015
 ---
 Today was a beautiful lake day on Troy's boat :) We blasted music and danced and the lake was so much higher than last time I was out here!
+
+08/10/2015
+---
+A bunch of makeup I ordered from Sephora came in today! It's like I just got new toys to play with.
+
+08/11/2015
+---
+The sunset over downtown Austin today was so stunning. I watched it from my porch as I read Lea Verou's CSS Secrets book :) It was nice.
