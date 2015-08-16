@@ -889,3 +889,19 @@ A bunch of makeup I ordered from Sephora came in today! It's like I just got new
 08/11/2015
 ---
 The sunset over downtown Austin today was so stunning. I watched it from my porch as I read Lea Verou's CSS Secrets book :) It was nice.
+
+08/12/2015
+---
+On a new project and had a call with the remote back-end devs today. I really feel like there's a great mutual respect between us and I'm super excited to work in that kind of environment.
+
+08/13/2015
+---
+I watercolored tonight for the first time in a long time! I forgot how much I loved playing with watercolor.
+
+08/14/2015
+---
+I ended up talking on the phone with someone tonight for like 3 hours. It has been a while since I've done that.
+
+08/15/2015
+---
+I went on a wine tour with some of my Austin friends for a belated birthday today! It was great :)
