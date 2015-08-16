@@ -16,23 +16,23 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Be kinder
 
-# August 10, 2015
+# August 16, 2015
 
-### This Week's Focus: Slides for CSSConf Talk
+### This Week's Focus: Deeper Understanding of Photo Manipulation
 
 ## Things I'll do This Week:
 
-- [x] SRSLY BOOK FLIGHT TO EUROPE
-- [ ] Apply to speak @ [Craft Conf](http://craft-conf.com/2016/about)
-- [x] Put sublet ad up on Craigslist/DesignCampers/ Figure out Sublet
+- [ ] Watch [this](https://www.youtube.com/watch?v=cpDqc5KPk7U) video on CSS Animation (40 mins)
+- [ ] Update terminal aliases for current workflow / review it
+- [ ] Read/listen to [this](http://www.w3.org/TR/filter-effects/) to understand filters better
 - [ ] Go through all PRs (check sass director)
 - [ ] Work on [Functional Programming](http://jhusain.github.io/learnrx/) course
 - [ ] Finish Ch.3 YDKJS
 - [ ] Create Yeoman Generator for Gulp Env.
 - [ ] Better outline of GH for Designers Ideas
-- [x] Work on Travels project (get it all to be mobile friendly)
-- [ ] Finish Outline for PS is Dead
-- [x] Read CSS Secrets
+- [ ] Apply to speak @ [Craft Conf](http://craft-conf.com/2016/about)
+- [ ] Continue reading CSS Secrets
+- [ ] Work on Slides on CSS Filters/Blend Modes
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator

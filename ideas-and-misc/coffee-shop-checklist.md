@@ -35,3 +35,4 @@ Gotta catch 'em all. (:star: == fave)
 - [ ] Spider House
 - [ ] Patika
 - [x] Genuine Joe
+- [x] Bee Cave Coffee
