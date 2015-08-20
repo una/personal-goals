@@ -32,7 +32,7 @@ Gotta catch 'em all. (:star: == fave)
 - [ ] Sa-Ten
 - [x] Flat Track
 - [ ] 1886 Cafe & Bakery
-- [ ] Spider House
+- [x] Spider House
 - [ ] Patika
 - [x] Genuine Joe
 - [x] Bee Cave Coffee

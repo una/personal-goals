@@ -30,3 +30,5 @@ Things I want to work on, but need to keep out of the main page because its gett
 - [x] Happy Moments Reminder Generator Site
 - [ ] Personal Goals node app (adding things in terminal)
 - [ ] Web App Store
+- [ ] Slack bot that tells the other person(s) the time zone in their location(s) when you say "x:00 my time"
+- [ ] Spotify "local music" add-on or app

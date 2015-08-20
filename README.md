@@ -27,12 +27,14 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Read/listen to [this](http://www.w3.org/TR/filter-effects/) to understand filters better
 - [ ] Go through all PRs (check sass director)
 - [ ] Work on [Functional Programming](http://jhusain.github.io/learnrx/) course
-- [ ] Finish Ch.3 YDKJS
+- [x] Finish Ch.3 YDKJS
 - [ ] Create Yeoman Generator for Gulp Env.
 - [ ] Better outline of GH for Designers Ideas
 - [ ] Apply to speak @ [Craft Conf](http://craft-conf.com/2016/about)
-- [ ] Continue reading CSS Secrets
+- [x] Continue reading CSS Secrets
 - [ ] Work on Slides on CSS Filters/Blend Modes
+- [x] Finish blog post: Internet is a Hack
+- [ ] Deal with returning Pencil
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator

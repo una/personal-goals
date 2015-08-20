@@ -29,7 +29,7 @@ Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodrea
 - [ ] How to Create a Mind -- Ray Kurzweil :sleeping:
 - [x] The Innovators -- Walter Isaacson :star:
 - [ ] The Art of Deception -- Kevin Mitnick :sleeping:
-- [x] Ready Player One -- Ernest Cline
+- [x] Ready Player One -- Ernest Cline :star:
 
 ## April 2015
 
@@ -69,10 +69,10 @@ Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodrea
 ## August 2015
 
 - [x] Decisive -- Chip Heath & Dan Heath
+- [x] Let's Explore Diabetes with Owls -- David Sedaris
 
 To-Read
 ---
-- [ ] Let's Explore Diabetes with Owls -- David Sedaris
 - [ ] The Drunken Botanist -- Amy Stewart
 - [ ] Alan Turing -- Andrew Hodges
 - [ ] Abundance -- Peter H. Diamandis
