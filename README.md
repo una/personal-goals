@@ -22,8 +22,9 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll do This Week:
 
-- [ ] Start blog on explaining my flavor of Sass with CS
-- [ ] Review/Publish blog on Internet is a Hack
+- [x] Start blog on explaining my flavor of Sass with CS
+- [x] Review blog on Internet is a Hack
+- [ ] Publish blog on Internet is a Hack
 - [ ] Buy some nice headphones
 - [ ] Monday: Elyse & Jeffery's save the dates
 - [ ] Read/listen to [this](http://www.w3.org/TR/filter-effects/) to understand filters better
@@ -39,11 +40,12 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Figure out tickets to Bruge/Brussels
 - [ ] Sort out FOWD & CSS Conf talk info
 - [ ] Return Madewell sandals
+- [ ] Finish YDKJS Ch.4
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
 - [x] Learn about web scraping with node
-- [ ] Write a post for the Sass Way
+- [ ] ~~Write a post for the Sass Way~~
 - [x] Get [Source Maps](http://www.sitepoint.com/using-source-maps-debug-sass-chrome/) Working &mdash; [source maps & gulp](https://github.com/floridoo/gulp-sourcemaps)
 - [ ] Create Singularity Examples bc [the cons here](http://web-design-weekly.com/2014/04/06/grid-frameworks-sass/)
 - [ ] Add search & tagging functionality to blog

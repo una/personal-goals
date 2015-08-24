@@ -905,3 +905,35 @@ I ended up talking on the phone with someone tonight for like 3 hours. It has be
 08/15/2015
 ---
 I went on a wine tour with some of my Austin friends for a belated birthday today! It was great :)
+
+08/16/2015
+---
+I sent Jordan's mixtape to him today &mdash; it took so much effort to make a mixed CD in 2015 and a cover but I finally did it!
+
+08/17/2015
+---
+I went to Spider House for the first time tonight. I can't believe I've never gone before! It's such an awesome spot.
+
+08/18/2015
+---
+I found a teeny tiny picture of me in a book I'm reading (Lea Verou's CSS Secrets) :D Haha I don't know why but it made me happy.
+
+08/19/2015
+---
+I went stand up paddle boarding with Tracy and Caroline tonight after work and watched the sun set on the water. It was absolutely lovely :)
+
+08/20/2015
+---
+Went out to Half Step and had a fantastic time sipping chartreuse and chatting. I ended up back at my patio and stayed up till 4:30 AM to catch a flight.
+
+08/21/2015
+---
+Tonight was Karina's bachelorette party!! We ended up dancing outside on the street corner and had a late-night heart to heart.
+
+08/22/2015
+---
+Instead of going out again, I went over to Lizas and we roasted marshmallows with her parents in their new fire pit. It was perfect out.
+
+08/23/2015
+---
+Today was Laura's bridal shower! :) It was beautiful, dessert was wonderful, and I helped set up the photo booth area.
