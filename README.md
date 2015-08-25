@@ -24,21 +24,21 @@ Personal goals made open source for accessibility across computers I use, transp
 
 - [x] Start blog on explaining my flavor of Sass with CS
 - [x] Review blog on Internet is a Hack
-- [ ] Publish blog on Internet is a Hack
+- [x] Publish blog on Internet is a Hack
 - [ ] Buy some nice headphones
-- [ ] Monday: Elyse & Jeffery's save the dates
+- [x] Monday: Elyse & Jeffery's save the dates
 - [ ] Read/listen to [this](http://www.w3.org/TR/filter-effects/) to understand filters better
 - [ ] Go through all PRs (check sass director)
 - [ ] Work on [Functional Programming](http://jhusain.github.io/learnrx/) course
 - [ ] Better outline of GH for Designers Ideas
 - [ ] Apply to speak @ [Craft Conf](http://craft-conf.com/2016/about)
-- [ ] Deal with returning Pencil
+- [x] Deal with returning Pencil
 - [ ] Finish talk on CSS Filters/Blend Modes
 - [ ] Review Performance talk
 - [ ] Review OSDesign Talk
 - [ ] Sort out stay in London
 - [ ] Figure out tickets to Bruge/Brussels
-- [ ] Sort out FOWD & CSS Conf talk info
+- [x] Sort out FOWD & CSS Conf talk info
 - [ ] Return Madewell sandals
 - [ ] Finish YDKJS Ch.4
 

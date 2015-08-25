@@ -937,3 +937,7 @@ Instead of going out again, I went over to Lizas and we roasted marshmallows wit
 08/23/2015
 ---
 Today was Laura's bridal shower! :) It was beautiful, dessert was wonderful, and I helped set up the photo booth area.
+
+08/24/2015
+---
+Today I showed up to work to an army of 3D-printed mini Una's and unicorns.

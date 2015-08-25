@@ -3,19 +3,21 @@
 Things I want to work on, but need to keep out of the main page because its getting a bit crowded.
 
 ## Side Projects I've Started
-- [ ] Work on [sassme v2](https://github.com/una/sassme) to scrape the web & get up-to-date content
+- [ ] Work on [sassme-cli](https://github.com/una/sassme) to scrape the web & get up-to-date content
 - [ ] Focus again on [Sass Gifs](http://sassgifs.com)
-- [ ] Travel Book -- photography & writing <-- now online
+- [x] Travel Book -- photography & writing <-- now online
 - [x] Hand Lettering (Code Calligraphy)
 - [ ] Open Source Design
 - [ ] Heiroglyph
 - [ ] Urban Patchwork
-- [ ] Happy Hack
+- [ ] Happy Hack (Hackathon)
 - [ ] LegibiliMe
 - [x] Sass Director
 - [ ] Gitfolio
 - [ ] ECard-As-A-Service
 - [ ] Typeface
+- [x] One Happy Moment
+- [ ] IBMHacks (Hackathon)
 
 ## Other Project Ideas (unstarted)
 - [ ] Termoji
@@ -32,3 +34,5 @@ Things I want to work on, but need to keep out of the main page because its gett
 - [ ] Web App Store
 - [ ] Slack bot that tells the other person(s) the time zone in their location(s) when you say "x:00 my time"
 - [ ] Spotify "local music" add-on or app
+- [ ] "My Year in Travel" using TripIt API
+- [ ] CLI tool for IBM Internal weekly "FED Dates"
