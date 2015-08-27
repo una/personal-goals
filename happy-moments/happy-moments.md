@@ -941,3 +941,11 @@ Today was Laura's bridal shower! :) It was beautiful, dessert was wonderful, and
 08/24/2015
 ---
 Today I showed up to work to an army of 3D-printed mini Una's and unicorns.
+
+08/25/2015
+---
+Posted a blog on how the 'Internet is Made of Hacks' yesterday and was SO unsure about how it would go over. But people actually seemed to like it alot :X :D
+
+08/26/2015
+---
+I saw stroopwaffle in Whole Foods and got one (just one) and ate it with a smile and it reminded me of the stroopwaffle I had on the Twitter roof deck :)

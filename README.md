@@ -25,7 +25,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [x] Start blog on explaining my flavor of Sass with CS
 - [x] Review blog on Internet is a Hack
 - [x] Publish blog on Internet is a Hack
-- [ ] Buy some nice headphones
+- [x] Buy some nice headphones
 - [x] Monday: Elyse & Jeffery's save the dates
 - [ ] Read/listen to [this](http://www.w3.org/TR/filter-effects/) to understand filters better
 - [ ] Go through all PRs (check sass director)
@@ -34,8 +34,8 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Apply to speak @ [Craft Conf](http://craft-conf.com/2016/about)
 - [x] Deal with returning Pencil
 - [ ] Finish talk on CSS Filters/Blend Modes
-- [ ] Review Performance talk
-- [ ] Review OSDesign Talk
+- [x] Review Performance talk
+- [ ] Review OSDesign Talk (add diversity pocket article)
 - [ ] Sort out stay in London
 - [ ] Figure out tickets to Bruge/Brussels
 - [x] Sort out FOWD & CSS Conf talk info
