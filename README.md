@@ -16,31 +16,28 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Be kinder
 
-# August 23, 2015
+# August 31, 2015
 
 ### This Week's Focus: Prep for Europe
 
 ## Things I'll do This Week:
 
-- [x] Start blog on explaining my flavor of Sass with CS
-- [x] Review blog on Internet is a Hack
-- [x] Publish blog on Internet is a Hack
-- [x] Buy some nice headphones
-- [x] Monday: Elyse & Jeffery's save the dates
+
+- [ ] Choose websites to write about for Net Mag article
 - [ ] Read/listen to [this](http://www.w3.org/TR/filter-effects/) to understand filters better
 - [ ] Go through all PRs (check sass director)
 - [ ] Work on [Functional Programming](http://jhusain.github.io/learnrx/) course
 - [ ] Better outline of GH for Designers Ideas
 - [ ] Apply to speak @ [Craft Conf](http://craft-conf.com/2016/about)
-- [x] Deal with returning Pencil
-- [ ] Finish talk on CSS Filters/Blend Modes
-- [x] Review Performance talk
 - [ ] Review OSDesign Talk (add diversity pocket article)
 - [ ] Sort out stay in London
 - [ ] Figure out tickets to Bruge/Brussels
-- [x] Sort out FOWD & CSS Conf talk info
 - [ ] Return Madewell sandals
 - [ ] Finish YDKJS Ch.4
+- [ ] Write out what blend modes are doing
+- [ ] Write a blog post
+- [ ] Pack for beach & Europe
+- [ ] Go to Laura's wedding
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator

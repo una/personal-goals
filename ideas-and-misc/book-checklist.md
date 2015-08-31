@@ -70,6 +70,7 @@ Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodrea
 
 - [x] Decisive -- Chip Heath & Dan Heath
 - [x] Let's Explore Diabetes with Owls -- David Sedaris
+- [x] Foundation -- Isaac Asimov
 
 To-Read
 ---

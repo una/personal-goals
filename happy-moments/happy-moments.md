@@ -949,3 +949,7 @@ Posted a blog on how the 'Internet is Made of Hacks' yesterday and was SO unsure
 08/26/2015
 ---
 I saw stroopwaffle in Whole Foods and got one (just one) and ate it with a smile and it reminded me of the stroopwaffle I had on the Twitter roof deck :)
+
+08/27/2015
+---
+Today was IBM studio crawl. Oh my gosh it was *so* much fun :) I really love my coworkers. We got blue drinks and mixers because we're Bluemix-ers. Hehe
