@@ -952,4 +952,20 @@ I saw stroopwaffle in Whole Foods and got one (just one) and ate it with a smile
 
 08/27/2015
 ---
-Today was IBM studio crawl. Oh my gosh it was *so* much fun :) I really love my coworkers. We got blue drinks and mixers because we're Bluemix-ers. Hehe
+Today was IBM studio crawl. Ahh it was *so* much fun :) I really love my coworkers. We got blue drinks and mixers because we're Bluemix-ers. Hehe
+
+08/28/2015
+---
+Stopped by Old Navy today and bought some new rings for super cheap. Oh my gosh I love them!
+
+08/29/2015
+---
+I found a white desk and 2 chairs in the recycling room today and now I have a tech desk and an art desk :) I spent the day rearranging my room.
+
+08/30/2015
+---
+I finally made a spot on my wall for my conference badges! And put my stickers on a glass slab. My room is coming together.
+
+08/31/2015
+---
+I hung out with Tyler tonight and we went to this little pizza place called Backspace. Such a cute spot with great pizza.

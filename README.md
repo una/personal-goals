@@ -28,16 +28,18 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Go through all PRs (check sass director)
 - [ ] Work on [Functional Programming](http://jhusain.github.io/learnrx/) course
 - [ ] Better outline of GH for Designers Ideas
-- [ ] Apply to speak @ [Craft Conf](http://craft-conf.com/2016/about)
+- [ ] ~~Apply to speak @ [Craft Conf](http://craft-conf.com/2016/about)~~
 - [ ] Review OSDesign Talk (add diversity pocket article)
 - [ ] Sort out stay in London
 - [ ] Figure out tickets to Bruge/Brussels
 - [ ] Return Madewell sandals
 - [ ] Finish YDKJS Ch.4
-- [ ] Write out what blend modes are doing
+- [x] Write out what blend modes are doing
 - [ ] Write a blog post
 - [ ] Pack for beach & Europe
 - [ ] Go to Laura's wedding
+- [x] Answer QA from CSSConf
+- [x] Practice presentation for Berlin
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
