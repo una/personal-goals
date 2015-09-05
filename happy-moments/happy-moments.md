@@ -969,3 +969,19 @@ I finally made a spot on my wall for my conference badges! And put my stickers o
 08/31/2015
 ---
 I hung out with Tyler tonight and we went to this little pizza place called Backspace. Such a cute spot with great pizza.
+
+09/01/2015
+---
+Austin really felt like home today. I took a walk with a friend tonight out on the East Side to return an audiobook to the library.
+
+09/02/2015
+---
+Today was my last day in the office before I did my long trip for about a month. I literally got sung out of my office haha <3
+
+09/03/2015
+---
+Today was Laura's wedding! It was so much fun to dance in circles around Laura. I can't believe she's married!
+
+09/04/2015
+---
+Drove down to Wildwood with my family today. We had a potluck with 23 Russians, 2 Americans and took plenty of shots before going to the boardwalk to see fireworks.

@@ -30,16 +30,17 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Better outline of GH for Designers Ideas
 - [ ] ~~Apply to speak @ [Craft Conf](http://craft-conf.com/2016/about)~~
 - [ ] Review OSDesign Talk (add diversity pocket article)
-- [ ] Sort out stay in London
+- [x] Sort out stay in London
 - [ ] Figure out tickets to Bruge/Brussels
 - [ ] Return Madewell sandals
 - [ ] Finish YDKJS Ch.4
 - [x] Write out what blend modes are doing
 - [ ] Write a blog post
-- [ ] Pack for beach & Europe
-- [ ] Go to Laura's wedding
+- [x] Pack for beach & Europe
+- [x] Go to Laura's wedding
 - [x] Answer QA from CSSConf
 - [x] Practice presentation for Berlin
+- [ ] Work on article for Net Mag
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
@@ -72,8 +73,8 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Use CSSNext PostCSS plugin for something
 - [x] Use [Kimono](https://www.kimonolabs.com/learn/calling-an-api) to scrape Sass notes site (Sass Me CLI)
 - [x] Try out [Ractive](http://ractivejs.org)
-- [ ] Build web app that uses React.js
-- [ ] Check out CSS compositing/blending [modes](http://www.w3.org/TR/compositing-1/)
+- [x] Build web app that uses React.js
+- [x] Check out CSS compositing/blending [modes](http://www.w3.org/TR/compositing-1/)
 - [ ] Make something with [Two.js](http://jonobr1.github.io/two.js/)
 - [ ] Do this [Functional Programming](http://jhusain.github.io/learnrx/) course
 - [ ] Play around with CSS Transforms for fun
