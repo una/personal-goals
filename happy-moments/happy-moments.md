@@ -985,3 +985,15 @@ Today was Laura's wedding! It was so much fun to dance in circles around Laura. 
 09/04/2015
 ---
 Drove down to Wildwood with my family today. We had a potluck with 23 Russians, 2 Americans and took plenty of shots before going to the boardwalk to see fireworks.
+
+09/05/2015
+---
+Tonight was really fun! It was a 25th wedding anniversary party for one of my Mom's new family friends and I loved watching them do a (traditionally Russian) "buying the bride."
+
+09/06/2015
+---
+This was the last day in Wildwood for labor day weekend. A bunch of us went crabbing and I caught 3 crabs! One was pregnant (crazy to see!) so we threw her back.
+
+09/07/2015
+---
+I'm about to take off to fly to London for the almost-month-long journey through Europe for a few conferences and other things. I'M SO EXCITED! I've been looking forward to this for so long!

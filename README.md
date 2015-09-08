@@ -16,31 +16,26 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Be kinder
 
-# August 31, 2015
+# September 7, 2015
 
-### This Week's Focus: Prep for Europe
+### This Week's Focus: London & The Lead Dev
 
 ## Things I'll do This Week:
 
-
-- [ ] Choose websites to write about for Net Mag article
-- [ ] Read/listen to [this](http://www.w3.org/TR/filter-effects/) to understand filters better
+- [ ] Finish rough draft of NetMag article
+- [ ] Touchups to PS is Dead talk
+- [ ] Touchups to Perf talk
+- [ ] Apply [typeset.js](https://blot.im/typeset/) to blog
 - [ ] Go through all PRs (check sass director)
 - [ ] Work on [Functional Programming](http://jhusain.github.io/learnrx/) course
 - [ ] Better outline of GH for Designers Ideas
 - [ ] ~~Apply to speak @ [Craft Conf](http://craft-conf.com/2016/about)~~
 - [ ] Review OSDesign Talk (add diversity pocket article)
-- [x] Sort out stay in London
-- [ ] Figure out tickets to Bruge/Brussels
-- [ ] Return Madewell sandals
-- [ ] Finish YDKJS Ch.4
-- [x] Write out what blend modes are doing
 - [ ] Write a blog post
-- [x] Pack for beach & Europe
-- [x] Go to Laura's wedding
-- [x] Answer QA from CSSConf
-- [x] Practice presentation for Berlin
-- [ ] Work on article for Net Mag
+- [ ] Figure out tickets to Bruge/Brussels
+- [ ] ~~Return Madewell sandals~~
+- [ ] Finish YDKJS Ch.4
+
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
