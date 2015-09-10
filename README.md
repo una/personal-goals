@@ -29,13 +29,13 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Go through all PRs (check sass director)
 - [ ] Work on [Functional Programming](http://jhusain.github.io/learnrx/) course
 - [ ] Better outline of GH for Designers Ideas
-- [ ] ~~Apply to speak @ [Craft Conf](http://craft-conf.com/2016/about)~~
 - [ ] Review OSDesign Talk (add diversity pocket article)
 - [ ] Write a blog post
 - [ ] Figure out tickets to Bruge/Brussels
-- [ ] ~~Return Madewell sandals~~
-- [ ] Finish YDKJS Ch.4
-
+- [ ] Read CSS Secrets
+- [x] Explore London
+- [ ] Give talk at the Lead Developer
+- [x] Do IBM work -- check ins
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator

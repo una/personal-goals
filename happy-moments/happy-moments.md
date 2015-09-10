@@ -997,3 +997,11 @@ This was the last day in Wildwood for labor day weekend. A bunch of us went crab
 09/07/2015
 ---
 I'm about to take off to fly to London for the almost-month-long journey through Europe for a few conferences and other things. I'M SO EXCITED! I've been looking forward to this for so long!
+
+09/08/2015
+---
+Today was absolutely *lovely*! I arrived in London and hung out with Alice and her friends for lunch and dinner, going to the National Portrait Gallery in between.
+
+09/09/2015
+---
+I ended today coworking at Made by Many in London and stayed for their supper club. The food was great, and everyone I met was amazingly nice and welcoming.
