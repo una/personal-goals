@@ -24,17 +24,17 @@ Personal goals made open source for accessibility across computers I use, transp
 
 - [ ] Finish rough draft of NetMag article
 - [ ] Touchups to PS is Dead talk
-- [ ] Touchups to Perf talk
+- [x] Touchups to Perf talk
 - [ ] Apply [typeset.js](https://blot.im/typeset/) to blog
 - [ ] Go through all PRs (check sass director)
 - [ ] Work on [Functional Programming](http://jhusain.github.io/learnrx/) course
 - [ ] Better outline of GH for Designers Ideas
 - [ ] Review OSDesign Talk (add diversity pocket article)
 - [ ] Write a blog post
-- [ ] Figure out tickets to Bruge/Brussels
+- [x] Figure out tickets to Bruge/Brussels
 - [ ] Read CSS Secrets
 - [x] Explore London
-- [ ] Give talk at the Lead Developer
+- [x] Give talk at the Lead Developer
 - [x] Do IBM work -- check ins
 
 ### Things I'll Do in the Future:

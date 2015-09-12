@@ -1005,3 +1005,15 @@ Today was absolutely *lovely*! I arrived in London and hung out with Alice and h
 09/09/2015
 ---
 I ended today coworking at Made by Many in London and stayed for their supper club. The food was great, and everyone I met was amazingly nice and welcoming.
+
+09/10/2015
+---
+I met up with Mike for coffee in Covent Garden today, who I met at JSConf US in Florida. It was really nice to catch up and those little encounters remind me how awesome the dev community is.
+
+09/11/2015
+---
+Today was The Lead Developer Conference! Despite feeling strange about speaking to a room of lead devs, I got a lot of positive feedback and many people told me they learned a lot from my talk.
+
+09/12/2015
+---
+This morning I went to the Saatchi Gallery, where they had a weekend event called START, featuring independant galleries from around the world. I was *SO* blown away, inspired, and moved from the art.
