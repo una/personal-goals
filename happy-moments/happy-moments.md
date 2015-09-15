@@ -1017,3 +1017,15 @@ Today was The Lead Developer Conference! Despite feeling strange about speaking 
 09/12/2015
 ---
 This morning I went to the Saatchi Gallery, where they had a weekend event called START, featuring independant galleries from around the world. I was *SO* blown away, inspired, and moved from the art.
+
+09/13/2015
+---
+After getting dinner and Belgian beer at Delerium (a bar here) with a French Canadian guy from the hostel, we went to see the main square all lit up and there was a live orchestra playing.
+
+09/14/2015
+---
+Bruges is a beautiful, beautiful fairytale. I took the train here today and wandered its stunning canals :)
+
+09/15/2015
+---
+I went out for drinks with 5 of my hostelmates (all Aussie/New Zealander/British) - one of them got a 2L beer at Delerium and we had a really great night/early morning.

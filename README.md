@@ -16,26 +16,26 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Be kinder
 
-# September 7, 2015
+# September 13, 2015
 
-### This Week's Focus: London & The Lead Dev
+### This Week's Focus: Bologna & From the Front
 
 ## Things I'll do This Week:
 
-- [ ] Finish rough draft of NetMag article
+- [ ] Write travels poem for Brussels
+- [ ] Travel poem for Bruge
+- [ ] Fly to Bologna
+- [ ] Review OSDesign Talk (add diversity pocket article)
+- [ ] Touchups on OSDesign talk
+- [ ] Give OS Design Talk
+- [ ] Keep up with emails
 - [ ] Touchups to PS is Dead talk
-- [x] Touchups to Perf talk
 - [ ] Apply [typeset.js](https://blot.im/typeset/) to blog
 - [ ] Go through all PRs (check sass director)
-- [ ] Work on [Functional Programming](http://jhusain.github.io/learnrx/) course
 - [ ] Better outline of GH for Designers Ideas
-- [ ] Review OSDesign Talk (add diversity pocket article)
-- [ ] Write a blog post
-- [x] Figure out tickets to Bruge/Brussels
-- [ ] Read CSS Secrets
-- [x] Explore London
-- [x] Give talk at the Lead Developer
-- [x] Do IBM work -- check ins
+- [ ] Write a blog post on CSS blend mode inverting technique
+- [ ] Write a blog post on CSS blend mode vintage effect
+- [ ] Document Bologna travels
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
