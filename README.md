@@ -24,11 +24,11 @@ Personal goals made open source for accessibility across computers I use, transp
 
 - [ ] Write travels poem for Brussels
 - [ ] Travel poem for Bruge
-- [ ] Fly to Bologna
-- [ ] Review OSDesign Talk (add diversity pocket article)
+- [x] Fly to Bologna
+- [x] Review OSDesign Talk (add diversity pocket article)
 - [ ] Touchups on OSDesign talk
-- [ ] Give OS Design Talk
-- [ ] Keep up with emails
+- [x] Give OS Design Talk
+- [x] Keep up with emails
 - [ ] Touchups to PS is Dead talk
 - [ ] Apply [typeset.js](https://blot.im/typeset/) to blog
 - [ ] Go through all PRs (check sass director)
