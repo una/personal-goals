@@ -1029,3 +1029,23 @@ Bruges is a beautiful, beautiful fairytale. I took the train here today and wand
 09/15/2015
 ---
 I went out for drinks with 5 of my hostelmates (all Aussie/New Zealander/British) - one of them got a 2L beer at Delerium and we had a really great night/early morning.
+
+09/16/2015
+---
+Tonight was the speaker dinner for From the Front. We went out after and had some nice chats while sipping Negronis.
+
+09/17/2015
+---
+Filled up an entire restaurant with a bunch of the From the Front speakers, organizers, former speakers, etc. There was *so* much great dessert.
+
+09/18/2015
+---
+I spoke today and finally got to relax :) I ended up in a piazza in Bologna listening to a live band and sipping spritzers with the speakers & organizers.
+
+09/19/2015
+---
+I worked from the rooftop at the hotel for a while today. It was so nice -- peaceful and breezy and it had a wonderful view overlooking Bologna.
+
+09/20/2015
+---
+My first AirBnB experience and I already made a cuddly new friend! The host in Geneva has an adorable dog that was cuddling with me when I napped :)

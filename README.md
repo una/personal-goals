@@ -16,26 +16,24 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Be kinder
 
-# September 13, 2015
+# September 20, 2015
 
-### This Week's Focus: Bologna & From the Front
+### This Week's Focus: CSS Conf EU
 
 ## Things I'll do This Week:
 
-- [ ] Write travels poem for Brussels
+- [ ] Write blog post for CSS Filters/Blend Modes
+- [ ] Make blog site podcast-able
 - [ ] Travel poem for Bruge
-- [x] Fly to Bologna
-- [x] Review OSDesign Talk (add diversity pocket article)
-- [ ] Touchups on OSDesign talk
-- [x] Give OS Design Talk
-- [x] Keep up with emails
-- [ ] Touchups to PS is Dead talk
 - [ ] Apply [typeset.js](https://blot.im/typeset/) to blog
 - [ ] Go through all PRs (check sass director)
 - [ ] Better outline of GH for Designers Ideas
 - [ ] Write a blog post on CSS blend mode inverting technique
 - [ ] Write a blog post on CSS blend mode vintage effect
 - [ ] Document Bologna travels
+- [ ] Document Switzerland travels
+- [ ] Work on & practice PS is Dead Talk
+- [ ] Give talk @ CSS Conf EU
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
