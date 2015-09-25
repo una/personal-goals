@@ -1049,3 +1049,19 @@ I worked from the rooftop at the hotel for a while today. It was so nice -- peac
 09/20/2015
 ---
 My first AirBnB experience and I already made a cuddly new friend! The host in Geneva has an adorable dog that was cuddling with me when I napped :)
+
+09/21/2015
+---
+Today I went to Montreux. OH MY GOSH. This place is *beautiful!* I can't get over how lovely it is here.
+
+09/22/2015
+---
+Landed in Berlin -- then got my hair colored and bought a really awesome coat at a store called 24 Colours next to the salon!
+
+09/23/2015
+---
+Got lost/distracted by a sunset while walking to dinner today. I met a JSConf speaker on the way and we ended up in this beautiful garden somehow.
+
+09/24/2015
+---
+I hung out in a coffee shop called St. Oberholz by Rosenthaler Platz and worked on my talk today :) I love it here!
