@@ -16,13 +16,19 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Be kinder
 
-# September 20, 2015
+# September 27, 2015
 
-### This Week's Focus: CSS Conf EU
+### This Week's Focus: Re-Zen, Re-Org
 
 ## Things I'll do This Week:
 
-- [ ] Write blog post for CSS Filters/Blend Modes
+- [ ] Build structure for CSSgrams library
+- [ ] Start to make postcss-instafilters (put it online)
+- [ ] Refactor goals and priorities -- zen it out
+- [ ] Write talk for IBM -- design/dev workflow
+- [ ] Travel to Stuttgart/Boeblingen
+- [ ] Give talk at IBM
+- [ ] Finish ClassyCSS blog post
 - [ ] Make blog site podcast-able
 - [ ] Travel poem for Bruge
 - [ ] Apply [typeset.js](https://blot.im/typeset/) to blog
@@ -32,8 +38,6 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Write a blog post on CSS blend mode vintage effect
 - [ ] Document Bologna travels
 - [ ] Document Switzerland travels
-- [ ] Work on & practice PS is Dead Talk
-- [ ] Give talk @ CSS Conf EU
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator

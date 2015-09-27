@@ -1052,7 +1052,7 @@ My first AirBnB experience and I already made a cuddly new friend! The host in G
 
 09/21/2015
 ---
-Today I went to Montreux. OH MY GOSH. This place is *beautiful!* I can't get over how lovely it is here.
+Today I went to Montreux, Switzerland. OH MY GOSH. This place is *beautiful!* I can't get over how lovely it is here.
 
 09/22/2015
 ---
@@ -1065,3 +1065,11 @@ Got lost/distracted by a sunset while walking to dinner today. I met a JSConf sp
 09/24/2015
 ---
 I hung out in a coffee shop called St. Oberholz by Rosenthaler Platz and worked on my talk today :) I love it here!
+
+09/25/2015
+---
+JS Conf EU day one was today. OH MY GOSH THAT INTRO. It was absolutely incredible. I can't get over it.
+
+09/26/2015
+---
+I gave my talk at CSS Conf EU today! It went so well! I stold a big white balloon from the decor and talked to the light crew to have them project a rainbow onto it for the talk.
