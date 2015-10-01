@@ -24,10 +24,10 @@ Personal goals made open source for accessibility across computers I use, transp
 
 - [ ] Build structure for CSSgrams library
 - [ ] Start to make postcss-instafilters (put it online)
-- [ ] Refactor goals and priorities -- zen it out
-- [ ] Write talk for IBM -- design/dev workflow
-- [ ] Travel to Stuttgart/Boeblingen
-- [ ] Give talk at IBM
+- [x] Refactor goals and priorities -- zen it out
+- [x] Write talk for IBM -- design/dev workflow
+- [x] Travel to Stuttgart/Boeblingen
+- [x] Give talk at IBM
 - [ ] Finish ClassyCSS blog post
 - [ ] Make blog site podcast-able
 - [ ] Travel poem for Bruge

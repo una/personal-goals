@@ -18,6 +18,8 @@ Things I want to work on, but need to keep out of the main page because its gett
 - [ ] Typeface
 - [x] One Happy Moment
 - [ ] IBMHacks (Hackathon)
+- [ ] CSSgram
+- [ ] PostCSS instafilters
 
 ## Other Project Ideas (unstarted)
 - [ ] Termoji

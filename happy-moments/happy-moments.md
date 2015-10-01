@@ -1073,3 +1073,23 @@ JS Conf EU day one was today. OH MY GOSH THAT INTRO. It was absolutely incredibl
 09/26/2015
 ---
 I gave my talk at CSS Conf EU today! It went so well! I stold a big white balloon from the decor and talked to the light crew to have them project a rainbow onto it for the talk.
+
+09/27/2015
+---
+Toward the end of JS Conf and befor the after party, I went to Berghaim with a few people. I had *so* much fun dancing and I was super happy we all got in.
+
+09/28/2015
+---
+Not much sleep to be had but in the early hours of this day I had great conversation over cocktails and had a fantastic one with beets in it. So yummy.
+
+09/29/2015
+---
+I think I like beer. Well, at least Belgian and German beer. I had drinks after work today with some of the Germans and decided this.
+
+09/30/2015
+---
+It was *so* awesome to organize the first FED knowledge share meeting in Boeblingen! 15 devs showed up with all sorts of backgrounds and we planned out talks up to the first 9 weeks!
+
+10/01/2015
+---
+I'm flying home! It has been so long! I am overjoyed to finally be heading back and finally be able to just sleep and recharge.
