@@ -35,7 +35,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Go through all PRs (check sass director)
 - [ ] Better outline of GH for Designers Ideas
 - [ ] Write a blog post on CSS blend mode inverting technique
-- [ ] Write a blog post on CSS blend mode vintage effect
+- [x] Write a blog post on CSS blend mode vintage effect
 - [ ] Document Bologna travels
 - [ ] Document Switzerland travels
 

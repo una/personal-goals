@@ -64,7 +64,7 @@ Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodrea
 - [ ] The Social Animal -- David Brooks
 - [x] City of Thieves -- David Benioff :star:
 - [x] The Girl with The Dragon Tattoo -- Stieg Larsson
-- [ ] CSS Secrets -- Lea Verou
+- [x] CSS Secrets -- Lea Verou
 
 ## August 2015
 
@@ -74,9 +74,13 @@ Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodrea
 
 To-Read
 ---
-- [ ] The Drunken Botanist -- Amy Stewart
 - [ ] Alan Turing -- Andrew Hodges
 - [ ] Abundance -- Peter H. Diamandis
 - [ ] Rich Dad, Poor Dad -- Robert Kiyosaki
 - [ ] Revolution -- Russell Brand
 - [ ] One More Thing -- B.J. Novak
+- [ ] The Cuckoo's Egg -- Clifford Stoll
+- [ ] The Dispossessed -- Ursula K. Le Guin
+- [ ] [Red Rising](http://www.audible.com/pd/Sci-Fi-Fantasy/Red-Rising-Audiobook/B00I2VWW5U/ref=a_search_c4_1_1_srImg?qid=1443799691&sr=1-1) -- Pierce Brown // via TJ
+- [ ] So You've Been Publicly Shamed -- Jon Ronson // via Mikeal Rogers
+- [ ] Nexus -- Ramez Naam // via Tim Holman
