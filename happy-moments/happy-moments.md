@@ -1093,3 +1093,7 @@ It was *so* awesome to organize the first FED knowledge share meeting in Boeblin
 10/01/2015
 ---
 I'm flying home! It has been so long! I am overjoyed to finally be heading back and finally be able to just sleep and recharge.
+
+10/02/2015
+---
+I was *so* productive today! I wrote 2 blog posts, published one, and started experimenting with a third!

@@ -18,33 +18,31 @@ Personal goals made open source for accessibility across computers I use, transp
 
 # September 27, 2015
 
-### This Week's Focus: Re-Zen, Re-Org
+### This Week's Focus: Write up Blogs
 
 ## Things I'll do This Week:
 
+- [ ] Create "I Code Like a Girl" Sketch for Django Girls
+- [ ] Ask someone about their book writing experience
+- [ ] Record audio for CSS Vintage Washout Effect post
+- [ ] Record audio for 3D Image Effect post
+- [ ] Finish Vignette blog post
+- [ ] Finish signing up for Roth IRA
 - [ ] Build structure for CSSgrams library
 - [ ] Start to make postcss-instafilters (put it online)
-- [x] Refactor goals and priorities -- zen it out
-- [x] Write talk for IBM -- design/dev workflow
-- [x] Travel to Stuttgart/Boeblingen
-- [x] Give talk at IBM
 - [ ] Finish ClassyCSS blog post
 - [ ] Make blog site podcast-able
-- [ ] Travel poem for Bruge
-- [ ] Apply [typeset.js](https://blot.im/typeset/) to blog
+- [ ] Travel poems for Brugge/Brussels/Montreux
 - [ ] Go through all PRs (check sass director)
 - [ ] Better outline of GH for Designers Ideas
-- [ ] Write a blog post on CSS blend mode inverting technique
-- [x] Write a blog post on CSS blend mode vintage effect
-- [ ] Document Bologna travels
-- [ ] Document Switzerland travels
+- [ ] Start a new audiobook
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
 - [x] Learn about web scraping with node
 - [ ] ~~Write a post for the Sass Way~~
 - [x] Get [Source Maps](http://www.sitepoint.com/using-source-maps-debug-sass-chrome/) Working &mdash; [source maps & gulp](https://github.com/floridoo/gulp-sourcemaps)
-- [ ] Create Singularity Examples bc [the cons here](http://web-design-weekly.com/2014/04/06/grid-frameworks-sass/)
+- [ ] ~~Create Singularity Examples bc [the cons here](http://web-design-weekly.com/2014/04/06/grid-frameworks-sass/)~~
 - [ ] Add search & tagging functionality to blog
 - [ ] Read all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 - [ ] Make Visual model of [this](http://ilikekillnerds.com/2014/07/what-a-front-end-developer-workflow-looks-like-in-20142015/) for blog post
@@ -54,7 +52,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Play with [Velocity.js](http://www.smashingmagazine.com/2014/06/18/faster-ui-animations-with-velocity-js/)
 - [x] Learn about & try out Meteor.js & Famo.us
 - [x] Skillshare classes about hand lettering
-- [ ] Look at [Myth](http://www.myth.io/) & Rework
+- [x] Look at [Myth](http://www.myth.io/) & Rework
 - [x] Learn about [Phantom JS](http://phantomjs.org/)
 - [ ] Use [Polymer](https://www.polymer-project.org/) to build web components
 - [ ] CodeSchool Javascript Best Practices course
