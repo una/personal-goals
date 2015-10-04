@@ -1097,3 +1097,11 @@ I'm flying home! It has been so long! I am overjoyed to finally be heading back 
 10/02/2015
 ---
 I was *so* productive today! I wrote 2 blog posts, published one, and started experimenting with a third!
+
+10/03/2015
+---
+When I told my Baltimore friends I deleted my Tinder, they put up a personals ad on Craigslist for me as a joke. We went to dinner and afterward laughed through all the emails they got.
+
+10/04/2015
+---
+I went to brunch today with my college roomates! It was the first time we've all been together since graduating 1.5 years ago. So it was prettu wonderful. Also, brunch :)
