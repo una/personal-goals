@@ -1105,3 +1105,23 @@ When I told my Baltimore friends I deleted my Tinder, they put up a personals ad
 10/04/2015
 ---
 I went to brunch today with my college roomates! It was the first time we've all been together since graduating 1.5 years ago. So it was prettu wonderful. Also, brunch :)
+
+10/05/2015
+---
+First day back in the office! I walked in to see my desk covered in Bluemix things :P It's nice to be back.
+
+10/06/2015
+---
+We had a little party for Hack Academy and went to Punchbowl Social for bowling and diner/drinks. It was really fun and I'm also realy bad at bowling.
+
+10/07/2015
+---
+I am loving this Hack Academy hackathon :). My team is rebuilding the IBM Radio experience and working with Web RTC and its so much fun!
+
+10/08/2015
+---
+We had a practice ALA Panel today and it was just really cool to be having conversations and be on the same panel with so many intelligent people :)
+
+10/09/2015
+---
+We presented our hack from Hack Academy today! It went over *so* well. I'm super proud of my team! And I *love* our hack!

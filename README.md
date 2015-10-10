@@ -24,18 +24,19 @@ Personal goals made open source for accessibility across computers I use, transp
 
 - [ ] Create "I Code Like a Girl" Sketch for Django Girls
 - [ ] Ask someone about their book writing experience
-- [ ] Record audio for CSS Vintage Washout Effect post
-- [ ] Record audio for 3D Image Effect post
-- [ ] Finish Vignette blog post
+- [x] Record audio for CSS Vintage Washout Effect post
+- [x] Record audio for 3D Image Effect post
+- [x] Finish Vignette blog post
 - [ ] Finish signing up for Roth IRA
-- [ ] Build structure for CSSgrams library
+- [x] Build structure for CSSgrams library
 - [ ] Start to make postcss-instafilters (put it online)
 - [ ] Finish ClassyCSS blog post
 - [ ] Make blog site podcast-able
 - [ ] Travel poems for Brugge/Brussels/Montreux
 - [ ] Go through all PRs (check sass director)
 - [ ] Better outline of GH for Designers Ideas
-- [ ] Start a new audiobook
+- [x] Start a new audiobook
+- [x] Update Craft article with new syntax
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
