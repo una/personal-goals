@@ -1,10 +1,10 @@
 # A Checklist of Austin Coffee Shops.
 
-Gotta catch 'em all. (:star: == fave)
+Gotta catch 'em all. (:star: == outstanding)
 
 - [x] Halcyon Coffee, Bar & Lounge :star:
 - [x] Cherrywood Coffeehouse :star:
-- [x] Cenote
+- [x] Cenote :star:
 - [x] Vintage Heart Coffee
 - [x] Thunderbird Coffee :star:
 - [x] Bennu Coffee :star:
@@ -12,7 +12,7 @@ Gotta catch 'em all. (:star: == fave)
 - [ ] Buzz Mill
 - [ ] Jo’s Coffee
 - [ ] Once Over Coffee Bar
-- [ ] Café Medici
+- [x] Café Medici :star:
 - [x] Mozart's Coffee
 - [x] Epoch Coffee
 - [ ] Pacha
@@ -32,7 +32,7 @@ Gotta catch 'em all. (:star: == fave)
 - [ ] Sa-Ten
 - [x] Flat Track
 - [ ] 1886 Cafe & Bakery
-- [x] Spider House
+- [x] Spiderhouse :star:
 - [ ] Patika
 - [x] Genuine Joe
 - [x] Bee Cave Coffee

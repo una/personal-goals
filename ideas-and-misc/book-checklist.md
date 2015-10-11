@@ -72,6 +72,15 @@ Feel free to add to the list :) Also, this is my [GoodReads](https://www.goodrea
 - [x] Let's Explore Diabetes with Owls -- David Sedaris
 - [x] Foundation -- Isaac Asimov
 
+## September 2015
+
+None -- I listened to a lot of podcasts and was traveling all month
+
+## October 2015
+
+- [x] So You've Been Publicly Shamed -- Jon Ronson
+- [ ] The Dispossessed -- Ursula K. Le Guin
+
 To-Read
 ---
 - [ ] Alan Turing -- Andrew Hodges
@@ -80,7 +89,5 @@ To-Read
 - [ ] Revolution -- Russell Brand
 - [ ] One More Thing -- B.J. Novak
 - [ ] The Cuckoo's Egg -- Clifford Stoll
-- [ ] The Dispossessed -- Ursula K. Le Guin
 - [ ] [Red Rising](http://www.audible.com/pd/Sci-Fi-Fantasy/Red-Rising-Audiobook/B00I2VWW5U/ref=a_search_c4_1_1_srImg?qid=1443799691&sr=1-1) -- Pierce Brown // via TJ
-- [ ] So You've Been Publicly Shamed -- Jon Ronson // via Mikeal Rogers
 - [ ] Nexus -- Ramez Naam // via Tim Holman

@@ -22,7 +22,7 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll do This Week:
 
-- [ ] Create "I Code Like a Girl" Sketch for Django Girls
+- [x] Create "I Code Like a Girl" Sketch for Django Girls
 - [ ] Ask someone about their book writing experience
 - [x] Record audio for CSS Vintage Washout Effect post
 - [x] Record audio for 3D Image Effect post

@@ -1125,3 +1125,7 @@ We had a practice ALA Panel today and it was just really cool to be having conve
 10/09/2015
 ---
 We presented our hack from Hack Academy today! It went over *so* well. I'm super proud of my team! And I *love* our hack!
+
+10/10/2015
+---
+I went kayaking with a bunch of my Austin friends and we listened to the Austin City Limits Festival from the lake and it was amazing :)
