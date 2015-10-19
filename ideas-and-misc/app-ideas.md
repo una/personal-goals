@@ -7,7 +7,7 @@ Things I want to work on, but need to keep out of the main page because its gett
 - [ ] Focus again on [Sass Gifs](http://sassgifs.com)
 - [x] Travel Book -- photography & writing <-- now online
 - [x] Hand Lettering (Code Calligraphy)
-- [ ] Open Source Design
+- [x] Open Source Design
 - [ ] Heiroglyph
 - [ ] Urban Patchwork
 - [ ] Happy Hack (Hackathon)
@@ -18,8 +18,9 @@ Things I want to work on, but need to keep out of the main page because its gett
 - [ ] Typeface
 - [x] One Happy Moment
 - [ ] IBMHacks (Hackathon)
-- [ ] CSSgram
+- [x] CSSgram
 - [ ] PostCSS instafilters
+- [ ] CSS Image Effects Landing Page
 
 ## Other Project Ideas (unstarted)
 - [ ] Termoji
@@ -38,3 +39,5 @@ Things I want to work on, but need to keep out of the main page because its gett
 - [ ] Spotify "local music" add-on or app
 - [ ] "My Year in Travel" using TripIt API
 - [ ] CLI tool for IBM Internal weekly "FED Dates"
+- [ ] Yeoman generator for podcasts
+- [ ] PostCSS JS-like triggers (like `@action toggle {}`)

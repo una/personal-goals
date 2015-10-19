@@ -1129,3 +1129,35 @@ We presented our hack from Hack Academy today! It went over *so* well. I'm super
 10/10/2015
 ---
 I went kayaking with a bunch of my Austin friends and we listened to the Austin City Limits Festival from the lake and it was amazing :)
+
+10/11/2015
+---
+Today was really productive. I got  my bike serviced, worked on my BeyondConf talk, and tried pilates for the first time.
+
+10/12/2015
+---
+First day back at my "normal" job :) We have a new lady dev and I am going to mentor her!
+
+10/13/2015
+---
+I'm still sore from pilates but I took a boxing class today. So much fun!
+
+10/14/2015
+---
+I had dinner with Rebecca Murphey today. It was *so* nice to catch up! And we went to Contigo, which was delicious.
+
+10/15/2015
+---
+Took my second pilates class today! I did way better at it than I had the first time. Was able to actually keep up with most of it.
+
+10/16/2015
+---
+I went on a night walk with friends along the "Boardwalk" in Austin. We ended up downtown at one of my favorite coffee shops.
+
+10/17/2015
+---
+Today I walked over 8 miles! I did the Walk for Freedom with Lauren, then went shopping and to the Austin Book Festival.
+
+10/18/2015
+---
+I got the most amazing gratitude-filled email from one of the girls who got a SassConf scholarship thanking me for inspiring her :) Nothing beats that.

@@ -16,27 +16,28 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Be kinder
 
-# September 27, 2015
+# October 18, 2015
 
-### This Week's Focus: Write up Blogs
+### This Week's Focus: Many Little Tasks
 
 ## Things I'll do This Week:
 
-- [x] Create "I Code Like a Girl" Sketch for Django Girls
-- [ ] Ask someone about their book writing experience
-- [x] Record audio for CSS Vintage Washout Effect post
-- [x] Record audio for 3D Image Effect post
-- [x] Finish Vignette blog post
-- [ ] Finish signing up for Roth IRA
-- [x] Build structure for CSSgrams library
-- [ ] Start to make postcss-instafilters (put it online)
-- [ ] Finish ClassyCSS blog post
-- [ ] Make blog site podcast-able
+- [ ] Finish up BeyondConf talk
+- [ ] Make sure all the bills are paid from roommate
+- [ ] Record first Toolsday episode
+- [ ] Design for Toolsday landing page w/ audio + space for brief description & links
+- [ ] Style CSSGram page a bit
 - [ ] Travel poems for Brugge/Brussels/Montreux
 - [ ] Go through all PRs (check sass director)
 - [ ] Better outline of GH for Designers Ideas
-- [x] Start a new audiobook
-- [x] Update Craft article with new syntax
+- [ ] Finish ClassyCSS blog post
+- [ ] Make car service appointment
+- [ ] Finish signing up for Roth IRA
+- [ ] Hacktoberfest -- make 2 PR's
+- [ ] Fix happy-moments.herokuapp.com page :(
+- [ ] Write article for O'Reilly Radar
+- [ ] Email restaurants for SassConf Speaker Dinner
+- [ ] Think through PostCSS JS features
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
