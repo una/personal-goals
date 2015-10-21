@@ -1161,3 +1161,11 @@ Today I walked over 8 miles! I did the Walk for Freedom with Lauren, then went s
 10/18/2015
 ---
 I got the most amazing gratitude-filled email from one of the girls who got a SassConf scholarship thanking me for inspiring her :) Nothing beats that.
+
+10/19/2015
+---
+I tried a rowing class today and it was outside on a deck by the water and really awesome!
+
+10/20/2015
+---
+Today I did geeks who drink trivia with a bunch of friends at Craft Pride on Rainey. We managed to get 5th place!

@@ -23,10 +23,11 @@ Personal goals made open source for accessibility across computers I use, transp
 ## Things I'll do This Week:
 
 - [ ] Finish up BeyondConf talk
-- [ ] Make sure all the bills are paid from roommate
-- [ ] Record first Toolsday episode
-- [ ] Design for Toolsday landing page w/ audio + space for brief description & links
-- [ ] Style CSSGram page a bit
+- [ ] ~~Make sure all the bills are paid from roommate~~ <- next month
+- [x] Record first Toolsday episode
+- [ ] Design for Toolsday landing page
+- [x] Style CSSGram page a bit
+- [x] Start blog post on Lomography
 - [ ] Travel poems for Brugge/Brussels/Montreux
 - [ ] Go through all PRs (check sass director)
 - [ ] Better outline of GH for Designers Ideas
@@ -34,10 +35,11 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Make car service appointment
 - [ ] Finish signing up for Roth IRA
 - [ ] Hacktoberfest -- make 2 PR's
-- [ ] Fix happy-moments.herokuapp.com page :(
-- [ ] Write article for O'Reilly Radar
+- [x] Fix happy-moments.herokuapp.com page :(
+- [ ] ~~Write article for O'Reilly Radar~~
 - [ ] Email restaurants for SassConf Speaker Dinner
 - [ ] Think through PostCSS JS features
+- [x] Another iteration of "I Code Like a Girl"
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
