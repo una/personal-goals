@@ -1,0 +1,14 @@
+# Reviews of Austin-Based Fitness Classes
+
+I've been trying a lot of different fitness classes in Austin with my [ClassPass](https://classpass.com/). Here's a list for you Austinites that need some recommendations. I also might be being a bit overly critical of the classes when giving ⭐️'s, but I'm just trying to be able to differentiate!
+
+| Location | Class | Intensity (1-5) | Overall Rating | Notes |
+| :------- |:-----| :---------------|:------------|------|
+| [Pure Pilates](http://www.purepilatesaustin.com) | Pure Sculpt | ⭐️⭐️⭐️⭐️⭐️ | ⭐️⭐️⭐️⭐️⭐️ | I fell in *love* with pilates after this class. It's super high energy and my legs were *shaking* after 10 minutes. Awesome class in both locations I tried (West Campus and the Domain). |
+| [Pink Gloves Boxing](http://www.pgbaustin.com/) | Drop-In Boxing | ⭐️⭐️⭐️⭐️ | ⭐️⭐️⭐️ | This was a really fun class, but I was expecting more boxing to happen. They have their own numbering system instead of calling out the punches and teaching technique, which I didn't love. |
+| [Red Bird Pilates and Fitness](http://www.redbirdpilates.com/) | Cardio Dance | ⭐️⭐️⭐️⭐️ | ⭐ | Class was kind of boring. Moves felt silly to do, sloppy, and repetitive. It was a good cardio workout but I don't think I'll be going back. |
+| [Red Bird Pilates and Fitness](http://www.redbirdpilates.com/) | Pilates Reformer Drop-In | ⭐️⭐️ | ⭐️⭐️ | The instructor was great, but the pace was slow and I don't think I got as good of a workout as I did at Pure Pilates. The equipment is also older. I could just be comparing it to the awesomeness of my first pilates experience, though |
+| [Ballet Austin](http://www.balletaustin.org) | Pilates Cardio | ⭐️⭐️⭐️⭐️ | ⭐️⭐️⭐️ | Fun class, it was mat pilates with some bosu ball work. Instructor was fun too. |
+| [Ro Fitness](http://www.rofitness.com) | Cardio Ro | ⭐️⭐️⭐️⭐️ | ⭐️⭐️⭐️⭐️ | Definitely a unique experience for me (rowing for cardio). The class setting is beautiful -- outside on the porch overlooking the trail and Lady Bird Lake. Instructor was really encouraging, and it was nice to try something new. |
+| [Crush Fitness](http://crushfitness.com/) | Total Body | ⭐️⭐️⭐️⭐️⭐️ | ⭐️⭐️⭐️⭐️⭐️ | This class is INTENSE AS HELL. Dark room, red lights, loud music, everyone is young and fit. There are about 10 treadmills and 10 floor stations with a mat, barbells, and a step. You switch between running and strength training with the instructor calling out and encouraging both sets of people at the same time. This is my new Sunday morning church. |
+| [Sky Candy](http://skycandyaustin.com/) | Aerial Silks Intensive | ⭐️⭐️ | ⭐️⭐️⭐️⭐️⭐️ | I did a 4-week, 2x a week summer aerial silks intensive with one of my friends here. I loved it. The class was super fun, felt productive, and the instructor was great. Super glad I did it. |

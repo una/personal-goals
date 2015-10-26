@@ -34,7 +34,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Go through all PRs (check sass director)
 - [ ] Finish ClassyCSS blog post
 - [ ] Finish Lomography Blog Post
-- [ ] Start ATX Fitness Class Reviews?
+- [x] Start ATX Fitness Class Reviews
 - [ ] Review notes for Toolsday (Module Loaders)
 - [ ] Next week is #FEDTalk (add it to work cal)
 - [ ] Watch the Martian

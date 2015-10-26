@@ -1104,7 +1104,7 @@ When I told my Baltimore friends I deleted my Tinder, they put up a personals ad
 
 10/04/2015
 ---
-I went to brunch today with my college roomates! It was the first time we've all been together since graduating 1.5 years ago. So it was prettu wonderful. Also, brunch :)
+I went to brunch today with my college roomates! It was the first time we've all been together since graduating 1.5 years ago. So it was pretty wonderful. Also, brunch :)
 
 10/05/2015
 ---
