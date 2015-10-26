@@ -1169,3 +1169,23 @@ I tried a rowing class today and it was outside on a deck by the water and reall
 10/20/2015
 ---
 Today I did geeks who drink trivia with a bunch of friends at Craft Pride on Rainey. We managed to get 5th place!
+
+10/21/2015
+---
+Today I watched the IT Crowd for the first time after hearing so much about it. That show is AMAZING. I love it.
+
+10/22/2015
+---
+I *really* love my hair. Everytime I see a hint of blue or purple out of the corner of my eye it makes me smile. I've taken way too many selfies. Sorry not sorry :P
+
+10/23/2015
+---
+I bought a bunch of new workout stuff today. New shoes, new capris, a new sports bra :) All things I needed. I LOVE THE SHOES SO MUCH.
+
+10/24/2015
+---
+Today was *so* productive, and I loved that! I submitted (& they got merged) 3 PRs to 3 different open source projects plus I did a bunch of work on one of my own!
+
+10/25/2015
+---
+Oh my gosh. Today I released CSSgram and it got *SUCH* a good response. Within 3 hours there were over 500 stars and 300 RTs on Twitter + a lot of nice words. I'm so happy people like ti!

@@ -16,30 +16,28 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Be kinder
 
-# October 18, 2015
+# October 25, 2015
 
-### This Week's Focus: Many Little Tasks
+### This Week's Focus: BeyondConf Talk (& Halloween)
 
 ## Things I'll do This Week:
 
-- [ ] Finish up BeyondConf talk
-- [ ] ~~Make sure all the bills are paid from roommate~~ <- next month
-- [x] Record first Toolsday episode
+- [ ] Read [ES6 Overview](https://ponyfoo.com/articles/es6)
+- [ ] Finish watching [video](https://www.youtube.com/watch?v=SmE4OwHztCc) on browser rendering
+- [ ] Figure out Halloween Costume for work (Pirates of Boomix)
+- [ ] Finish making corn Halloween costume
+- [ ] Think through PostCSS JS features
+- [ ] Finish signing up for Roth IRA
 - [ ] Design for Toolsday landing page
-- [x] Style CSSGram page a bit
-- [x] Start blog post on Lomography
+- [ ] Finish up BeyondConf talk
 - [ ] Travel poems for Brugge/Brussels/Montreux
 - [ ] Go through all PRs (check sass director)
-- [ ] Better outline of GH for Designers Ideas
 - [ ] Finish ClassyCSS blog post
-- [ ] Make car service appointment
-- [ ] Finish signing up for Roth IRA
-- [ ] Hacktoberfest -- make 2 PR's
-- [x] Fix happy-moments.herokuapp.com page :(
-- [ ] ~~Write article for O'Reilly Radar~~
-- [ ] Email restaurants for SassConf Speaker Dinner
-- [ ] Think through PostCSS JS features
-- [x] Another iteration of "I Code Like a Girl"
+- [ ] Finish Lomography Blog Post
+- [ ] Start ATX Fitness Class Reviews?
+- [ ] Review notes for Toolsday (Module Loaders)
+- [ ] Next week is #FEDTalk (add it to work cal)
+- [ ] Watch the Martian
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
