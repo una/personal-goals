@@ -82,7 +82,8 @@ None -- I listened to a lot of podcasts and was traveling all month
 - [x] The Dispossessed -- Ursula K. Le Guin
 - [x] Nexus -- Ramez Naam
 - [x] The Tipping Point -- Malcolm Gladwell
-- [ ] Digital Wars: Apple, Google, Microsoft and the Battle for the Internet -- Charles Arthur
+- [x] Digital Wars: Apple, Google, Microsoft and the Battle for the Internet -- Charles Arthur
+- [x] Fat Chance -- Robert H. Lustig
 
 To-Read
 ---

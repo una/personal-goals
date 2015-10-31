@@ -1188,4 +1188,24 @@ Today was *so* productive, and I loved that! I submitted (& they got merged) 3 P
 
 10/25/2015
 ---
-Oh my gosh. Today I released CSSgram and it got *SUCH* a good response. Within 3 hours there were over 500 stars and 300 RTs on Twitter + a lot of nice words. I'm so happy people like ti!
+Oh my gosh. Today I released CSSgram and it got *SUCH* a good response. Within 3 hours there were over 500 stars and 300 RTs on Twitter + a lot of nice words. I'm so happy people like it!
+
+10/26/2015
+---
+I'm overwhelmed by the CSSgram response! It's now trending on Github and has over 600 stars! Within 48 hours of me sharing it! Ahh!
+
+10/27/2015
+---
+OMG! I got on the front page of Hacker News! I was 2nd for CSSgram! Holy shit!
+
+10/28/2015
+---
+Today I saw the Martian at a studio event with the GM and my coworkers. *Amazing* movie -- made even better because I listened to the book this year.
+
+10/29/2015
+---
+I made it to 475 followers on Github! Which means I'm eligible to get on the git.io/top list of most active contributors!
+
+10/30/2015
+---
+Today was the IBM Halloween party. Like last year, it was absolutely crazy and so much fun! Bluemix did a ghost pirate theme.

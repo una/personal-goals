@@ -23,7 +23,7 @@ Gotta catch 'em all. (:star: == outstanding)
 - [x] Austin Java
 - [x] Figure 8 Coffee Purveyors :star:
 - [x] Dominican Joe Coffee Shop
-- [ ] Strange Brew
+- [x] Strange Brew
 - [ ] 7th Flag Coffee Co.
 - [ ] Café Crème
 - [x] La Tazza Fresca

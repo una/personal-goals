@@ -23,9 +23,9 @@ Personal goals made open source for accessibility across computers I use, transp
 ## Things I'll do This Week:
 
 - [ ] Read [ES6 Overview](https://ponyfoo.com/articles/es6)
-- [ ] Finish watching [video](https://www.youtube.com/watch?v=SmE4OwHztCc) on browser rendering
-- [ ] Figure out Halloween Costume for work (Pirates of Boomix)
-- [ ] Finish making corn Halloween costume
+- [x] Finish watching [video](https://www.youtube.com/watch?v=SmE4OwHztCc) on browser rendering
+- [x] Figure out Halloween Costume for work (Pirates of Boomix)
+- [x] Finish making corn Halloween costume
 - [ ] Think through PostCSS JS features
 - [ ] Finish signing up for Roth IRA
 - [ ] Design for Toolsday landing page
@@ -35,16 +35,14 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Finish ClassyCSS blog post
 - [ ] Finish Lomography Blog Post
 - [x] Start ATX Fitness Class Reviews
-- [ ] Review notes for Toolsday (Module Loaders)
+- [x] Review notes for Toolsday (Module Loaders)
 - [ ] Next week is #FEDTalk (add it to work cal)
-- [ ] Watch the Martian
+- [x] Watch the Martian
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
 - [x] Learn about web scraping with node
-- [ ] ~~Write a post for the Sass Way~~
 - [x] Get [Source Maps](http://www.sitepoint.com/using-source-maps-debug-sass-chrome/) Working &mdash; [source maps & gulp](https://github.com/floridoo/gulp-sourcemaps)
-- [ ] ~~Create Singularity Examples bc [the cons here](http://web-design-weekly.com/2014/04/06/grid-frameworks-sass/)~~
 - [ ] Add search & tagging functionality to blog
 - [ ] Read all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 - [ ] Make Visual model of [this](http://ilikekillnerds.com/2014/07/what-a-front-end-developer-workflow-looks-like-in-20142015/) for blog post
