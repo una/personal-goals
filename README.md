@@ -16,28 +16,29 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Be kinder
 
-# October 25, 2015
+# November 1, 2015
 
-### This Week's Focus: BeyondConf Talk (& Halloween)
+### This Week's Focus: BeyondConf Talk
 
 ## Things I'll do This Week:
 
-- [ ] Read [ES6 Overview](https://ponyfoo.com/articles/es6)
-- [x] Finish watching [video](https://www.youtube.com/watch?v=SmE4OwHztCc) on browser rendering
-- [x] Figure out Halloween Costume for work (Pirates of Boomix)
-- [x] Finish making corn Halloween costume
+- [ ] Read [this](http://www.impressivewebs.com/how-to-write-great-web-development-articles-tutorials/) post
+- [ ] Update Performance talk
+- [ ] Finish reading CSS Secrets
+- [ ] Read [this](https://alexsexton.com/blog/2013/03/deploying-javascript-applications/)
+- [ ] Make more CSSgram filters (3)
+- [ ] Begin blog post for Infrared Filter Effect
+- [ ] Finish Toolsday site
+- [ ] Post Lomo Article
+- [ ] Practice BeyondConf talk -- record it
+- [ ] Prep for #FEDtalk (?)
 - [ ] Think through PostCSS JS features
+- [ ] Read [ES6 Overview](https://ponyfoo.com/articles/es6)
 - [ ] Finish signing up for Roth IRA
-- [ ] Design for Toolsday landing page
-- [ ] Finish up BeyondConf talk
-- [ ] Travel poems for Brugge/Brussels/Montreux
 - [ ] Go through all PRs (check sass director)
 - [ ] Finish ClassyCSS blog post
-- [ ] Finish Lomography Blog Post
-- [x] Start ATX Fitness Class Reviews
-- [x] Review notes for Toolsday (Module Loaders)
-- [ ] Next week is #FEDTalk (add it to work cal)
-- [x] Watch the Martian
+- [ ] Finish up BeyondConf talk
+- [ ] Clean my room
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
