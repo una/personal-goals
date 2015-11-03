@@ -24,13 +24,13 @@ Personal goals made open source for accessibility across computers I use, transp
 
 - [ ] Read [this](http://www.impressivewebs.com/how-to-write-great-web-development-articles-tutorials/) post
 - [ ] Update Performance talk
-- [ ] Finish reading CSS Secrets
+- [ ] Continue reading CSS Secrets
 - [ ] Read [this](https://alexsexton.com/blog/2013/03/deploying-javascript-applications/)
 - [ ] Make more CSSgram filters (3)
 - [ ] Begin blog post for Infrared Filter Effect
 - [ ] Finish Toolsday site
-- [ ] Post Lomo Article
-- [ ] Practice BeyondConf talk -- record it
+- [x] Post Lomo Article
+- [x] Practice BeyondConf talk -- record it
 - [ ] Prep for #FEDtalk (?)
 - [ ] Think through PostCSS JS features
 - [ ] Read [ES6 Overview](https://ponyfoo.com/articles/es6)
@@ -39,6 +39,8 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Finish ClassyCSS blog post
 - [ ] Finish up BeyondConf talk
 - [ ] Clean my room
+- [ ] Get car serviced
+- [ ] Record audio for lomo post
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator

@@ -1209,3 +1209,15 @@ I made it to 475 followers on Github! Which means I'm eligible to get on the git
 10/30/2015
 ---
 Today was the IBM Halloween party. Like last year, it was absolutely crazy and so much fun! Bluemix did a ghost pirate theme.
+
+10/31/2015
+---
+Halloween! I went to a friends party and dressed up as my corn costume! Everyone loved it :)
+
+11/01/2015
+---
+I met up with a few friends at Whistler's on 6th, then we headed to Cuvee Coffee and had amazing nitro cold brew while chatting for hours.
+
+11/02/2015
+---
+I took a dance class tonight! It was an intermediate hip hop class at Ballet Austin. So fun. I love to dance.

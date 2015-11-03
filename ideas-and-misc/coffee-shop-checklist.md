@@ -36,3 +36,4 @@ Gotta catch 'em all. (:star: == outstanding)
 - [ ] Patika
 - [x] Genuine Joe
 - [x] Bee Cave Coffee
+- [x] Cuvee Coffee
