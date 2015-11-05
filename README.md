@@ -31,7 +31,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Finish Toolsday site
 - [x] Post Lomo Article
 - [x] Practice BeyondConf talk -- record it
-- [ ] Prep for #FEDtalk (?)
+- [x] Prep for #FEDtalk (?)
 - [ ] Think through PostCSS JS features
 - [ ] Read [ES6 Overview](https://ponyfoo.com/articles/es6)
 - [ ] Finish signing up for Roth IRA
@@ -39,7 +39,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Finish ClassyCSS blog post
 - [ ] Finish up BeyondConf talk
 - [ ] Clean my room
-- [ ] Get car serviced
+- [x] Get car serviced
 - [ ] Record audio for lomo post
 
 ### Things I'll Do in the Future:

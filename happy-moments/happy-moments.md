@@ -1221,3 +1221,11 @@ I met up with a few friends at Whistler's on 6th, then we headed to Cuvee Coffee
 11/02/2015
 ---
 I took a dance class tonight! It was an intermediate hip hop class at Ballet Austin. So fun. I love to dance.
+
+11/03/2015
+---
+Went to trivia tonight with the gang and we got two perfect rounds! Which was pretty awesome.
+
+11/04/2015
+---
+Stayed in today to finish my resume, which I just did in code and printed to pdf because that's easier for me now :P
