@@ -1229,3 +1229,15 @@ Went to trivia tonight with the gang and we got two perfect rounds! Which was pr
 11/04/2015
 ---
 Stayed in today to finish my resume, which I just did in code and printed to pdf because that's easier for me now :P
+
+11/05/2015
+---
+I went to the ATX Dribbble meetup today and finally saw the poster show. Was awesome to catch up with the community.
+
+11/06/2015
+---
+The trainer at Total Athlete kicked my ass today. She had us pulling and pushing sleds and it was awesome.
+
+11/07/2015
+---
+Today I am tring to make paleo sushi for the first time! Will update you on how that goes.

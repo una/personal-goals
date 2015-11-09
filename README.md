@@ -16,31 +16,25 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Be kinder
 
-# November 1, 2015
+# November 8, 2015
 
-### This Week's Focus: BeyondConf Talk
+### This Week's Focus: SassConf
 
 ## Things I'll do This Week:
 
-- [ ] Read [this](http://www.impressivewebs.com/how-to-write-great-web-development-articles-tutorials/) post
-- [ ] Update Performance talk
-- [ ] Continue reading CSS Secrets
-- [ ] Read [this](https://alexsexton.com/blog/2013/03/deploying-javascript-applications/)
-- [ ] Make more CSSgram filters (3)
-- [ ] Begin blog post for Infrared Filter Effect
-- [ ] Finish Toolsday site
-- [x] Post Lomo Article
-- [x] Practice BeyondConf talk -- record it
-- [x] Prep for #FEDtalk (?)
+- [ ] Begin to write "In Defense of Extends"
+- [ ] Start site for CSS Image Effects
+- [ ] Volunteer at SassConf
 - [ ] Think through PostCSS JS features
 - [ ] Read [ES6 Overview](https://ponyfoo.com/articles/es6)
 - [ ] Finish signing up for Roth IRA
 - [ ] Go through all PRs (check sass director)
 - [ ] Finish ClassyCSS blog post
-- [ ] Finish up BeyondConf talk
-- [ ] Clean my room
-- [x] Get car serviced
-- [ ] Record audio for lomo post
+- [ ] Read [this](http://www.impressivewebs.com/how-to-write-great-web-development-articles-tutorials/) post
+- [ ] Update Performance talk
+- [ ] Continue reading CSS Secrets
+- [ ] Read [this](https://alexsexton.com/blog/2013/03/deploying-javascript-applications/)
+- [ ] Make more CSSgram filters (3)
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
