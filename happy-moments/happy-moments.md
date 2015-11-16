@@ -1249,3 +1249,27 @@ Ally is in town! I picked her up and we walked all around downtown to the HOPE O
 11/09/2015
 ---
 Today was the volunteer meeting pre-SassConf. I'm so excited for the conference now! It's so soon!
+
+11/10/2015
+---
+The conference pre-party was tonight at Firehouse, and I had great cocktails and Chartreuse and reunited with so many Sass Community members!
+
+11/11/2015
+---
+Tonight was the SassConf speaker dinner. Food was impressively good at the Hightower (which is right by where I live but I've never gone). Afterwards, a group went and got gelato at Gimelli.
+
+11/12/2015
+---
+Tonight at the SassConf after party a bunch of people ended up sitting on the floor and painting each others nails for an impromptu #nailconf. I did some nail art for people.
+
+11/13/2015
+---
+Today was the SassConf Unconference. This is my favorite SassConf day! I was in a really good discussion with a group about CSS layout decisions.
+
+11/14/2015
+---
+I went to this super eclectic (and really delicious) restaurant called Fonda San Miguel with a bunch of SassConf people. There were many margaritas to be had.
+
+11/15/2015
+---
+I spent all of today in coffee shops (Bennu & Thunderbird) and it felt really good to just sit down and get work done after a week of conferencing.

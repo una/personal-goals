@@ -16,28 +16,28 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Be kinder
 
-# November 8, 2015
+# November 15, 2015
 
-### This Week's Focus: SassConf
+### This Week's Focus: Chrome Dev Summit
 
 ## Things I'll do This Week:
 
-- [ ] ~~Begin to write "In Defense of Extends"~~
-- [x] Start site for CSS Image Effects
-- [x] Volunteer at SassConf
-- [x] Think through PostCSS JS features
+- [ ] Recreate [this](https://ryanbelk.exposure.co/color-study) in CSS on Codepen -- use for travels site
+- [ ] Finish vimtutor (left off on section 4)
+- [ ] Touch up filters based on test page
+- [ ] Publish ClassyCSS blog post
+- [ ] Think through GH for Designers again
+- [ ] Chrome Dev Summit!
+- [ ] Finish dotCSS talk
+- [ ] Calligraphy open source quote
+- [ ] Sort out arttheweb.com copy
+- [ ] Record audio for ClassyCSS Post
 - [ ] Read [ES6 Overview](https://ponyfoo.com/articles/es6)
 - [ ] Finish signing up for Roth IRA
-- [ ] Go through all PRs (check sass director)
-- [x] Finish ClassyCSS blog post
 - [ ] Read [this](http://www.impressivewebs.com/how-to-write-great-web-development-articles-tutorials/) post
-- [ ] Update Performance talk
 - [ ] Continue reading CSS Secrets
 - [ ] Read [this](https://alexsexton.com/blog/2013/03/deploying-javascript-applications/)
-- [x] Make more CSSgram filters
 - [ ] Practice BeyondConf Talk
-- [x] Start DotCSS Talk
-- [x] Add ALA panel to site
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
