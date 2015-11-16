@@ -1240,4 +1240,12 @@ The trainer at Total Athlete kicked my ass today. She had us pulling and pushing
 
 11/07/2015
 ---
-Today I am tring to make paleo sushi for the first time! Will update you on how that goes.
+Tonight I hung out with a bunch of friends at Laurens place and we all brought food (I mae paleo sushi!) and listened to record together.
+
+11/08/2015
+---
+Ally is in town! I picked her up and we walked all around downtown to the HOPE Outdoor Gallery graffiti wall.
+
+11/09/2015
+---
+Today was the volunteer meeting pre-SassConf. I'm so excited for the conference now! It's so soon!

@@ -22,19 +22,22 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll do This Week:
 
-- [ ] Begin to write "In Defense of Extends"
-- [ ] Start site for CSS Image Effects
-- [ ] Volunteer at SassConf
-- [ ] Think through PostCSS JS features
+- [ ] ~~Begin to write "In Defense of Extends"~~
+- [x] Start site for CSS Image Effects
+- [x] Volunteer at SassConf
+- [x] Think through PostCSS JS features
 - [ ] Read [ES6 Overview](https://ponyfoo.com/articles/es6)
 - [ ] Finish signing up for Roth IRA
 - [ ] Go through all PRs (check sass director)
-- [ ] Finish ClassyCSS blog post
+- [x] Finish ClassyCSS blog post
 - [ ] Read [this](http://www.impressivewebs.com/how-to-write-great-web-development-articles-tutorials/) post
 - [ ] Update Performance talk
 - [ ] Continue reading CSS Secrets
 - [ ] Read [this](https://alexsexton.com/blog/2013/03/deploying-javascript-applications/)
-- [ ] Make more CSSgram filters (3)
+- [x] Make more CSSgram filters
+- [ ] Practice BeyondConf Talk
+- [x] Start DotCSS Talk
+- [x] Add ALA panel to site
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
