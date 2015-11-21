@@ -1273,3 +1273,23 @@ I went to this super eclectic (and really delicious) restaurant called Fonda San
 11/15/2015
 ---
 I spent all of today in coffee shops (Bennu & Thunderbird) and it felt really good to just sit down and get work done after a week of conferencing.
+
+11/16/2015
+---
+I had a conversation with someone about what GitHub is working on to make code review better and it made me so happy for the future of the platform. I love GH and can't wait!
+
+11/17/2015
+---
+Chrome Dev Summit day one, and I was really way too excited about the paleo pumpkin cranberry muffins they had for breakfast. Like the muffins, the conference is also really fantastic so far.
+
+11/18/2015
+----
+I got my beacon from the Chrome Dev Summit today. I am *so* excited about the possibilities with physical web. Can't wait to play! I have so many ideas!
+
+11/19/2015
+---
+I got dinner with Scott Kellum tonight at La Condesa. So much delicious guacamole and seafood (The scallops were amaze). And it was really cool to get to know him better.
+
+11/20/2015
+---
+I sat next to (a really cute) aerospace engineer on the flight to London and we had an awesome nerdy conversation about tech (he programs in ADA!) and how airplanes work.
