@@ -23,20 +23,20 @@ Personal goals made open source for accessibility across computers I use, transp
 ## Things I'll do This Week:
 
 - [ ] Recreate [this](https://ryanbelk.exposure.co/color-study) in CSS on Codepen -- use for travels site
-- [ ] Finish vimtutor (left off on section 4)
+- [x] Finish vimtutor (left off on section 4)
 - [ ] Touch up filters based on test page
-- [ ] Publish ClassyCSS blog post
-- [ ] Think through GH for Designers again
-- [ ] Chrome Dev Summit!
-- [ ] Finish dotCSS talk
+- [x] Publish ClassyCSS blog post
+- [x] Think through GH for Designers again
+- [x] Chrome Dev Summit!
+- [x] Finish dotCSS talk
 - [ ] Calligraphy open source quote
 - [ ] Sort out arttheweb.com copy
 - [ ] Record audio for ClassyCSS Post
-- [ ] Read [ES6 Overview](https://ponyfoo.com/articles/es6)
+- [x] Read [ES6 Overview](https://ponyfoo.com/articles/es6)
 - [ ] Finish signing up for Roth IRA
-- [ ] Read [this](http://www.impressivewebs.com/how-to-write-great-web-development-articles-tutorials/) post
+- [x] Read [this](http://www.impressivewebs.com/how-to-write-great-web-development-articles-tutorials/) post
 - [ ] Continue reading CSS Secrets
-- [ ] Read [this](https://alexsexton.com/blog/2013/03/deploying-javascript-applications/)
+- [x] Read [this](https://alexsexton.com/blog/2013/03/deploying-javascript-applications/)
 - [ ] Practice BeyondConf Talk
 
 ### Things I'll Do in the Future:

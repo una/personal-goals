@@ -85,6 +85,10 @@ None -- I listened to a lot of podcasts and was traveling all month
 - [x] Digital Wars: Apple, Google, Microsoft and the Battle for the Internet -- Charles Arthur
 - [x] Fat Chance -- Robert H. Lustig
 
+## November 2015
+
+- [ ] The Circle -- Dave Eggers
+
 To-Read
 ---
 - [ ] Alan Turing: The Enigma -- Andrew Hodges
