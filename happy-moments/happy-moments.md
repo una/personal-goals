@@ -1292,4 +1292,12 @@ I got dinner with Scott Kellum tonight at La Condesa. So much delicious guacamol
 
 11/20/2015
 ---
-I sat next to (a really cute) aerospace engineer on the flight to London and we had an awesome nerdy conversation about tech (he programs in ADA!) and how airplanes work.
+I sat next to an aerospace engineer on the flight to London and we had an awesome nerdy conversation about tech (he programs in ADA!) and how airplanes work.
+
+11/21/2015
+---
+I went out with Alice, Edd, and Tom to a delicious dinner at a tiny indian place and then ended up at a super rad speakeasy in London that played 50's music all night.
+
+11/22/2015
+---
+Speaker lunch for BeyondConf was delicious and super colorful. It was at a Peruvian place called Ceviche (and I LOVE ceviche)
