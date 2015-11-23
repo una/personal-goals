@@ -16,28 +16,28 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Be kinder
 
-# November 15, 2015
+# November 23, 2015
 
-### This Week's Focus: Chrome Dev Summit
+### This Week's Focus: Thanksgiving
 
 ## Things I'll do This Week:
 
-- [ ] Recreate [this](https://ryanbelk.exposure.co/color-study) in CSS on Codepen -- use for travels site
-- [x] Finish vimtutor (left off on section 4)
+- [ ] Design Eyeglass Site
+- [ ] Work on building out Eyeglass site
+- [ ] Scrollbar plugin (start it)
+- [ ] Write post on all my recent ideas for bettering browsers
+- [ ] Put photos from past few weeks onto Facebook
+- [ ] Add service worker to una.im for offline cache
+- [ ] Practice dotCSS talk (make sure its < 18 mins)
+- [ ] Play with lightblue bean and offline web ideas
+- [ ] Finish signing up for Roth IRA
 - [ ] Touch up filters based on test page
-- [x] Publish ClassyCSS blog post
-- [x] Think through GH for Designers again
-- [x] Chrome Dev Summit!
-- [x] Finish dotCSS talk
 - [ ] Calligraphy open source quote
 - [ ] Sort out arttheweb.com copy
 - [ ] Record audio for ClassyCSS Post
-- [x] Read [ES6 Overview](https://ponyfoo.com/articles/es6)
-- [ ] Finish signing up for Roth IRA
-- [x] Read [this](http://www.impressivewebs.com/how-to-write-great-web-development-articles-tutorials/) post
-- [ ] Continue reading CSS Secrets
-- [x] Read [this](https://alexsexton.com/blog/2013/03/deploying-javascript-applications/)
-- [ ] Practice BeyondConf Talk
+- [ ] Go to high school reunion
+- [ ] Run Turkey Trot 8k
+- [ ] Give talk at BeyondConf
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
