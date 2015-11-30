@@ -16,28 +16,26 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Be kinder
 
-# November 23, 2015
+# November 29, 2015
 
 ### This Week's Focus: Thanksgiving
 
 ## Things I'll do This Week:
 
-- [ ] Design Eyeglass Site
-- [ ] Work on building out Eyeglass site
-- [ ] Scrollbar plugin (start it)
-- [ ] Write post on all my recent ideas for bettering browsers
-- [ ] Put photos from past few weeks onto Facebook
+- [ ] Make sure CSSgram PRs are up-to-date
+- [ ] Outline filter perf article for Smashing
+- [ ] Create holiday card envelopes
+- [ ] Get holiday card addresses
+- [ ] Do [ES6 Codelab](https://www.code-labs.io/codelabs/chrome-es2015/index.html?index=..%2F..%2Findex#0)
+- [ ] Do [Push Notification Codelab](https://www.code-labs.io/codelabs/push-notifications/index.html?index=..%2F..%2Findex#0)
+- [ ] Work on scroll-scrub
+- [ ] Record audio for ClassyCSS Post
+- [ ] Touch up filters based on test page
 - [ ] Add service worker to una.im for offline cache
 - [ ] Practice dotCSS talk (make sure its < 18 mins)
-- [ ] Play with lightblue bean and offline web ideas
-- [ ] Finish signing up for Roth IRA
-- [ ] Touch up filters based on test page
-- [ ] Calligraphy open source quote
-- [ ] Sort out arttheweb.com copy
-- [ ] Record audio for ClassyCSS Post
-- [ ] Go to high school reunion
-- [ ] Run Turkey Trot 8k
-- [ ] Give talk at BeyondConf
+- [ ] Share eyeglass design sketches
+- [ ] Work on building out Eyeglass site
+
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator

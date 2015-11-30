@@ -1301,3 +1301,31 @@ I went out with Alice, Edd, and Tom to a delicious dinner at a tiny indian place
 11/22/2015
 ---
 Speaker lunch for BeyondConf was delicious and super colorful. It was at a Peruvian place called Ceviche (and I LOVE ceviche)
+
+11/23/2015
+---
+Today was BeyondConf! It was a great conference. Linda's talk (the last one) was particularly excellent. She had so much enthusiasm and joy about teaching children to code it was infectious.
+
+11/24/2015
+---
+I got breakfast with Harry at Ozone before we both headed out of London. It was a really nice start to a long day of travel, plus Ozone has lovely latte art and great food.
+
+11/25/2015
+---
+Today was my 5-year high school reunion. It was really cool to see everyone again, albeit a little weird to see them, but fun nonetheless.
+
+11/26/2015
+---
+Today was Thanksgiving! After dinner I played Mario Party 3 with my cousins (as is our tradition).
+
+11/27/2015
+---
+I bought the *cutest* beige pointed-toe suede heels today with a bow on them. And they're comfortable! I love them so much!
+
+11/28/2015
+---
+I found my old Pokeband comics I used to write when I was growing up with my brother. Oh my gosh they were hilarious.
+
+11/29/2015
+---
+I went to Edo Sushi with my family today. 1. I love nigri sushi. 2. I think I like sashimi even more.
