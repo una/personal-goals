@@ -1329,3 +1329,15 @@ I found my old Pokeband comics I used to write when I was growing up with my bro
 11/29/2015
 ---
 I went to Edo Sushi with my family today. 1. I love nigri sushi. 2. I think I like sashimi even more.
+
+11/30/2015
+---
+I saw one of my best friends, Liza, today with her boyfriend. We went out to dinner after I got my eyes dilated at the optomitrist and I couldn't read a thing on the menu.
+
+12/01/2015
+---
+I played adventofcode.com today and it was really fun. I hope to continue this and really want to remember to keep it up.
+
+12/02/2015
+---
+I started listening to Mindy Kaling's book, "Why Not Me," and I'm loving it. It's so good. I listened to it while calligraphying envelopers for holiday cards :)

@@ -23,19 +23,19 @@ Personal goals made open source for accessibility across computers I use, transp
 ## Things I'll do This Week:
 
 - [ ] Make sure CSSgram PRs are up-to-date
-- [ ] Outline filter perf article for Smashing
-- [ ] Create holiday card envelopes
-- [ ] Get holiday card addresses
-- [ ] Do [ES6 Codelab](https://www.code-labs.io/codelabs/chrome-es2015/index.html?index=..%2F..%2Findex#0)
+- [x] Outline filter perf article for Smashing
+- [x] Create holiday card envelopes
+- [x] Get all holiday card addresses
+- [x] Do [ES6 Codelab](https://www.code-labs.io/codelabs/chrome-es2015/index.html?index=..%2F..%2Findex#0)
 - [ ] Do [Push Notification Codelab](https://www.code-labs.io/codelabs/push-notifications/index.html?index=..%2F..%2Findex#0)
 - [ ] Work on scroll-scrub
-- [ ] Record audio for ClassyCSS Post
+- [x] Record audio for ClassyCSS Post
 - [ ] Touch up filters based on test page
 - [ ] Add service worker to una.im for offline cache
 - [ ] Practice dotCSS talk (make sure its < 18 mins)
-- [ ] Share eyeglass design sketches
+- [x] Share eyeglass design sketches
 - [ ] Work on building out Eyeglass site
-
+- [x] Work on travels site
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator

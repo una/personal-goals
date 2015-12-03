@@ -87,11 +87,11 @@ None -- I listened to a lot of podcasts and was traveling all month
 
 ## November 2015
 
-- [ ] The Circle -- Dave Eggers
+- [x] The Circle -- Dave Eggers
+- [ ] Why Not Me -- Mindy Kaling
 
 To-Read
 ---
-- [ ] my Ishmael 
 - [ ] Alan Turing: The Enigma -- Andrew Hodges
 - [ ] Abundance -- Peter H. Diamandis
 - [ ] One More Thing -- B.J. Novak
