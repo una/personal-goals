@@ -1340,4 +1340,20 @@ I played adventofcode.com today and it was really fun. I hope to continue this a
 
 12/02/2015
 ---
-I started listening to Mindy Kaling's book, "Why Not Me," and I'm loving it. It's so good. I listened to it while calligraphying envelopers for holiday cards :)
+I started listening to Mindy Kaling's book, "Why Not Me," and I'm loving it. It's so good. I listened to it while calligraphying envelopes for holiday cards :)
+
+12/03/2015
+---
+Airport travel was pretty stressful today but I found a Starbucks in between flights and got a free frappuccino from points for a moment if zen.
+
+12/04/2015
+---
+Today I spoke at dotCSS! The talk went well despite cutting some things to fit in the time frame, and someone reviewed it as "the mindblowing talk of the conference."
+
+12/05/2015
+---
+I spent the day walking around Paris with a girl I met at dotCSS. We got brunch and walked around and then ended up at this amazing christmas market on the Champs Elysees.
+
+12/06/2015
+---
+On the way back from the Eiffel Tower with Rebecca and Alice, Alice and I stopped by this *huge* department store with a 6-story Christmas tree and a beautiful rooftop view of the city.
