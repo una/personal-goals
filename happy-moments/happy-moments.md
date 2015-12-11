@@ -1357,3 +1357,19 @@ I spent the day walking around Paris with a girl I met at dotCSS. We got brunch 
 12/06/2015
 ---
 On the way back from the Eiffel Tower with Rebecca and Alice, Alice and I stopped by this *huge* department store with a 6-story Christmas tree and a beautiful rooftop view of the city.
+
+12/07/2015
+---
+I wrote up my holiday cards while flying back home from Paris today. It was really nice.
+
+12/08/2015
+---
+Today I played with gold acrylics and blue watercolor paint to make little textured globes for holiday cards. I must say they look great :) and it was so calming
+
+12/09/2015
+---
+We had a holiday potluck at work today. So much food! And it was all delicious! And then a bunch of us watched the holiday episodes of The Office.
+
+12/10/2015
+---
+Bithound came out with their annual list of "20 JS Developers to Follow this Year" and I was on the list! With a bunch of really amazing developers.

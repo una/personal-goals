@@ -20,7 +20,7 @@ Things I want to work on, but need to keep out of the main page because its gett
 - [ ] IBMHacks (Hackathon)
 - [x] CSSgram
 - [ ] PostCSS instafilters
-- [ ] CSS Image Effects Landing Page
+- [x] CSS Image Effects Landing Page
 
 ## Other Project Ideas (unstarted)
 - [ ] Termoji

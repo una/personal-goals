@@ -18,7 +18,7 @@ Personal goals made open source for accessibility across computers I use, transp
 
 # December 6, 2015
 
-### This Week's Focus: Thanksgiving
+### This Week's Focus: Writing
 
 ## Things I'll do This Week:
 
@@ -26,19 +26,20 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Secret Snowflake for #makeupconf (put together gift)
 - [ ] Do calligraphy for secret snowflake
 - [ ] [Advent of Code](http://adventofcode.com/)
-- [ ] Start post on comparing performance of image methods -- make all the tests
+- [x] Start post on comparing performance of image methods -- make all the tests
 - [ ] Find a home for youmightnotneedjavascript.com outline (OS it, ask for suggestions)
 - [ ] Work on scroll-scrub
-- [ ] Read this [article](https://docs.webplatform.org/wiki/svg/tutorials/smarter_svg_filters) again
+- [x] Read this [article](https://docs.webplatform.org/wiki/svg/tutorials/smarter_svg_filters) again
 - [ ] Sort out article for ALA
 - [ ] Finish Smashing Article rough draft with performance insights
-- [ ] Outline post on CSS filter() function and backdrop-filters (what Safari has been working on basically)
+- [ ] Outline a post on CSS filter() function and backdrop-filters (what Safari has been working on basically)
 - [ ] Outline post based on [this](https://docs.webplatform.org/wiki/svg/tutorials/smarter_svg_filters) article with corresponding curve values for feColorMatrix
 - [ ] Do [Push Notification Codelab](https://www.code-labs.io/codelabs/push-notifications/index.html?index=..%2F..%2Findex#0)
+- [x] Contact publishers back about writing the book
 - [ ] Make sure CSSgram PRs are up-to-date
 - [ ] Touch up filters based on test page
 - [ ] Add service worker to una.im for offline cache
-- [ ] Write holiday cards
+- [x] Write holiday cards
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator
