@@ -16,30 +16,31 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Be kinder
 
-# December 6, 2015
+# December 13, 2015
 
-### This Week's Focus: Writing
+### This Week's Focus: Algorithms
 
 ## Things I'll do This Week:
 
-- [ ] [Flexbox Froggy](http://flexboxfroggy.com/)
-- [ ] Secret Snowflake for #makeupconf (put together gift)
-- [ ] Do calligraphy for secret snowflake
-- [ ] [Advent of Code](http://adventofcode.com/)
-- [x] Start post on comparing performance of image methods -- make all the tests
-- [ ] Find a home for youmightnotneedjavascript.com outline (OS it, ask for suggestions)
-- [ ] Work on scroll-scrub
-- [x] Read this [article](https://docs.webplatform.org/wiki/svg/tutorials/smarter_svg_filters) again
-- [ ] Sort out article for ALA
-- [ ] Finish Smashing Article rough draft with performance insights
-- [ ] Outline a post on CSS filter() function and backdrop-filters (what Safari has been working on basically)
-- [ ] Outline post based on [this](https://docs.webplatform.org/wiki/svg/tutorials/smarter_svg_filters) article with corresponding curve values for feColorMatrix
-- [ ] Do [Push Notification Codelab](https://www.code-labs.io/codelabs/push-notifications/index.html?index=..%2F..%2Findex#0)
-- [x] Contact publishers back about writing the book
+- [ ] Create a sublime text plugin for SVG filters (SVG filter snippets)
+- [ ] Create live-updating SVG filter playground with curves
+- [ ] Figure out how to wrap text in vim
+- [ ] Add pg alias for opening newest file in `accomplishments/` to add things for next week quickly in vim
+- [ ] Watch [this](https://www.youtube.com/watch?v=3QOh955yh0Y&feature=youtu.be&a) video on ES6 Easy Wins
+- [ ] Fix Happy moments styling on mobile
+- [ ] Send smashing article on perf for filters
+- [ ] Outline feColorMatrix article
+- [ ] do 5 problems for [Project Euler](https://projecteuler.net/)
+- [ ] Put photos from Paris online
 - [ ] Make sure CSSgram PRs are up-to-date
 - [ ] Touch up filters based on test page
-- [ ] Add service worker to una.im for offline cache
-- [x] Write holiday cards
+- [ ] Outline ALA post (feColorMatrix)
+- [ ] Do [Push Notification Codelab](https://www.code-labs.io/codelabs/push-notifications/index.html?index=..%2F..%2Findex#0)
+- [ ] Find a home for youmightnotneedjavascript.com outline (OS it, ask for suggestions)
+- [ ] Advent of Code
+- [ ] [Flexbox Froggy](http://flexboxfroggy.com/)
+- [ ] Secret Snowflake for #makeupconf (send gift)
+- [ ] Work on scroll-scrub
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator

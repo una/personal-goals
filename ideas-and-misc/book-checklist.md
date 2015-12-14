@@ -87,12 +87,14 @@ None -- I listened to a lot of podcasts and was traveling all month
 
 ## November 2015
 
-- [x] The Circle -- Dave Eggers
+- [x] The Circle -- Dave Eggers :star:
 - [x] Why Not Me -- Mindy Kaling
 
 ## December 2015
 
-- [ ] Abundance -- Peter H. Diamandis
+- [x] Abundance -- Peter H. Diamandis
+- [ ] Holidays on Ice -- David Sedaris
+- [ ] All the Light we Cannot See -- Anthony Doerr
 
 To-Read
 ---
@@ -100,4 +102,5 @@ To-Read
 - [ ] One More Thing -- B.J. Novak
 - [ ] The Cuckoo's Egg -- Clifford Stoll
 - [ ] [Red Rising](http://www.audible.com/pd/Sci-Fi-Fantasy/Red-Rising-Audiobook/B00I2VWW5U/ref=a_search_c4_1_1_srImg?qid=1443799691&sr=1-1) -- Pierce Brown // via TJ
+- [ ] Pitch Perfect -- Bill McGowan //via Wes Bos
 - [ ] The Girl on the Train -- Paula Hawkins

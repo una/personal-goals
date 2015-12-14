@@ -1240,7 +1240,7 @@ The trainer at Total Athlete kicked my ass today. She had us pulling and pushing
 
 11/07/2015
 ---
-Tonight I hung out with a bunch of friends at Laurens place and we all brought food (I mae paleo sushi!) and listened to record together.
+Tonight I hung out with a bunch of friends at Laurens place and we all brought food (I made paleo sushi!) and listened to record together.
 
 11/08/2015
 ---
@@ -1373,3 +1373,15 @@ We had a holiday potluck at work today. So much food! And it was all delicious! 
 12/10/2015
 ---
 Bithound came out with their annual list of "20 JS Developers to Follow this Year" and I was on the list! With a bunch of really amazing developers.
+
+12/11/2015
+---
+Lauren hosted an "around the world" potluck for a little holiday party at her place. She has a such a cozy place. It's always great getting together there.
+
+12/12/2015
+---
+Today I am starting a detox -- so I began experimenting with shakes and I'm excited to keep that up.
+
+12/13/2015
+---
+I ended up at the Capital building with a few friends today (sort of randomly). It was just open at 7PM, so we went in and wandered around.
