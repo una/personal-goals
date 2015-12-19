@@ -1385,3 +1385,23 @@ Today I am starting a detox -- so I began experimenting with shakes and I'm exci
 12/13/2015
 ---
 I ended up at the Capital building with a few friends today (sort of randomly). It was just open at 7PM, so we went in and wandered around.
+
+12/14/2015
+---
+I went to the trail of lights with my friends today :) It's such a nice holiday tradition.
+
+12/15/2015
+---
+Today I shared a gif of a woman running around a classroom w/the caption: "trying to get someone to review my PR's." It literally had me on the floor laughing to the point of tears.
+
+12/16/2015
+---
+I met up with Rebecca today for happy hour at Punch Bowl Social. Oh man I really needed that chat.
+
+12/17/2015
+---
+I went to an *incredible* light show at a coffee shop called Mozarts here in Austin with some friends after getting dinner at Gardner.
+
+12/18/2015
+---
+Today Chris and I recorded a parody on "Time of Your Life" about the state of Front-End Dev life after work. It was great :)

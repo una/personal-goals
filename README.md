@@ -22,13 +22,13 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll do This Week:
 
-- [ ] Create a sublime text plugin for SVG filters (SVG filter snippets)
+- [x] Create a sublime text SVG filter snippets
 - [ ] Create live-updating SVG filter playground with curves
-- [ ] Figure out how to wrap text in vim
-- [ ] Add pg alias for opening newest file in `accomplishments/` to add things for next week quickly in vim
-- [ ] Watch [this](https://www.youtube.com/watch?v=3QOh955yh0Y&feature=youtu.be&a) video on ES6 Easy Wins
-- [ ] Fix Happy moments styling on mobile
-- [ ] Send smashing article on perf for filters
+- [x] Figure out how to wrap text in vim
+- [x] Add pg alias for opening newest file in `accomplishments/` to add things for next week quickly in vim
+- [x] Watch [this](https://www.youtube.com/watch?v=3QOh955yh0Y&feature=youtu.be&a) video on ES6 Easy Wins
+- [x] Fix Happy moments styling on mobile
+- [x] Send smashing article on perf for filters
 - [ ] Outline feColorMatrix article
 - [ ] do 5 problems for [Project Euler](https://projecteuler.net/)
 - [ ] Put photos from Paris online
@@ -37,7 +37,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Outline ALA post (feColorMatrix)
 - [ ] Do [Push Notification Codelab](https://www.code-labs.io/codelabs/push-notifications/index.html?index=..%2F..%2Findex#0)
 - [ ] Find a home for youmightnotneedjavascript.com outline (OS it, ask for suggestions)
-- [ ] Advent of Code
+- [x] Advent of Code
 - [ ] [Flexbox Froggy](http://flexboxfroggy.com/)
 - [ ] Secret Snowflake for #makeupconf (send gift)
 - [ ] Work on scroll-scrub
