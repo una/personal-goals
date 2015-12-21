@@ -12,7 +12,7 @@ Today I caught up with Jeff Rohde (someone I end up seeing biannualy but its alw
 
 01/03/2015
 ---
-Today I went out with my Russian girl friends in Baltimore. There weren't many people out because of the Ravens game (Ravens > Steelers), but Sasha and I didn't mind -- we danced like nobody was watching -- literally. And took over the entire dance floor. No fucks, just dancing :)
+Today I went out with my Russian girl friends in Baltimore. There weren't many people out because of the Ravens game (Ravens > Steelers), but Sasha and I didn't mind -- we danced like nobody was watching -- literally.
 
 01/04/2015
 ---
@@ -144,7 +144,7 @@ Today I discoverd Dark and Stormys (the cocktail) at a jazz bar. It's definitely
 
 02/06/2015
 ---
-Oh my god. Today was the best day ever. One of my coworkers introduced me to Lara Hogan via email, and she later told him that she didn't need an introduction to me -- she's a fan of my work. I can't even express how overwhelmingly happy that made me.
+Today was the best day ever. One of my coworkers introduced me to Lara Hogan via email, and she later told him that she didn't need an introduction to me -- she's a fan of my work. I can't even express how happy that made me.
 
 02/07/2015
 ---
@@ -168,7 +168,7 @@ I'm getting better at making coffee at home. My milk frother has literally chang
 
 02/12/2015
 ---
-Addy Osmani followed me on Twitter. I repeat. Addy Osmani followed me on Twitter. :O :O :O
+Addy Osmani followed me on Twitter. I repeat. Addy Osmani followed me on Twitter.
 
 02/13/2015
 ---
@@ -268,7 +268,7 @@ I met a boy in a coffee shop today. He was drawing a really intricate rendering 
 
 03/09/2015
 ---
-Today I tweeted something about getting designers to want to learn coding rather than forcing it onto them -- it got 33 RTs and 53 faves!
+Today I tweeted something about getting designers to want to learn coding rather than forcing it onto them -- it got 33 RTs and 53 faves.
 
 03/10/2015
 ---
@@ -440,7 +440,7 @@ Today I went to Kona Grill for lunch with most of the Bluemix team. The food was
 
 04/21/2015
 ---
-OMG! Today I found out I'll be going to Italy to speak at Front End Conf!
+OMG!!! Today I found out I'll be going to Italy to speak at From the Front!!!
 
 04/22/2015
 ---
@@ -1112,7 +1112,7 @@ First day back in the office! I walked in to see my desk covered in Bluemix thin
 
 10/06/2015
 ---
-We had a little party for Hack Academy and went to Punchbowl Social for bowling and diner/drinks. It was really fun and I'm also realy bad at bowling.
+We had a little party for Hack Academy and went to Punchbowl Social for bowling and diner/drinks. It was really fun and I'm also really bad at bowling.
 
 10/07/2015
 ---
