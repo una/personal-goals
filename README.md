@@ -16,31 +16,27 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Be kinder
 
-# December 13, 2015
+# December 20, 2015
 
-### This Week's Focus: Algorithms
+### This Week's Focus: Holidays/React
 
 ## Things I'll do This Week:
 
-- [x] Create a sublime text SVG filter snippets
-- [ ] Create live-updating SVG filter playground with curves
-- [x] Figure out how to wrap text in vim
-- [x] Add pg alias for opening newest file in `accomplishments/` to add things for next week quickly in vim
-- [x] Watch [this](https://www.youtube.com/watch?v=3QOh955yh0Y&feature=youtu.be&a) video on ES6 Easy Wins
-- [x] Fix Happy moments styling on mobile
-- [x] Send smashing article on perf for filters
-- [ ] Outline feColorMatrix article
-- [ ] do 5 problems for [Project Euler](https://projecteuler.net/)
-- [ ] Put photos from Paris online
-- [ ] Make sure CSSgram PRs are up-to-date
-- [ ] Touch up filters based on test page
-- [ ] Outline ALA post (feColorMatrix)
-- [ ] Do [Push Notification Codelab](https://www.code-labs.io/codelabs/push-notifications/index.html?index=..%2F..%2Findex#0)
-- [ ] Find a home for youmightnotneedjavascript.com outline (OS it, ask for suggestions)
-- [x] Advent of Code
-- [ ] [Flexbox Froggy](http://flexboxfroggy.com/)
-- [ ] Secret Snowflake for #makeupconf (send gift)
+- [ ] Read [this](http://wesbos.com/javascript-modules/) post
+- [ ] Watch [Algorithms & Data Structures](http://livestream.com/accounts/4894689/events/4497664) Course
+- [ ] Start Front-End Masters Course on Advanced JS
+- [ ] Create a sublime text plugin for SVG filters (SVG filter snippets)
+- [ ] Share Year in Review post?
+- [ ] Figure out why CSSgram wont deploy
+- [ ] Share Happy Moments site
+- [ ] Send gift!
 - [ ] Work on scroll-scrub
+- [ ] Find a home for youmightnotneedjavascript.com outline (OS it, ask for suggestions)
+- [ ] Touch up filters based on test page
+- [ ] Finish rough of feColorMatrix post
+- [ ] Write Pastry Box Project post
+- [ ] Get started on Heiroglyph
+- [ ] Buy gifts
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator

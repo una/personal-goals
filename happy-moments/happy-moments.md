@@ -1405,3 +1405,11 @@ I went to an *incredible* light show at a coffee shop called Mozarts here in Aus
 12/18/2015
 ---
 Today Chris and I recorded a parody on "Time of Your Life" about the state of Front-End Dev life after work. It was great :)
+
+12/19/2015
+---
+I went on a long jog today -- about 6 miles around Lady Bird Lake. And it was so nice out despite it being mid-December.
+
+12/20/2015
+---
+I made a last minute decision to see Star Wars tonight and Dan joined. It was so good! And then we hung out and chatted in the parking lot till 1 AM.
