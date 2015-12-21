@@ -24,7 +24,7 @@ What really made me happy today was trying out my new skillet and Aeroccino. I t
 
 01/06/2015
 ---
-Today I went to the gym and while listening to a blog post, came up with an idea for Sass Director. I came home and built the js, front end, and a logo in a few hours. It made me happy that I was able to go from concept to creation in just a few hours by myself.
+Today I went to the gym and while listening to a blog post, came up with an idea for Sass Director. I came home and built the JS, front end, and a logo in a few hours. It made me happy that I was able to go from concept to creation in just a few hours by myself.
 
 01/07/2015
 ---
@@ -64,7 +64,7 @@ We had drawing club at work today. And it was pretty great! I did a decent job c
 
 01/16/2015
 ---
-I had a JS beakthrough today! I had started Sass Director over with a recursive object method, and holy crap it worked! That moment of elation when all of your hard work has paid off!
+I had a JS breakthrough today! I had started Sass Director over with a recursive object method, and holy crap it worked! That moment of elation when your hard work has pays off!
 
 01/17/2015
 ---
@@ -100,7 +100,7 @@ Today I went skiing for the first time. Yes, I was terrible at first, but then I
 
 01/25/2015
 ---
-Today I watched the lights change on the Bay Bridge. It was stunnning and super interesting to watch and I couldn't look away.
+Today I watched the lights change on the Bay Bridge. It was stunning and super interesting to watch and I couldn't look away.
 
 01/27/2015
 ---
@@ -132,7 +132,7 @@ I finally got a page speed insights score of at least 95/100 on every test for m
 
 02/03/2015
 ---
-I went to nodeschool tonight and had this awesome lightbulb moment. We were learning about streams in node and everything suddenly clicked (like the fact that with the Libsass version, there's no .sass-cache) about the differences in how Ruby Sass and Node Sass work!
+I went to nodeschool tonight and had this awesome light bulb moment. We were learning about streams in node and everything suddenly clicked (like the fact that with the Libsass version, there's no .sass-cache) about the differences in how Ruby Sass and Node Sass work!
 
 02/04/2015
 ---
@@ -348,7 +348,7 @@ I stayed up until 3 AM chatting with some of the other CSS Conf AU speakers. I l
 
 03/29/2015
 ---
-The organizers and CSS Conf AU speakers went to the Healesville Sanctuary today (which was unbelieveable) and afterward there was a fun hat party on Glen's rooftop. Australians are so much fun.
+The organizers and CSS Conf AU speakers went to the Healesville Sanctuary today (which was unbelievable) and afterward there was a fun hat party on Glen's rooftop. Australians are so much fun.
 
 03/30/2015
 ---
@@ -1004,7 +1004,7 @@ Today was absolutely *lovely*! I arrived in London and hung out with Alice and h
 
 09/09/2015
 ---
-I ended today coworking at Made by Many in London and stayed for their supper club. The food was great, and everyone I met was amazingly nice and welcoming.
+I ended today coworking at Made by Many in London and stayed for their supper club. The food was great, and everyone I met was incredibly nice and welcoming.
 
 09/10/2015
 ---
@@ -1072,11 +1072,11 @@ JS Conf EU day one was today. OH MY GOSH THAT INTRO. It was absolutely incredibl
 
 09/26/2015
 ---
-I gave my talk at CSS Conf EU today! It went so well! I stold a big white balloon from the decor and talked to the light crew to have them project a rainbow onto it for the talk.
+I gave my talk at CSS Conf EU today! It went so well! I stole a big white balloon from the decor and talked to the light crew to have them project a rainbow onto it for the talk.
 
 09/27/2015
 ---
-Toward the end of JS Conf and befor the after party, I went to Berghaim with a few people. I had *so* much fun dancing and I was super happy we all got in.
+Toward the end of JS Conf and before the after party, I went to Berghaim with a few people. I had *so* much fun dancing and I was super happy we all got in.
 
 09/28/2015
 ---
@@ -1104,7 +1104,7 @@ When I told my Baltimore friends I deleted my Tinder, they put up a personals ad
 
 10/04/2015
 ---
-I went to brunch today with my college roomates! It was the first time we've all been together since graduating 1.5 years ago. So it was pretty wonderful. Also, brunch :)
+I went to brunch today with my college roommates! It was the first time we've all been together since graduating 1.5 years ago. So it was pretty wonderful. Also, brunch :)
 
 10/05/2015
 ---
@@ -1176,7 +1176,7 @@ Today I watched the IT Crowd for the first time after hearing so much about it. 
 
 10/22/2015
 ---
-I *really* love my hair. Everytime I see a hint of blue or purple out of the corner of my eye it makes me smile. I've taken way too many selfies. Sorry not sorry :P
+I *really* love my hair. Every time I see a hint of blue or purple out of the corner of my eye it makes me smile. I've taken way too many selfies. Sorry not sorry :P
 
 10/23/2015
 ---
