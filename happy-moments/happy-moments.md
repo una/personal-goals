@@ -1413,3 +1413,15 @@ I went on a long jog today -- about 6 miles around Lady Bird Lake. And it was so
 12/20/2015
 ---
 I made a last minute decision to see Star Wars tonight and Dan joined. It was so good! And then we hung out and chatted in the parking lot till 1 AM.
+
+12/21/2015
+---
+I went out with some friends to Weather Up (a bar) around 6 -- we ended up hanging out there and then at a pizza place until we were the last ones in the restaurant. It was great. The conversation was great.
+
+12/22/2015
+---
+I think I played about 4 hours of guitar band today at Chris' place after getting Korean barbecue with some friends.
+
+12/23/2015
+---
+Delanté came over today and helped me go through my closet to pick out clothes to keep and get rid of. Yayy for the help!

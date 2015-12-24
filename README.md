@@ -27,16 +27,17 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Start Front-End Masters Course on Advanced JS
 - [ ] Create a sublime text plugin for SVG filters (SVG filter snippets)
 - [ ] Share Year in Review post?
-- [ ] Figure out why CSSgram wont deploy
-- [ ] Share Happy Moments site
-- [ ] Send gift!
+- [x] Figure out why CSSgram wont deploy
+- [x] Share Happy Moments site
+- [x] Send secret snowflake gift!
 - [ ] Work on scroll-scrub
 - [ ] Find a home for youmightnotneedjavascript.com outline (OS it, ask for suggestions)
 - [ ] Touch up filters based on test page
-- [ ] Finish rough of feColorMatrix post
+- [x] Finish rough of feColorMatrix post
 - [ ] Write Pastry Box Project post
 - [ ] Get started on Heiroglyph
-- [ ] Buy gifts
+- [ ] Buy gifts for New Years
+- [x] Clean apartment
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator

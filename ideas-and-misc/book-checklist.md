@@ -93,8 +93,9 @@ None -- I listened to a lot of podcasts and was traveling all month
 ## December 2015
 
 - [x] Abundance -- Peter H. Diamandis
-- [ ] Holidays on Ice -- David Sedaris
-- [ ] All the Light we Cannot See -- Anthony Doerr
+- [x] Holidays on Ice -- David Sedaris
+- [x] All the Light we Cannot See -- Anthony Doerr :star:
+- [ ] Modern Romance -- Aziz Ansari
 
 To-Read
 ---
