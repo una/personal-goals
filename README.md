@@ -16,28 +16,21 @@ Personal goals made open source for accessibility across computers I use, transp
 10. Use web components
 11. Be kinder
 
-# December 20, 2015
+# December 27, 2015
 
 ### This Week's Focus: Holidays/React
 
 ## Things I'll do This Week:
 
+- [ ] Continue Front-End Masters Course on Advanced JS
+- [ ] Finish Wes' React for Beginners course
+- [ ] Work on building Heiroglyph
 - [ ] Read [this](http://wesbos.com/javascript-modules/) post
-- [ ] Watch [Algorithms & Data Structures](http://livestream.com/accounts/4894689/events/4497664) Course
-- [ ] Start Front-End Masters Course on Advanced JS
+- [ ] Continue [Algorithms & Data Structures](http://livestream.com/accounts/4894689/events/4497664) Course
 - [ ] Create a sublime text plugin for SVG filters (SVG filter snippets)
-- [ ] Share Year in Review post?
-- [x] Figure out why CSSgram wont deploy
-- [x] Share Happy Moments site
-- [x] Send secret snowflake gift!
+- [ ] Share Year in Review post
 - [ ] Work on scroll-scrub
 - [ ] Find a home for youmightnotneedjavascript.com outline (OS it, ask for suggestions)
-- [ ] Touch up filters based on test page
-- [x] Finish rough of feColorMatrix post
-- [ ] Write Pastry Box Project post
-- [ ] Get started on Heiroglyph
-- [ ] Buy gifts for New Years
-- [x] Clean apartment
 
 ### Things I'll Do in the Future:
 - [x] Set up yeoman generator

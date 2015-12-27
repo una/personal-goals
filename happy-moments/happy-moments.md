@@ -1425,3 +1425,15 @@ I think I played about 4 hours of guitar band today at Chris' place after gettin
 12/23/2015
 ---
 Delanté came over today and helped me go through my closet to pick out clothes to keep and get rid of. Yayy for the help!
+
+12/24/2015
+---
+I arrived home today for the holidays! I got to see my Mom's new car and my dog and sleep in my childhood bedroom (where I'll be staying the next few days)
+
+12/25/2015
+---
+Today Karina hosted the Vegas group of ladies + everyone's significant others for a holiday party where we ate Chinese food and had a gingerbread house making contest.
+
+12/26/2015
+---
+We put up our New Year's tree today. I love unboxing old ornaments that remind me of places. I'm excited to have my own family tree one day and put up ornaments from around the world.

@@ -95,7 +95,8 @@ None -- I listened to a lot of podcasts and was traveling all month
 - [x] Abundance -- Peter H. Diamandis
 - [x] Holidays on Ice -- David Sedaris
 - [x] All the Light we Cannot See -- Anthony Doerr :star:
-- [ ] Modern Romance -- Aziz Ansari
+- [x] Modern Romance -- Aziz Ansari
+- [ ] The Girl on the Train -- Paula Hawkins
 
 To-Read
 ---
@@ -104,4 +105,3 @@ To-Read
 - [ ] The Cuckoo's Egg -- Clifford Stoll
 - [ ] [Red Rising](http://www.audible.com/pd/Sci-Fi-Fantasy/Red-Rising-Audiobook/B00I2VWW5U/ref=a_search_c4_1_1_srImg?qid=1443799691&sr=1-1) -- Pierce Brown // via TJ
 - [ ] Pitch Perfect -- Bill McGowan //via Wes Bos
-- [ ] The Girl on the Train -- Paula Hawkins
