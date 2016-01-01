@@ -1441,3 +1441,15 @@ We put up our New Year's tree today. I love unboxing old ornaments that remind m
 12/27/2015
 ---
 Today Liza and I did our annual holiday sleepover (going on about 10 years now). We got sushi, saw a movie, exchanged gifts, and had a classic slumber party in my parents basement :)
+
+12/28/2015
+---
+I spent some time shopping for New Years decorations and decorating the house with hanging paper snowflakes and ornaments.
+
+12/29/2015
+---
+This is the first time I've come home for theholidays and not gained weight. I even lost 2lbs this week, which means I've lost 12 lbs this month!
+
+12/30/2015
+---
+I met up with two of my high school friends today -- Amanda and Erin :) We went shopping and got dinner. It was really, really nice to hang out with them.
