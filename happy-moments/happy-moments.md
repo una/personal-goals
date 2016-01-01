@@ -1437,3 +1437,7 @@ Today Karina hosted the Vegas group of ladies + everyone's significant others fo
 12/26/2015
 ---
 We put up our New Year's tree today. I love unboxing old ornaments that remind me of places. I'm excited to have my own family tree one day and put up ornaments from around the world.
+
+12/27/2015
+---
+Today Liza and I did our annual holiday sleepover (going on about 10 years now). We got sushi, saw a movie, exchanged gifts, and had a classic slumber party in my parents basement :)

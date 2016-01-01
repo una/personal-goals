@@ -1,20 +1,14 @@
 Personal Goals
 ==============
 
-Personal goals made open source for accessibility across computers I use, transparency, accountability, and versioning. Learn more about it [here](http://una.github.io/personal-goals-guide/).
+Personal goals made open source for accessibility across computers I use, transparency, accountability, and versioning. Learn more about it [here](http://una.im/personal-goals-guide/).
 
-# Overarching Goals for 2015: [Just do it.](http://una.github.io/2015-resolutions/)
-1. Build quickly, ship things, and learn.
-2. Contribute to Open Source
-3. Share knowledge as often as possible
-4. Appreciate the creative & talented people in my life
-5. Use Vim + the keyboard more often
-6. Up my JS Game (patterns, node/io, angular)
-7. Performance-first advocacy
-8. Foster designer participation in OS projects
-9. Participate in conferences & community
-10. Use web components
-11. Be kinder
+# Overarching Goals for 2016: [Just do it.](http://una.im/2015-review/)
+1. JavaScript!
+2. Write a Book
+3. Bridge the Designer/Dev Gap
+4. Build a Lot of Things
+5. Prioritize my Health
 
 # December 27, 2015
 
@@ -23,12 +17,12 @@ Personal goals made open source for accessibility across computers I use, transp
 ## Things I'll do This Week:
 
 - [ ] Continue Front-End Masters Course on Advanced JS
-- [ ] Finish Wes' React for Beginners course
-- [ ] Work on building Heiroglyph
+- [x] Finish Wes' React for Beginners course
+- [x] Work on building Heiroglyph
 - [ ] Read [this](http://wesbos.com/javascript-modules/) post
 - [ ] Continue [Algorithms & Data Structures](http://livestream.com/accounts/4894689/events/4497664) Course
 - [ ] Create a sublime text plugin for SVG filters (SVG filter snippets)
-- [ ] Share Year in Review post
+- [x] Share Year in Review post
 - [ ] Work on scroll-scrub
 - [ ] Find a home for youmightnotneedjavascript.com outline (OS it, ask for suggestions)
 
