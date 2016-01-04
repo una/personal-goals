@@ -1453,3 +1453,7 @@ This is the first time I've come home for theholidays and not gained weight. I e
 12/30/2015
 ---
 I met up with two of my high school friends today -- Amanda and Erin :) We went shopping and got dinner. It was really, really nice to hang out with them.
+
+12/31/2015
+---
+New Years Eve! This is my 365th happy moment. And my family's version of Christmas :) It's been a great year.

@@ -10,21 +10,23 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# December 27, 2015
+# January 3, 2016
 
-### This Week's Focus: Holidays/React
+### This Week's Focus: Blogs  & Building
 
 ## Things I'll do This Week:
 
+- [ ] Read [this post](http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/) on Sass in components
+- [ ] Set Up One-Password
+- [ ] Apply to speak at CSS Conf BP
+- [ ] Get Heiroglpyh oAuth Working
+- [ ] Heiroglyph icon architecture from JSON working
+- [ ] youmightnotneedjs.com <-- work on it
 - [ ] Continue Front-End Masters Course on Advanced JS
-- [x] Finish Wes' React for Beginners course
-- [x] Work on building Heiroglyph
-- [ ] Read [this](http://wesbos.com/javascript-modules/) post
 - [ ] Continue [Algorithms & Data Structures](http://livestream.com/accounts/4894689/events/4497664) Course
 - [ ] Create a sublime text plugin for SVG filters (SVG filter snippets)
-- [x] Share Year in Review post
 - [ ] Work on scroll-scrub
-- [ ] Find a home for youmightnotneedjavascript.com outline (OS it, ask for suggestions)
+- [ ] Sort out what to do about Happy Moments in 2016
 
 ### Things I'll Do in the Future:
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
