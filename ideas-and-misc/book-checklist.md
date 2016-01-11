@@ -98,6 +98,12 @@ None -- I listened to a lot of podcasts and was traveling all month
 - [x] Modern Romance -- Aziz Ansari
 - [x] The Girl on the Train -- Paula Hawkins :star:
 
+## January 2016
+
+- [x] The Martian Chronicles -- Ray Bradbury :star:
+- [x] The Like Switch -- Jack Schafer :sleeping:
+- [ ] Snow Crash -- Neal Stephenson :star:
+
 To-Read
 ---
 - [ ] Alan Turing: The Enigma -- Andrew Hodges

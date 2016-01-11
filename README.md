@@ -10,23 +10,27 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# January 3, 2016
+# January 10, 2016
 
-### This Week's Focus: Blogs  & Building
+### This Week's Focus: Share Something
 
 ## Things I'll do This Week:
 
-- [ ] Read [this post](http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/) on Sass in components
+- [ ] Internalize [this](https://github.com/petehunt/react-roadmap)
+- [ ] Read [this post](http://staltz.com/unidirectional-user-interface-architectures.html) on unidrectional data flows
+- [ ] Write letters to 8 people
+- [ ] Figure out what to do with js-together.com
+- [ ] Finish [this](https://jsbin.com/tekupa/edit?html,js,console)
+- [ ] Series based on ES6 things outlined [here](https://blog.risingstack.com/how-to-become-a-better-node-js-developer-in-2016/)
 - [ ] Set Up One-Password
-- [ ] Apply to speak at CSS Conf BP
 - [ ] Get Heiroglpyh oAuth Working
-- [ ] Heiroglyph icon architecture from JSON working
 - [ ] youmightnotneedjs.com <-- work on it
 - [ ] Continue Front-End Masters Course on Advanced JS
 - [ ] Continue [Algorithms & Data Structures](http://livestream.com/accounts/4894689/events/4497664) Course
 - [ ] Create a sublime text plugin for SVG filters (SVG filter snippets)
 - [ ] Work on scroll-scrub
 - [ ] Sort out what to do about Happy Moments in 2016
+- [ ] Smashing Article -- work on adding more content on paint render
 
 ### Things I'll Do in the Future:
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
