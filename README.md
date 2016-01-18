@@ -10,18 +10,14 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# January 10, 2016
+# January 17, 2016
 
-### This Week's Focus: Share Something
+### This Week's Focus: NYC
 
 ## Things I'll do This Week:
 
-- [ ] Internalize [this](https://github.com/petehunt/react-roadmap)
-- [ ] Read [this post](http://staltz.com/unidirectional-user-interface-architectures.html) on unidrectional data flows
-- [ ] Write letters to 8 people
 - [ ] Figure out what to do with js-together.com
-- [ ] Finish [this](https://jsbin.com/tekupa/edit?html,js,console)
-- [ ] Series based on ES6 things outlined [here](https://blog.risingstack.com/how-to-become-a-better-node-js-developer-in-2016/)
+- [ ] Read [this post](http://staltz.com/unidirectional-user-interface-architectures.html) on unidrectional data flows
 - [ ] Set Up One-Password
 - [ ] Get Heiroglpyh oAuth Working
 - [ ] youmightnotneedjs.com <-- work on it
@@ -30,7 +26,11 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Create a sublime text plugin for SVG filters (SVG filter snippets)
 - [ ] Work on scroll-scrub
 - [ ] Sort out what to do about Happy Moments in 2016
-- [ ] Smashing Article -- work on adding more content on paint render
+- [ ] Send letters
+- [ ] Go to Brooklyn JS
+- [ ] Give a great presentation for IBM
+- [ ] Finish Promises article
+- [ ] Write 3 more letters
 
 ### Things I'll Do in the Future:
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)

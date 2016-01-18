@@ -37,3 +37,11 @@ Today I went on a first date that I actually really enjoyed (this never happens!
 01/10/2016
 ---
 Back in the coffee shop grind. I spent the evening at Bennu, listening to good music (Spotify Discover is on pointe) and drinking almond milk lattes.
+
+01/11/2016
+---
+Today was a sick day but I got to sleep in! And my presentation portion got a thumbs up for G&TT which is exciting.
+
+01/12/2016
+---
+Posted a rant post today about respecting OSS developers. It's getting alot of shares and I'm glad people are reading and internalizing it.
