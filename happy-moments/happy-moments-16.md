@@ -45,3 +45,27 @@ Today was a sick day but I got to sleep in! And my presentation portion got a th
 01/12/2016
 ---
 Posted a rant post today about respecting OSS developers. It's getting alot of shares and I'm glad people are reading and internalizing it.
+
+01/13/2016
+---
+My speech script for G&TT got approved with good feedback today -- so that's a relief :) finally hearing some good things about it.
+
+01/14/2016
+---
+I saw Alex again today! We went to an arcade called Pinballz and played DDR and it was *so* awesomely nostalgic. Ahh I had so much fun!
+
+01/15/2016
+---
+I just hung out by myself this Friday and it felt really good to hang out at Bennu coffee and finish up an article that I was having a little trouble with.
+
+01/16/2016
+---
+Tonight, an actor friend of mine and his friends put on a play reading/release party for his zine. They did a play about workers in a movie theatre and it was *awesome*
+
+01/17/2016
+---
+I went mini golfing with Alex today. It was really cute and then we got some Tex-Mex and hung out on my porch/at my place for the evening.
+
+01/18/2016
+---
+Today I felt super productive. I made a list of 16 things and I just buckled down to get through it and put in great PRs in the process.

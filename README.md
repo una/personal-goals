@@ -24,6 +24,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Continue Front-End Masters Course on Advanced JS
 - [ ] Continue [Algorithms & Data Structures](http://livestream.com/accounts/4894689/events/4497664) Course
 - [ ] Create a sublime text plugin for SVG filters (SVG filter snippets)
+- [ ] Fly to NY
 - [ ] Work on scroll-scrub
 - [ ] Sort out what to do about Happy Moments in 2016
 - [ ] Send letters
@@ -31,6 +32,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Give a great presentation for IBM
 - [ ] Finish Promises article
 - [ ] Write 3 more letters
+- [ ] Buy or order new travel backpack
 
 ### Things I'll Do in the Future:
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
