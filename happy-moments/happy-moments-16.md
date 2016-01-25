@@ -69,3 +69,15 @@ I went mini golfing with Alex today. It was really cute and then we got some Tex
 01/18/2016
 ---
 Today I felt super productive. I made a list of 16 things and I just buckled down to get through it and put in great PRs in the process.
+
+01/19/2016
+---
+I started listening to the First Fifteen Lives of Harry August at the gym today and it is *so* good I didn't want to turn it off.
+
+01/20/2016
+---
+I recorded an interview with Jon Cutrell of Developer Tea today and it was a really good conversation that got kind of deep into the theoretical future of tech which was awesome and different than the norm.
+
+01/21/2016
+---
+I'm hanging out with the Brooklyn JS crew today at Boroughgramming. What an awesome group of people! It's such a family here.

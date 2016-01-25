@@ -10,29 +10,28 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# January 17, 2016
+# January 24, 2016
 
-### This Week's Focus: NYC
+### This Week's Focus: Start Writing Book
 
 ## Things I'll do This Week:
 
+- [ ] Start working on book
+- [ ] Check out [this](https://www.codeschool.com/courses/es2015-the-shape-of-javascript-to-come) CodeSchool course on ES2015
+- [ ] Edit & Release SVG Icon System Article
+- [ ] Start thinking about talk for April
+- [ ] Finish Promises article
+- [ ] Write 5 more letters
+- [ ] Send letters
 - [ ] Figure out what to do with js-together.com
-- [ ] Read [this post](http://staltz.com/unidirectional-user-interface-architectures.html) on unidrectional data flows
-- [ ] Set Up One-Password
+- [ ] Work on scroll-scrub
 - [ ] Get Heiroglpyh oAuth Working
 - [ ] youmightnotneedjs.com <-- work on it
 - [ ] Continue Front-End Masters Course on Advanced JS
 - [ ] Continue [Algorithms & Data Structures](http://livestream.com/accounts/4894689/events/4497664) Course
 - [ ] Create a sublime text plugin for SVG filters (SVG filter snippets)
-- [ ] Fly to NY
-- [ ] Work on scroll-scrub
-- [ ] Sort out what to do about Happy Moments in 2016
-- [ ] Send letters
-- [ ] Go to Brooklyn JS
-- [ ] Give a great presentation for IBM
-- [ ] Finish Promises article
-- [ ] Write 3 more letters
-- [ ] Buy or order new travel backpack
+- [ ] Organize 2016 trips (planner)
+- [ ] Finish listening to the First 15 Lives of Harry August
 
 ### Things I'll Do in the Future:
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
@@ -45,6 +44,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Finish an [Algorithms]((http://livestream.com/accounts/4894689/events/4497664)) online course
 - [ ] Play around with CSS Transforms for fun
 - [ ] Do something with youmightnotneedjavascript.com
+- [ ] New version of Happy Moments for 2016
 
 ### Backlog: Side Projects & Other Ideas
 - [Apps & Other Projects](https://github.com/una/personal-goals/blob/master/ideas-and-misc/app-ideas.md)
