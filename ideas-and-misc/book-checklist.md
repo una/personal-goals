@@ -104,7 +104,11 @@ None -- I listened to a lot of podcasts and was traveling all month
 - [x] The Like Switch -- Jack Schafer :sleeping:
 - [x] Snow Crash -- Neal Stephenson :star:
 - [x] Daily Rituals: How Artists Work -- Mason Currey
-- [ ] The First Fifteen Lives of Harry August -- Catherine Webb :star:
+- [x] The First Fifteen Lives of Harry August -- Catherine Webb :star:
+
+## February 2016
+
+- [ ] The Intelligent Web -- Gautam Shroff
 
 To-Read
 ---
