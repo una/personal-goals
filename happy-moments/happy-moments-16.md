@@ -121,3 +121,31 @@ Today was absolutely beautiful! I went to Hamilton Pool with friends and then we
 01/31/2016
 ---
 Continuing with the streak of beautiful weather, I went kayaking with a few friends then to a friend's dinner party where he made us Korean barbecue.
+
+02/01/2016
+---
+I've been working on a technical exercise building out a sock-themed search and it's been really fun! I hope they enjoy reviewing it at much as I've enjoyed building it.
+
+02/02/2016
+---
+I made Valentines Day cards today to prep them for sending out to people :) It was really relaxing and fun.
+
+02/03/2016
+---
+Net Magazine came in the mail today (the one with my CSSgram feature) and that was pretty awesome to see! :D
+
+02/04/2016
+---
+Played Rock Band today at Chris' place. Ahh it was so much fun. A much bigger crowd than usual, but it was great and we were all belting the songs out in unison.
+
+02/05/2016
+---
+Went out tonight for Troys birthday. It was so much fun. I basically just got really drunk with a lot of my friends around east side.
+
+02/06/2015
+---
+I went out dancing (like, social dancing) tonight for the first time with Lizzy and her friend Kevin! It was actually a ton of fun :) I'd probably go again, and maybe try to learn and get better for next time.
+
+02/07/2015
+---
+This morning I did brunch at Bangers with a few people. Mae brought her dog and there were so many cute puppers around! That plus an awesome live band and a beautiful day made for a wonderful morning meal.

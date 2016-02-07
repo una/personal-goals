@@ -10,18 +10,18 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# January 31, 2016
+# February 7, 2016
 
-### This Week's Focus: Book Org
+### This Week's Focus: Writing
 
 ## Things I'll do This Week:
 
-- [ ] Start to build ecard generator (sort out architecture)
-- [ ] Make a few possible header covers for ecard generator
-- [ ] Finish image formats chapter (finish the research on it)
+- [ ] Write letters inside of Valentines
+- [ ] Send Valentines
+- [ ] Catch up with Liza
+- [ ] Deal with PRs on una.im
+- [ ] Finish research on image formats chapter
 - [ ] Start chapter on "How Are Images Rendered in the Browser"
-- [ ] Find a better solution for writing this book (markdown probably -- maybe put it on Github?)
-- [ ] Find a better software solution for book writing/editing
 - [ ] Deal with my Wordpress Travel site being hacked
 - [ ] Watch this [video](https://www.youtube.com/watch?v=uMp_c_M0h1c&feature=youtu.be&a): Server Farm to Table
 - [ ] Check out [this](https://www.codeschool.com/courses/es2015-the-shape-of-javascript-to-come) CodeSchool course on ES2015
@@ -32,9 +32,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Get Heiroglpyh oAuth Working
 - [ ] youmightnotneedjs.com <-- work on it
 - [ ] Create a sublime text plugin for SVG filters (SVG filter snippets)
-- [ ] Organize 2016 trips (planner) -- should I buy one?
-- [ ] Make Valentines
-- [ ] Reorg book outline into chapters with descriptions
+- [ ] Mail back Cocoon about bags
 
 ### Things I'll Do in the Future:
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
@@ -50,6 +48,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] New version of Happy Moments for 2016
 - [ ] Create a typeface
 - [ ] Build a project using ES6 best practices
+- [ ] Build an E-Card generator API
 
 ### Backlog: Side Projects & Other Ideas
 - [Apps & Other Projects](https://github.com/una/personal-goals/blob/master/ideas-and-misc/app-ideas.md)
