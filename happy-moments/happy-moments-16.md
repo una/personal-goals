@@ -142,10 +142,41 @@ Played Rock Band today at Chris' place. Ahh it was so much fun. A much bigger cr
 ---
 Went out tonight for Troys birthday. It was so much fun. I basically just got really drunk with a lot of my friends around east side.
 
-02/06/2015
+02/06/2016
 ---
 I went out dancing (like, social dancing) tonight for the first time with Lizzy and her friend Kevin! It was actually a ton of fun :) I'd probably go again, and maybe try to learn and get better for next time.
 
-02/07/2015
+02/07/2016
 ---
 This morning I did brunch at Bangers with a few people. Mae brought her dog and there were so many cute puppers around! That plus an awesome live band and a beautiful day made for a wonderful morning meal.
+
+02/08/2016
+---
+I did lunch with Lauren today at Whole Foods. We walked over from work. It was a nice walk and we got to catch up. I love the halibut they've been having at Whole Foods lately, too.
+
+02/09/2016
+---
+We recorded Toolsday today and it turned out to be a really fun episode about static site generators. It's awesome to get to host a podcast at work and a lot of fun :)
+
+02/10/2016
+---
+Went to Lucky Robot on South Lamar for sushi with Alex today. It was really good :) We went to Half Step afterward.
+
+02/11/2016
+---
+Went back to the gym today! And kicked ass at kettle bells! And it felt SO good!
+
+02/12/2016
+---
+I had a photoshoot with Lauren today. It was so much fun! And we got some really great shots.
+
+02/13/2016
+---
+I spent the day being really productive, fixing bugs, doing laundry, and writing half a blog post. I then rallied after midnight to go out on 6th.
+
+02/14/2016
+---
+Today was really great! I began to code up a UI for a SXSW event at Bennu with a coworker, then we got dinner and ended up going to listen to a jazz drummer at the elephant room, then to Peche for absinthe cocktails.
+
+02/15/2016
+---

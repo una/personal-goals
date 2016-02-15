@@ -12,4 +12,6 @@
 
 ## Things I'll do Next Week:
 
+- [ ] Call Mom
+
 ### Week in Review

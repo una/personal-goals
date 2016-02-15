@@ -9,12 +9,12 @@ Gotta catch 'em all. (:star: == outstanding)
 - [x] Thunderbird Coffee :star:
 - [x] Bennu Coffee :star:
 - [x] Wright Bros. Brew & Brew
-- [ ] Buzz Mill
+- [x] Buzz Mill
 - [ ] Jo’s Coffee
 - [ ] Once Over Coffee Bar
 - [x] Café Medici :star:
 - [x] Mozart's Coffee
-- [x] Epoch Coffee
+- [x] Epoch Coffee :star:
 - [ ] Pacha
 - [x] Houndstooth Coffee
 - [x] Flightpath Coffeehouse
@@ -37,3 +37,4 @@ Gotta catch 'em all. (:star: == outstanding)
 - [x] Genuine Joe
 - [x] Bee Cave Coffee
 - [x] Cuvee Coffee
+- [x] Two Hands Coffee :star:
