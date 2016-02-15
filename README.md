@@ -10,29 +10,29 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# February 7, 2016
+# February 14, 2016
 
-### This Week's Focus: Writing
+### This Week's Focus: ES2015-Sass
 
 ## Things I'll do This Week:
 
-- [ ] Write letters inside of Valentines
-- [ ] Send Valentines
-- [ ] Catch up with Liza
-- [ ] Deal with PRs on una.im
-- [ ] Finish research on image formats chapter
+- [ ] Read this [post](https://css-tricks.com/productive-in-react/) by Sarah Drasner on being productive in React
+- [ ] Read the [Gif Spec](https://www.w3.org/Graphics/GIF/spec-gif89a.txt)
+- [ ] Put unakravets.com back up via GH -- destroy DO droplet
+- [ ] Fix image in "About" page for una.im
+- [ ] Finish [ES2015](https://www.codeschool.com/courses/es2015-the-shape-of-javascript-to-come) CodeSchool course (first)
+- [ ] Finish writing "If You Know Sass, You Know ES2015" Article (next)
+- [ ] Read [Sketch Tutorial for Icons](https://medium.com/google-design/sketch-tutorial_01-b76271a095e3#.oqby6oxwg)
+- [ ] Somehow share new portraits
+- [ ] Finish chapter on web graphics history
 - [ ] Start chapter on "How Are Images Rendered in the Browser"
-- [ ] Deal with my Wordpress Travel site being hacked
-- [ ] Watch this [video](https://www.youtube.com/watch?v=uMp_c_M0h1c&feature=youtu.be&a): Server Farm to Table
-- [ ] Check out [this](https://www.codeschool.com/courses/es2015-the-shape-of-javascript-to-come) CodeSchool course on ES2015
-- [ ] Start thinking about talk for April
-- [ ] Finish Promises article
 - [ ] Write 5 more letters
 - [ ] Figure out what to do with js-together.com
 - [ ] Get Heiroglpyh oAuth Working
 - [ ] youmightnotneedjs.com <-- work on it
 - [ ] Create a sublime text plugin for SVG filters (SVG filter snippets)
-- [ ] Mail back Cocoon about bags
+- [ ] Plan trip to New Mexico/Belize
+- [ ] Call Mama
 
 ### Things I'll Do in the Future:
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
