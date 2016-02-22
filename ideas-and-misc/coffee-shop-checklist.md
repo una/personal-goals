@@ -11,7 +11,7 @@ Gotta catch 'em all. (:star: == outstanding)
 - [x] Wright Bros. Brew & Brew
 - [x] Buzz Mill
 - [ ] Jo’s Coffee
-- [ ] Once Over Coffee Bar
+- [x] Once Over Coffee Bar
 - [x] Café Medici :star:
 - [x] Mozart's Coffee
 - [x] Epoch Coffee :star:

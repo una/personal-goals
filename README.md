@@ -23,7 +23,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Read [this post](https://defaultnamehere.tumblr.com/post/139351766005/graphing-when-your-facebook-friends-are-awake) on fun FB hack stuff
 - [ ] Seriously, start my new talk for April
 - [ ] Figure out way to sell/auction prints/original
-- [ ] Put sketchbook site back up
+- [x] Put sketchbook site back up
 - [ ] Record audio for post on ES6/Sass
 - [ ] Publish ES6/Sass Post
 - [ ] Fix image in "About" page for una.im
