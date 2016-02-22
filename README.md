@@ -10,29 +10,32 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# February 14, 2016
+# February 21, 2016
 
-### This Week's Focus: ES2015-Sass
+### This Week's Focus: Proving CSS is Awesome
 
 ## Things I'll do This Week:
 
-- [ ] Read this [post](https://css-tricks.com/productive-in-react/) by Sarah Drasner on being productive in React
-- [ ] Read the [Gif Spec](https://www.w3.org/Graphics/GIF/spec-gif89a.txt)
-- [ ] Put unakravets.com back up via GH -- destroy DO droplet
+- [ ] Call Mom
+- [ ] Read this [post](http://danielmall.com/articles/content-display-patterns/) about content display patterns
+- [ ] Find financial advisor
+- [ ] Figure out what to do with Kimono API going down
+- [ ] Read [this post](https://defaultnamehere.tumblr.com/post/139351766005/graphing-when-your-facebook-friends-are-awake) on fun FB hack stuff
+- [ ] Seriously, start my new talk for April
+- [ ] Figure out way to sell/auction prints/original
+- [ ] Put sketchbook site back up
+- [ ] Record audio for post on ES6/Sass
+- [ ] Publish ES6/Sass Post
 - [ ] Fix image in "About" page for una.im
-- [ ] Finish [ES2015](https://www.codeschool.com/courses/es2015-the-shape-of-javascript-to-come) CodeSchool course (first)
-- [ ] Finish writing "If You Know Sass, You Know ES2015" Article (next)
+- [ ] Read the [Gif Spec](https://www.w3.org/Graphics/GIF/spec-gif89a.txt)
 - [ ] Read [Sketch Tutorial for Icons](https://medium.com/google-design/sketch-tutorial_01-b76271a095e3#.oqby6oxwg)
-- [ ] Somehow share new portraits
 - [ ] Finish chapter on web graphics history
 - [ ] Start chapter on "How Are Images Rendered in the Browser"
 - [ ] Write 5 more letters
 - [ ] Figure out what to do with js-together.com
 - [ ] Get Heiroglpyh oAuth Working
 - [ ] youmightnotneedjs.com <-- work on it
-- [ ] Create a sublime text plugin for SVG filters (SVG filter snippets)
-- [ ] Plan trip to New Mexico/Belize
-- [ ] Call Mama
+- [ ] Ski Trip!
 
 ### Things I'll Do in the Future:
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)

@@ -180,3 +180,20 @@ Today was really great! I began to code up a UI for a SXSW event at Bennu with a
 
 02/15/2016
 ---
+I saw the movie Deadpool with Mae today at the Alamo Drafthouse. It was *such* a good movie! Super funny and entertaining.
+
+02/16/2016
+---
+Hung out in Brew and Brew today until late to work on the SXSW app. I ran into someone from town and we got to chatting/catching up which was super nice.
+
+02/17/2016
+---
+Stayed after work with Alex today to work on the SXSW jukebox app. We finally pulled some of the back and front end together which is always an exciting moment :)
+
+02/18/2016
+---
+We streamed the TED 2016 conference in the kitchen of the studio today. I ended up watching a few talks over lunch (and they were *really* good!)
+
+02/19/2016
+---
+I went to lunch at a new place (for me) called Twisted Root with a bunch of coworkers. It was awesome! And I got a delicious salad with a turkey patty and fried egg and pickled onions. Yummmm.
