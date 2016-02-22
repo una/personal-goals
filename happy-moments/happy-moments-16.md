@@ -197,3 +197,11 @@ We streamed the TED 2016 conference in the kitchen of the studio today. I ended 
 02/19/2016
 ---
 I went to lunch at a new place (for me) called Twisted Root with a bunch of coworkers. It was awesome! And I got a delicious salad with a turkey patty and fried egg and pickled onions. Yummmm.
+
+02/20/2016
+---
+After lunch and coffee shop hangs with some friends, I biked over to the dog park in Zilker and watched the pups :) It was a great day.
+
+02/21/2016
+---
+I arrived and went shopping in NYC today! It was fantastic. I bought 3 new crop tops, 4 new rings, a vest, and a really cute pair of black leather booties from Kenneth Cole!
