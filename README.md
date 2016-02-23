@@ -1,7 +1,7 @@
 Personal Goals
 ==============
 
-Personal goals made open source for accessibility across computers I use, transparency, accountability, and versioning. Learn more about it [here](http://una.im/personal-goals-guide/).
+Personal goals made open source for accessibility across computers I use, transparency, accountability, and versioning. Learn more about it [here](http://una.im/personal-goals-guide).
 
 # Overarching Goals for 2016: [Small Dreams are Boring](http://una.im/2015-review/)
 1. JavaScript!
