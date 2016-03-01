@@ -205,3 +205,23 @@ After lunch and coffee shop hangs with some friends, I biked over to the dog par
 02/21/2016
 ---
 I arrived and went shopping in NYC today! It was fantastic. I bought 3 new crop tops, 4 new rings, a vest, and a really cute pair of black leather booties from Kenneth Cole!
+
+02/22/2016
+---
+Started the morning with breakfast at my favorite TriBeCa coffee shop -- Gotan :) It's always so good!
+
+02/23/2016
+---
+I spent the night futzing around with water coloring some flowers, and they ended up actually looking pretty awesome! I love how they turned out and I added a quote on them in calligraphy.
+
+02/24/2016
+---
+I feel so much better now that I've lost a bit of weight. Clothes fit me better and my new skinny jeans are big on me -- so I went shopping for some new(er) clothes.
+
+02/25/2016
+---
+Today I went shopping (yes, again) :P for some coats for the upcoming ski trip I'm going on this weekend! I found a really awesome deal on a packable (aka super light) down coat so that was fun.
+
+02/26/2016
+---
+The internet was out at work today so I went to Cenote to work with Alex -- I had this *incredible* salmon salad with goat cheese and beets and omgggg it was so delicious and also beautiful out!
