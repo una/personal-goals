@@ -10,7 +10,7 @@ Gotta catch 'em all. (:star: == outstanding)
 - [x] Bennu Coffee :star:
 - [x] Wright Bros. Brew & Brew
 - [x] Buzz Mill
-- [ ] Jo’s Coffee
+- [ ] Jo's Coffee
 - [x] Once Over Coffee Bar
 - [x] Café Medici :star:
 - [x] Mozart's Coffee
@@ -28,12 +28,12 @@ Gotta catch 'em all. (:star: == outstanding)
 - [ ] Café Crème
 - [x] La Tazza Fresca
 - [ ] Radio Coffee & Beer
-- [ ] Monkey Nest Coffee
+- [ ] Monkey's Nest Coffee
 - [ ] Sa-Ten
 - [x] Flat Track
 - [ ] 1886 Cafe & Bakery
 - [x] Spiderhouse :star:
-- [ ] Patika
+- [x] Patika
 - [x] Genuine Joe
 - [x] Bee Cave Coffee
 - [x] Cuvee Coffee

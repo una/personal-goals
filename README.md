@@ -10,13 +10,15 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# February 28, 2016
+# March 6, 2016
 
 ### This Week's Focus: Start Talks
 
 ## Things I'll do This Week:
 
 - [ ] Call Mom
+- [ ] Decide which new keyboard to buy
+- [ ] Sign up for Defensive Driving
 - [ ] Read [wtfhtmlandcss](http://wtfhtmlcss.com/)
 - [ ] Paint the final "Programming is Power" piece
 - [ ] Fix trailing slash lines breaking in gh pages (move to surge?)
@@ -24,7 +26,6 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Set up Big Cartel store
 - [ ] Implement search on blog website
 - [ ] Switch blog website to host static `_site/` instead of Jekyll
-- [ ] Send ALA new book proposal
 - [ ] Finish chapter on web graphics history
 - [ ] Start chapter on "How Are Images Rendered in the Browser"
 - [ ] Write 5 more letters
@@ -32,14 +33,9 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Get Heiroglpyh oAuth Working
 - [ ] youmightnotneedjs.com <-- work on it
 - [ ] Seriously, start my new talk for April
-- [ ] Find financial advisor
 - [ ] Figure out what to do with Kimono API going down
 - [ ] Fix image in "About" page for una.im
 - [ ] Read the [Gif Spec](https://www.w3.org/Graphics/GIF/spec-gif89a.txt)
-- [ ] JS Review
-- [ ] Bronze Radio Return concert!
-- [ ] Buy new keyboard
-- [ ] Sign up for Defensive Driving
 
 ### Things I'll Do in the Future:
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)

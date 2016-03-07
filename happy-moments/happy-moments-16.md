@@ -224,4 +224,24 @@ Today I went shopping (yes, again) :P for some coats for the upcoming ski trip I
 
 02/26/2016
 ---
-The internet was out at work today so I went to Cenote to work with Alex -- I had this *incredible* salmon salad with goat cheese and beets and omgggg it was so delicious and also beautiful out!
+The Internet was out at work today so I went to Cenote to work with Alex -- I had this *incredible* salmon salad with goat cheese and beets and omgggg it was so delicious and also beautiful out!
+
+02/27/2016
+---
+Today we got to Colorado for the ski trip. The night was insanely clear and I ended up in the hot tub with Troy and Dan, having some really nice/deep conversation and looking up at the stars. You could see them *so* clearly it was insane.
+
+02/28/2016
+---
+We went skiing at the Winter Park ski resort today. I got to the top of the mountain and went down by myself. It was really awesome and so, so, so beautiful up there. The view was incredible. You could see snow-capped mountains for miles.
+
+02/29/2016
+---
+This morning we had to head back to fly out, and stopped by the Buff in Boulder for an incredible breakfast (we shared a fruit bowl carved out of cantaloupe and I got an omelet with salmon and goat cheese and capers in it). Then we went hiking for a short while at Chautauqua Park before heading to the Denver airport. It was *beautiful*.
+
+03/01/2016
+---
+I came back to my desk today to a sticky note from Alex that said "Welcome Back. Play a Game!" and an arduino game he made me! It was seriously the most awesome morning surprise :) I can't get over how happy it made me.
+
+03/02/2016
+---
+Dallas hosted a flower crown making party pre-renaissance faire at her place. We had wine and cheese and made flower crowns :) It was a lot of fun.
