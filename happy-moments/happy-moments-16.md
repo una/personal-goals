@@ -245,3 +245,54 @@ I came back to my desk today to a sticky note from Alex that said "Welcome Back.
 03/02/2016
 ---
 Dallas hosted a flower crown making party pre-renaissance faire at her place. We had wine and cheese and made flower crowns :) It was a lot of fun.
+
+03/03/2016
+---
+We did an after-work happy hour at Dogwood today. It was so much fun :) A lot of people came out, and I got this really yummy drink called the Texas Mule which came with a little orchid on top in a mason jar.
+
+03/04/2016
+---
+I went out dancing tonight with a bunch of friends at the Empire Control Room. It had been a while since I danced like that. Much needed!
+
+03/05/2016
+---
+I went over to Alex's and we made dinner (salmon and brussels sprouts that turned out *amazing*) and then listened to records! It was such a nice evening. I can't even explain it.
+
+03/06/2016
+---
+I went to the Zilker Kite Festival today with Alex. It was a great windy day for it and I remember seeing SO many adorable dogs and kites everywhere.
+
+03/07/2016
+---
+I met up with THREE awesome ladies from #makeupconf today! I had lunch with Duretti and then got wine and cheese with Monica and Chelsea. We went to Mikkeller Bar in SF and it was fabulous. All of those women were so down to earth and so much fun.
+
+03/08/2016
+---
+Today I flew out from San Francisco. I picked up Blue Bottle Coffee on the way to the airport (OMG SO GOOD) and had a really lovely ride out of the city.
+
+03/09/2016
+---
+I got THREE letters in the mail today! I love letters. That was so rad to get three at once :)
+
+03/10/2016
+---
+I went to lunch with a bunch of coworkers at the physical Chilantro location. It was so good! Like, SO good. I can't wait to go back for more.
+
+03/11/2016
+---
+Today was the first day of SXSW and also the IBM Design Hive party. The jukebox is finished, Toolsday went well, and I got to interview Dan Cedarholm for IBM Asks.
+
+03/12/2016
+---
+Today was *so* much fun! :) I love SXSW. I ended up going around to a bunch of places, ping ponging between groups. I hung out with Ian and saw RObert DeLong and snuck into a lounge for some ice cream. There was also this great Women in Austin Tech event on the 24th floor of a building. I ended the night with Alex and his sister as we were the dance party.
+
+03/13/2016
+---
+Today was another day of SXSW -- I went to the Facebook/Instagram happy hour for a while and they had a lovely open bar as well as yummy finger foods. I hung out there for a *while* with a bunch of coworkers and we saw Santigold perform at the Container Bar next door.
+
+03/14/2016
+---
+More SXSW fun :) I hung out with Alex for most of the day after WFH in the morning. We saw some of the things I had missed before and got brunch at Bangers for a SoFi event. The night ended with us going to one of Ryan Hamrick's lettering and Jameson events.
+
+03/15/2016
+---
