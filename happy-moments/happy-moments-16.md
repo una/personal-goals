@@ -296,3 +296,24 @@ More SXSW fun :) I hung out with Alex for most of the day after WFH in the morni
 
 03/15/2016
 ---
+I stopped by the Spotify House today for a little while to catch Jack Garret perform. It was a fun concert and I got a lot done in the morning while working from home as well.
+
+03/16/2016
+---
+I got *two* awesome pieces of mail today for me into the IBM studio from people who sent me stickers! I love getting mail a lot.
+
+03/17/2016
+---
+Today I bought the most adorable/perfect milk jars to put my homemade almond milk inside. I went shopping for sunglasses for this weekend and found them at Sur La Table, which I happened to drop into today.
+
+03/18/2016
+---
+I went camping today for the first time in Palo Duro Canyon State Park. It was super fun to build a nest of blankets inside the tent to keep warm and problem solve to make things work.
+
+03/19/2016
+---
+Today was absolutely beautiful! I woke up in the Palo Duro canyon and made eggs while leaning out of a tent and went hiking with Alex. Such a beautiful place! And morning! And day!
+
+03/20/2016
+---
+Alex and I drove home from Palo Duro/Monahans Sandhills State Park today and the sky was super clear so I asked if we could stop. We ended up climbing onto the roof of his car for a while to stargaze.

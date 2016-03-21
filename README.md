@@ -10,12 +10,14 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# March 13, 2016
+# March 20, 2016
 
-### This Week's Focus: SXSW / Talks
+### This Week's Focus: Talks
 
 ## Things I'll do This Week:
 
+- [ ] Call Mom
+- [ ] Send vim stickers to people
 - [ ] Refactor blog JS
 - [ ] Pitch idea for js-together.com to people
 - [ ] Write 5 more letters
@@ -27,13 +29,11 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Set up Big Cartel store or figure out Stripe API things
 - [ ] Get Heiroglpyh oAuth Working
 - [ ] youmightnotneedjs.com <-- work on it
-- [ ] Seriously, start my new talk for April
 - [ ] Figure out what to do with Kimono API going down
 - [ ] Fix image in "About" page for una.im
 - [ ] Read the [Gif Spec](https://www.w3.org/Graphics/GIF/spec-gif89a.txt)
 - [ ] Take care of reimbursements for various things
 - [ ] Work on talks
-- [ ] SXSW
 
 ### Things I'll Do in the Future:
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
