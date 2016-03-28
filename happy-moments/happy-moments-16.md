@@ -317,3 +317,27 @@ Today was absolutely beautiful! I woke up in the Palo Duro canyon and made eggs 
 03/20/2016
 ---
 Alex and I drove home from Palo Duro/Monahans Sandhills State Park today and the sky was super clear so I asked if we could stop. We ended up climbing onto the roof of his car for a while to stargaze.
+
+03/21/2016
+---
+I did a bunch of research on this cool place called the Seashell house and submitted a PR proposal for a trip to the repo Alex made for us :) I hope we end up there. Planning trips makes me so happy.
+
+03/22/2016
+---
+Today was a team lunch for birthdays. We basically took over this entire BBQ lunch spot. The food was good, but it was even funnier to see so many Bluemixers there.
+
+03/23/2016
+---
+I got dinner with Rebecca today! (It's been so long!) And it was really great to catch up. Everything has been to crazy right now that it almost felt like a therapy session. We also went to Foreign & Domestic -- which has been on my to-do/bucket list. The scallops we had (yes, we ordered the same thing :P) were *AAMAAZEE*.
+
+03/24/2016
+---
+I started listening to The Power of Habit today -- it's a really good audio book about psychology and I'm really into it.
+
+03/25/2016
+---
+I decided to accept the offer from Digital Ocean today. Which basically makes my life a lot easier and pretty open :). I'm excited. I remember having a long conversation over Skype at Flightpath Coffee with my parents about it.
+
+03/26/2016
+---
+I had a long walk by myself and made it to PaperSource at the end of it today. I love that store! And just taking long walks while listening to audio books.

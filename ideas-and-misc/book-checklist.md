@@ -114,7 +114,9 @@ None -- I listened to a lot of podcasts and was traveling all month
 
 ## March 2016
 
-- [ ] Money, Master the Game -- Tony Robbins
+- [x] Money, Master the Game -- Tony Robbins
+- [x] The Power of Habit -- Charles Duhigg
+- [ ] How Music Works
 
 To-Read/Recommendations:
 ---

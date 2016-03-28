@@ -10,30 +10,33 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# March 20, 2016
+# March 27, 2016
 
 ### This Week's Focus: Talks
 
 ## Things I'll do This Week:
 
 - [ ] Call Mom
-- [ ] Send vim stickers to people
-- [ ] Refactor blog JS
-- [ ] Pitch idea for js-together.com to people
-- [ ] Write 5 more letters
-- [ ] Decide which new keyboard to buy
+- [ ] Join Keybase.io / learn more
+- [ ] Respond to all of my emails
 - [ ] Sign up for Defensive Driving
-- [ ] Paint the final "Programming is Power" piece
-- [ ] Fix trailing slash lines breaking in gh pages (move to surge?)
+- [ ] Order bottles for almond milk
+- [ ] Blog: CSS Games with Counter-Increment
+- [ ] Read [this](http://commons.oreilly.com/wiki/index.php/SVG_Essentials/Filters#The_feComponentTransfer_Filter) about SVG filter
 - [ ] Find printer in Austin (?)
 - [ ] Set up Big Cartel store or figure out Stripe API things
 - [ ] Get Heiroglpyh oAuth Working
 - [ ] youmightnotneedjs.com <-- work on it
 - [ ] Figure out what to do with Kimono API going down
-- [ ] Fix image in "About" page for una.im
 - [ ] Read the [Gif Spec](https://www.w3.org/Graphics/GIF/spec-gif89a.txt)
 - [ ] Take care of reimbursements for various things
-- [ ] Work on talks
+- [ ] Send vim stickers to people
+- [ ] Refactor blog JS
+- [ ] Pitch idea for js-together.com to people
+- [ ] Write 5 more letters
+- [ ] Decide which new keyboard to buy
+- [ ] Paint the final "Programming is Power" piece
+- [ ] CSSgram PRs
 
 ### Things I'll Do in the Future:
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
