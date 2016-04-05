@@ -10,20 +10,21 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# March 27, 2016
+# April 3, 2016
 
-### This Week's Focus: Talks
+### This Week's Focus: SmashingConf
 
 ## Things I'll do This Week:
 
 - [ ] Call Mom
+- [ ] Blog: New Opp
+- [ ] Give talk @ Smashing
+- [ ] Watch [this video](https://www.youtube.com/watch?v=ncYblTCZPVM)
 - [ ] Join Keybase.io / learn more
 - [ ] Respond to all of my emails
 - [ ] Sign up for Defensive Driving
-- [ ] Order bottles for almond milk
 - [ ] Blog: CSS Games with Counter-Increment
 - [ ] Read [this](http://commons.oreilly.com/wiki/index.php/SVG_Essentials/Filters#The_feComponentTransfer_Filter) about SVG filter
-- [ ] Find printer in Austin (?)
 - [ ] Set up Big Cartel store or figure out Stripe API things
 - [ ] Get Heiroglpyh oAuth Working
 - [ ] youmightnotneedjs.com <-- work on it
@@ -34,7 +35,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Refactor blog JS
 - [ ] Pitch idea for js-together.com to people
 - [ ] Write 5 more letters
-- [ ] Decide which new keyboard to buy
+- [ ] Decide which new keyboard to buy (wait)
 - [ ] Paint the final "Programming is Power" piece
 - [ ] CSSgram PRs
 

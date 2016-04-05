@@ -341,3 +341,23 @@ I decided to accept the offer from Digital Ocean today. Which basically makes my
 03/26/2016
 ---
 I had a long walk by myself and made it to PaperSource at the end of it today. I love that store! And just taking long walks while listening to audio books.
+
+03/27/2016
+---
+I got brunch with Allison House today :) It was really fun! I wish we hung out more in Austin because we really get along and the place was awesome too!
+
+03/28/2016
+---
+Woke up to a map from Alex, he told me his story later about his grand canyon trip
+
+03/29/2016
+---
+really productive day -- getting a lot done at work this week
+
+03/30/2016
+---
+Happy hour for matt's going away at Dogwood, then ended up getting food next door and then at Alex's place chatting and looking at maps
+
+03/31/2016
+---
+Onboarding for Digital Ocean is adorable. The site has this awesome timeline of the company's history and puts your start date on it. They also make everything really nice and lucid.
