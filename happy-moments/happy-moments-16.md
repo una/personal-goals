@@ -348,16 +348,36 @@ I got brunch with Allison House today :) It was really fun! I wish we hung out m
 
 03/28/2016
 ---
-Woke up to a map from Alex, he told me his story later about his grand canyon trip
+Today I woke up to a map outside of my door with a volcanic rock on top of it from Alex. It was unbelievably adorable. He told me his story later about his Arizona trip when we hung out and used it as a basis.
 
 03/29/2016
 ---
-really productive day -- getting a lot done at work this week
+I had a really productive day. I got a few pull requests in to close various design system website issues. I've been getting a lot done at work this week.
 
 03/30/2016
 ---
-Happy hour for matt's going away at Dogwood, then ended up getting food next door and then at Alex's place chatting and looking at maps
+There was a happy hour for Matt's going away at Dogwood today. We ended up getting food next door at a Cajun place and then went to Alex's to chat and look at maps.
 
 03/31/2016
 ---
 Onboarding for Digital Ocean is adorable. The site has this awesome timeline of the company's history and puts your start date on it. They also make everything really nice and lucid.
+
+04/01/2016
+---
+Today we had our team retrospective -- we've been super productive lately so it felt good to go over and see all the work we did summed up in two weeks.
+
+04/02/2016
+---
+Today was great. I hung out with Alex all day, first at an 80's-themed pool party and then dinner at Laurens. The  -- sun set over her lake, bought chartreuse and made a blanket fort
+
+04/03/2016
+---
+Zilker Garden Festival
+
+04/04/2016
+---
+after speaker dinner drinks at this really cool bar called the Monkey Bar as a nickname in SF with Jina  Vitaly and Harry. Bought Pez
+
+04/05/2016
+---
+The SmashingConf after party was at the aquarium! It was a lot of fun! The otters were out and super playful, we got to pet sting rays, and the jellyfish were pretty mesmerizing. Monica also came!

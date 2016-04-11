@@ -10,34 +10,32 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# April 3, 2016
+# April 10, 2016
 
-### This Week's Focus: SmashingConf
+### This Week's Focus: Last Week @ IBM
 
 ## Things I'll do This Week:
 
 - [ ] Call Mom
-- [ ] Blog: New Opp
-- [ ] Give talk @ Smashing
 - [ ] Watch [this video](https://www.youtube.com/watch?v=ncYblTCZPVM)
 - [ ] Join Keybase.io / learn more
 - [ ] Respond to all of my emails
 - [ ] Sign up for Defensive Driving
-- [ ] Blog: CSS Games with Counter-Increment
+- [ ] Record Audio: New Opp (& release post)
 - [ ] Read [this](http://commons.oreilly.com/wiki/index.php/SVG_Essentials/Filters#The_feComponentTransfer_Filter) about SVG filter
 - [ ] Set up Big Cartel store or figure out Stripe API things
 - [ ] Get Heiroglpyh oAuth Working
 - [ ] youmightnotneedjs.com <-- work on it
-- [ ] Figure out what to do with Kimono API going down
-- [ ] Read the [Gif Spec](https://www.w3.org/Graphics/GIF/spec-gif89a.txt)
 - [ ] Take care of reimbursements for various things
 - [ ] Send vim stickers to people
 - [ ] Refactor blog JS
 - [ ] Pitch idea for js-together.com to people
 - [ ] Write 5 more letters
-- [ ] Decide which new keyboard to buy (wait)
 - [ ] Paint the final "Programming is Power" piece
 - [ ] CSSgram PRs
+- [ ] Get Alex to teach me how to parse webpages with python
+- [ ] Transfer photos
+- [ ] Prep for NYC
 
 ### Things I'll Do in the Future:
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
