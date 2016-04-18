@@ -10,32 +10,34 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# April 10, 2016
+# April 17, 2016
 
-### This Week's Focus: Last Week @ IBM
+### This Week's Focus: First Week @ Digital Ocean & Generate!
 
 ## Things I'll do This Week:
 
 - [ ] Call Mom
-- [ ] Watch [this video](https://www.youtube.com/watch?v=ncYblTCZPVM)
-- [ ] Join Keybase.io / learn more
-- [ ] Respond to all of my emails
-- [ ] Sign up for Defensive Driving
-- [ ] Record Audio: New Opp (& release post)
-- [ ] Read [this](http://commons.oreilly.com/wiki/index.php/SVG_Essentials/Filters#The_feComponentTransfer_Filter) about SVG filter
-- [ ] Set up Big Cartel store or figure out Stripe API things
-- [ ] Get Heiroglpyh oAuth Working
-- [ ] youmightnotneedjs.com <-- work on it
-- [ ] Take care of reimbursements for various things
-- [ ] Send vim stickers to people
-- [ ] Refactor blog JS
-- [ ] Pitch idea for js-together.com to people
-- [ ] Write 5 more letters
 - [ ] Paint the final "Programming is Power" piece
 - [ ] CSSgram PRs
 - [ ] Get Alex to teach me how to parse webpages with python
-- [ ] Transfer photos
-- [ ] Prep for NYC
+- [ ] Set up new laptop (take notes for blog post)
+- [ ] Meet my coworkers!
+- [ ] Join Keybase.io on new laptop
+- [ ] Respond to all of my conference request emails
+- [ ] Sign up for Defensive Driving
+- [ ] Record Audio for post about leaving IBM
+- [ ] Read [this](http://commons.oreilly.com/wiki/index.php/SVG_Essentials/Filters#The_feComponentTransfer_Filter) about SVG filter
+- [ ] Watch video about building an API
+- [ ] Revisit personal goals -- make time to build things
+- [ ] Re-outline plan to build Heiroglpyh
+- [ ] Take care of reimbursements for various things
+- [ ] Send vim stickers to people
+- [ ] Refactor blog JS
+- [ ] Send letters to people
+- [ ] Write 5 more letters
+- [ ] Collect songs for spring CD
+- [ ] Outline idea for "Practical Blend Modes" theme
+- [ ] Passover at home
 
 ### Things I'll Do in the Future:
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
