@@ -10,8 +10,11 @@
 
 ## Next Week's Focus:
 
-## Things I'll do Next Week:
+## Things I'll Do Next Week:
 
 - [ ] Call Mom
+- [ ] Record/Post Toolsday Episode
+
+## Things I'll Read Next Week:
 
 ### Week in Review

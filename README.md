@@ -10,34 +10,35 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# April 17, 2016
+# April 24, 2016
 
-### This Week's Focus: First Week @ Digital Ocean & Generate!
+### This Week's Focus: First Remote Week
 
-## Things I'll do This Week:
+### Things I'll do This Week:
 
 - [ ] Call Mom
+- [ ] Outline "Welcome to the CSS Circus" Talk
+- [ ] Make visual regression testing site
+- [ ] Diffee logo
+- [ ] Set up Starbucks card thing (why was it broken?)
+- [ ] comedydriving.com
+- [ ] Watch video on salary negotiation for women
+- [ ] Re-outline plan to build Heiroglpyh
+- [ ] Start course on building an API
 - [ ] Paint the final "Programming is Power" piece
-- [ ] CSSgram PRs
 - [ ] Get Alex to teach me how to parse webpages with python
-- [ ] Set up new laptop (take notes for blog post)
-- [ ] Meet my coworkers!
-- [ ] Join Keybase.io on new laptop
-- [ ] Respond to all of my conference request emails
 - [ ] Sign up for Defensive Driving
 - [ ] Record Audio for post about leaving IBM
-- [ ] Read [this](http://commons.oreilly.com/wiki/index.php/SVG_Essentials/Filters#The_feComponentTransfer_Filter) about SVG filter
-- [ ] Watch video about building an API
-- [ ] Revisit personal goals -- make time to build things
-- [ ] Re-outline plan to build Heiroglpyh
 - [ ] Take care of reimbursements for various things
 - [ ] Send vim stickers to people
-- [ ] Refactor blog JS
 - [ ] Send letters to people
 - [ ] Write 5 more letters
 - [ ] Collect songs for spring CD
-- [ ] Outline idea for "Practical Blend Modes" theme
-- [ ] Passover at home
+
+### This Week's Reading List:
+
+- [ ] [How Browsers Work](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+
 
 ### Things I'll Do in the Future:
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)

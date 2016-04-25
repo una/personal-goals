@@ -381,3 +381,37 @@ after speaker dinner drinks at this really cool bar called the Monkey Bar as a n
 04/05/2016
 ---
 The SmashingConf after party was at the aquarium! It was a lot of fun! The otters were out and super playful, we got to pet sting rays, and the jellyfish were pretty mesmerizing. Monica also came!
+
+I lost all of this data when I forgot to move happy-moments to my new computer - check other system!
+
+04/15/2016
+---
+Today was my last day at IBM -- happy hour
+
+04/16/2016
+---
+Pattern party! Today I prepped with Alex all day and set up the cheese board and decor and rum punch for my going away party. It was so much fun! And such a great day!
+
+04/17/2016
+---
+I arrived in NYC for onboarding today. The Sheraton where I'm staying has this beautiful rooftop which you can access as an SPG club member. It's an awesome perk with anincredible view of the Empire State building and skyline.
+
+04/18/2016
+---
+Ahh! It's my first day at Digital Ocean! It was a great day -- I was welcomed with so many tshirts (3 of them!), a kindle, slippers, and a lot of warmth from the team. :) This seems like such a rad place.
+
+04/19/2016
+---
+Today I went to __ with my team for a welcome dinner. It was so good! I got trout and a few of the team freaked out that it still had the fish head but whatever :P It tasted great.
+
+04/20/2016
+---
+I learned today that my coworker makes mini-mason-jar cheesecake and its *SO* good. I've been loving working at DO so far and learning about my cool new coworkers.
+
+04/21/2016
+---
+Tonight was the speaker dinner for Generate. The restaurant, Buddakan was *fantastic* and it was such a nice reunion! Afterwards we got drinks at a great cocktail bar and stayed out late.
+
+04/22/2016
+---
+Generate went really well and was so much fun! The speakers were great and my talk went well. After the conference we got dinner at this Korean BBQ place which was delicious and I was pretty drunk because Tim kept buying everyone rounds of drinks.

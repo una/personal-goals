@@ -120,6 +120,9 @@ None -- I listened to a lot of podcasts and was traveling all month
 ## April 2016
 
 - [x] How Music Works -- David Byrne
+- [x] You Are a Badass -- Jen Sincero
+- [ ] The Art of Possibility -- Ben Zander and Rosamund Stone Zander
+- [ ] The Year Without Pants
 
 To-Read/Recommendations:
 ---
