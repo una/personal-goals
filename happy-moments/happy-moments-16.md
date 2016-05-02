@@ -415,3 +415,27 @@ Tonight was the speaker dinner for Generate. The restaurant, Buddakan was *fanta
 04/22/2016
 ---
 Generate went really well and was so much fun! The speakers were great and my talk went well. After the conference we got dinner at this Korean BBQ place which was delicious and I was pretty drunk because Tim kept buying everyone rounds of drinks.
+
+04/23/2016
+---
+I was home for Passover today! It was so nice to see my family but I also got to see Liza (and her engagement ring for the first time!). Catching up was *so* nice and necessary.
+
+04/24/2016
+---
+This morning I went to Ross to go shopping with Liza for outfits for her engagement photo shoot. I also ended up buying some dresses before I headed back to Austin.
+
+04/25/2016
+---
+Today I finished building Diffee (which I started yesterday) and published it. I'm really excited about this project -- simple and effective :) It made me really happy to ship it fast. Now I just want to do more!
+
+04/26/2016
+---
+I worked remotely today, then went to see a documentary on Texas National Parks with Alex -- we saw Dan there too :) Afterwards, we biked to Cherrywood to do some work and eat some food. I got a lot done in terms of tasks I just needed to check off.
+
+04/27/2016
+---
+I went to Uchi with a group of friends tonight. It was *so* good! And I'm so glad I finally got to check it off my Austin bucket list. Favorites included the brussels sprouts, crunchy rice, and the yucca chips with hamachi and almonds and other things. It was a really fun time, too.
+
+04/28/2016
+---
+Sass meetup, hung out with Alex

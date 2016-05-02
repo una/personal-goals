@@ -108,7 +108,7 @@ None -- I listened to a lot of podcasts and was traveling all month
 
 ## February 2016
 
-- [ ] The Intelligent Web -- Gautam Shroff
+- [x] The Intelligent Web -- Gautam Shroff :sleeping:
 - [x] The Girl with All the Gifts -- M. R. Carey :star:
 - [x] The 7 Habits of Highly Effective People -- Stephen R. Covey
 
@@ -122,7 +122,11 @@ None -- I listened to a lot of podcasts and was traveling all month
 - [x] How Music Works -- David Byrne
 - [x] You Are a Badass -- Jen Sincero
 - [ ] The Art of Possibility -- Ben Zander and Rosamund Stone Zander
-- [ ] The Year Without Pants
+- [x] The Alchemist -- Paulo Coelho
+
+## May 2016
+
+- [ ] The Year Without Pants -- Scott Berkun
 
 To-Read/Recommendations:
 ---

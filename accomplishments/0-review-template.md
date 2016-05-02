@@ -15,6 +15,6 @@
 - [ ] Call Mom
 - [ ] Record/Post Toolsday Episode
 
-## Things I'll Read Next Week:
+## Things I'll Read/Watch Next Week:
 
 ### Week in Review
