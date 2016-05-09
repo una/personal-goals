@@ -29,7 +29,7 @@ Gotta catch 'em all. (:star: == outstanding)
 - [x] La Tazza Fresca
 - [ ] Radio Coffee & Beer
 - [ ] Monkey's Nest Coffee
-- [ ] Sa-Ten
+- [x] Sa-Ten
 - [x] Flat Track
 - [ ] 1886 Cafe & Bakery
 - [x] Spiderhouse :star:

@@ -17,12 +17,16 @@ Personal goals made open source for accessibility across computers I use, transp
 ### Things I'll do This Week:
 
 - [ ] Call Mom
+- [ ] Web Love Weekly
 - [ ] Record/Post Toolsday Episode
+- [ ] Fluxible
+- [ ] Record Audio for pa11y dashboard post
+- [ ] Get affadavit
+- [ ] Drive home with car!
+- [ ] Practical Blend Modes Talk
+- [ ] Finish Blog post: Diffee
 - [ ] Get my Vim set up to look nice again
-- [ ] diffee.com
 - [ ] Write the rest of the letters to ppl
-- [ ] 2 More Driving Course chapters
-- [ ] Send newsletter signup form
 - [ ] Work on getting URL inputs to work for Diffee
 - [ ] Look into using Hoodie for Heiroglyph
 - [ ] Send vim stickers to respondants
@@ -32,17 +36,12 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Start course on building an API
 - [ ] Paint the final "Programming is Power" piece
 - [ ] Get Alex to teach me how to parse webpages with python
-- [ ] Call Mom
 - [ ] Outline "Welcome to the CSS Circus" Talk
-- [ ] Finish Blog post: Setting up an accesibility dashboard from A to Z
-- [ ] Finish Blog post: Diffee
-- [ ] Figure out Docker on DO
 
 ### This Week's Reading List:
 
 - [ ] [How Browsers Work](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 - [ ] [Dirty Little Front-End Tricks](https://vimeo.com/162334949)
-- [ ] [TEDx Biohacking](https://www.youtube.com/watch?v=7DxVWhFLI6E)
 
 ### Things I'll Do in the Future:
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)

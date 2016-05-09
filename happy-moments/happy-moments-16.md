@@ -438,4 +438,44 @@ I went to Uchi with a group of friends tonight. It was *so* good! And I'm so gla
 
 04/28/2016
 ---
-Sass meetup, hung out with Alex
+I went to the Sass meetup today. Seeing that it's still going on made me really happy. It was super nice to have it at the Iron Yard too.
+
+04/29/2016
+---
+I went to Cheer Up Charlies today and there was this hilarious guy dancing on his own on tables and throwing around business cards. It was great. After that show I went over to Alex's and we made a cheese board and had wine and watched Somm.
+
+04/30/2016
+---
+Today Alex and I started at a block party for a few shops on the east side. We then ended up hanging out all day and drinking all day bouncing around various happy hours until we ended up at the Townsend and stumbled upon a concert from Levitation fest getting canceled in a super intimate venue.
+
+05/01/2016
+---
+I built a pretty rad blanket fort tonight with Alex. We also finished up some wine and cheese inside the tent while doing Sunday updates.
+
+05/02/2016
+---
+I launched the initial signups for Web Love Weekly today. I got a great response already :) I'm excited to keep this newsletter going.
+
+05/03/2016
+---
+I recorded Toolsday with Chris today! It was great to see him again because its been a little while. Also I think the episode was a pretty good one! I'm so happy to get it started up again.
+
+05/04/2016
+---
+Sent out my first Web Love Weekly newsletter today! I'm pretty happy with how it turned out and happy that I'm doing this :)
+
+05/05/2016
+---
+Cinco de mayo! I got lunch with Alison House today and we went to Frank and talekd about all of the things and it was great :)
+
+05/06/2016
+---
+I had a girls night with Lauren and Jo :) We went to this restaurant called True Food Kitchen and then visited another friend at the restaurant where he worked for some dessert.
+
+05/07/2016
+---
+Today was beautiful! I went on a run and ended up at the Pecan Street Festival. After that, I went to this maker faire nighttime event put on by Argo design and watched a band play static electricity to make music.
+
+05/08/2016
+---
+I did some serious shopping with Jo today (much needed). Bought some sandals, shorts, dresses, and a few other goodies :) We ended up shopping for 5. hours.
