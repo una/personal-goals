@@ -17,17 +17,17 @@ Personal goals made open source for accessibility across computers I use, transp
 ### Things I'll do This Week:
 
 - [ ] Call Mom
-- [ ] Web Love Weekly
-- [ ] Record/Post Toolsday Episode
+- [x] Web Love Weekly
+- [x] Record/Post Toolsday Episode
 - [ ] Fluxible
 - [ ] Record Audio for pa11y dashboard post
 - [ ] Get affadavit
 - [ ] Drive home with car!
 - [ ] Practical Blend Modes Talk
-- [ ] Finish Blog post: Diffee
+- [x] Finish Blog post: Diffee
 - [ ] Get my Vim set up to look nice again
 - [ ] Write the rest of the letters to ppl
-- [ ] Work on getting URL inputs to work for Diffee
+- [x] URL inputs to work for Diffee
 - [ ] Look into using Hoodie for Heiroglyph
 - [ ] Send vim stickers to respondants
 - [ ] Send letters I wrote to people (find stamps)
@@ -37,6 +37,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Paint the final "Programming is Power" piece
 - [ ] Get Alex to teach me how to parse webpages with python
 - [ ] Outline "Welcome to the CSS Circus" Talk
+- [x] Finish "The Year Without Pants: Wordpress & the Future of Work"
 
 ### This Week's Reading List:
 

@@ -479,3 +479,11 @@ Today was beautiful! I went on a run and ended up at the Pecan Street Festival. 
 05/08/2016
 ---
 I did some serious shopping with Jo today (much needed). Bought some sandals, shorts, dresses, and a few other goodies :) We ended up shopping for 5. hours.
+
+05/09/2016
+---
+I went to Bangers for this pugs in togas event put on by the Austin Pug Rescue. I ended up winning a $25 gift card to Bangers and got to catch up with some friends, too.
+
+05/10/2016
+---
+Today on a whim I started playing around with getUserMedia to update CSSgram with camera functionality. So now you can take a photo and have it get filterized!
