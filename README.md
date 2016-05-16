@@ -16,18 +16,15 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ### Things I'll do This Week:
 
-- [ ] Call Mom
-- [x] Web Love Weekly
-- [x] Record/Post Toolsday Episode
+- [ ] Web Love Weekly
+- [ ] Record/Post Toolsday Episode
+- [ ] Face on a Founding Father w/ [getUserMedia](http://blog.teamtreehouse.com/accessing-the-device-camera-with-getusermedia)
+- [ ] Practical Blend Modes Talk
 - [ ] Fluxible
 - [ ] Record Audio for pa11y dashboard post
 - [ ] Get affadavit
-- [ ] Drive home with car!
-- [ ] Practical Blend Modes Talk
-- [x] Finish Blog post: Diffee
 - [ ] Get my Vim set up to look nice again
 - [ ] Write the rest of the letters to ppl
-- [x] URL inputs to work for Diffee
 - [ ] Look into using Hoodie for Heiroglyph
 - [ ] Send vim stickers to respondants
 - [ ] Send letters I wrote to people (find stamps)
@@ -37,11 +34,12 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Paint the final "Programming is Power" piece
 - [ ] Get Alex to teach me how to parse webpages with python
 - [ ] Outline "Welcome to the CSS Circus" Talk
-- [x] Finish "The Year Without Pants: Wordpress & the Future of Work"
+- [ ] Diffee slackbot
+- [ ] Prep for vacation
 
 ### This Week's Reading List:
 
-- [ ] [How Browsers Work](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+- [ ] [CSS Modules By Example](http://andrewhfarmer.com/css-modules-by-example/)
 - [ ] [Dirty Little Front-End Tricks](https://vimeo.com/162334949)
 
 ### Things I'll Do in the Future:
