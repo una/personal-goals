@@ -487,3 +487,51 @@ I went to Bangers for this pugs in togas event put on by the Austin Pug Rescue. 
 05/10/2016
 ---
 Today on a whim I started playing around with getUserMedia to update CSSgram with camera functionality. So now you can take a photo and have it get filterized!
+
+05/11/2016
+---
+I packed for the long drive thats coming up soon today. Alex got me flowers and they're in my room and they make me smile every time I look at them.
+
+05/12/2016
+---
+Alex and I drove to New Orleans today! We checked into our AirBnb and headed right to Frenchman street (3 blocks from the AirBnb). There was so much Jazz outside on the street and we went to this amazing bar called Cane & Table as per a friend's suggestion.
+
+05/13/2016
+---
+I spent today in New Orleans with Alex! It was really awesome to walk around the French Quarter (which is so beautiful!) and we had an amazing dinner a few street car stops away. The best meal of the day, however, was the wine and cheese/charcuterie plate at Bachannal.
+
+05/14/2016
+---
+Alex and I stopped in Chatanooga, TN for dinner during the drive. We ended up at a surprisingly good restaurant called the Flying Squirrel. There was an open canoe shell lighting fixture on the ceiling and the food was pretty great. It was a solid stopover.
+
+05/15/2016
+---
+I finally got to my home with Alex today. We played with the AirBnb's dogs in the morning (there were 2 adorable big dogs and a cat) and then made the final stretch of drive, going along the Blue Ridge Parkway to get there. Needless to say, it was  extremely beautiful.
+
+05/16/2016
+---
+I went to the creamery with Alex today (the only attraction my hometown has). While I didn't see anybody I knew, it was really nice getting ice cream together (for the first time!).
+
+05/17/2016
+---
+I played with Legos in my home today with Alex :) It was so much fun to try to make space ships out of our extra parts and finding items from old Lego sets like my Harry Potter set.
+
+05/18/2016
+---
+I had dinner at Liza and Matt's place today. She asked me to be her maid of honor via a wine bottle that had a poem on it :) I can't wait to plan with her and be there for her!
+
+05/19/2016
+---
+I visited DC with Alex to meet my college roommates (Ally and Vicki) and hang out there for the night. We went to Momofuku and then the Columbia room -- which was an *amazing* bar experience. It was seriously amazing drinks that were paired with little snacks and the last one was a zen garden you would rake yourself.
+
+05/20/2016
+---
+I went with Alex to the Renwick gallery today in DC. It's such a cool gallery full of rad installations. My favorite was stalagmites made out of notecards.
+
+05/21/2016
+---
+Today I flew into Punta Cana! The resort is super pretty! Seriously looks like a palace -- and there is so much fresh fish here. I'm excited for the week.
+
+05/22/2016
+---
+Today is day two in the Dominican Republic with my family. The weather has been *so* nice here :) I played bocchee and did surprisingly well - and also drank rum-infused iced cappuccinos in the pool bar.

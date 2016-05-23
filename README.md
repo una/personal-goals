@@ -10,19 +10,14 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# May 01, 2016
+# May 22, 2016
 
-### This Week's Focus: First Remote Week
+### This Week's Focus: Vacation
 
 ### Things I'll do This Week:
 
-- [ ] Web Love Weekly
-- [ ] Record/Post Toolsday Episode
-- [ ] Face on a Founding Father w/ [getUserMedia](http://blog.teamtreehouse.com/accessing-the-device-camera-with-getusermedia)
-- [ ] Practical Blend Modes Talk
-- [ ] Fluxible
-- [ ] Record Audio for pa11y dashboard post
-- [ ] Get affadavit
+Probably nothing, but here's a nice list for the week after:
+
 - [ ] Get my Vim set up to look nice again
 - [ ] Write the rest of the letters to ppl
 - [ ] Look into using Hoodie for Heiroglyph
@@ -35,12 +30,20 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Get Alex to teach me how to parse webpages with python
 - [ ] Outline "Welcome to the CSS Circus" Talk
 - [ ] Diffee slackbot
-- [ ] Prep for vacation
+- [ ] Face on a Founding Father w/ [getUserMedia](http://blog.teamtreehouse.com/accessing-the-device-camera-with-getusermedia)
+- [ ] Practical Blend Modes Talk
+- [ ] Fluxible
+- [ ] Record Audio for pa11y dashboard post
+- [ ] Finish reading Originals
+- [ ] Finish reading Deep Work
 
 ### This Week's Reading List:
 
 - [ ] [CSS Modules By Example](http://andrewhfarmer.com/css-modules-by-example/)
 - [ ] [Dirty Little Front-End Tricks](https://vimeo.com/162334949)
+- [ ] [Web Performance Tooling - Google I/O 2016
+Google Chrome Developers](https://www.youtube.com/watch?v=iMqi55rcR00&feature=youtu.be)
+- [ ] [Accessibility is My Favorite Part of the Platform - Google I/O 2016](https://www.youtube.com/watch?v=2qjgxH384Nc)
 
 ### Things I'll Do in the Future:
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
