@@ -535,3 +535,19 @@ Today I flew into Punta Cana! The resort is super pretty! Seriously looks like a
 05/22/2016
 ---
 Today is day two in the Dominican Republic with my family. The weather has been *so* nice here :) I played bocchee and did surprisingly well - and also drank rum-infused iced cappuccinos in the pool bar.
+
+05/23/2016
+---
+Today I discovered this drink here where they take a cappuccino, blend it with ice, and I also had them add white rum. It was soooo good! Like an alcoholic frapuccino.
+
+05/24/2016
+---
+My tan is starting to come in nicely! I'm pretty proud of the fact that I haven't gotten a sunburn yet despite it being so sunny here.
+
+05/25/2016
+---
+Okay so keeping with the positive theme, I probably lost about 6 lbs today because I've been sick and unable to eat or drink. So while I spent the day in bed with a stomach bug, I probably didn't need another full day of day drinking.
+
+05/26/2016
+---
+I was well enough to make it to the beach today! #littlewins. I just lay in the shade and watched 3 more videos from Google I/O that I had saved earlier for offline.

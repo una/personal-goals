@@ -128,7 +128,8 @@ None -- I listened to a lot of podcasts and was traveling all month
 
 - [x] Vagabonding -- Rolf Potts
 - [x] The Year Without Pants -- Scott Berkun
-- [ ] Deep Work
+- [x] Deep Work: Rules for Focused Success in a Distracted World -- Cal Newport
+- [ ] Originals: How Non-Conformists Move the World -- Adam Grant
 
 To-Read/Recommendations:
 ---

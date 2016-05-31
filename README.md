@@ -10,9 +10,9 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# May 22, 2016
+# May 29, 2016
 
-### This Week's Focus: Vacation
+### This Week's Focus: CSSDay Talk
 
 ### Things I'll do This Week:
 
@@ -31,19 +31,19 @@ Probably nothing, but here's a nice list for the week after:
 - [ ] Outline "Welcome to the CSS Circus" Talk
 - [ ] Diffee slackbot
 - [ ] Face on a Founding Father w/ [getUserMedia](http://blog.teamtreehouse.com/accessing-the-device-camera-with-getusermedia)
-- [ ] Practical Blend Modes Talk
+- [ ] Finish Practical Blend Modes Talk
 - [ ] Fluxible
 - [ ] Record Audio for pa11y dashboard post
 - [ ] Finish reading Originals
-- [ ] Finish reading Deep Work
+- [ ] Figure out where my wallet is
+- [ ] Call Mom
+- [ ] Web Love Weekly
+- [ ] Record/Post Toolsday Episode
 
 ### This Week's Reading List:
 
 - [ ] [CSS Modules By Example](http://andrewhfarmer.com/css-modules-by-example/)
 - [ ] [Dirty Little Front-End Tricks](https://vimeo.com/162334949)
-- [ ] [Web Performance Tooling - Google I/O 2016
-Google Chrome Developers](https://www.youtube.com/watch?v=iMqi55rcR00&feature=youtu.be)
-- [ ] [Accessibility is My Favorite Part of the Platform - Google I/O 2016](https://www.youtube.com/watch?v=2qjgxH384Nc)
 
 ### Things I'll Do in the Future:
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
