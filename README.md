@@ -10,35 +10,32 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# May 29, 2016
+# June 5, 2016
 
-### This Week's Focus: CSSDay Talk
+### This Week's Focus: Prep for AMS
 
 ### Things I'll do This Week:
 
-Probably nothing, but here's a nice list for the week after:
-
+- [ ] Call Mom
+- [ ] Web Love Weekly
+- [x] Record/Post Toolsday Episode
 - [ ] Get my Vim set up to look nice again
 - [ ] Write the rest of the letters to ppl
 - [ ] Look into using Hoodie for Heiroglyph
 - [ ] Send vim stickers to respondants
-- [ ] Send letters I wrote to people (find stamps)
+- [ ] Send letters I wrote to people (find letters)
 - [ ] Finish blog: 3 Perf Wins for Designers
 - [ ] Re-outline plan to build Heiroglpyh
 - [ ] Start course on building an API
 - [ ] Paint the final "Programming is Power" piece
-- [ ] Get Alex to teach me how to parse webpages with python
 - [ ] Outline "Welcome to the CSS Circus" Talk
 - [ ] Diffee slackbot
 - [ ] Face on a Founding Father w/ [getUserMedia](http://blog.teamtreehouse.com/accessing-the-device-camera-with-getusermedia)
-- [ ] Finish Practical Blend Modes Talk
-- [ ] Fluxible
+- [x] Finish Practical Blend Modes Talk
 - [ ] Record Audio for pa11y dashboard post
-- [ ] Finish reading Originals
-- [ ] Figure out where my wallet is
-- [ ] Call Mom
-- [ ] Web Love Weekly
-- [ ] Record/Post Toolsday Episode
+- [ ] Finish and practice talk for CSS Day
+- [ ] Get my wallet on its way back
+- [ ] Take care of Austin DMV issue (send letter)
 
 ### This Week's Reading List:
 

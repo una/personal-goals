@@ -551,3 +551,47 @@ Okay so keeping with the positive theme, I probably lost about 6 lbs today becau
 05/26/2016
 ---
 I was well enough to make it to the beach today! #littlewins. I just lay in the shade and watched 3 more videos from Google I/O that I had saved earlier for offline.
+
+05/27/2016
+---
+Got a massage today and went out
+
+05/28/2015
+---
+last day in the DR
+
+05/29/2016
+---
+Got back home, Alex got me flowers and got me a key and made my bed
+
+05/30/2016
+---
+Memorial day pool party and cook out -- made caramel cheesecake strawberries with Alex
+
+05/31/2016
+---
+worked at Cenote -- no tax if you pay cash
+
+06/01/2016
+---
+Impromptu date -- went to Isla with Alex. Omgz the chef's seasonal ceviche
+
+06/02/2016
+---
+got a lot of work done -- worked on my talk (almost finished)
+
+06/03/2016
+---
+mozarts and hula hut
+
+06/04/2016
+---
+hackathon
+
+06/05/2016
+---
+hackathon and floating down the river then magnolia cafe
+
+06/06/2016
+---
+Korean hot pot with friends and theen mooji ice cream sandwiches

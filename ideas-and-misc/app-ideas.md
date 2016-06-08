@@ -17,7 +17,7 @@ Things I want to work on, but need to keep out of the main page because its gett
 - [ ] ECard-As-A-Service
 - [ ] Typeface
 - [x] One Happy Moment
-- [ ] IBMHacks (Hackathon)
+- [ ] ~~IBMHacks (Hackathon)~~
 - [x] CSSgram
 - [ ] PostCSS instafilters
 - [x] CSS Image Effects Landing Page
@@ -38,6 +38,6 @@ Things I want to work on, but need to keep out of the main page because its gett
 - [ ] Slack bot that tells the other person(s) the time zone in their location(s) when you say "x:00 my time"
 - [ ] Spotify "local music" add-on or app
 - [ ] "My Year in Travel" using TripIt API
-- [ ] CLI tool for IBM Internal weekly "FED Dates"
+- [ ] ~~CLI tool for IBM Internal weekly "FED Dates"~~
 - [ ] Yeoman generator for podcasts
 - [ ] PostCSS JS-like triggers (like `@action toggle {}`)

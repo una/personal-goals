@@ -121,7 +121,7 @@ None -- I listened to a lot of podcasts and was traveling all month
 
 - [x] How Music Works -- David Byrne
 - [x] You Are a Badass -- Jen Sincero
-- [ ] The Art of Possibility -- Ben Zander and Rosamund Stone Zander
+- [ ] The Art of Possibility -- Ben Zander and Rosamund Stone Zander :sleeping:
 - [x] The Alchemist -- Paulo Coelho
 
 ## May 2016
@@ -129,7 +129,11 @@ None -- I listened to a lot of podcasts and was traveling all month
 - [x] Vagabonding -- Rolf Potts
 - [x] The Year Without Pants -- Scott Berkun
 - [x] Deep Work: Rules for Focused Success in a Distracted World -- Cal Newport
-- [ ] Originals: How Non-Conformists Move the World -- Adam Grant
+
+## June 2016
+
+- [x] Originals: How Non-Conformists Move the World -- Adam Grant
+- [ ] A Brief History of Nearly Everything -- Bill Bryson
 
 To-Read/Recommendations:
 ---
