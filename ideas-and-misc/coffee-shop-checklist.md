@@ -38,3 +38,4 @@ Gotta catch 'em all. (:star: == outstanding)
 - [x] Bee Cave Coffee
 - [x] Cuvee Coffee
 - [x] Two Hands Coffee :star:
+- [x] Café Ruckus

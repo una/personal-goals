@@ -10,37 +10,37 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# June 5, 2016
+# June 12, 2016
 
-### This Week's Focus: Prep for AMS
+### This Week's Focus: AMS & CSSDay
 
 ### Things I'll do This Week:
 
 - [ ] Call Mom
 - [ ] Web Love Weekly
-- [x] Record/Post Toolsday Episode
+- [ ] Record/Post Toolsday Episode
+- [ ] Fix Instagram API key
+- [ ] API Course continuation
+- [ ] Report travel
+- [ ] Send Liza a congrats card for the engagement
+- [ ] Work on Diffee Slackbot
 - [ ] Get my Vim set up to look nice again
-- [ ] Write the rest of the letters to ppl
 - [ ] Look into using Hoodie for Heiroglyph
-- [ ] Send vim stickers to respondants
-- [ ] Send letters I wrote to people (find letters)
 - [ ] Finish blog: 3 Perf Wins for Designers
 - [ ] Re-outline plan to build Heiroglpyh
-- [ ] Start course on building an API
-- [ ] Paint the final "Programming is Power" piece
 - [ ] Outline "Welcome to the CSS Circus" Talk
-- [ ] Diffee slackbot
-- [ ] Face on a Founding Father w/ [getUserMedia](http://blog.teamtreehouse.com/accessing-the-device-camera-with-getusermedia)
-- [x] Finish Practical Blend Modes Talk
-- [ ] Record Audio for pa11y dashboard post
-- [ ] Finish and practice talk for CSS Day
 - [ ] Get my wallet on its way back
-- [ ] Take care of Austin DMV issue (send letter)
+- [ ] Practice Practical Blend Modes talk
+- [ ] Travel to Amsterdam
+- [ ] Give Practical Blend Modes talk
+- [ ] Travel to Porto
+- [ ] Finish Reading "A Brief History of Nearly Everything"
 
 ### This Week's Reading List:
 
 - [ ] [CSS Modules By Example](http://andrewhfarmer.com/css-modules-by-example/)
 - [ ] [Dirty Little Front-End Tricks](https://vimeo.com/162334949)
+- [ ] [40 CS Concepts in Laymans terms](http://carlcheo.com/compsci)
 
 ### Things I'll Do in the Future:
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)

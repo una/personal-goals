@@ -52,7 +52,7 @@ My speech script for G&TT got approved with good feedback today -- so that's a r
 
 01/14/2016
 ---
-I saw Alex again today! We went to an arcade called Pinballz and played DDR and it was *so* awesomely nostalgic. Ahh I had so much fun! And even embarrassingly somehow remembered a few of the moves to one of the songs (Captain Jack).
+I saw Alex (P) again today! We went to an arcade called Pinballz and played DDR and it was *so* awesomely nostalgic. Ahh I had so much fun! And even embarrassingly somehow remembered a few of the moves to one of the songs (Captain Jack).
 
 01/15/2016
 ---
@@ -64,7 +64,7 @@ Tonight, an actor friend of mine and his friends put on a play reading/release p
 
 01/17/2016
 ---
-I went mini golfing with Alex today at Peter Pan. It was really cute and then we got some Tex-Mex and hung out on my porch/at my place for the evening. The sun set was pretty awesome today too.
+I went mini golfing with Alex (P) today at Peter Pan. It was really cute and then we got some Tex-Mex and hung out on my porch/at my place for the evening. The sun set was pretty awesome today too.
 
 01/18/2016
 ---
@@ -104,7 +104,7 @@ My first day back was crazy! I woke up to Smashing Magazine having shared one of
 
 01/27/2016
 ---
-Alex randomly messaged me about this showing for Kasita -- a new living concept in Austin. It was cool to see and we walked for a while / hung out for a bit after.
+Alex (P) randomly messaged me about this showing for Kasita -- a new living concept in Austin. It was cool to see and we walked for a while / hung out for a bit after.
 
 01/28/2016
 ---
@@ -160,7 +160,7 @@ We recorded Toolsday today and it turned out to be a really fun episode about st
 
 02/10/2016
 ---
-Went to Lucky Robot on South Lamar for sushi with Alex today. It was really good :) We went to Half Step afterward.
+Went to Lucky Robot on South Lamar for sushi with Alex (P) today. It was really good :) We went to Half Step afterward.
 
 02/11/2016
 ---
@@ -188,7 +188,7 @@ Hung out in Brew and Brew today until late to work on the SXSW app. I ran into s
 
 02/17/2016
 ---
-Stayed after work with Alex today to work on the SXSW jukebox app. We finally pulled some of the back and front end together which is always an exciting moment :)
+Stayed after work with Alex (H) today to work on the SXSW jukebox app. We finally pulled some of the back and front end together which is always an exciting moment :)
 
 02/18/2016
 ---
@@ -554,44 +554,68 @@ I was well enough to make it to the beach today! #littlewins. I just lay in the 
 
 05/27/2016
 ---
-Got a massage today and went out
+I still felt kind of sick today, and I got a massage to help with some aching from laying in bed all day. By night, I felt well enough to finally go out and dance, though!
 
 05/28/2015
 ---
-last day in the DR
+It's my last day in the Dominican Republic. I'm still feeling a little sick but the weather is so nice and I'm going to miss the little hummingbird that has a nest (with TWO eggs now!) near our beach spot.
 
 05/29/2016
 ---
-Got back home, Alex got me flowers and got me a key and made my bed
+I finally came back home to Austin today. The flights were rough, as I realized I'd left my wallet, keys, and ID in the Punta Cana Airport, but Alex got me flowers and got me a spare key and made my bed for when I got back. It was super super nice of him!
 
 05/30/2016
 ---
-Memorial day pool party and cook out -- made caramel cheesecake strawberries with Alex
+Alex hosted a Memorial day pool party at our apartment and had a big cook out. He made this absolutely *incredible* short rib (seriously, it was the best I've ever had, and I watched how it took him literally all day to make). We also made caramel creme-brule cheesecake strawberries together :)
 
 05/31/2016
 ---
-worked at Cenote -- no tax if you pay cash
+I worked at Cenote today, and learned that there's a discount for paying in cash instead of card. No tax!
 
 06/01/2016
 ---
-Impromptu date -- went to Isla with Alex. Omgz the chef's seasonal ceviche
+Went on an impromptu date today with Alex. We went to Isla and OMG the chef's seasonal ceviche is amazing. Amazing. I love their ceviche and their cocktails and I want to eat ceviche forever.
 
 06/02/2016
 ---
-got a lot of work done -- worked on my talk (almost finished)
+I got a lot of work done today. It was just a production day, but I made a lot of progress on my talk and I almost finished it!
 
 06/03/2016
 ---
-mozarts and hula hut
+Because it's so nice out, but also I have to finish this talk, I went to Mozarts with Alex after work. We then got dinner at Hula Hut when it started POURING this ridiculous torrential downpour. But we got home and instead of going out, stayed in to catch up on Game of Thrones :)
 
 06/04/2016
 ---
-hackathon
+Hack for Change was today! It's been a lot of fun and I'm trying to only do JavaScript/ avoid UI engineering to try something new. I've been successful so far.
 
 06/05/2016
 ---
-hackathon and floating down the river then magnolia cafe
+At the hackathon, Alex and I made a friend David who was on our team, who invited us to come with him to go floating down the San Marcos river. The weather was perfect! Insanely perfect!
 
 06/06/2016
 ---
-Korean hot pot with friends and theen mooji ice cream sandwiches
+Today I ate way too much. I got Korean hot pot with a bunch of friends, some of whom I hadn't seen in much too long, and then we all went to Mooji for ice cream sandwiches. The seats were swings!
+
+06/07/2016
+---
+I worked pretty late today with Alex for company. It was nice to be able to build and have someone just sit next to me in the meantime. I started building an app using getUserMedia and blend modes.
+
+06/08/2016
+---
+Today was so, so productive at work, and I finally saw some real metrics behind what I've been doing to improve performance and accessibility. It was pretty rad.
+
+06/09/2016
+---
+Alex and I made dinner today (avocado pesto zucchini pasta with shrimp). We used the basil plants we've been growing for the pesto :)
+
+06/10/2016
+---
+I did a little bit of hand lettering today (which I hadn't done in a WHILE). That was super nice, especially taking a moment to sit down and actually paint again.
+
+06/11/2016
+---
+I got brunch with a bunch of my friends today at East Side Cafe. I had never been there before but *loved* it (and the blue plate special was eggs Benedict on a lox+shrimp cake!). It was so good to see everyone before heading off to Amsterdam.
+
+06/12/2016
+---
+I woke up early today, went to the gym, then hung around West Austin for a bit. I ended up in Paper Source admiring all of the cards and cute trinkets/gifts/papers for way too long.
