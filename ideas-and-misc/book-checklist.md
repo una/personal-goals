@@ -133,7 +133,8 @@ None -- I listened to a lot of podcasts and was traveling all month
 ## June 2016
 
 - [x] Originals: How Non-Conformists Move the World -- Adam Grant
-- [ ] A Brief History of Nearly Everything -- Bill Bryson
+- [x] A Brief History of Nearly Everything -- Bill Bryson
+- [x] One More Thing -- B.J. Novak
 
 To-Read/Recommendations:
 ---

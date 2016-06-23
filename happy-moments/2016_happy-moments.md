@@ -371,8 +371,8 @@ Today we had our team retrospective -- we've been super productive lately so it 
 Today was great. I hung out with Alex all day, first at an 80's-themed pool party and then dinner at Laurens. The  -- sun set over her lake, bought chartreuse and made a blanket fort
 
 04/03/2016
----
-Zilker Garden Festival
+---Z
+Today was the Zilker Garden Festival. Though I didn't buy any flowers, I biked there with Alex and we explored the Botanical Gardene grounds. My favorite was the Japanese zen garden.
 
 04/04/2016
 ---
@@ -382,11 +382,11 @@ after speaker dinner drinks at this really cool bar called the Monkey Bar as a n
 ---
 The SmashingConf after party was at the aquarium! It was a lot of fun! The otters were out and super playful, we got to pet sting rays, and the jellyfish were pretty mesmerizing. Monica also came!
 
-I lost all of this data when I forgot to move happy-moments to my new computer - check other system!
+-- I lost all of this data when I forgot to move happy-moments to my new computer --
 
 04/15/2016
 ---
-Today was my last day at IBM -- happy hour
+Today was my last day at IBM. We went to a happy hour at Dogwood and Alex got me a little orchid which he left on my desk, for my new desk "wherever that is."
 
 04/16/2016
 ---
@@ -466,7 +466,7 @@ Sent out my first Web Love Weekly newsletter today! I'm pretty happy with how it
 
 05/05/2016
 ---
-Cinco de mayo! I got lunch with Alison House today and we went to Frank and talekd about all of the things and it was great :)
+Cinco de mayo! I got lunch with Alison House today and we went to Frank and talked about all of the things and it was great :)
 
 05/06/2016
 ---
@@ -619,3 +619,27 @@ I got brunch with a bunch of my friends today at East Side Cafe. I had never bee
 06/12/2016
 ---
 I woke up early today, went to the gym, then hung around West Austin for a bit. I ended up in Paper Source admiring all of the cards and cute trinkets/gifts/papers for way too long.
+
+06/13/2016
+---
+On the way to get mail, I ran into Alex in the elevator and he went with me. Turns out our cotton bureau shirts came in -- the ones with party parrot on them. We put them on when we got to my place and imitated the parrot. It's all captures on video. A beautiful video.
+
+06/14/2016
+---
+I'm headed to Amsterdam today with Alex! I worked throughout the day and on the airplane for all of the domestic legs of the flight. Felt pretty productive and like I was contributing a lot throughout the day.
+
+06/15/2016
+---
+Today Alex and I arrived in Amsterdam and it was also the day of the speaker dinner. Dinner was at this Belgian place that provided wine pairings with the tapas-style food. SO MUCH WINE was drank. They served 7 glasses with the meal, plus we got Belgian beer beforehand.
+
+06/16/2016
+---
+Today was the first day of the CSS Day conference!
+
+06/17/2016
+---
+After the conference (I did my Practical Blend Modes talk today for the first time), I went to a really rad speakeasy called Door 74 with Alex and 2 other people we met at the conference. It was *such* a great bar in Amsterdam, and the drinks were super unique and came in these beautiful containers (tiki glasses with red currant, skulls, one drink was out of a horn). We also went to a pretty nice bar after that one called Tales & Spirits across town.
+
+06/18/2016
+---
+Alex and I went to the flower market today (our last day in Amsterdam). We woke up way too late (oops) and ended up having a lunch that consisted of free cheese samples from all of the cheese stores :P I'm amazed at the variety of flowers here!
