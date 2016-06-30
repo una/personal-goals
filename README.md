@@ -29,8 +29,8 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Re-outline plan to build Heiroglpyh
 - [ ] Outline "Welcome to the CSS Circus" Talk
 - [ ] Get my wallet on its way back
-- [ ] Enjoy Porto and Duoro
-- [ ] Celebrate Sao Joao in Porto!
+- [ ] Enjoy Porto and Douro
+- [ ] Celebrate Sao João in Porto!
 
 ### This Week's Reading List:
 
