@@ -10,9 +10,9 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# June 19, 2016
+# July 3, 2016
 
-### This Week's Focus: Porto
+### This Week's Focus: Build
 
 ### Things I'll do This Week:
 
@@ -27,16 +27,14 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Look into using Hoodie for Heiroglyph
 - [ ] Finish blog: 3 Perf Wins for Designers
 - [ ] Re-outline plan to build Heiroglpyh
-- [ ] Outline "Welcome to the CSS Circus" Talk
+- [ ] Outline "Welcome to the CSS Circus" Talk // CSS Magics
 - [ ] Get my wallet on its way back
-- [ ] Enjoy Porto and Duoro
-- [ ] Celebrate Sao Joao in Porto!
 
 ### This Week's Reading List:
 
 - [ ] [CSS Modules By Example](http://andrewhfarmer.com/css-modules-by-example/)
 - [ ] [Dirty Little Front-End Tricks](https://vimeo.com/162334949)
-- [ ] [40 CS Concepts in Laymans terms](http://carlcheo.com/compsci)
+- [x] [40 CS Concepts in Laymans terms](http://carlcheo.com/compsci)
 - [ ] [Totally Tooling Tips: Service Workers](https://www.youtube.com/watch?v=IIRj8DftkqE)
 
 

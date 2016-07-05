@@ -643,3 +643,23 @@ After the conference (I did my Practical Blend Modes talk today for the first ti
 06/18/2016
 ---
 Alex and I went to the flower market today (our last day in Amsterdam). We woke up way too late (oops) and ended up having a lunch that consisted of free cheese samples from all of the cheese stores :P I'm amazed at the variety of flowers here!
+
+06/19/2016
+---
+Today is Open House Porto -- an event where you can walk through private (non touristy) buildings with their architects and learn about their histories. I did this event and even met a friend with Alex. We did a ton of walking and ended our night with dinner at a piadina restaurant that had an olive tree table!
+
+06/20/2016
+---
+I had my first pastel de Nata today at the Café Magestic! Then, Alex and I went to the top of the Clergios tower/explored the church. Afterward, we went to an awesome park in front of it where we sat on the grass and drank "shaken" coffee out of champagne flutes.
+
+06/21/2016
+---
+I went to the beach today with Alex in Matoshinos. It was super nice to relax there for a bit, even though the water was freeeezing. Later in the night, we made dinner and stayed in drinking green wine from the market downstairs and watching Silicon Valley.
+
+06/22/2016
+---
+Today Alex and I sort of stumbled upon Sé Porto (Cathedral) and ended up on the top of the Luis bridge. The views were honestly breathtaking (and so was climbing all of those stairs :P) Worth it!
+
+06/23/2016
+---
+Sao Joao!
