@@ -662,4 +662,4 @@ Today Alex and I sort of stumbled upon Sé Porto (Cathedral) and ended up on the
 
 06/23/2016
 ---
-Sao João!
+São João!

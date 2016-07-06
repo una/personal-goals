@@ -30,7 +30,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Outline "Welcome to the CSS Circus" Talk
 - [ ] Get my wallet on its way back
 - [ ] Enjoy Porto and Douro
-- [ ] Celebrate Sao João in Porto!
+- [ ] Celebrate São João in Porto!
 
 ### This Week's Reading List:
 
