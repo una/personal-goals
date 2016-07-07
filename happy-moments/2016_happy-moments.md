@@ -662,48 +662,56 @@ Today Alex and I sort of stumbled upon Sé Porto (Cathedral) and ended up on the
 
 06/23/2016
 ---
-São João!
+Today was Sao João! It's an insane holiday and definitely my new favorite. Alex and I got little plastic hammers to bang on everyone's heads and ate grilled sardines and watched really exceptional fireworks. The atmosphere was electric, and I even helped a group of people launch a lantern! We then danced outside at various dance parties and drank until 5:30 AM. Seriously. It was amazing.
 
 06/24/2016
 ---
+Tonight, Alex and I stumbled upon an *amazing* dining spot called Reitoria near the Galeria de Paris. We split a bottle of wine and had the most beautiful meat and cheese plate I've ever seen.
 
 06/25/2016
 ---
+I went to Aveiro today with Alex! It's such a cute little town. They call it the Venice of Portugal because of the canals, but it's much much smaller. We toured around in one of the gondola-like boats and then watched most of a soccer game in an outdoor viewing area with a bunch of other people while eating Port-flavored ice cream (with Port jam on top!),
 
 06/26/2016
 ---
+Alex and I rode a train into the Douro Valley region today to get to the vineyard we were staying at. WOW. It is BEAUTIFUL here. Honestly, I'm so so so stunned by the landscape, and the vineyard (Quinta De La Rosa), which had a pool and a few trails to walk, was perfect.
 
 06/27/2016
 ---
+Tonight Alex and I finally got into the restaurant called Puro (apparently its new in Porto and also weirdly hard to get into). Anyway -- it was *AMAZE*. The best meal I've had here, and I've had a lot of great meals. We had wild boar for two for dinner and I still don't understand how it was so tender and crunchy at the same time. The potatoes on the side were super homey and great, too :)
 
 06/28/2016
 ---
+There's a little tea shop on Rua das Flores, right by where we're staying in Porto, and we keep trying to go but never find it open. Today, it was finally open, and it was *so* yummy! There was an upstairs part which used to be a jewelry store, so Alex and I explored a bit up there and found an old sketchbook full of jewelry sketches.
 
 06/29/2016
 ---
+Today Alex and I woke up early(er than usual) to rent bike and bike to the beach. We ended up biking 1.5 hours away to this chapel on the beach. I collected stones, Alex took some stabilized videos, and we both got incredibly sunburnt.
 
 06/30/2016
 ---
+We walked over to the Cristal Palace today and hung out in the gardens for a while watching two Mama peacocks and about 9 baby chicklet peacocks. Afterward we went to the Bolhao market and got some souvenirs and fruit (I also got fuzzy almonds). It's a super cool place.
 
 07/01/2016
 ---
+It's our last day in Porto! Alex and I did a tour of the monestary up on the hill (amazing view!) and got sangria before going on a boat tour. It was a good last day before packing up for Lisbon in the morning.
 
 07/02/2016
 ---
-Lisbon
+Lisbon! We had one day to basically see all of Lisbon and we did our best. Alex and I wandered around a lot, and climbed a lot of hills, and did a walking tour through one of the neighborhoods. Then, we got dinner at this really cute wine bar where the entire restaurant was singing along to one of the customers taking the mic.
 
 07/03/2016
 ---
-Morning in the pastry shop -- got way too much food -- toasts & a croissant each. ended up eating the croissants on the plane
+This morning we stopped by a pastry shop that was a 10-minute walk from our AirBnB. We got way too much food (we each got a toast and a pastry -- one cream, one chocolate). But no regrets, because we ate the pastries on the plane and finished off our chocolate with some Port wine we snuck onboard.
 
 07/04/2016
 ---
-4th of July house
+Happy 4th of July! Early today Alex and I drove out to a house his friends rented out for the long weekend. I tried to slackline and we had a water balloon fight and hung out in the river and set off sparklers and fireworks. It was perfect.
 
 07/05/2016
 ---
-Back to working. Found the "your cheese credentials" paper
+Ahh it feels like I'm finally back to reality (although the past 3 weeks have been reality too, it's just a different feeling). I'm Back to working and it feels good to be productive. I also found a funny note from Alex while I was unpacking -- "Your cheese credentials". Nobody else reading this will understand that but I will :P
 
 07/06/2016
 ---
-Working in a starbucks, things are normal
+I worked in a Starbucks today and did some grocery shopping at Whole Foods. Seems like a pretty normal day -- it was, but it was really enjoyable. I got a bunch of fresh food and meats and vegetables to cook this week. I'm happy to be cooking again in my kitchen after several weeks of mostly eating out.
