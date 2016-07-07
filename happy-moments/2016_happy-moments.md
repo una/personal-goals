@@ -663,3 +663,47 @@ Today Alex and I sort of stumbled upon Sé Porto (Cathedral) and ended up on the
 06/23/2016
 ---
 São João!
+
+06/24/2016
+---
+
+06/25/2016
+---
+
+06/26/2016
+---
+
+06/27/2016
+---
+
+06/28/2016
+---
+
+06/29/2016
+---
+
+06/30/2016
+---
+
+07/01/2016
+---
+
+07/02/2016
+---
+Lisbon
+
+07/03/2016
+---
+Morning in the pastry shop -- got way too much food -- toasts & a croissant each. ended up eating the croissants on the plane
+
+07/04/2016
+---
+4th of July house
+
+07/05/2016
+---
+Back to working. Found the "your cheese credentials" paper
+
+07/06/2016
+---
+Working in a starbucks, things are normal
