@@ -371,12 +371,12 @@ Today we had our team retrospective -- we've been super productive lately so it 
 Today was great. I hung out with Alex all day, first at an 80's-themed pool party and then dinner at Laurens. The  -- sun set over her lake, bought chartreuse and made a blanket fort
 
 04/03/2016
----Z
-Today was the Zilker Garden Festival. Though I didn't buy any flowers, I biked there with Alex and we explored the Botanical Gardene grounds. My favorite was the Japanese zen garden.
+---
+Today was the Zilker Garden Festival. Though I didn't buy any flowers, I biked there with Alex and we explored the Botanical Garden grounds. My favorite was the Japanese zen garden.
 
 04/04/2016
 ---
-after speaker dinner drinks at this really cool bar called the Monkey Bar as a nickname in SF with Jina  Vitaly and Harry. Bought Pez
+after speaker dinner drinks at this really cool bar called the Monkey Bar as a nickname in SF with Jina, Vitaly, and Harry. Bought Pez
 
 04/05/2016
 ---

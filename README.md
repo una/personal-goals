@@ -10,32 +10,38 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# July 6, 2016
+# July 10, 2016
 
-### This Week's Focus: Porto
+### This Week's Focus: ES6 & Build Caniuse Component
 
 ### Things I'll do This Week:
 
 - [ ] Call Mom
-- [ ] Web Love Weekly
 - [ ] Record/Post Toolsday Episode
+- [ ] Record Audio for "3 Easy Perf Wins for Designers"
+- [ ] Work on CanIuse Web Component
+- [ ] Continue API Course -- do next challenge part
+- [ ] Finish [ES6 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
+- [ ] Read SVG Accessibility post
+- [ ] Smashing Wallpaper for August
+- [ ] List of things to sell -- organize this (Macbook?)
+- [ ] Web Love Weekly <-- Idk if this is going to continue?
 - [ ] Order Web Love / Toolsday stickers
 - [ ] Fix Instagram API key
-- [ ] API Course continuation
 - [ ] Work on Diffee Slackbot
 - [ ] Get my Vim set up to look nice again
 - [ ] Look into using Hoodie for Heiroglyph
-- [ ] Finish blog: 3 Perf Wins for Designers
 - [ ] Re-outline plan to build Heiroglpyh
 - [ ] Outline "Welcome to the CSS Circus" Talk // CSS Magics
 - [ ] Get my wallet on its way back
+- [ ] Outline post: 3 Years of Design Systems
 
 ### This Week's Reading List:
 
 - [ ] [CSS Modules By Example](http://andrewhfarmer.com/css-modules-by-example/)
-- [ ] [Dirty Little Front-End Tricks](https://vimeo.com/162334949)
-- [x] [40 CS Concepts in Laymans terms](http://carlcheo.com/compsci)
-- [x] [Totally Tooling Tips: Service Workers](https://www.youtube.com/watch?v=IIRj8DftkqE)
+- [ ] [ES6 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
+- [ ] [Jeremy Keith on <a> at HTML Day](https://vimeo.com/172794545)
+- [ ] [Accessible SVGs](https://css-tricks.com/accessible-svgs/)
 
 ### Things I'll Do in the Future:
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
