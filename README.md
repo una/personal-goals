@@ -10,19 +10,20 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# July 10, 2016
+# July 17, 2016
 
-### This Week's Focus: ES6 & Build Caniuse Component
+### This Week's Focus: Caniuse Component, Birthday
 
 ### Things I'll do This Week:
 
 - [ ] Call Mom
+- [ ] Web Love Weekly
 - [ ] Record/Post Toolsday Episode
-- [ ] Record Audio for "3 Easy Perf Wins for Designers"
-- [ ] Work on CanIuse Web Component
+- [ ] Set up new droplet to host unakravets.com
+- [ ] CSSGram download bug
+- [ ] SVGOMG solid background feature
 - [ ] Continue API Course -- do next challenge part
 - [ ] Finish [ES6 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
-- [ ] Read SVG Accessibility post
 - [ ] Smashing Wallpaper for August
 - [ ] List of things to sell -- organize this (Macbook?)
 - [ ] Web Love Weekly <-- Idk if this is going to continue?
@@ -41,7 +42,6 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] [CSS Modules By Example](http://andrewhfarmer.com/css-modules-by-example/)
 - [ ] [ES6 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
 - [ ] [Jeremy Keith on <a> at HTML Day](https://vimeo.com/172794545)
-- [ ] [Accessible SVGs](https://css-tricks.com/accessible-svgs/)
 
 ### Things I'll Do in the Future:
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)

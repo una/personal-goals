@@ -715,3 +715,55 @@ Ahh it feels like I'm finally back to reality (although the past 3 weeks have be
 07/06/2016
 ---
 I worked in a Starbucks today and did some grocery shopping at Whole Foods. Seems like a pretty normal day -- it was, but it was really enjoyable. I got a bunch of fresh food and meats and vegetables to cook this week. I'm happy to be cooking again in my kitchen after several weeks of mostly eating out.
+
+07/07/2016
+---
+I went grocery shopping today (finally!). It was way more fun than it should have been because I hadn't gone in so long. I even picked up my favorite rice-free sushi from Whole Foods, and cant wait to cook!
+
+07/08/2016
+---
+I stayed in tonight (woo! Friday!) but got some work done instead (specifically, going through that ES6 crash-course/refresher and building a Reveal Caniuse extension-type-thing). I also bought and filled out a 2016-17 planner with some flight infos!
+
+07/09/2016
+---
+Tonight I saw a Master Pancake version of Raiders of the Lost Arc with a few friends at the Alamo Drafthouse (this is a comedy group that uses a movie as its basis). It was really funny and I got a tequila-infused chocolate milkshake (it was great, I swear), and then we went out dancing on 6th street.
+
+07/10/2016
+---
+Today I got brunch at Geraldine's with Alex and afterward went down the street to Bar 96 to watch the Euro cup final (Portugal v. France). Portugal won! Yay! I was rooting for them since we were just in Portugal and missing it a ton already.
+
+07/11/2016
+---
+I planned to do a little Pokewalk outside of downtown to get some pokemon today. Alex ended up picking me up and we both went to Mueller park where we hung out for 2 hours to catch some, and I reached level 5! It was so nice of him to hang out with me that long while I played despite him having 0 interest in Pokemon.
+
+07/12/2016
+---
+PokemonGO stops opened in Austin! Today was such a fun day! I ended up walking all the way home through north Austin, the University of Texas, Burnet Road, and ended up at the Capitol, playing Pokemon with a bunch of players (and my friend who came to meet me) where lures were set up all night!
+
+07/13/2016
+---
+So now that there are Pokemon stops in downtown, its been super easy to power up! I took a walk during lunch to collect Pokemon. It felt great :)
+
+07/14/2016
+---
+Tonight I went to Blues on the Green (finally!) with Alex and some of his friends. This event is HUGE -- its crazy how many people attend. We got gyros and listened to music and hung out in Zilker park.
+
+07/15/2016
+---
+Today I took the train up to the Domain to hang out for Jefferson's going away happy hour at Dogwood. We got drinks, then had dinner at Gloria's, and another group went to go see the movie Finding Dory. It was a fun Friday.
+
+07/16/2016
+---
+I went on an extended Pokemon hunt today with Troy! I walked to Auditorium Shores and we hung out there for a while before moving on. It was so hot I jumped in the fountain (yes, an outdoor fountain full of children), and regret nothing.
+
+07/17/2016
+---
+I went on another winery tour today for my birthday with a group of friends! We did brunch first and then visited 3 wineries. One of the wineries had peach and also jalepeño wine. It was really.. interesting. And they had the people celebrating birthdays take a shot of all of the (6) wines we tasted there (which was surprisingly good).
+
+07/18/2016
+---
+Today a bunch of us got together for Lauren's house closing happy-hour-type-thing. Afterward I got gellato with Brian and Troy and we went down to auditorium shores to hunt for some charmanders.
+
+07/19/2016
+---
+What a glorious day! I found my keys! They are not lost! And I ate or Koriente for the first time. It's really yummy :) I got a meal there which I took to the Capital to "Poke Picnic" at.

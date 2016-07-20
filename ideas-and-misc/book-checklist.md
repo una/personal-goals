@@ -136,6 +136,10 @@ None -- I listened to a lot of podcasts and was traveling all month
 - [x] A Brief History of Nearly Everything -- Bill Bryson
 - [x] One More Thing -- B.J. Novak
 
+## July 2016
+
+- [ ] Hackers
+
 To-Read/Recommendations:
 ---
 - [ ] [Red Rising](http://www.audible.com/pd/Sci-Fi-Fantasy/Red-Rising-Audiobook/B00I2VWW5U/ref=a_search_c4_1_1_srImg?qid=1443799691&sr=1-1) -- Pierce Brown // via TJ
