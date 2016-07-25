@@ -767,3 +767,23 @@ Today a bunch of us got together for Lauren's house closing happy-hour-type-thin
 07/19/2016
 ---
 What a glorious day! I found my keys! They are not lost! And I ate or Koriente for the first time. It's really yummy :) I got a meal there which I took to the Capital to "Poke Picnic" at.
+
+07/20/2016
+---
+Since I'm flying out tomorrow to head to Baltimore, I celebrated my birthday today with Alex. He made me a really fantastic dinner -- scallop salad and veal with brussels sprouts. AND he made me a chocolate-espresso cheesecake as my bday cake. AND he sponsored an emoji on my behalf AND we went to this rad new speakeasy called the Floppy Disc Repair Company.
+
+07/21/2016
+---
+I flew to Baltimore today and got to see my family and my pupper Lucy again. Shes always so excited when she sees me it makes me really happy.
+
+07/22/2016
+---
+I'm 24 today! Ahh crazy. I got a lot of love from friends both in person and online. That meant a lot to me :)
+
+07/23/2016
+---
+Today was full of so much love! The day started with my DC friends driving up to get brunch with me and my high school friends. Then, my family came over for a birthday dinner and afterward I went out with my Russian group of friends in Baltimore city. It was a lot of drinking and a lot of love. All in all, great birthday.
+
+07/24/2016
+---
+I went wedding dress shopping with my best friend Liza today! It's so crazy that she will be a married lady soon and I'm going to be her maid of honor at her wedding. She looked really amazing in a few of the dresses and I really think she has already found a great one.
