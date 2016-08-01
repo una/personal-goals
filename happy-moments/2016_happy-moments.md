@@ -787,3 +787,32 @@ Today was full of so much love! The day started with my DC friends driving up to
 07/24/2016
 ---
 I went wedding dress shopping with my best friend Liza today! It's so crazy that she will be a married lady soon and I'm going to be her maid of honor at her wedding. She looked really amazing in a few of the dresses and I really think she has already found a great one.
+
+07/25/2016
+---
+I worked from home next to my pup Lucy today. If you sit in the right place, she will come snuggle next to you and pass out and snore just a tiny bit. It's so cute.
+
+07/26/2016
+---
+It has been so long since I had good sushi, so my Mom and I got some sushi at a local place where the waiters literally know my family. It was yummy and made me super happy :)
+
+07/27/2016
+---
+My Mom had a buy one/ get one free entree at Bonefish grill so we decided to go together. I love love love fish and they do some pretty great grilled fish dishes. I got salmon and blackberry sangria.
+
+07/28/2016
+---
+I got crabs today with my Mom at an adorable crab shack in my hometown. The cream of crab soup had chunks of crab meat in it and was SO GOOD. And the crabs were great too :) I love Baltimore during crab season.
+
+07/29/2016
+---
+Liza had people over for a dinner party tonight. I made brussels sprouts with melted Parmesan cheese, which went over very well :) It was also just a great time with a great crew. Perfect end of my Baltimore trip.
+
+07/30/2016
+---
+Today I began my journey to Argentina! And I got upgrades on both of my flights today :) Even though they were both delayed, sitting in first class with unlimited wine is the best way to sit on a delayed plane.
+
+07/31/2016
+---
+I finally arrived in Buenos Aires today! And my luggage arrived to :) Tonight I ended up meeting up with a friend of a friend at this big college party the Hillel at the University of Buenos Aires threw, with a ton of student art, poetry, a live band, and live mural painting. I had a lot of Fernet and talked to a bunch of people.
+
