@@ -10,37 +10,37 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# July 31, 2016
+# August 7, 2016
 
-### This Week's Focus: CSSConf AR Prep
+### This Week's Focus: DO Shark Week
 
 ### Things I'll do This Week:
 
 - [ ] Call Mom
+- [ ] Web Love Weekly, send email about it being monthly
 - [ ] Record/Post Toolsday Episode
-- [ ] Smashing Wallpaper for September
-- [ ] Web Love Weekly <-- Decide & email if this is going to continue?
-- [ ] Order Web Love / Toolsday stickers
-- [ ] Move unakravets.com etc to DO droplet
-- [ ] Work on Diffee Slackbot
-- [ ] Look into using Hoodie for Heiroglyph
-- [ ] Re-outline plan to build Heiroglpyh
-- [ ] Outline "Welcome to the CSS Circus" Talk // CSS Magics
-- [ ] Get my wallet things back
+- [ ] Outline talk: Working with Images (where to give it?)
+- [ ] Look up trains from Zurich to Freiburg
+- [ ] Send emails in outbox
+- [ ] DO Shark Week
+- [ ] Order Web Love / Toolsday stickers  [backlog]
+- [ ] Move unakravets.com etc to DO droplet [backlog]
+- [ ] Work on Diffee Slackbot [backlog]
+- [ ] Look into using Hoodie for Heiroglyph [backlog]
 - [ ] Outline post: 3 Years of Design Systems
-- [ ] Prep talk for CSS Conf AR
-- [ ] CanIuse Component, get it ready for prod
+- [ ] Outline post: Gif Optimization
+- [ ] Write post about digitalocean.com
+- [ ] CanIUse Component, get it ready for prod
 - [ ] CSSGram download bug
-- [ ] Continue API Course -- do next challenge part
 - [ ] ES6 Course -- finish first third
-- [ ] Give talk at CSS Conf AR
 
 ### This Week's Reading List:
 
 - [ ] [CSS Modules By Example](http://andrewhfarmer.com/css-modules-by-example/)
 - [ ] [ES6 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
 - [ ] [Jeremy Keith on <a> at HTML Day](https://vimeo.com/172794545)
-- [ ] ES6.io course
+- [ ] ES6.io course by Wes Bos
+- [ ] Practical SVG by Chris Coyier
 
 ### Things I'll Do in the Future:
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)

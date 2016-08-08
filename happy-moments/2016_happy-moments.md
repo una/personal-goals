@@ -816,3 +816,30 @@ Today I began my journey to Argentina! And I got upgrades on both of my flights 
 ---
 I finally arrived in Buenos Aires today! And my luggage arrived to :) Tonight I ended up meeting up with a friend of a friend at this big college party the Hillel at the University of Buenos Aires threw, with a ton of student art, poetry, a live band, and live mural painting. I had a lot of Fernet and talked to a bunch of people.
 
+08/01/2016
+---
+Today a few of the speakers who are local and organizers got together for dinner. OH my gosh. We went to a place with large plates intended for sharing and sure got a filling serving. So much meat. It was *so* good too. We stayed till midnight chatting and a few of them walked me home.
+
+08/02/2016
+---
+I co-worked from this really cool agency called Aerolab today. They had great wifi, a cute space, and everyone was *so* nice! I got a tortilla for lunch and played ping pong with a few of the people here :) We got a lot of progress done on the website rebuild as well.
+
+08/03/2016
+---
+I got to the speaker hotel today (called ILUM Hotel) and OMG is it beautiful. There's a water feature and good breakfast and floor-to-ceiling windows and they changed the bed out twice (one for the morning look and one for the evening!). I even took a bath today with jets!
+
+08/04/2016
+---
+Today I had dinner by myself in Palermo, but it was *so* nice. I tried to order a salad to be healthy and got a heaping plate of chicken and dressing. It's fine, it was amazing. I also got the kumquat cocktail they had on special (I don't think I've ever had kumquats before to be honest). As soon as dinner came, someone set up two PokemonGO lures I was sitting in between. It was magical.
+
+08/05/2016
+---
+I took a day off and went on a day trip to Uruguay (to a little town called Colonia) today. It was so nice! And I met a really rad woman on my tour who was headed to the Rio Olympics afterward. We had a lunch of local cheese and wine in this little cellar restaurant (we had a little too much Malbec for sure).
+
+08/06/2016
+---
+Today Harry and I walked around all over the Recoleta area. We went to this really good lunch place, then a famous, and beautiful cemetary, then saw this metal flower statue. Speaker dinner for CSS Conf AR was also tonight and it was at this asado place -- which meant meat, meat, and more meat. OMG it was so good! And there was this pumpkin stuff too that was on pointe!
+
+08/07/2016
+---
+I gave the first talk at the very first CSS Conf in South America today! The conference was great and the talk went really well and I'm so happy they're building up the community down there. The organizers are amazing. Its been a great day!
