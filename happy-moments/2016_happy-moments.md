@@ -843,3 +843,35 @@ Today Harry and I walked around all over the Recoleta area. We went to this real
 08/07/2016
 ---
 I gave the first talk at the very first CSS Conf in South America today! The conference was great and the talk went really well and I'm so happy they're building up the community down there. The organizers are amazing. Its been a great day!
+
+08/08/2016
+---
+Today I arrived in NYC for the kickoff of Shark Week! I wasn't as tired as I thought I would be and it was super cool to see everyone again!
+
+08/09/2016
+---
+After work today was the DigitalOcean Women in Tech drinks. It was a nice event and we had an outdoor area in this speakeasy (yeah, I know that sounds strange). After, I got back to the office and proceeded to watch the Olympics there with one of my coworkers in our CEOs office bc there is a nice couch in there and its a nice open space.
+
+08/10/2016
+---
+Today we did a Pokemon walk as a DO activity, and afterward celebrated the website launch with a team dinner at this Japanese restaurant called 6 Bond Street. Oh my god, we ordered *SO* much sushi they brought out this giant table-sized cylindrical bowl, and it was *SO* good. We also had a bit of sake.
+
+08/11/2016
+---
+We had a game night at DO as a closing party for Shark Week since some people were not attending the weekend. I played werewolf for the first time and Connect Four with Joel and danced a little too. We ended up playing a massive game of flip cup, and since I dont drink beer, convinced the bartender to just let me take 2 bottles of champagne to the table, and played with that instead.
+
+08/12/2016
+---
+Today was the first day of Shark Weekend! We drove down and played werewolf on the bus (some *really* good rounds of it). The hotel is super super nice, with very comfortable beds. We also had a few cabanas reserved for us, so the drinking began as soon as we arrived to the hotel. Drinking, swimming, and eventually dancing after dinner by the hotel bar. It was a fun night.
+
+08/13/2016
+---
+I tried surfing for the first time today. I also learned I suck at surfing today. I did manage to catch four waves with the help of an instructor, and got up on my knees on two of them, however! So I was proud of myself for the day.
+
+08/14/2016
+---
+We got back from Shark Weekend today. I had a good time chatting with everyone in the morning and going to brunch, but I was just so worn out from the week. I very happily spent the evening watching the Olympics and doing some ES6 tutorial watching by myself in my room. Gymnastics was on!
+
+08/15/2016
+---
+Going back to Austin

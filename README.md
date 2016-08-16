@@ -10,29 +10,30 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# August 7, 2016
+# August 14, 2016
 
-### This Week's Focus: DO Shark Week
+### This Week's Focus: Pack/Move/Sell
 
 ### Things I'll do This Week:
 
 - [ ] Call Mom
 - [ ] Web Love Weekly, send email about it being monthly
-- [ ] Record/Post Toolsday Episode
-- [ ] Outline talk: Working with Images (where to give it?)
+- [ ] Outline talk: Working with Images
 - [ ] Look up trains from Zurich to Freiburg
-- [ ] Send emails in outbox
-- [ ] DO Shark Week
+- [ ] Record/Post Toolsday Episode
 - [ ] Order Web Love / Toolsday stickers  [backlog]
 - [ ] Move unakravets.com etc to DO droplet [backlog]
 - [ ] Work on Diffee Slackbot [backlog]
 - [ ] Look into using Hoodie for Heiroglyph [backlog]
 - [ ] Outline post: 3 Years of Design Systems
 - [ ] Outline post: Gif Optimization
-- [ ] Write post about digitalocean.com
 - [ ] CanIUse Component, get it ready for prod
 - [ ] CSSGram download bug
-- [ ] ES6 Course -- finish first third
+- [ ] Sell items from Austin
+- [ ] Watch video about Go
+- [ ] Pack things
+- [ ] Sort Europe travel
+- [ ] Begin JS project with Selby
 
 ### This Week's Reading List:
 
@@ -44,7 +45,7 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ### Things I'll Do in the Future:
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
-- [ ] [Picturefill](http://scottjehl.github.io/picturefill/) my portfolio
+- [ ] ~~[Picturefill](http://scottjehl.github.io/picturefill/) my portfolio~~
 - [ ] Build something cool with Arduino
 - [ ] Create my own, or work on helping build a cleaner JS presentation framework
 - [x] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
