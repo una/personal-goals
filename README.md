@@ -34,6 +34,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Pack things
 - [ ] Sort Europe travel
 - [ ] Begin JS project with Selby
+- [ ] ES6 Course continuation
 
 ### This Week's Reading List:
 
