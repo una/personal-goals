@@ -874,4 +874,28 @@ We got back from Shark Weekend today. I had a good time chatting with everyone i
 
 08/15/2016
 ---
-Going back to Austin
+I finally got back to Austin today! It's SO nice to be back! And snuggling with Alex at night! I can' even describe how nice that was after 3 weeks of being apart.
+
+08/16/2016
+---
+I went to trivia with some friends today at the Goodnight. I was pretty bad at it, but Chris is ridiculous at trivia. Our team won but couldn't get any prizes because we had too many people :P Was still fun nonetheless!
+
+08/17/2016
+---
+I put my things up for sale today and they went so quick! I wasn't expecting that at all. So basically I've got a really good head start on getting rid of most of my things.
+
+08/18/2016
+---
+Today I went on my last date in Austin with Alex! Ahhh! I asked him out in the morning thinking it would be nice to go to Peche one more time :) and he suggested we also stop by my favorite Mexican place in town -- La Condesa. Since the wait was long, we even got a chance to stop into a bar called Second on Congress for a quick drink. It was a really nice evening.
+
+08/19/2016
+---
+We had a little Austin-family potluck dinner tonight :) It was super nice. We also played this game called Code Word and I watched the first episode of Stranger Things with 6 other people who had already seen it :P Show is crazy!
+
+08/20/2016
+---
+Lauren came over today to help me pack. We got a lot accomplished together, then got lunch at Blue Dahlia and got caught in an insane rain storm on the walk back home. After we got dry and I let her borrow some clothes, we watched the 2nd episode of Stranger Things.
+
+08/21/2016
+---
+I went to Bennu coffee today :) which is my favorite coffee shop in Austin to take a little break from packing and enjoy my time there. I'm glad I did.

@@ -10,17 +10,19 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# August 14, 2016
+# August 21, 2016
 
-### This Week's Focus: Pack/Move/Sell
+### This Week's Focus: Sort Europe Travel / Maine
 
 ### Things I'll do This Week:
 
 - [ ] Call Mom
+- [ ] Record/Post Toolsday Episode
+- [ ] Book express train for London layover Sept. 17
+- [ ] Watch [Bryans Talk on API Design](http://2016.cascadiafest.org/speakers/bryan-hughes/)
+- [ ] Update [terminal theme](https://github.com/minamarkham/dotfiles/)
 - [ ] Web Love Weekly, send email about it being monthly
 - [ ] Outline talk: Working with Images
-- [ ] Look up trains from Zurich to Freiburg
-- [ ] Record/Post Toolsday Episode
 - [ ] Order Web Love / Toolsday stickers  [backlog]
 - [ ] Move unakravets.com etc to DO droplet [backlog]
 - [ ] Work on Diffee Slackbot [backlog]
@@ -29,12 +31,12 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Outline post: Gif Optimization
 - [ ] CanIUse Component, get it ready for prod
 - [ ] CSSGram download bug
-- [ ] Sell items from Austin
 - [ ] Watch video about Go
-- [ ] Pack things
 - [ ] Sort Europe travel
 - [ ] Begin JS project with Selby
 - [ ] ES6 Course continuation
+- [ ] Travel to Maine
+- [ ] Send all packages
 
 ### This Week's Reading List:
 

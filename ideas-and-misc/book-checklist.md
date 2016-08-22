@@ -121,7 +121,7 @@ None -- I listened to a lot of podcasts and was traveling all month
 
 - [x] How Music Works -- David Byrne
 - [x] You Are a Badass -- Jen Sincero
-- [ ] The Art of Possibility -- Ben Zander and Rosamund Stone Zander :sleeping:
+- [x] The Art of Possibility -- Ben Zander and Rosamund Stone Zander :sleeping:
 - [x] The Alchemist -- Paulo Coelho
 
 ## May 2016
@@ -138,9 +138,13 @@ None -- I listened to a lot of podcasts and was traveling all month
 
 ## July 2016
 
-- [ ] Hackers
+- [ ] Hackers :sleeping:
+
+## August 2016
+
+- [ ] The Art of Racing in the Rain -- Garth Stein
 
 To-Read/Recommendations:
 ---
-- [ ] [Red Rising](http://www.audible.com/pd/Sci-Fi-Fantasy/Red-Rising-Audiobook/B00I2VWW5U/ref=a_search_c4_1_1_srImg?qid=1443799691&sr=1-1) -- Pierce Brown // via TJ
+- [ ] Red Rising -- Pierce Brown // via TJ
 - [ ] Pitch Perfect -- Bill McGowan //via Wes Bos
