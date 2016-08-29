@@ -899,3 +899,31 @@ Lauren came over today to help me pack. We got a lot accomplished together, then
 08/21/2016
 ---
 I went to Bennu coffee today :) which is my favorite coffee shop in Austin to take a little break from packing and enjoy my time there. I'm glad I did.
+
+08/22/2016
+---
+Today is my last full day in Austin! I went to Odd Duck with a few of my friends to celebrate. The food was good, but the company was even better. Lauren brought me a book (A Tree Grows in Brooklyn) as a parting gift because I was saying I might be moving to Brooklyn.
+
+08/23/2016
+---
+After a long, hectic day of packing up my things, I ended up in Maine finally and Alex picked me up from the airport. The first thing I noticed was how dark it was here and how clear the stars were. Still haven't seen it in the daytime, though!
+
+08/24/2016
+---
+Today I went on a boat ride with Alex's family and their family friend. It went all around the town they live, around some of the islands, and was SO pretty and nice. We also had snacks on the boat and Moscow Mules.
+
+08/25/2016
+---
+This morning I went swimming with Alex, his sister, and his dog Lucky at their local swimming hole. It was so nice :) And we definitely swam her out.
+
+08/26/2016
+---
+Today we made pizza and used the pizza oven Alex built with his dad to cook it. They also made ribs and later Alex and I made foccacia bread in it. It was pretty cool.
+
+08/27/2016
+---
+Alex took me to one of his favorite places in Maine today, Monhegan Island. Its a beautiful island with a small village that is an artist community with some beautiful coastal hikes and views. We hiked all day and went to a super still lake with nobody around that we jumped in on the ride home. We came home to an amazing dinner of the ribs from the day before and zucchini fritters.
+
+08/28/2016
+---
+I went on a long hike (which was actually more like a junior mountain climb/ boulder scramble) with Alex today. It was so vertical it was crazy, but it was fun, the view was incredible, and there was a sweet little pond at the top of the mountain we relaxed and ate lunch nearby.

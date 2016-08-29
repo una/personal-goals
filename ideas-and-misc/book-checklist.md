@@ -142,7 +142,8 @@ None -- I listened to a lot of podcasts and was traveling all month
 
 ## August 2016
 
-- [ ] The Art of Racing in the Rain -- Garth Stein
+- [x] The Art of Racing in the Rain -- Garth Stein
+- [ ] Red Rising
 
 To-Read/Recommendations:
 ---

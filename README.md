@@ -10,14 +10,15 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# August 21, 2016
+# August 28, 2016
 
-### This Week's Focus: Sort Europe Travel / Maine
+### This Week's Focus: Front End Zurich
 
 ### Things I'll do This Week:
 
 - [ ] Call Mom
 - [ ] Record/Post Toolsday Episode
+- [ ] "Walk Me Through JS" send out emails
 - [ ] Book express train for London layover Sept. 17
 - [ ] Watch [Bryans Talk on API Design](http://2016.cascadiafest.org/speakers/bryan-hughes/)
 - [ ] Update [terminal theme](https://github.com/minamarkham/dotfiles/)
@@ -32,11 +33,10 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] CanIUse Component, get it ready for prod
 - [ ] CSSGram download bug
 - [ ] Watch video about Go
-- [ ] Sort Europe travel
-- [ ] Begin JS project with Selby
-- [ ] ES6 Course continuation
-- [ ] Travel to Maine
-- [ ] Send all packages
+- [ ] Continue ES6 Course
+- [ ] Practice talk for Front End Zurich
+- [ ] Give talk at Front End Zurich
+- [ ] Travel to Switzerland
 
 ### This Week's Reading List:
 
@@ -59,7 +59,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Do something with youmightnotneedjavascript.com
 - [ ] New version of Happy Moments for 2016
 - [ ] Create a typeface
-- [ ] Build a project using ES6 best practices
+- [x] Build a project using ES6 best practices
 - [ ] Build an E-Card generator API
 
 ### Backlog: Side Projects & Other Ideas
