@@ -926,4 +926,49 @@ Alex took me to one of his favorite places in Maine today, Monhegan Island. Its 
 
 08/28/2016
 ---
-I went on a long hike (which was actually more like a junior mountain climb/ boulder scramble) with Alex today. It was so vertical it was crazy, but it was fun, the view was incredible, and there was a sweet little pond at the top of the mountain we relaxed and ate lunch nearby.
+I went on a long hike to Tumbledown Mountain (which was actually more like a junior mountain climb/ boulder scramble) with Alex today. It was so vertical it was crazy, but it was fun, the view was incredible, and there was a sweet little pond at the top of the mountain we relaxed and ate lunch nearby.
+
+08/29/2016
+---
+Today I met up with my friend Ian in Portland, Maine and we went to this really cool speakeasy called Lincoln where all of the drinks were $5 and it was truly a hard-to-find place. We then got oysters for dinner.
+
+08/30/2016
+---
+Before I left for the airport to fly to Zurich, I gave Alex's family some little gifts, one of which was for his dog Lucky -- a hedgehog squeeky toy I thought was adorable. She seemed to really love it too :)
+
+08/31/2016
+---
+I arrived in Zurich today and settled into my hotel, just in time to do some work and have some meetings before the speaker's dinner. Dinner was nice (a lot of hummus and Mediterranean food) and it was a great reunion with a few people I know from the conference community.
+
+09/01/2016
+---
+Today I spoke at FrontEnd Zurich! Its an awesome conference venue in an old paper mill. The talk went well and I got really positive feedback. The after party was really good too -- great snack food and seriously *huge* olives.
+
+09/02/2016
+---
+Alex met me, Harry, and his girlfriend Jillian today at this 360 degree panoramic bar in Zurich called the Jules Vernes bar. It was an awesome view and a good crowd and an all-in-all fun evening. We stayed out drinking until the bars closed.
+
+09/03/2016
+---
+Today Alex and I wandered around Zurich. Its a beautiful city! Like, REALLY beautiful. I can't get over it. We ended up at a large, wooden structure on the lake, built for an art festival called Manifesta, and swam in the lake (so refreshing!).
+
+09/04/2016
+---
+We ventured to Interlaken today! It was a rainy day, but it was still so cool to see how blue the lake water was and to take the train through the start of some pretty cool mountains.
+
+09/05/2016
+---
+Today the rain continued, but Alex and I still wanted to explore! So we went to the St. Beatus caves outside of Interlaken. The caves themselves were closed, but the walk up was stunning nonetheless, and we got to go into the museum for free. After the caves we went to a chocolate making demo and ate a lot of chocolate :P
+
+09/06/2016
+---
+Alex and I went to Junfraujoch (aka the "Top of Europe") today! This is the highest railway station in Europe, built on a glacier, and it was really really cool! There was an amazing view from the top and we were able to do a hike in the snow. It had just snowed there a lot from the past 2 days of rain (snow up there) so everything was super smooth and pristine-looking. After, we hiked a little bit on honestly the most beautiful hike I've ever been on (and it was all downhill!).
+
+09/07/2016
+---
+I went paragliding today! It was SO COOL! Both Alex and I did it: we ran off the side of a mountain and took off like birds, gliding over Interlaken and had an incredible view of the two lakes, the mountains, glacier, and the city. Afterward, we hiked up to Harder Kulm (the mountain on the other side of Interlaken)
+ and had lunch up there before setting off for Zermatt.
+
+09/08/2016
+---
+This morning (before finally getting back to work) Alex and I went up to Gornergrat and hiked down to the train stop 2 stops down. The hike was SO beautiful, with views of the Matterhorn the entire way and it even reflected in one of the lakes! It was a great day :)

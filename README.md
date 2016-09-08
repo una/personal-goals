@@ -10,20 +10,21 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# August 28, 2016
+# Sept 8, 2016
 
-### This Week's Focus: Front End Zurich
+### This Week's Focus: Switzerland!
 
 ### Things I'll do This Week:
 
 - [ ] Call Mom
+- [ ] Web Love Weekly
 - [ ] Record/Post Toolsday Episode
-- [ ] "Walk Me Through JS" send out emails
+- [ ] Service worker support for una.im (Offline -- and write about it) [backlog]
+- [ ] "Walk Me Through JS" send out emails [backlog]
 - [ ] Book express train for London layover Sept. 17
 - [ ] Watch [Bryans Talk on API Design](http://2016.cascadiafest.org/speakers/bryan-hughes/)
 - [ ] Update [terminal theme](https://github.com/minamarkham/dotfiles/)
 - [ ] Web Love Weekly, send email about it being monthly
-- [ ] Outline talk: Working with Images
 - [ ] Order Web Love / Toolsday stickers  [backlog]
 - [ ] Move unakravets.com etc to DO droplet [backlog]
 - [ ] Work on Diffee Slackbot [backlog]
@@ -32,11 +33,10 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Outline post: Gif Optimization
 - [ ] CanIUse Component, get it ready for prod
 - [ ] CSSGram download bug
-- [ ] Watch video about Go
 - [ ] Continue ES6 Course
-- [ ] Practice talk for Front End Zurich
-- [ ] Give talk at Front End Zurich
-- [ ] Travel to Switzerland
+- [ ] Update una.im with confs in 2017
+- [ ] Sort photos
+- [ ] Hike the Swiss Alps
 
 ### This Week's Reading List:
 
