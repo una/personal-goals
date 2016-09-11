@@ -972,3 +972,11 @@ I went paragliding today! It was SO COOL! Both Alex and I did it: we ran off the
 09/08/2016
 ---
 This morning (before finally getting back to work) Alex and I went up to Gornergrat and hiked down to the train stop 2 stops down. The hike was SO beautiful, with views of the Matterhorn the entire way and it even reflected in one of the lakes! It was a great day :)
+
+09/10/2016
+---
+Alex and I woke up early today to do the 5-Seenweg (5 Lakes) hike. We took the tram up to Gonergrat and hiked down (it ended up being like 4 hours of walking because we got a little off the trail a few times and ended up walking through a village and seeing sheep and it was fine). So the hike was great :) and then I got a lot of refactoring work done, and then we went out to dinner at a Swiss place in town.
+
+09/11/2016
+---
+Today we celebrated Alex's birthday since its our last day together on this trip! We hung out in Zermatt a little and did some souvenier shopping, then headed to Zurich, where we went to a super nice dinner at a restaurant called Parkhuus, where the waitress informed us there was a huge festival/carnival in town. So  of course we went to that afterward :) It was so much fun going on the rides and seeing the random things they were selling there :P Great last night.

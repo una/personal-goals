@@ -143,9 +143,12 @@ None -- I listened to a lot of podcasts and was traveling all month
 ## August 2016
 
 - [x] The Art of Racing in the Rain -- Garth Stein
-- [ ] Red Rising
+- [x] Red Rising -- Pierce Brown
+
+## September 2016
+
+- [ ] The Willpower Instinct -- Kelly McGonigal :star:
 
 To-Read/Recommendations:
 ---
-- [ ] Red Rising -- Pierce Brown // via TJ
 - [ ] Pitch Perfect -- Bill McGowan //via Wes Bos

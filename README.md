@@ -10,14 +10,13 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# Sept 8, 2016
+# Sept 11, 2016
 
-### This Week's Focus: Switzerland!
+### This Week's Focus: SmashingConf Freiburg
 
 ### Things I'll do This Week:
 
 - [ ] Call Mom
-- [ ] Web Love Weekly
 - [ ] Record/Post Toolsday Episode
 - [ ] Service worker support for una.im (Offline -- and write about it) [backlog]
 - [ ] "Walk Me Through JS" send out emails [backlog]
@@ -34,9 +33,10 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] CanIUse Component, get it ready for prod
 - [ ] CSSGram download bug
 - [ ] Continue ES6 Course
-- [ ] Update una.im with confs in 2017
-- [ ] Sort photos
-- [ ] Hike the Swiss Alps
+- [ ] Speak at Smashing Freiburg
+- [ ] Travel to Germany & home
+- [ ] Paint my nails
+- [ ] Put photos online from Switzerland
 
 ### This Week's Reading List:
 
