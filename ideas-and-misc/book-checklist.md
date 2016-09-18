@@ -147,7 +147,8 @@ None -- I listened to a lot of podcasts and was traveling all month
 
 ## September 2016
 
-- [ ] The Willpower Instinct -- Kelly McGonigal :star:
+- [x] The Willpower Instinct -- Kelly McGonigal :star:
+- [ ] Golden Son -- Pierce Brown
 
 To-Read/Recommendations:
 ---

@@ -10,9 +10,9 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# Sept 11, 2016
+# Sept 18, 2016
 
-### This Week's Focus: SmashingConf Freiburg
+### This Week's Focus: SmartWeb / Write New Talk
 
 ### Things I'll do This Week:
 
@@ -20,7 +20,6 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Record/Post Toolsday Episode
 - [ ] Service worker support for una.im (Offline -- and write about it) [backlog]
 - [ ] "Walk Me Through JS" send out emails [backlog]
-- [ ] Book express train for London layover Sept. 17
 - [ ] Watch [Bryans Talk on API Design](http://2016.cascadiafest.org/speakers/bryan-hughes/)
 - [ ] Update [terminal theme](https://github.com/minamarkham/dotfiles/)
 - [ ] Web Love Weekly, send email about it being monthly
@@ -30,19 +29,19 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Look into using Hoodie for Heiroglyph [backlog]
 - [ ] Outline post: 3 Years of Design Systems
 - [ ] Outline post: Gif Optimization
-- [ ] CanIUse Component, get it ready for prod
-- [ ] CSSGram download bug
+- [ ] CSSGram download bug [backlog]
 - [ ] Continue ES6 Course
-- [ ] Speak at Smashing Freiburg
-- [ ] Travel to Germany & home
-- [ ] Paint my nails
-- [ ] Put photos online from Switzerland
+- [ ] Command line game side project
+- [ ] Finish talk outline: The Joy of Optimizing
+- [ ] Build something for Alex on Codepen
+- [ ] Think about book outline: Design/Developer
+- [ ] Review all caniuse-component PR's
+- [ ] Enjoy Bucharest
+- [ ] Give talk at SmartWeb
 
 ### This Week's Reading List:
 
 - [ ] [CSS Modules By Example](http://andrewhfarmer.com/css-modules-by-example/)
-- [ ] [ES6 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
-- [ ] [Jeremy Keith on <a> at HTML Day](https://vimeo.com/172794545)
 - [ ] ES6.io course by Wes Bos
 - [ ] Practical SVG by Chris Coyier
 
