@@ -1012,3 +1012,27 @@ Today I got sushi with my mom and brother before heading to the airport to go to
 09/18/2016
 ---
 Today I had a 9 hour layover at Heathrow. So I ended up going to the Windsor Castle area to get some fresh air and some lunch outside by the castle. It was a lovely day and I listened to like half of an audio book by the end of it (6 hours!).
+
+09/19/2016
+---
+Tonight was the speaker dinner for SmartWeb in Bucharest. The dinner was at this really awesome, old restaurant which was *beautiful* on the inside (ceiling covered with paintings). There was also live music and much Romanian food.
+
+09/20/2016
+---
+SmartWeb was today! And I was so committed to my weight loss goal that I left the conference to go work out and came back :P
+
+09/21/2016
+---
+Today I walked around Old Town with Anna and Ruth from the conference yesterday. We wandered around shops and went to this beautiful, huge bookstore I stumbled upon yesterday for coffee. It was super nice to wander.
+
+09/22/2016
+---
+I did a walking tour of Bucharest today in the old town. It was a great tour and I learned a ton about the history of the city and how much it was changed under communism.
+
+09/23/2016
+---
+Today I toured the Palace of the Parliament in Bucharest (the second biggest building in the world!). And this building is ridiculous -- its bigger underground than above ground and is allegedly filled with escape tunnels. It was super ridiculous how grand it was, and I ended up meeting a few people on the tour that I got lunch with afterward.
+
+09/24/2016
+---
+Today I am flying back to Baltimore (it's a long day full of many flights). I watched Boyhood on the flight today, which is a really good movie! I loved it :)

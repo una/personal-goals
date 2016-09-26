@@ -143,12 +143,14 @@ None -- I listened to a lot of podcasts and was traveling all month
 ## August 2016
 
 - [x] The Art of Racing in the Rain -- Garth Stein
-- [x] Red Rising -- Pierce Brown
+- [x] Red Rising -- Pierce Brown :star:
 
 ## September 2016
 
-- [x] The Willpower Instinct -- Kelly McGonigal :star:
-- [ ] Golden Son -- Pierce Brown
+- [x] The Willpower Instinct -- Kelly McGonigal
+- [x] Golden Son -- Pierce Brown :star:
+- [ ] Morning Star -- Pierce Brown
+- [ ] Year of Yes -- Shonda Rhimes
 
 To-Read/Recommendations:
 ---

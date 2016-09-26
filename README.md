@@ -10,9 +10,9 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# Sept 18, 2016
+# Sept 15, 2016
 
-### This Week's Focus: SmartWeb / Write New Talk
+### This Week's Focus: Joy of Optimizing
 
 ### Things I'll do This Week:
 
@@ -21,23 +21,20 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Service worker support for una.im (Offline -- and write about it) [backlog]
 - [ ] "Walk Me Through JS" send out emails [backlog]
 - [ ] Watch [Bryans Talk on API Design](http://2016.cascadiafest.org/speakers/bryan-hughes/)
-- [ ] Update [terminal theme](https://github.com/minamarkham/dotfiles/)
 - [ ] Web Love Weekly, send email about it being monthly
 - [ ] Order Web Love / Toolsday stickers  [backlog]
 - [ ] Move unakravets.com etc to DO droplet [backlog]
 - [ ] Work on Diffee Slackbot [backlog]
 - [ ] Look into using Hoodie for Heiroglyph [backlog]
-- [ ] Outline post: 3 Years of Design Systems
 - [ ] Outline post: Gif Optimization
 - [ ] CSSGram download bug [backlog]
 - [ ] Continue ES6 Course
 - [ ] Command line game side project
 - [ ] Finish talk outline: The Joy of Optimizing
 - [ ] Build something for Alex on Codepen
-- [ ] Think about book outline: Design/Developer
 - [ ] Review all caniuse-component PR's
-- [ ] Enjoy Bucharest
-- [ ] Give talk at SmartWeb
+- [ ] Unpack boxes from the move
+- [ ] Finish and post blog: 3 Years of Pattern Libraries
 
 ### This Week's Reading List:
 
