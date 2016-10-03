@@ -10,14 +10,14 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# Sept 15, 2016
+# October 2, 2016
 
 ### This Week's Focus: Joy of Optimizing
 
 ### Things I'll do This Week:
 
-- [ ] Call Mom
-- [ ] Record/Post Toolsday Episode
+- [ ] Record Toolsday Episodes
+- [ ] Review all caniuse-component PR's
 - [ ] Service worker support for una.im (Offline -- and write about it) [backlog]
 - [ ] "Walk Me Through JS" send out emails [backlog]
 - [ ] Watch [Bryans Talk on API Design](http://2016.cascadiafest.org/speakers/bryan-hughes/)
@@ -27,14 +27,12 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Work on Diffee Slackbot [backlog]
 - [ ] Look into using Hoodie for Heiroglyph [backlog]
 - [ ] Outline post: Gif Optimization
-- [ ] CSSGram download bug [backlog]
 - [ ] Continue ES6 Course
 - [ ] Command line game side project
-- [ ] Finish talk outline: The Joy of Optimizing
-- [ ] Build something for Alex on Codepen
-- [ ] Review all caniuse-component PR's
-- [ ] Unpack boxes from the move
-- [ ] Finish and post blog: 3 Years of Pattern Libraries
+- [ ] Record audio for last blog post
+- [ ] **Finish Joy Of Optimizing Talk**
+- [ ] Start the run-every-day challenge
+- [ ] Hacktoberfest reviews and participation
 
 ### This Week's Reading List:
 

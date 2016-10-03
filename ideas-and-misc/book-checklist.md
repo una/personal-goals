@@ -148,9 +148,9 @@ None -- I listened to a lot of podcasts and was traveling all month
 ## September 2016
 
 - [x] The Willpower Instinct -- Kelly McGonigal
-- [x] Golden Son -- Pierce Brown :star:
-- [ ] Morning Star -- Pierce Brown
-- [ ] Year of Yes -- Shonda Rhimes
+- [x] Golden Son -- Pierce Brown
+- [x] Morning Star -- Pierce Brown
+- [x] Year of Yes -- Shonda Rhimes
 
 To-Read/Recommendations:
 ---
