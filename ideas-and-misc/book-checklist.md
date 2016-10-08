@@ -152,6 +152,10 @@ None -- I listened to a lot of podcasts and was traveling all month
 - [x] Morning Star -- Pierce Brown
 - [x] Year of Yes -- Shonda Rhimes
 
+## October 2016
+
+- [ ] Americanah -- Chimamanda Ngozi Adichie
+
 To-Read/Recommendations:
 ---
 - [ ] Pitch Perfect -- Bill McGowan //via Wes Bos

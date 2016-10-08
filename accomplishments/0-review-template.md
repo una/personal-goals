@@ -12,7 +12,6 @@
 
 ## Things I'll Do Next Week:
 
-- [ ] Call Mom
 - [ ] Record/Post Toolsday Episode
 
 ## Things I'll Read/Watch Next Week:

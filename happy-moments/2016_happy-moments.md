@@ -1036,3 +1036,55 @@ Today I toured the Palace of the Parliament in Bucharest (the second biggest bui
 09/24/2016
 ---
 Today I am flying back to Baltimore (it's a long day full of many flights). I watched Boyhood on the flight today, which is a really good movie! I loved it :)
+
+09/25/2016
+---
+I hung out at home with my Mom and dog today. It was nice to chill. I'm also starting up with healthy habits again and that feels pretty good. Even got my Mom to go to the gym with me.
+
+09/26/2016
+---
+Woke up to my dog, Lucy laying at my feet this morning :) That was a nice little happy moment.
+
+09/27/2016
+---
+Today was launch day for Hacktoberfest! We immediately got a lot of positive reactions to it and I'm so happy to get to be a part of the behind-the-scenes this year!
+
+10/28/2916
+---
+Today my dad came home from his work trip to China (I'm at my family's home right now!), and he brought a variety of goodies back with him: interesting candy from China and Japan, little trinkets, and even picked out a little handbag for me that caught his eye in Japan :) It was really nice of him!
+
+10/29/2016
+---
+I got my first piece of indie makeup today -- the Nubian pallet by Juvia's Place! And I really, really love it! It's super pigmented and has a lot of beautiful bronze shades which look really good with my warm skintone :D
+
+10/30/2016
+---
+Today I talked to Katie on our People Team if I could take advantage of the relocation perks DigitalOcean offers. She said I could, so I have 2 months of corporate housing in New York available to me! Squee!
+
+10/01/2016
+---
+Today I went over Liza's and hung out for a few hours watching football, eating, and drinking hot cider spiked with spiced rum. It was a rainy day and a bunch of their/our friends came over. By the end of the night it was 9 of us laughing and talking in a circle around the TV.
+
+10/02/2016
+---
+Shanah Tova! Today I spent Rosh Hashanah with Liza's family. We had a bunch of different items which related to the holiday and a really good dinner overall. It was nice to get a chance to dress up (used that new makeup pallet) and to see them all, too.
+
+10/03/2016
+---
+There's this really cute virtual game called paperplanes.world that Alex introduced me to today. You can send planes and catch other planes and stamp them with your location and send them out again. It really put a smile on my face :)
+
+10/04/2016
+---
+Today I had a personal training session with Louis. It was a lot of fun! We went outside for the session I got to bang at a huge tire and we did a glider + kettle bell workout. It was a lot of fun.
+
+10/05/2016
+---
+Hacktoberfest has been really awesome for CSSgram. Definitely a lot of new PR activity and two new filters were released today! Yay!
+
+10/06/2016
+---
+I'm really enjoying the project I'm working on right now at work :) doing some fun data manipulation and visualization for Hacktoberfest.
+
+10/07/2016
+---
+I went to the gym for a solid 1.5 hours today and did mostly cardio. Felt really good afterward and went to stretch, surprising myself by how flexible I still was.

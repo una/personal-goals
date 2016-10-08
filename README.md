@@ -16,23 +16,22 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ### Things I'll do This Week:
 
-- [ ] Record Toolsday Episodes
+- [x] Record Toolsday Episodes
 - [ ] Review all caniuse-component PR's
 - [ ] Service worker support for una.im (Offline -- and write about it) [backlog]
 - [ ] "Walk Me Through JS" send out emails [backlog]
 - [ ] Watch [Bryans Talk on API Design](http://2016.cascadiafest.org/speakers/bryan-hughes/)
-- [ ] Web Love Weekly, send email about it being monthly
-- [ ] Order Web Love / Toolsday stickers  [backlog]
+- [ ] Order Toolsday stickers  [backlog]
 - [ ] Move unakravets.com etc to DO droplet [backlog]
 - [ ] Work on Diffee Slackbot [backlog]
 - [ ] Look into using Hoodie for Heiroglyph [backlog]
 - [ ] Outline post: Gif Optimization
 - [ ] Continue ES6 Course
 - [ ] Command line game side project
-- [ ] Record audio for last blog post
+- [x] Record audio for last blog post
 - [ ] **Finish Joy Of Optimizing Talk**
 - [ ] Start the run-every-day challenge
-- [ ] Hacktoberfest reviews and participation
+- [x] Hacktoberfest reviews and participation
 
 ### This Week's Reading List:
 
@@ -49,12 +48,13 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Use CSSNext PostCSS plugin for something
 - [ ] Make a JavaScript Game
 - [ ] Finish an [Algorithms]((http://livestream.com/accounts/4894689/events/4497664)) online course
-- [ ] Play around with CSS Transforms for fun
+- [x] Play around with CSS Transforms for fun
 - [ ] Do something with youmightnotneedjavascript.com
 - [ ] New version of Happy Moments for 2016
 - [ ] Create a typeface
 - [x] Build a project using ES6 best practices
 - [ ] Build an E-Card generator API
+- [ ] Make an electron app
 
 ### Backlog: Side Projects & Other Ideas
 - [Apps & Other Projects](https://github.com/una/personal-goals/blob/master/ideas-and-misc/app-ideas.md)
