@@ -154,7 +154,7 @@ None -- I listened to a lot of podcasts and was traveling all month
 
 ## October 2016
 
-- [ ] Americanah -- Chimamanda Ngozi Adichie
+- [x] Americanah -- Chimamanda Ngozi Adichie
 
 To-Read/Recommendations:
 ---

@@ -10,13 +10,14 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# October 2, 2016
+# October 9, 2016
 
 ### This Week's Focus: Joy of Optimizing
 
 ### Things I'll do This Week:
 
-- [x] Record Toolsday Episodes
+- [ ] Record/Post Toolsday Episode
+- [ ] Release youmightnotneedjs
 - [ ] Review all caniuse-component PR's
 - [ ] Service worker support for una.im (Offline -- and write about it) [backlog]
 - [ ] "Walk Me Through JS" send out emails [backlog]
@@ -28,10 +29,10 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Outline post: Gif Optimization
 - [ ] Continue ES6 Course
 - [ ] Command line game side project
-- [x] Record audio for last blog post
 - [ ] **Finish Joy Of Optimizing Talk**
 - [ ] Start the run-every-day challenge
-- [x] Hacktoberfest reviews and participation
+- [x] Interview on Responsive Web Design Podcast
+- [x] Work on youightnotneedjs.com
 
 ### This Week's Reading List:
 
@@ -49,7 +50,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Make a JavaScript Game
 - [ ] Finish an [Algorithms]((http://livestream.com/accounts/4894689/events/4497664)) online course
 - [x] Play around with CSS Transforms for fun
-- [ ] Do something with youmightnotneedjavascript.com
+- [x] Do something with youmightnotneedjavascript.com
 - [ ] New version of Happy Moments for 2016
 - [ ] Create a typeface
 - [x] Build a project using ES6 best practices
