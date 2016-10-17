@@ -1088,3 +1088,39 @@ I'm really enjoying the project I'm working on right now at work :) doing some f
 10/07/2016
 ---
 I went to the gym for a solid 1.5 hours today and did mostly cardio. Felt really good afterward and went to stretch, surprising myself by how flexible I still was.
+
+10/08/2016
+---
+I went to the gym today and afterward did a bit of stretching. I was so surprised to see that I was still wayyy more flexible than I expected to be at this point.
+
+10/09/2016
+---
+Today I met up with Jeff Rohde in DC to get brunch and explore Skyline Drive! We did a bit of hiking and saw the sunset over the Shenendoah valley. It was magical :) And so nice to catch up.
+
+10/10/2016
+---
+I spent the entire day emersed in JS data visualization work. I'm super into building this Hacktoberfest stats page :) really enjoying it.
+
+10/11/2016
+---
+I had personal training with Louis today. We flipped a tire! (together) and did some other drills outside which were very fun.
+
+10/12/2016
+---
+Today I released youmightnotneedjs.com! It got a lot of awesome feedback immediately and started some interesting conversations. Glad to have gotten it out and for the response its getting!
+
+10/13/2016
+---
+Today was Yom Kippur, so I was fasting all day and grumpy :P Break fast was nice though, all of my cousins came to my parents place for that and we ate awesome food my mom made.
+
+10/14/2016
+---
+We finally had the chocolates from Switzerland that I brought back and OH MY GOD THEY ARE SO GOOD. I wasn't even expecting them to be that good.
+
+10/15/2016
+---
+Today was my dads birthday party! My family rented out a restaurant with Uzbek food, and got everyone together. It was so yummy. But I got way too full :P and had cake too.
+
+10/16/2016
+---
+I flew to San Francisco to see Alex today. Which was exciting in itself. We got brunch at Zazie's and then went on a walk up Carona Heights, where we saw a rainbow over the city. It was so rad! :P Also just nice to be together again.

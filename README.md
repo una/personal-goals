@@ -10,29 +10,28 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# October 9, 2016
+# October 16, 2016
 
-### This Week's Focus: Joy of Optimizing
+### This Week's Focus: SF/Talk Practics
 
 ### Things I'll do This Week:
 
 - [ ] Record/Post Toolsday Episode
-- [ ] Release youmightnotneedjs
+- [ ] Start the run-every-day challenge
 - [ ] Review all caniuse-component PR's
 - [ ] Service worker support for una.im (Offline -- and write about it) [backlog]
 - [ ] "Walk Me Through JS" send out emails [backlog]
 - [ ] Watch [Bryans Talk on API Design](http://2016.cascadiafest.org/speakers/bryan-hughes/)
-- [ ] Order Toolsday stickers  [backlog]
+- [ ] Order Toolsday stickers [backlog]
 - [ ] Move unakravets.com etc to DO droplet [backlog]
 - [ ] Work on Diffee Slackbot [backlog]
 - [ ] Look into using Hoodie for Heiroglyph [backlog]
 - [ ] Outline post: Gif Optimization
 - [ ] Continue ES6 Course
 - [ ] Command line game side project
-- [ ] **Finish Joy Of Optimizing Talk**
-- [ ] Start the run-every-day challenge
-- [x] Interview on Responsive Web Design Podcast
-- [x] Work on youightnotneedjs.com
+- [ ] Continue PR review youmightnotneedjs & CSSgram
+- [ ] MyTime Slackbot build
+- [ ] Fly to Australia
 
 ### This Week's Reading List:
 
