@@ -1124,3 +1124,31 @@ Today was my dads birthday party! My family rented out a restaurant with Uzbek f
 10/16/2016
 ---
 I flew to San Francisco to see Alex today. Which was exciting in itself. We got brunch at Zazie's and then went on a walk up Carona Heights, where we saw a rainbow over the city. It was so rad! :P Also just nice to be together again.
+
+10/17/2016
+---
+Alex and I got the BEST SUSHI EVER today at a restaurant called Blowfish. Not only was the sushi excellent, but it was also pretty unique and the presentation was beautiful. We had a fish tartare pyramid and some really nice sashimi. A healthy and beautiful dinner that impressed us a lot :P
+
+10/18/2016
+---
+Today I worked from a super cool coffee coworking space in the Mission called Covo. The place was huge adn beautifully decorated with a chandellier and a mix of modern contruction-y feel. They gave me a free day of coworking which included a free coffee from the coffee shop they have in-house (which was really good!). Great place to work and I got a lot done.
+
+10/19/2016
+---
+Today I met up with a coworker of mine from IBM who I was great friends with and worked closely with (Ryan Brownhill). He's doing great and that was awesome to see :) Lunch at Tacolicious with him and Alex was also delicious, as was the place we stumbled on later that day for dinner, called Lohilohi. While the portions we got were way too big, but we ended up making friends at the bar where we ate and shared.
+
+10/20/2016
+---
+Alex made a reservation for cocktails at a speakeasy called Wilson & Wilson. The place was super super cool and the drinks were *SO* yummy. I loved the atmosphere -- we went through like 3 bars to get there, and we had some really good, real conversation. Before the speakeasy, Alex and I went to the California Institute of Science inside of Golden Gate Park for their Thursday night event. Each area had a bar with a difference specialty drink and it was super cool to go through the museum and drink in different areas. Petting starfish was particularly cool.
+
+10/21/2016
+---
+Happy Friday! Today Alex and I went to Teche(sp?) for happy hour drinks and guac (hello $18 pitcher of Sangria!). The place has a beautiful view of the city. We then stumbled into getting the last spot for dinner at a restaurant right next door to it, which played vintage movies in its outdoor space. It was such a cool restaurant and the food was *incredible*. I think my favorite from the trip. I got a steak bavette with creamy potatoes gratin that I died for. We later went to Smugglers Cove and Noir Lounge with his friend for drinks.
+
+10/22/2016
+---
+Today I drove out of San Francisco an hour to go to a pumpkin patch with a hay maze with Alex and a few of his college friends. We stopped by a place called Breakers in Pacifica for breakfast and then after the pumpkin patch went to this Brew Festival at Half Moon Bay. It was so much fun! And I actually enjoyed a lot of the beers there! Live music and a brewfest was a great way to end the trip before heading to the airport to fly out.
+
+10/23/2016
+---
+I've literally been on an airplane all day and I technically have lost this day in my life because I left saturday night and arrive Monday morning in Australia :P So not much to say in terms of happy moments, but I did watch the TV show Veep on the plane and really liked it so far :)

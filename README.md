@@ -10,13 +10,13 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# October 16, 2016
+# October 23, 2016
 
 ### This Week's Focus: SF/Talk Practics
 
 ### Things I'll do This Week:
 
-- [ ] Record/Post Toolsday Episode
+- [ ] Post Toolsday Episode
 - [ ] Start the run-every-day challenge
 - [ ] Review all caniuse-component PR's
 - [ ] Service worker support for una.im (Offline -- and write about it) [backlog]
@@ -29,9 +29,13 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Outline post: Gif Optimization
 - [ ] Continue ES6 Course
 - [ ] Command line game side project
-- [ ] Continue PR review youmightnotneedjs & CSSgram
 - [ ] MyTime Slackbot build
-- [ ] Fly to Australia
+- [ ] Practice conference talk
+- [ ] Give talk at Mixin
+- [ ] Fly to Baltimore
+- [ ] Explore Perth and its surroundings
+- [ ] Check in on book status
+- [ ] Outline post: Image color perf
 
 ### This Week's Reading List:
 
