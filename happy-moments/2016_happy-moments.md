@@ -1152,3 +1152,27 @@ Today I drove out of San Francisco an hour to go to a pumpkin patch with a hay m
 10/23/2016
 ---
 I've literally been on an airplane all day and I technically have lost this day in my life because I left saturday night and arrive Monday morning in Australia :P So not much to say in terms of happy moments, but I did watch the TV show Veep on the plane and really liked it so far :)
+
+10/24/2016
+---
+I made it to Perth! The AirBnb Joel and I are sharing is INCREDIBLE! Like such a beautiful big room. We were picked up from the airport by Mixin organizers who also brought us little goodie bags. They were SO awesomely personalized! Like even including custom illustrations, a wifi dongle, and a letter for every day of the week. Seriously impressed with everything today!
+
+10/25/2016
+---
+We went to Rottnest Island today with the Mixin crew! I got a really awesome quokka selfie almost immediately after we got there :D. The island is so beautiful and we spent a lot of time walking around and trying to get the best quokka selfies. There were also seals we walked up to (about 20 ft. away) and hung out/watched them. Such a fun day! Such a beautiful place!
+
+10/26/2016
+---
+Today I went to the beach with Espen. It was crazy to see the waves crash so hard (and to see how big they are here in Australia!). After  the beach, we went to an event called Collide which brought together a few of the Perth design/dev communities for lightning talks. They were great! And the atmosphere was super friendly and inspiring :) I really love Perth dev communities.
+
+10/27/2016
+---
+Today was the speaker dinner for Mixin Conf. It was at a restaurant overlooking the beach and we saw the sunset over the ocean. They gave us conference tshirts during dinner and I got a MailChimp hat! One of those knit ones with the monkey on it :) AHH! I've wanted one for so long. There was also an organizer-selfie competition going on, so that was a fun addition to the day.
+
+10/28/2016
+---
+Today was Mixin Conf!! My talk went super super well (which made me very happy because it was new and I wasn't sure how it would go over). The conference itself was incredible and so full of love, and the after party was ridiculous :P It turned into a great dance party complete with glowsticks and loud singing after photobooth photoshoots.
+
+10/29/2016
+---
+Today was sort-of bittersweet. I spent the day at a wildlife center in Perth and saw a wombat, tazmanian devil, and took selfies with a kangaroo. Then, we met up with the conference organizers and hung out for a while before saying goodbye. This conference had a particularly difficult goodbye because all of the organizers were seriously awesome and we all became pretty good friends by the end of the week :P Such an awesome week and I'm sad its over.

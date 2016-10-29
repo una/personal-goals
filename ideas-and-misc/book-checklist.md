@@ -155,6 +155,9 @@ None -- I listened to a lot of podcasts and was traveling all month
 ## October 2016
 
 - [x] Americanah -- Chimamanda Ngozi Adichie
+- [ ] How Not to Die -- Gene Stone and Michael Greger
+- [ ] Lights Out -- Ted Koppel
+- [ ] Dark Matter --	Blake Crouch
 
 To-Read/Recommendations:
 ---

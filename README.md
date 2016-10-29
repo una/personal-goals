@@ -16,7 +16,7 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ### Things I'll do This Week:
 
-- [ ] Post Toolsday Episode
+- [x] Post Toolsday Episode
 - [ ] Start the run-every-day challenge
 - [ ] Review all caniuse-component PR's
 - [ ] Service worker support for una.im (Offline -- and write about it) [backlog]
@@ -30,12 +30,13 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Continue ES6 Course
 - [ ] Command line game side project
 - [ ] MyTime Slackbot build
-- [ ] Practice conference talk
-- [ ] Give talk at Mixin
+- [x] Practice conference talk
+- [x] Give talk at Mixin
 - [ ] Fly to Baltimore
-- [ ] Explore Perth and its surroundings
+- [x] Explore Perth and its surroundings
 - [ ] Check in on book status
 - [ ] Outline post: Image color perf
+- [ ] Update una.im for podcasts
 
 ### This Week's Reading List:
 
