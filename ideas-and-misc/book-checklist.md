@@ -138,11 +138,11 @@ None -- I listened to a lot of podcasts and was traveling all month
 
 ## July 2016
 
-- [ ] Hackers :sleeping:
+- [x] Hackers :sleeping:
 
 ## August 2016
 
-- [x] The Art of Racing in the Rain -- Garth Stein
+- [x] The Art of Racing in the Rain -- Garth Stein :star:
 - [x] Red Rising -- Pierce Brown :star:
 
 ## September 2016
@@ -155,7 +155,7 @@ None -- I listened to a lot of podcasts and was traveling all month
 ## October 2016
 
 - [x] Americanah -- Chimamanda Ngozi Adichie
-- [ ] How Not to Die -- Gene Stone and Michael Greger
+- [x] How Not to Die -- Gene Stone and Michael Greger
 - [ ] Lights Out -- Ted Koppel
 - [ ] Dark Matter --	Blake Crouch
 

@@ -10,13 +10,15 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# October 23, 2016
+# October 30, 2016
 
-### This Week's Focus: SF/Talk Practics
+### This Week's Focus: Prep for Berlin
 
 ### Things I'll do This Week:
 
-- [x] Post Toolsday Episode
+- [ ] Post Toolsday Episode
+- [ ] Record New Toolsday Episodes
+- [ ] Review OSS Project PRs
 - [ ] Start the run-every-day challenge
 - [ ] Review all caniuse-component PR's
 - [ ] Service worker support for una.im (Offline -- and write about it) [backlog]
@@ -28,15 +30,10 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Look into using Hoodie for Heiroglyph [backlog]
 - [ ] Outline post: Gif Optimization
 - [ ] Continue ES6 Course
-- [ ] Command line game side project
+- [ ] Finish command line game side project
 - [ ] MyTime Slackbot build
-- [x] Practice conference talk
-- [x] Give talk at Mixin
-- [ ] Fly to Baltimore
-- [x] Explore Perth and its surroundings
 - [ ] Check in on book status
 - [ ] Outline post: Image color perf
-- [ ] Update una.im for podcasts
 
 ### This Week's Reading List:
 

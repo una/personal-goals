@@ -1176,3 +1176,11 @@ Today was Mixin Conf!! My talk went super super well (which made me very happy b
 10/29/2016
 ---
 Today was sort-of bittersweet. I spent the day at a wildlife center in Perth and saw a wombat, tazmanian devil, and took selfies with a kangaroo. Then, we met up with the conference organizers and hung out for a while before saying goodbye. This conference had a particularly difficult goodbye because all of the organizers were seriously awesome and we all became pretty good friends by the end of the week :P Such an awesome week and I'm sad its over.
+
+10/30/2016
+---
+Today I basically flew all day and did some time-traveling backward :P I did work on (and mostly finished) a CLI game in the browser though! That was so much fun to work on and build while traveling. It felt good to get something done. And I love doing so while traveling.
+
+10/31/2016
+---
+Happy Halloween! I didn't really have a Halloween this year, but thats okay :P It was worth it to go to Mixin. I spent today getting my life back together basically. That means I'm back to healthy eating and recording and drinking way too much water. Its good.
