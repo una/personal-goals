@@ -1184,3 +1184,27 @@ Today I basically flew all day and did some time-traveling backward :P I did wor
 10/31/2016
 ---
 Happy Halloween! I didn't really have a Halloween this year, but thats okay :P It was worth it to go to Mixin. I spent today getting my life back together basically. That means I'm back to healthy eating and recording and drinking way too much water. Its good.
+
+11/01/2016
+---
+I'm getting really excited to move to NYC. I keep thinking about where I am in life and how I have no idea whats going to happen next and it feels good. Scary but good :)
+
+11/02/2016
+---
+Rogie made me the COOLEST/CUTEST unicorn avatar! I love it so much! Going to use it for everything now :) Ahh yay!
+
+11/03/2016
+---
+Today in the mail I got an Amazon IOT button shipped to me. I was confused at first, but then realized what it was and it really made me smile. Alex programmed it for me to send me puppy pictures or individual happy moments (how meta) when clicked :) He even packaged it up to say "Hello Una" and instructions on getting started. It was very cute.
+
+11/04/2016
+---
+Flying into Berlin today! I spent the day in DC and got lunch with Vicki at WAPO on their rooftop lounge. The place is really awesome. It has a great view over the city and of the Washington Monument, and we even saw Air Force One fly in! Catching up with Vicki was really really nice :)
+
+11/05/2016
+---
+Tonight I went pretty hard in Berlin (despite flying in today). I got dinner with a bunch of people at the Bird which was amazeee burgers, and then we started finding spots to drink. From the hotel bar to this small speakeasy/club-thing with a weird dragon/elf bust hanging off the wall and 80's music, I stayed out till 6 AM with a few people from Beyond Tellerrand. It was definitely a ton of fun, and a lot of different drinks were drank. And sleep needed to be had :P
+
+11/06/2016
+---
+Today was so much fun. Despite waking up hungover, the breakfast at this hotel gave me life (it's amazing and there are mimosas!). I went to the spy museum with Gillian here in Berlin and it was really cool! I failed hard at the laser maze but learned a ton about espionage and was really impressed by some tiny cameras. On the way we stopped by this Mars ad for a Nat Geo program and did this upside-down spinny thing, too.

@@ -10,16 +10,15 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# October 30, 2016
+# November 7, 2016
 
-### This Week's Focus: Prep for Berlin
+### This Week's Focus: Beyond Tellerrand
 
 ### Things I'll do This Week:
 
-- [ ] Post Toolsday Episode
-- [ ] Record New Toolsday Episodes
-- [ ] Review OSS Project PRs
-- [ ] Start the run-every-day challenge
+- [ ] Record/Post Toolsday Episode
+- [ ] Research better ways to deploy Toolsday
+- [ ] Write blog post: The Future of the Web Exists Beyond Screens
 - [ ] Review all caniuse-component PR's
 - [ ] Service worker support for una.im (Offline -- and write about it) [backlog]
 - [ ] "Walk Me Through JS" send out emails [backlog]
@@ -32,8 +31,10 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Continue ES6 Course
 - [ ] Finish command line game side project
 - [ ] MyTime Slackbot build
-- [ ] Check in on book status
 - [ ] Outline post: Image color perf
+- [ ] REeview JPEG compression info
+- [ ] Give talk at Beyond Tellerrand
+- [ ] Practice/edit Beyond Tellerrand talk
 
 ### This Week's Reading List:
 
