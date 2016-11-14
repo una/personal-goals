@@ -10,31 +10,31 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# November 7, 2016
+# November 13, 2016
 
-### This Week's Focus: Beyond Tellerrand
+### This Week's Focus: Writing
 
 ### Things I'll do This Week:
 
 - [ ] Record/Post Toolsday Episode
+- [ ] Look up how to deliver comedy in talks
 - [ ] Research better ways to deploy Toolsday
-- [ ] Write blog post: The Future of the Web Exists Beyond Screens
 - [ ] Review all caniuse-component PR's
 - [ ] Service worker support for una.im (Offline -- and write about it) [backlog]
 - [ ] "Walk Me Through JS" send out emails [backlog]
-- [ ] Watch [Bryans Talk on API Design](http://2016.cascadiafest.org/speakers/bryan-hughes/)
 - [ ] Order Toolsday stickers [backlog]
 - [ ] Move unakravets.com etc to DO droplet [backlog]
 - [ ] Work on Diffee Slackbot [backlog]
 - [ ] Look into using Hoodie for Heiroglyph [backlog]
 - [ ] Outline post: Gif Optimization
 - [ ] Continue ES6 Course
-- [ ] Finish command line game side project
 - [ ] MyTime Slackbot build
 - [ ] Outline post: Image color perf
-- [ ] REeview JPEG compression info
-- [ ] Give talk at Beyond Tellerrand
-- [ ] Practice/edit Beyond Tellerrand talk
+- [ ] Check in on Toolsday guests
+- [ ] VR Tag
+- [ ] Write 2000 words for book
+- [ ] Check in on book logistics
+- [ ] Work on typeface
 
 ### This Week's Reading List:
 
@@ -49,7 +49,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Create my own, or work on helping build a cleaner JS presentation framework
 - [x] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
 - [ ] Use CSSNext PostCSS plugin for something
-- [ ] Make a JavaScript Game
+- [x] Make a JavaScript Game
 - [ ] Finish an [Algorithms]((http://livestream.com/accounts/4894689/events/4497664)) online course
 - [x] Play around with CSS Transforms for fun
 - [x] Do something with youmightnotneedjavascript.com

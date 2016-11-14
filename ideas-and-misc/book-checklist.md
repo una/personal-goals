@@ -160,7 +160,7 @@ None -- I listened to a lot of podcasts and was traveling all month
 
 ## November 2016
 
-- [ ] You Must Write a Book -- Honoree Corder
+- [x] You Must Write a Book -- Honoree Corder
 - [ ] Dark Matter --	Blake Crouch
 - [ ] The 4-Hour Body -- Tim Ferriss
 

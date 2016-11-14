@@ -1208,3 +1208,31 @@ Tonight I went pretty hard in Berlin (despite flying in today). I got dinner wit
 11/06/2016
 ---
 Today was so much fun. Despite waking up hungover, the breakfast at this hotel gave me life (it's amazing and there are mimosas!). I went to the spy museum with Gillian here in Berlin and it was really cool! I failed hard at the laser maze but learned a ton about espionage and was really impressed by some tiny cameras. On the way we stopped by this Mars ad for a Nat Geo program and did this upside-down spinny thing, too.
+
+11/07/2016
+---
+Today was the speaker dinner for Beyond Tellerand. Afterward, I went to a bar with a few people and it ended up being one of the most fun nights I had on this trip. The bar was called Sharlie Cheen, and we ended up making friends, starting a dance party, and got a ton of free shots from the bartender, Paul. He even let us help him make drinks behind the bar (we were like the only ones there and its a Monday :P). Super fun night.
+
+11/08/2016
+---
+Day 1 of Beyond Tellerand had some *incredible* talks. They were really impactful and well-delivered. I felt particularly inspired to not take "no" for an answer when I really wanted to make a change, and to charge ahead with ideas. So :) Al-in-all -- I've got some big shoes to fill for tomorrow.
+
+11/09/2016
+---
+It was a really rough day for me/my country because of the election results, but I gave a good conference talk and finalized the book I'm going to be writing with Smashing. :)
+
+11/10/2016
+---
+Today I flew home from Berlin and did a *lot* of book writing on the flight home. I wrote about 4,000 words -- which will be a solid chunk into what is ultimately going to be 50-60k words. I'm feeling pretty positive about the book and being able to get the writing I want done today, and the flight wasn't that bad.
+
+11/11/2016
+---
+My parents went to get sushi today and brought me back some really yummy rolls. Also a bubble tea -- I normally hate bubble tea (well, I hadn't really given it a chance before), but liked this one a lot :) Maybe I'll change my tune if I think of it was a desert.
+
+11/12/2016
+---
+I've been playing with a 3D software lately called Blender. It's been really tough to get into the software, but I'm really enjoying the outcomes of the 3D modeling. It's a lot of fun and instant gratification :P
+
+11/13/2016
+---
+Today I went shopping with my Mama :) and bought a beautiful navy dress to wear for various holiday events. Yay! It was nice to get out and spend some time with her.
