@@ -132,7 +132,7 @@ None -- I listened to a lot of podcasts and was traveling all month
 
 ## June 2016
 
-- [x] Originals: How Non-Conformists Move the World -- Adam Grant
+- [x] Originals: How Non-Conformists Move the World -- Adam Grant :star:
 - [x] A Brief History of Nearly Everything -- Bill Bryson
 - [x] One More Thing -- B.J. Novak
 
@@ -148,8 +148,8 @@ None -- I listened to a lot of podcasts and was traveling all month
 ## September 2016
 
 - [x] The Willpower Instinct -- Kelly McGonigal
-- [x] Golden Son -- Pierce Brown
-- [x] Morning Star -- Pierce Brown
+- [x] Golden Son -- Pierce Brown :star:
+- [x] Morning Star -- Pierce Brown :star:
 - [x] Year of Yes -- Shonda Rhimes
 
 ## October 2016
@@ -160,9 +160,10 @@ None -- I listened to a lot of podcasts and was traveling all month
 
 ## November 2016
 
-- [x] You Must Write a Book -- Honoree Corder
-- [ ] Dark Matter --	Blake Crouch
-- [ ] The 4-Hour Body -- Tim Ferriss
+- [x] You Must Write a Book -- Honoree Corder :star:
+- [x] Dark Matter --	Blake Crouch :star:
+- [x] The 4-Hour Body -- Tim Ferriss
+- [ ] Fat Chance -- Robert Lustig
 
 To-Read/Recommendations:
 ---

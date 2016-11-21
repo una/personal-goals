@@ -1236,3 +1236,31 @@ I've been playing with a 3D software lately called Blender. It's been really tou
 11/13/2016
 ---
 Today I went shopping with my Mama :) and bought a beautiful navy dress to wear for various holiday events. Yay! It was nice to get out and spend some time with her.
+
+11/14/2016
+---
+I was working from home today and Lucy was sitting next to me and cuddled by me the whole day and slowly would peek up and put her head on my laptop. It was the cutest thing :)
+
+11/15/2016
+---
+Today I went to the gym for the first time in a while. Felt so good. I had such a good workout because I was full of energy and really needed to get it out!
+
+11/16/2016
+---
+I just hung out with Lucy at home today. She's such a cutie I can't get over it. Lucy loved laying in the sun, so I took out my phone to snap way too many photos of her lying on her back with her legs sprawled open laying in the sunshine.
+
+11/17/2016
+---
+I ordered a solar system skirt and unicorn tshirt from ModCloth last week and completely forgot about it until they came in today! It was a great "surprise" :) Also, I painted my nails with this new gold sparkly polish I ordered, and oh my gosh its so fabulous. Super happy with it.
+
+11/18/2016
+---
+Today in the mail I got my Hacktoberfest tshirt and stickers! It was such a nice surprise :D And I'm so obsessed with this gold nail polish, especially love seeing it in different lights!
+
+11/19/2016
+---
+Friendsgiving was tonight, hosted by Liza and Matt. I made a fruit salad served inside of watermelons and mulled wine. Seeing everyone was great! I ate way too much food! (But it is cheat day on this diet I'm on now :P) It was just like no time had passed at all.
+
+11/20/2016
+---
+Driving today was so nice. It was super windy outside but beautiful and all the leaves were red and orange and yellow and blowing around. I blasted some music in the car and enjoyed the sunshine and Autumn.

@@ -10,13 +10,14 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# November 13, 2016
+# November 20, 2016
 
-### This Week's Focus: Writing
+### This Week's Focus: Writing & Packing
 
 ### Things I'll do This Week:
 
-- [ ] Record/Post Toolsday Episode
+- [ ] Record/post Toolsday
+- [ ] VR Tag
 - [ ] Look up how to deliver comedy in talks
 - [ ] Research better ways to deploy Toolsday
 - [ ] Review all caniuse-component PR's
@@ -31,10 +32,10 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] MyTime Slackbot build
 - [ ] Outline post: Image color perf
 - [ ] Check in on Toolsday guests
-- [ ] VR Tag
-- [ ] Write 2000 words for book
-- [ ] Check in on book logistics
 - [ ] Work on typeface
+- [ ] Thanksgiving
+- [ ] Packing for NYC
+- [ ] Revive newsletter?
 
 ### This Week's Reading List:
 
