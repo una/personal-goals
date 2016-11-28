@@ -20,4 +20,7 @@
 - [ ] Toby's Estate (PR: best take home beans)
 - [ ] Cafe Bare (PR: great litte cafe treats)
 - [ ] Oren's Daily Roast (PR: if I'm going espresso in the AM I'm going here)
-
+- [ ] Darling Coffee (PR: very far uptown, but 100% worth the trip)
+- [ ] Manhattanville Coffee (PR: some of the best coffee in Harlem)
+- [ ] The Chipped Cup
+- [ ] Lenox Coffee
