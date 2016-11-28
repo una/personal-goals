@@ -163,7 +163,8 @@ None -- I listened to a lot of podcasts and was traveling all month
 - [x] You Must Write a Book -- Honoree Corder :star:
 - [x] Dark Matter --	Blake Crouch :star:
 - [x] The 4-Hour Body -- Tim Ferriss
-- [ ] Fat Chance -- Robert Lustig
+- [x] Fat Chance -- Robert Lustig
+- [ ] Armada -- Ernest Cline
 
 To-Read/Recommendations:
 ---

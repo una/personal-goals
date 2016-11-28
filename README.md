@@ -16,7 +16,7 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ### Things I'll do This Week:
 
-- [ ] Record/post Toolsday
+- [ ] Record/Post Toolsday Episode
 - [ ] VR Tag
 - [ ] Look up how to deliver comedy in talks
 - [ ] Research better ways to deploy Toolsday
@@ -33,15 +33,16 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Outline post: Image color perf
 - [ ] Check in on Toolsday guests
 - [ ] Work on typeface
-- [ ] Thanksgiving
-- [ ] Packing for NYC
 - [ ] Revive newsletter?
+- [ ] Unpack in NY
+- [ ] Respond to all emails/contracts
+- [ ] Start looking for NYC apartment
 
 ### This Week's Reading List:
 
 - [ ] [CSS Modules By Example](http://andrewhfarmer.com/css-modules-by-example/)
 - [ ] ES6.io course by Wes Bos
-- [ ] Practical SVG by Chris Coyier
+- [ ] [James Kyle - From Zero to Binary Search Tree](https://www.youtube.com/watch?v=rG9jQ5yQvKQ)
 
 ### Things I'll Do in the Future:
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)

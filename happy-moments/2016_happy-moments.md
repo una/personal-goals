@@ -1264,3 +1264,27 @@ Friendsgiving was tonight, hosted by Liza and Matt. I made a fruit salad served 
 11/20/2016
 ---
 Driving today was so nice. It was super windy outside but beautiful and all the leaves were red and orange and yellow and blowing around. I blasted some music in the car and enjoyed the sunshine and Autumn.
+
+11/21/2016
+---
+I got a package from Sephora today! (It's so nice to have an address again so I can order things!). I got a bunch of samples that I went through with my Grandma and also this new curly hair kit, so I'm excited to try that out.
+
+11/22/2016
+---
+I went back to the gym today for my last trainer appointment with Louis. He kicked my ass. It was such an intense and fun session--pulling sleds and working the battle ropes and using kettle bells and the box. But oh my gosh am I exhausted.
+
+11/23/2016
+---
+My workplace is the literal cutest! Ahh! They sent pies for Thanksgiving to all of the remote employees :) How adorable is that? Thank you, DigitalOcean!
+
+11/24/2016
+---
+Happy Thanksgiving :) Thismorning, I ran a 5-mile Turkey Trot with my dad and brother, and then watched the Macy's Thanksgiving Day parade with the rest of my family when I got home (and the National Dog Show!). Later, as we always do, we went over to my Aunts house for Thanksgiving dinner. I got to eat my literal favorite food of the year: candied yams (yummmm!!!). After dinner, I played a bunch of Mario Party 1 and 2 mini games with my younger cousin and he showed me a server he built. So proud of him :)
+
+11/25/2016
+---
+Today I went Black Friday shopping with my parents. The mall we went to was such a mess, but I got this pretty rad leather jacket that I love and can't wait to wear in New York :). I also got dinner with Erin later and we caught up about life at this new restuarant/bar in a recently-developed section of my hometown. It got built up so fast!
+
+11/26/2016
+---
+I met up with Liza today to get our toes/nails done (I got my toes done in Baltimore before heading to NYC tomorrow!!). Matt was hanging out around there and even brought us coffee :P so sweet of him. It was nice to relax and catch up and have nicely painted toenails again :P
