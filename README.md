@@ -10,13 +10,13 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# November 20, 2016
+# December 4, 2016
 
-### This Week's Focus: Writing & Packing
+### This Week's Focus: Side Projects
 
 ### Things I'll do This Week:
 
-- [ ] Record/Post Toolsday Episode
+- [ ] Record Toolsday Episode with Sarah
 - [ ] VR Tag
 - [ ] Look up how to deliver comedy in talks
 - [ ] Research better ways to deploy Toolsday
@@ -31,18 +31,17 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Continue ES6 Course
 - [ ] MyTime Slackbot build
 - [ ] Outline post: Image color perf
-- [ ] Check in on Toolsday guests
 - [ ] Work on typeface
 - [ ] Revive newsletter?
-- [ ] Unpack in NY
-- [ ] Respond to all emails/contracts
-- [ ] Start looking for NYC apartment
+- [ ] Queens JS ugly sweater party
+- [ ] Guests coming in to town
+- [ ] Start holiday cards
+- [ ] Shop & send secret santa gifts
 
 ### This Week's Reading List:
 
 - [ ] [CSS Modules By Example](http://andrewhfarmer.com/css-modules-by-example/)
 - [ ] ES6.io course by Wes Bos
-- [ ] [James Kyle - From Zero to Binary Search Tree](https://www.youtube.com/watch?v=rG9jQ5yQvKQ)
 
 ### Things I'll Do in the Future:
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)

@@ -1288,3 +1288,35 @@ Today I went Black Friday shopping with my parents. The mall we went to was such
 11/26/2016
 ---
 I met up with Liza today to get our toes/nails done (I got my toes done in Baltimore before heading to NYC tomorrow!!). Matt was hanging out around there and even brought us coffee :P so sweet of him. It was nice to relax and catch up and have nicely painted toenails again :P
+
+11/27/2016
+---
+Today I arrived in New York! Hello new city! The corporate apartment is in a really cool area of town -- NoLiTa (North of Little Italy) and I spent the day getting my things in gear. Made it to a coffee shop to chill and write and reflect for my Sunday reflection time at the end of it all. It keeps me grounded.
+
+11/28/2016
+---
+First day of work in the office today! And its super nice to be here :) My manager decorated my desk with sticky notes and I discovered this really yum green tea drink they have here. Also my coworkers are the best and I'm slowly rediscovering this now.
+
+11/29/2016
+---
+Today I wandered a bit on my way home from work and found a few really cool shops. I stopped by one which was a space where different crafty people had spots and showed jewelry and house wares and such. It was a nice little wander.
+
+11/30/2016
+---
+After work today there was this women-only tech event and it was really cool to be at. It was hosted at my office and there were some awesome women in STEM there giving talks. We also had these really interesting sandwiches for food (they were kind of funny looking bc they were trying to be fancy) but were yummy and there was lox so I ate the lox on top and was happy.
+
+12/01/2016
+---
+Today was the DigitalOcean holiday party! It was so much fun! I got dressed up with a bunch of the girls who work here before leaving and Selby put fake eyelashes on me for the first time. There was an open bar and good food and a lot of dancing at the party itself (which was on a boat that cruised the harbor). After, a bunch of people went to another bar to keep drinking. It was a late night :P
+
+12/02/2016
+---
+Happy Friday :) I needed to rest today from last night. So I very happily got to bed early (around 11) and had a good sleep.
+
+12/03/2016
+---
+I did so many things today! It started with 3 apartment viewings, then I wandered *so much* of NYC with Etel (I ended up walking 23k steps today). We went through Chelsea and on the Highline and ended up by Rockefeller Center and the holiday market at Bryant Park. Then, we wandered into the mall by Columbus Circle, did our makeup for the night at Sephora, met up with other coworkers for dinner, and met up with Leah and her boyfriend and their friends at a bar for mulled wine after that. Tim showed up, drinking happened, we moved to another bar, and the night ended with 2 AM sushi and sake. It was amazing :)
+
+12/04/2016
+---
+Today I saw the Christmas Spectacular at Radio City Music Hall with Etel. I've always wanted to see the Rockettes so this was really awesome for me (also super spontaneous bc we purchased tickets the day before on this app). There were indoor fireworks and snowflake drones and a really cool number with multiplying Santas. My favorite was a rotating bus on the stage with the Rockettes that, in sync with the background, was a really trippy view of it driving through the city.
