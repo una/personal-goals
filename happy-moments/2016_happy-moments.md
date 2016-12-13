@@ -1320,3 +1320,31 @@ I did so many things today! It started with 3 apartment viewings, then I wandere
 12/04/2016
 ---
 Today I saw the Christmas Spectacular at Radio City Music Hall with Etel. I've always wanted to see the Rockettes so this was really awesome for me (also super spontaneous bc we purchased tickets the day before on this app). There were indoor fireworks and snowflake drones and a really cool number with multiplying Santas. My favorite was a rotating bus on the stage with the Rockettes that, in sync with the background, was a really trippy view of it driving through the city.
+
+12/05/2016
+---
+Ahh tonight was so much fun! I ended up joining Tim and Nick for drinks as a karaoke bar called Baby Grand around 10 PM. We made so many friends :P and there were so many incredible performers! I really wanna go back now every Monday. 
+
+12/06/2016
+---
+Today we had a team dinner for Aurora Infrasturcture :) Our manager found a restaurant called Aurora, so naturally we had to go there. It was a really awesome place too! An adorable Italian spot with really good food and wine :)
+
+12/07/2016
+---
+Today was QueensJS ugly sweater holiday event/party. While it was a bit of a haul to get to, I'm glad I ended up going because the talks were great. I learned so much about emoji and was re-inspired to pick up side projects again. Gahh I need to start making more time for them.
+
+12/08/2016
+---
+The gym I go to has a sauna, and its a really nice end-of-workout chill activity. I went in there today and just listened to my audiobook and let the sweat happen. Very zen.
+
+12/09/2016
+---
+Happy Friday! Alex got in today and we met up for a short time before going to dinner with different groups of people (I met up with Sarah and Val and Tim and a few others at this Italian restaurant called Pepolino). After, I met up with Alex and his friend Patchi to go to this cocktail bar called Ghost Donkey which was covered in lights that danced with music and there was a huge shrine to a mule with a smaller mule drinking on top and it was just a blast/a really awesome spot. Super close to where I live too :)
+
+12/10/2016
+---
+Alex and I slept in, got brunch at this really cute small place called Jack's Wife Freda, and then wandered around town, checking out a popup exhibit (The Glass Room) that explored cyber security. We also met up later with Leah and Vicki and friends at a Pizzeria called Numero 28, which was so so yummy. No regrets :P
+
+12/11/2016
+---
+Today I got super last minute tickets with Alex to go see The Color Purple (which was *outstanding*), and when we left the theatre it was snowing and we went to go to see the huge tree at Rockefeller Center and it was kind of magical :) Dinner was also amaze -- we ate at this Japanese BBQ place called Gyu-Kaku and got a carafe of sake and it was great.

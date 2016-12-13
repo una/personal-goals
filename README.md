@@ -10,14 +10,13 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# December 4, 2016
+# December 11, 2016
 
 ### This Week's Focus: Side Projects
 
 ### Things I'll do This Week:
 
-- [ ] Record Toolsday Episode with Sarah
-- [ ] VR Tag
+- [ ] Record Toolsday Episodes
 - [ ] Look up how to deliver comedy in talks
 - [ ] Research better ways to deploy Toolsday
 - [ ] Review all caniuse-component PR's
@@ -31,12 +30,19 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Continue ES6 Course
 - [ ] MyTime Slackbot build
 - [ ] Outline post: Image color perf
-- [ ] Work on typeface
+- [ ] Work on typeface (hand-lettered monospace)
 - [ ] Revive newsletter?
-- [ ] Queens JS ugly sweater party
-- [ ] Guests coming in to town
-- [ ] Start holiday cards
-- [ ] Shop & send secret santa gifts
+- [ ] Send secret santa gifts
+- [ ] Writing
+- [ ] VR Tag !! <--
+- [ ] See apartments
+- [ ] Start 30 Days of JS 
+- [ ] Work on Holiday cards
+- [ ] Finish wider outline
+- [ ] Watch: https://www.youtube.com/watch?v=gqc88qWuiI4
+- [ ] Make something with the happy moments
+- [ ] Design Systems Meetup
+- [ ] Buzzfeed Tech Talks
 
 ### This Week's Reading List:
 
