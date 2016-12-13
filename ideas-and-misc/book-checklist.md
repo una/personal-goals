@@ -164,7 +164,7 @@ None -- I listened to a lot of podcasts and was traveling all month
 - [x] Dark Matter --	Blake Crouch :star:
 - [x] The 4-Hour Body -- Tim Ferriss
 - [x] Fat Chance -- Robert Lustig
-- [ ] Armada -- Ernest Cline
+- [x] Armada -- Ernest Cline
 
 To-Read/Recommendations:
 ---

@@ -5,6 +5,7 @@
 # Manhattan
 
 - [x] Caffe Bene (Broadway)
+- [x] TOMS Store (NoLiTa)
 - [ ] Abraco (PR: my absolute favorite in the city, get the olive oil bread)
 - [ ] Stumptown
 - [ ] City of Saints (PR: my favorite baristas)
