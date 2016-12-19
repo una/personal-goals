@@ -166,6 +166,10 @@ None -- I listened to a lot of podcasts and was traveling all month
 - [x] Fat Chance -- Robert Lustig
 - [x] Armada -- Ernest Cline
 
+## December 2016
+
+- [ ] A Little Life -- 
+
 To-Read/Recommendations:
 ---
 - [ ] Pitch Perfect -- Bill McGowan //via Wes Bos

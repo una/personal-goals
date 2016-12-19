@@ -10,14 +10,14 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# December 11, 2016
+# December 18, 2016
 
-### This Week's Focus: Side Projects
+### This Week's Focus: JS Side Projects
 
 ### Things I'll do This Week:
 
-- [ ] Record Toolsday Episodes
-- [ ] Look up how to deliver comedy in talks
+- [ ] Record/Post Toolsday Episode
+- [ ] Writing
 - [ ] Research better ways to deploy Toolsday
 - [ ] Review all caniuse-component PR's
 - [ ] Service worker support for una.im (Offline -- and write about it) [backlog]
@@ -27,22 +27,14 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Work on Diffee Slackbot [backlog]
 - [ ] Look into using Hoodie for Heiroglyph [backlog]
 - [ ] Outline post: Gif Optimization
-- [ ] Continue ES6 Course
 - [ ] MyTime Slackbot build
 - [ ] Outline post: Image color perf
 - [ ] Work on typeface (hand-lettered monospace)
 - [ ] Revive newsletter?
-- [ ] Send secret santa gifts
-- [ ] Writing
 - [ ] VR Tag !! <--
-- [ ] See apartments
 - [ ] Start 30 Days of JS 
-- [ ] Work on Holiday cards
 - [ ] Finish wider outline
-- [ ] Watch: https://www.youtube.com/watch?v=gqc88qWuiI4
-- [ ] Make something with the happy moments
-- [ ] Design Systems Meetup
-- [ ] Buzzfeed Tech Talks
+- [ ] Make something with the happy moments <-- 
 
 ### This Week's Reading List:
 

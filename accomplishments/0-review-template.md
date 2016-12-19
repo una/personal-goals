@@ -13,6 +13,7 @@
 ## Things I'll Do Next Week:
 
 - [ ] Record/Post Toolsday Episode
+- [ ] Writing
 
 ## Things I'll Read/Watch Next Week:
 
