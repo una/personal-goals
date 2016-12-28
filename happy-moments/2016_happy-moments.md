@@ -1348,3 +1348,67 @@ Alex and I slept in, got brunch at this really cute small place called Jack's Wi
 12/11/2016
 ---
 Today I got super last minute tickets with Alex to go see The Color Purple (which was *outstanding*), and when we left the theatre it was snowing and we went to go to see the huge tree at Rockefeller Center and it was kind of magical :) Dinner was also amaze -- we ate at this Japanese BBQ place called Gyu-Kaku and got a carafe of sake and it was great.
+
+12/12/2016
+---
+It's Monday, which means "lets go out tonight" day in New York :P I hung out with Jackie Balzer for the first time tonight! That was a blast! Tim, me and her went to the Ship (this cocktail bar) and then to Ghost Donkey (another awesome cocktail bar). Many many drinks and laughs later, I had a great time tonight :)
+
+12/13/2016
+---
+I did all of my secret santa (for work) shopping today :D I had a ton of fun picking things out and I really hope my secret santa likes the gifts! Hint: lots of adorable doggie items and also other goodies. 
+
+12/14/2016
+---
+I bought winter boots today! Yay! I've been really needing some nice, warm, waterproof boots, and after this tech event at Buzzfeed, I stopped by DSW and got me a pair :) I love them already.
+
+12/15/2016
+---
+Tonight was the first ever Design Systems Coalition Meetup in NYC! It was a really cool event to attend because of the niche topic, and I felt like I knew a lot of the people there from the Internet. I'm excited for more events to come.
+
+12/16/2016
+---
+I met up with Leah and boy and Josh Foster and his fiance (who were visiting) tonight. We got drinks and danced at this little restaurant in East Village that was playing some throwback tunes. Leah got a great video of my dancing and singing to Sweet Caroline, which is how I remember the evening. The drinking had started at work after an AMA :P
+
+12/17/2016
+---
+After seeing some potential homes, I went out with Tim, Jackie and crew, and Sam tonight. OMG what a blast. We ended up going to this cantina for sangria and some snacks, and then to one of Tim's favorite bars (I don't recall the name). So much joy was had, as always. 
+
+12/18/2016
+---
+Patricia and I went to see some more places today and we think we found *the one*. This BEAUTIFUL apartment in Cobble Hill right down the street from the subway and on a really great street. There's a Paper Source 5 mins away! And so many cute hipster little coffee shops :) EEE! I hope we get it.
+
+12/19/2016
+---
+I spent the evening crafting holiday cards and tried out the candle I got from this White Elephant party this past weekend. The candle smelled *so yumm* and had a wooden wick -- which was super cool because you could hear it crackling like a fireplace. I'm obsessed with it!
+
+12/20/2016
+---
+Today we were officially approved for the apartment on Smith! I picked up a really cool lamp and A/C unit from some people who were moving out. I got it all for a pretty great deal :D
+
+12/21/2016
+---
+I made cutout snowflakes at work today because we learned that one of my teammates had never made one before! Ahh! What a throwback :P
+
+12/22/2016
+---
+Today after work I hunt out with a bunch of coworkers and ordered food and played poker. I definitely lost all my chips but it was pretty chill :)
+
+12/23/2016
+---
+I discovered a really yumm sushi place around the corner from my apartment. Oh boy, this is going to be dangerous. I got a rainbow roll and it was so so good -- the rice, the fish, everything.
+
+12/24/2016
+---
+It's Christmas Eve! I spent the day by myself, which was kind of nice for a change. I went to a coffee shop and actually got a bit of work done, wandered a bit, and ended up checking out the Google pop up store.
+
+12/25/2016
+---
+Tonight I had some girls from #makeupconf over for Christmas festivities: mulled wine, a movie, and crafts, (oh and we ordered sushi of course). It was a feast :) And very cozy. Nice to have people over.
+
+12/26/2016
+---
+I went to Gotan, one of my favorite places in NY to get coffee and some food today, and did my year in review there. It felt really good compiling a bunch of things I did this year to really recognize my accomplishments, after being a little down about not doing as much as last year.
+
+12/27/2016
+---
+I went to a Hannukah party today where Tracy was making latkes and I saw a bunch of people in NY that I hadn't seen yet who are in tech and it was super cozy and very cute and I drank way too much wine and then after went and got drinks with someone and has a great time till 2 AM and this is too long but it was a really fun night :)

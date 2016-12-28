@@ -138,7 +138,7 @@ None -- I listened to a lot of podcasts and was traveling all month
 
 ## July 2016
 
-- [ ] Hackers :sleeping:
+- [x] Hackers :sleeping:
 
 ## August 2016
 
@@ -168,7 +168,10 @@ None -- I listened to a lot of podcasts and was traveling all month
 
 ## December 2016
 
-- [ ] A Little Life -- 
+- [ ] A Little Life -- Hanya Yanagihara
+- [x] Triggers -- Marshall Goldsmith
+- [x] Born a Crime -- Trevor Noah :star:
+- [ ] Algorithms to Live By -- Brian Christian and Tom Griffiths
 
 To-Read/Recommendations:
 ---

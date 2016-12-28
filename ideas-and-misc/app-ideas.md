@@ -41,3 +41,4 @@ Things I want to work on, but need to keep out of the main page because its gett
 - [ ] ~~CLI tool for IBM Internal weekly "FED Dates"~~
 - [ ] Yeoman generator for podcasts
 - [ ] PostCSS JS-like triggers (like `@action toggle {}`)
+- [ ] Mail-based lunch calendar for DO

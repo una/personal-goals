@@ -10,13 +10,12 @@ Personal goals made open source for accessibility across computers I use, transp
 4. Build a Lot of Things
 5. Prioritize my Health
 
-# December 18, 2016
+# December 25, 2016
 
-### This Week's Focus: JS Side Projects
+### This Week's Focus: Wrap Up
 
 ### Things I'll do This Week:
 
-- [ ] Record/Post Toolsday Episode
 - [ ] Writing
 - [ ] Research better ways to deploy Toolsday
 - [ ] Review all caniuse-component PR's
@@ -32,9 +31,15 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Work on typeface (hand-lettered monospace)
 - [ ] Revive newsletter?
 - [ ] VR Tag !! <--
-- [ ] Start 30 Days of JS 
+- [x] Start 30 Days of JS 
 - [ ] Finish wider outline
-- [ ] Make something with the happy moments <-- 
+- [ ] Write year in review post
+- [ ] Write post from dads interview
+- [ ] Update this template for next year
+- [ ] Think of 30-day projects I want to do next year
+- [ ] Holidays
+- [ ] Every Damn Day App (accountability), sketch out
+- [ ] Set up Toolsday interviews for next year
 
 ### This Week's Reading List:
 
