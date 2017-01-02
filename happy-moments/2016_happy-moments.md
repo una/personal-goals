@@ -1412,3 +1412,19 @@ I went to Gotan, one of my favorite places in NY to get coffee and some food tod
 12/27/2016
 ---
 I went to a Hannukah party today where Tracy was making latkes and I saw a bunch of people in NY that I hadn't seen yet who are in tech and it was super cozy and very cute and I drank way too much wine and then after went and got drinks with someone and has a great time till 2 AM and this is too long but it was a really fun night :)
+
+12/28/2016
+---
+I did a lot of reflecting today and came up with some 25-days projects for 2017. I love the end of the year because it means a lot of reflection, and I love getting sentimental :) Here's to a better year in 2017.
+
+12/29/2016
+---
+We moved in today!!! It was a hectic day of Ikea, sorting out some logistics, and starting to furnish our place. I love the Smith Street apartment :) and can't wait to fully move in.
+
+12/30/2016
+---
+I took the bus home today, and right after I got home met up with Liza for our annual lady-date. She brought my bridesmaids dress and we got sushi and drank wine and it was great :) I love this tradition.
+
+12/31/2016
+---
+Happy New Year! I started the morning with Amanda fixing my hair (OMG its so fabulous now I love it! Like, so much I keep taking photos and telling people how much I love it). Then, as always, we had all of the cousins come over and had way too much food and opened presents and played games (like Hungry Hungry Hippos). This is the best holiday hands down.

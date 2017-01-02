@@ -171,6 +171,9 @@ None -- I listened to a lot of podcasts and was traveling all month
 - [ ] A Little Life -- Hanya Yanagihara
 - [x] Triggers -- Marshall Goldsmith
 - [x] Born a Crime -- Trevor Noah :star:
+
+## January 2017
+
 - [ ] Algorithms to Live By -- Brian Christian and Tom Griffiths
 
 To-Read/Recommendations:

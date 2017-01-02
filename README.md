@@ -3,68 +3,55 @@ Personal Goals
 
 Personal goals made open source for accessibility across computers I use, transparency, accountability, and versioning. Learn more about it [here](http://una.im/personal-goals-guide).
 
-# Overarching Goals for 2016: [Small Dreams are Boring](http://una.im/2015-review/)
-1. JavaScript!
-2. Write a Book
-3. Bridge the Designer/Dev Gap
-4. Build a Lot of Things
-5. Prioritize my Health
+# Overarching Goals for 2017: [Make an Impact](http://una.im/2016-review/)
+1. JavaScript
+2. Be a Teacher
+3. Stay Experimental
+4. Publish a Book
+5. Start Running Again
 
-# December 25, 2016
+I'm also doing 5 25-Days Projects in 2017:
 
-### This Week's Focus: Wrap Up
+1. Running
+2. Writing Letters
+3. Mentorship
+4. Dev Doodles
+5. Meditation
+
+# January 1, 2017
+
+### This Week's Focus: Writing Outline / Fresh Start
 
 ### Things I'll do This Week:
 
-- [ ] Writing
-- [ ] Research better ways to deploy Toolsday
-- [ ] Review all caniuse-component PR's
-- [ ] Service worker support for una.im (Offline -- and write about it) [backlog]
-- [ ] "Walk Me Through JS" send out emails [backlog]
-- [ ] Order Toolsday stickers [backlog]
-- [ ] Move unakravets.com etc to DO droplet [backlog]
-- [ ] Work on Diffee Slackbot [backlog]
-- [ ] Look into using Hoodie for Heiroglyph [backlog]
-- [ ] Outline post: Gif Optimization
-- [ ] MyTime Slackbot build
-- [ ] Outline post: Image color perf
-- [ ] Work on typeface (hand-lettered monospace)
-- [ ] Revive newsletter?
-- [ ] VR Tag !! <--
-- [x] Start 30 Days of JS 
-- [ ] Finish wider outline
-- [ ] Write year in review post
-- [ ] Write post from dads interview
-- [ ] Update this template for next year
-- [ ] Think of 30-day projects I want to do next year
-- [ ] Holidays
-- [ ] Every Damn Day App (accountability), sketch out
-- [ ] Set up Toolsday interviews for next year
-
-### This Week's Reading List:
-
-- [ ] [CSS Modules By Example](http://andrewhfarmer.com/css-modules-by-example/)
-- [ ] ES6.io course by Wes Bos
+- [ ] Get Toolsday guests and shows sorted for the month
+- [ ] Writing (get back on track with daily word count)
+- [ ] Review Github PRs for myrepos
+- [ ] Implement a better way to deploy Toolsday
+- [ ] Offline support for una.im (and write about it) [backlog]
+- [ ] VR Tag <-- Start a New one
+- [ ] Post outline: Study on blend modes for color perf improvements
+- [ ] Sketch out Every Damn Day App (accountability)
+- [ ] Finish wider outline & send to publisher
+- [ ] CFP for web rebels
+- [ ] Begin Running Streak (25 Days Project #1)
+- [ ] Read 3 24-Ways Articles on my Kindle
+- [ ] Buy furniture
+- [ ] Personal training sessions
 
 ### Things I'll Do in the Future:
-- [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
-- [ ] ~~[Picturefill](http://scottjehl.github.io/picturefill/) my portfolio~~
+
+- [ ] Read through all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 - [ ] Build something cool with Arduino
 - [ ] Create my own, or work on helping build a cleaner JS presentation framework
-- [x] Submit an article to [A List Apart](http://alistapart.com/about/contribute)
-- [ ] Use CSSNext PostCSS plugin for something
-- [x] Make a JavaScript Game
-- [ ] Finish an [Algorithms]((http://livestream.com/accounts/4894689/events/4497664)) online course
-- [x] Play around with CSS Transforms for fun
-- [x] Do something with youmightnotneedjavascript.com
-- [ ] New version of Happy Moments for 2016
-- [ ] Create a typeface
-- [x] Build a project using ES6 best practices
-- [ ] Build an E-Card generator API
+- [ ] Create a typeface (hand-lettered monospace)
 - [ ] Make an electron app
-
-### Backlog: Side Projects & Other Ideas
-- [Apps & Other Projects](https://github.com/una/personal-goals/blob/master/ideas-and-misc/app-ideas.md)
-- [Blog Post Ideas](https://github.com/una/personal-goals/blob/master/ideas-and-misc/blog-ideas.md)
-- [Backlog Reading List](https://github.com/una/personal-goals/tree/master/content-list)
-
+- [ ] Build a SlackBot (MyTime)
+- [ ] Every Day App (Happy moments or X-Days Projects)
+- [ ] Take this [online elecctronics class](http://www.instructables.com/class/Electronics-Class/)
+- [ ] Finish [JavaScript 30](https://javascript30.com/)
+- [ ] "Walk Me Through JS" Video Series
+- [ ] Toolsday & Web Love stickers
+- [ ] Implement offline support for my blog
+- [ ] Build an Offline Web App (Heiroglyph)
+- [ ] Raise money for women in tech organizations

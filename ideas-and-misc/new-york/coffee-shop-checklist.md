@@ -8,12 +8,12 @@
 
 - [x] TOMS Store 💻
 - [x] Think Coffee 💻
+- [ ] La Colombe (PR: a Philly chain, best icey)
 
 ## East Village
 
 - [x] Caffe Bene (Broadway)
 - [ ] Abraco (PR: my absolute favorite in the city, get the olive oil bread)
-
 
 ## Lower East Side
 
@@ -29,10 +29,10 @@
 - [ ] City of Saints (PR: my favorite baristas)
 - [ ] Cafe Grumpy
 - [ ] Culture (PR: the best cookie in NYC)
-- [ ] Ninth Street Espresso- [ ] Bluestone Lane (PR: australian brand that serves Nitro cold brew)
+- [ ] Ninth Street Espresso
+- [ ] Bluestone Lane (PR: australian brand that serves Nitro cold brew)
 - [ ] Ramini (PR: interesting spot, they serve 41st Parallel from Vancouver) 
 - [ ] Blue Bottle (PR: still the best pour over)
-- [ ] La Colombe (PR: a Philly chain, best icey)
 - [ ] Joe's (PR: best house brew)
 - [ ] Toby's Estate (PR: best take home beans)
 - [ ] Cafe Bare (PR: great litte cafe treats)

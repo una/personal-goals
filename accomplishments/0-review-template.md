@@ -15,6 +15,4 @@
 - [ ] Record/Post Toolsday Episode
 - [ ] Writing
 
-## Things I'll Read/Watch Next Week:
-
 ### Week in Review
