@@ -18,15 +18,17 @@ I'm also doing 5 25-Days Projects in 2017:
 4. Dev Doodles
 5. Meditation
 
-# January 1, 2017
+# January 8, 2017
 
-### This Week's Focus: Writing Outline / Fresh Start
+### This Week's Focus: Write Write Write!
 
 ### Things I'll do This Week:
 
-- [ ] Get Toolsday guests and shows sorted for the month
+
+- [ ] Record/Post Toolsday Episode
+- [ ] Add 25 days files to personal goals repo
 - [ ] Writing (get back on track with daily word count)
-- [ ] Review Github PRs for myrepos
+- [ ] Review Github PRs for my repos
 - [ ] Implement a better way to deploy Toolsday
 - [ ] Offline support for una.im (and write about it) [backlog]
 - [ ] VR Tag <-- Start a New one
@@ -34,10 +36,13 @@ I'm also doing 5 25-Days Projects in 2017:
 - [ ] Sketch out Every Damn Day App (accountability)
 - [ ] Finish wider outline & send to publisher
 - [ ] CFP for web rebels
-- [ ] Begin Running Streak (25 Days Project #1)
-- [ ] Read 3 24-Ways Articles on my Kindle
-- [ ] Buy furniture
-- [ ] Personal training sessions
+- [ ] RandomHack (finish it enough to share)
+- [ ] 25 Days Project setup (emails)
+- [ ] Manhattan JS
+- [ ] Send "Quick Tip" to Eric
+- [ ] Post outline for Shopify
+- [ ] Find an editor for the book
+- [ ] Grandpa's 80th bday
 
 ### Things I'll Do in the Future:
 

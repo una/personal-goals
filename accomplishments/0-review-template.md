@@ -2,9 +2,9 @@
 
 ## This Week's Focus:
 
-## Things I Did From the List:
+### Things I Did From the List:
 
-## Things I Didn't Get to/Finish:
+### Things I Didn't Get to/Finish:
 
 ### Additional Things I Did:
 
@@ -14,5 +14,10 @@
 
 - [ ] Record/Post Toolsday Episode
 - [ ] Writing
+
+## Fitness Goals Progress
+
+- Weigh in:
+- Timed Mile:
 
 ### Week in Review

@@ -174,7 +174,8 @@ None -- I listened to a lot of podcasts and was traveling all month
 
 ## January 2017
 
-- [ ] Algorithms to Live By -- Brian Christian and Tom Griffiths
+- [x] Algorithms to Live By -- Brian Christian and Tom Griffiths
+- [ ] Tiny Beautiful Things -- Cheryl Strayed
 
 To-Read/Recommendations:
 ---
