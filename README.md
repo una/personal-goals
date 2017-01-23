@@ -53,7 +53,7 @@ I'm also doing 5 25-Days Projects in 2017:
 - [ ] Make an electron app
 - [ ] Build a SlackBot (MyTime)
 - [ ] Every Day App (Happy moments or X-Days Projects)
-- [ ] Take this [online elecctronics class](http://www.instructables.com/class/Electronics-Class/)
+- [ ] Take this [online electronics class](http://www.instructables.com/class/Electronics-Class/)
 - [ ] Finish [JavaScript 30](https://javascript30.com/)
 - [ ] "Walk Me Through JS" Video Series
 - [ ] Toolsday & Web Love stickers
