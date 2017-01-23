@@ -1,6 +1,8 @@
 # A Checklist of New York Coffee Shops.
 
 (:star: == outstanding)
+(💻 == good for working)
+(🍽 == has food)
 
 # Manhattan
 
@@ -47,3 +49,4 @@
 ## Cobble Hill
 
 - [x] Regular Visitors
+- [x] Konditori 💻

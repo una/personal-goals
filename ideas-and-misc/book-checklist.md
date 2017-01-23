@@ -175,7 +175,10 @@ None -- I listened to a lot of podcasts and was traveling all month
 ## January 2017
 
 - [x] Algorithms to Live By -- Brian Christian and Tom Griffiths
-- [ ] Tiny Beautiful Things -- Cheryl Strayed
+- [x] Tiny Beautiful Things -- Cheryl Strayed
+- [ ] How We Got to Now: Six Innovations that Made the Modern World -- Steve Johnson
+- [ ] Guards! Guards! --
+- [ ] Flowers for Algernon --
 
 To-Read/Recommendations:
 ---

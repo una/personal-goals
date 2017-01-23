@@ -57,3 +57,30 @@ I got brunch with my coworker this morning at Pietro Nolita--this entirely pink 
 01/15/2016
 ---
 I joined CitiBike Share this morning :) and rode around a bit and then saw Arrival with Tim at the Alamo Drafthouse! Ahh it made me so happy to be biking again and also that the Alamo Drafthouse is so close to me :D It's about equidistant from me here than the one in Austin was.
+
+01/16/2017
+---
+I went on a date today at a shuffleboard place called the Royal Palms-- like real full-size shuffleboard. It was a lot of fun :) I wasn't great at it, but it's fine. We also played connect four and then headed to a bar on my street. Love this neighborhood.
+
+01/17/2017
+---
+
+01/18/2017
+---
+We recorded Toolsday with Glenn Maddern today. It was so good to hear his perspective on things and the after-recording discussion about CSS was really good. Also just nice to catch up :) Reminds me why I love Toolsday so much.
+
+01/19/2017
+---
+Today was BrooklynJS! Which was really good. I got to meet Sarah from makeupconf who did a great talk about diagrams in documentation and learning styles. Hanging out afterward was nice too  :)
+
+01/20/2017
+---
+Went on a second date today with Stepan. We got drinks at Lumos, this small SoHo bar with *great* cocktails, and then went to see a Broadway show, Waitress. Then we went to the Blind Barber (finally made it here) and I ended up getting home at 3:30AM. One of those nights.
+
+01/21/2017
+---
+Today I went over to John Resig's house with a small group to play board games. It was a lot of fun :) I forgot how much I love to play board games and he made some really good food for us. I left and bought one called Sushi Go on my way home.
+
+01/22/2017
+---
+There was a Software for Artists Day (like a small conference) at Pioneer Works today. A lot of really cool projects were exhibited! Definitely left feeling inspired and wanting to do more.
