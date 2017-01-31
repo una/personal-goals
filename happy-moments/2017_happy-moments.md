@@ -84,3 +84,31 @@ Today I went over to John Resig's house with a small group to play board games. 
 01/22/2017
 ---
 There was a Software for Artists Day (like a small conference) at Pioneer Works today. A lot of really cool projects were exhibited! Definitely left feeling inspired and wanting to do more.
+
+1/23/2017
+---
+Today I did some calligraphy-ing for the crafts and code logo. I'm excited about my future Twitch stream :)
+
+1/24/2017
+---
+I got these awesome unicorn makeup brushes in the mail today. Idk if I'll actually use them, but they just make me really happy.
+
+1/25/2017
+---
+I finally finished setting up service workers for my blog to have offline save capabilities. The post was published today and got a lot of really positive feedback. I'm so glad I finally did this!
+
+1/26/2017
+---
+DigitalOcean had a company event where they rented out a theatre for us to all watch Hidden Figures at. It was a great event :) So much food though!
+
+1/27/2017
+---
+After work today we had a happy hour for one of the people temporarily leaving the NYC office. Afterward, I went to see a midnight showing of the Big Lebowski with Pat and Tim. Definitely a fun but unexpected end to the night.
+
+1/28/2017
+---
+This morning I got breakfast tacos at Tacombi with two of my coworkers who are staying in the corporate housing with me. They're so yumm there and my coworkers are awesome :)
+
+1/29/2017
+---
+Today I stayed in bed because I'm sick most of the day, but I did watch the Little Prince on Netflix, which is really cute, and beautifully illustrated movie.

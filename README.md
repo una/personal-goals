@@ -18,31 +18,31 @@ I'm also doing 5 25-Days Projects in 2017:
 4. Dev Doodles
 5. Meditation
 
-# January 22, 2017
+# January 29, 2017
 
-### This Week's Focus: Write Write Write!
+### This Week's Focus: Write & Run
 
 ### Things I'll do This Week:
 
 - [ ] Record/Post Toolsday Episode
 - [ ] Writing
-- [ ] Read [article on switching to PostCSS](https://tylergaw.com/articles/sass-to-postcss)
-- [ ] Work on BattleDeck Generator in Vue
-- [ ] Offline support for my website
+- [ ] Make sure to send book outline
 - [ ] Find an editor for the book
-- [ ] Add 25 days files to personal goals repo
+- [ ] Work on BattleDeck Generator in Vue
 - [ ] Writing (get back on track with daily word count)
 - [ ] Review Github PRs for my repos
-- [ ] Offline support for una.im (and write about it) [backlog]
 - [ ] VR Tag <-- Start a New one
 - [ ] Post outline: Study on blend modes for color perf improvements
-- [ ] Finish post for Shopify
-- [ ] Figure out timed mile
 - [ ] Design for stickers (Code Like a Girl)
 - [ ] Writeup initial experiences with Surface Book
-- [ ] Mentorship sessions (25 days project)
-- [ ] Dance class
-- [ ] Make sure to send book outline
+- [ ] Final post for Shopify
+- [ ] Buy ManhattanJS tix
+- [ ] STEM night
+- [ ] Mentorship meetings
+- [ ] Go Running
+- [ ] Loews for various tasks
+- [ ] Respond to all confs in inbox
+- [ ] Offline-first design talk outline
 
 ### Things I'll Do in the Future:
 
@@ -60,3 +60,4 @@ I'm also doing 5 25-Days Projects in 2017:
 - [ ] Implement offline support for my blog
 - [ ] Build an Offline Web App (Heiroglyph)
 - [ ] Raise money for women in tech organizations
+- [ ] Read [Resilient Web Design](https://resilientwebdesign.com/)
