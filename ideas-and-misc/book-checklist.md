@@ -177,9 +177,14 @@ None -- I listened to a lot of podcasts and was traveling all month
 - [x] Algorithms to Live By -- Brian Christian and Tom Griffiths
 - [x] Tiny Beautiful Things -- Cheryl Strayed :star:
 - [x] Flowers for Algernon -- Daniel Keyes :star:
+- [x] Lock In -- John Scalzi :star:
+
+## February 2017
+
+- [x] Guards! Guards! -- Terry Pratchett
 - [ ] How We Got to Now: Six Innovations that Made the Modern World -- Steve Johnson
-- [ ] Guards! Guards! -- Terry Pratchett
-- [ ] Lock In -- John Scalzi :star:
+- [ ] Love Star --  Andri Snaer Magnason
+- [ ] And the Monkey Learned Nothing -- Tom Lutz :star:
 
 To-Read/Recommendations:
 ---

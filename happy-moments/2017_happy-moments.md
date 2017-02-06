@@ -85,30 +85,58 @@ Today I went over to John Resig's house with a small group to play board games. 
 ---
 There was a Software for Artists Day (like a small conference) at Pioneer Works today. A lot of really cool projects were exhibited! Definitely left feeling inspired and wanting to do more.
 
-1/23/2017
+01/23/2017
 ---
 Today I did some calligraphy-ing for the crafts and code logo. I'm excited about my future Twitch stream :)
 
-1/24/2017
+01/24/2017
 ---
 I got these awesome unicorn makeup brushes in the mail today. Idk if I'll actually use them, but they just make me really happy.
 
-1/25/2017
+01/25/2017
 ---
 I finally finished setting up service workers for my blog to have offline save capabilities. The post was published today and got a lot of really positive feedback. I'm so glad I finally did this!
 
-1/26/2017
+01/26/2017
 ---
 DigitalOcean had a company event where they rented out a theatre for us to all watch Hidden Figures at. It was a great event :) So much food though!
 
-1/27/2017
+01/27/2017
 ---
 After work today we had a happy hour for one of the people temporarily leaving the NYC office. Afterward, I went to see a midnight showing of the Big Lebowski with Pat and Tim. Definitely a fun but unexpected end to the night.
 
-1/28/2017
+01/28/2017
 ---
 This morning I got breakfast tacos at Tacombi with two of my coworkers who are staying in the corporate housing with me. They're so yumm there and my coworkers are awesome :)
 
-1/29/2017
+01/29/2017
 ---
 Today I stayed in bed because I'm sick most of the day, but I did watch the Little Prince on Netflix, which is really cute, and beautifully illustrated movie.
+
+01/30/2017
+---
+I got back into writing my book today which I really need to do. It was good to catch up a bit and infuse some of the work I've been doing on side projects into the writing.
+
+01/31/2017
+---
+Today I met with Pat to learn about the Photoshop brushes she uses. I got sent a whole pack and have been having a lot of fun experimenting. Also, Kasia had this really rad red/blue pencil that I tried out and 
+
+02/01/2017
+---
+I'm finally feeling pretty good. Sudafed is amazing :) And I went to the gym today to celebrate this fact basically :P and ran/walked a pretty solid workout.
+
+02/02/2017
+---
+I went to pick up my bag from the corporate apartment and stopped by a book store called McNally Jackson on the way home. There happened to be an event going on and I couldn't help myself from dropping in. I bought a travel book that really spoke to me in the way it was written called "And The Monkey Learned Nothing" and I'm having a hard time putting it down.
+
+02/03/2017
+---
+Today I was on a panel at STEM night at the New York Hall of Science. It was an event themed around design and engineering for high school and college students, and it was really nice to chat with all of the students and their parents. Afterward I met up with a few people (including Ryan Brownhill who is in town!) for food and drinks, ending the night at Katz's deli again with Tim.
+
+02/04/2017
+---
+I played Fire Watch with Sam and Tim from start to finish today. The game is so beautiful! And a really enjoyable narrative. Afterward, we got Mexican food, margaritas, and ended up at a karaoke bar singing Lion King songs and Sheryl Crow.
+
+02/05/2017
+---
+I got brunch at Dudley's with Tim today after watching the Lion King. Completely forgot about how good that movie is! It was a nice morning :)

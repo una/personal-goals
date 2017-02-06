@@ -18,7 +18,7 @@ I'm also doing 5 25-Days Projects in 2017:
 4. Dev Doodles
 5. Meditation
 
-# January 29, 2017
+# February 5, 2017
 
 ### This Week's Focus: Write & Run
 
@@ -29,20 +29,19 @@ I'm also doing 5 25-Days Projects in 2017:
 - [ ] Make sure to send book outline
 - [ ] Find an editor for the book
 - [ ] Work on BattleDeck Generator in Vue
-- [ ] Writing (get back on track with daily word count)
 - [ ] Review Github PRs for my repos
 - [ ] VR Tag <-- Start a New one
 - [ ] Post outline: Study on blend modes for color perf improvements
 - [ ] Design for stickers (Code Like a Girl)
 - [ ] Writeup initial experiences with Surface Book
 - [ ] Final post for Shopify
-- [ ] Buy ManhattanJS tix
-- [ ] STEM night
-- [ ] Mentorship meetings
-- [ ] Go Running
 - [ ] Loews for various tasks
 - [ ] Respond to all confs in inbox
 - [ ] Offline-first design talk outline
+- [ ] ManhattanJS
+- [ ] House warming
+- [ ] Finish post about Windows experience
+- [ ] Twitch stream
 
 ### Things I'll Do in the Future:
 
