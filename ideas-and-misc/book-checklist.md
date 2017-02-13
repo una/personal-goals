@@ -183,9 +183,11 @@ None -- I listened to a lot of podcasts and was traveling all month
 
 - [x] Guards! Guards! -- Terry Pratchett
 - [ ] How We Got to Now: Six Innovations that Made the Modern World -- Steve Johnson
-- [ ] Love Star --  Andri Snaer Magnason
+- [x] Love Star --  Andri Snaer Magnason
 - [ ] And the Monkey Learned Nothing -- Tom Lutz :star:
+- [ ] Wild -- Cheryl Strayed :star:
 
 To-Read/Recommendations:
 ---
 - [ ] Pitch Perfect -- Bill McGowan //via Wes Bos
+- [ ] Invisible Cities -- Italo Calvino //via Pat & Patricia

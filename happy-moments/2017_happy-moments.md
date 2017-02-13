@@ -119,7 +119,7 @@ I got back into writing my book today which I really need to do. It was good to 
 
 01/31/2017
 ---
-Today I met with Pat to learn about the Photoshop brushes she uses. I got sent a whole pack and have been having a lot of fun experimenting. Also, Kasia had this really rad red/blue pencil that I tried out and 
+Today I met with Pat to learn about the Photoshop brushes she uses. I got sent a whole pack and have been having a lot of fun experimenting. Also, Kasia had this really rad red/blue pencil that I tried out and
 
 02/01/2017
 ---
@@ -140,3 +140,31 @@ I played Fire Watch with Sam and Tim from start to finish today. The game is so 
 02/05/2017
 ---
 I got brunch at Dudley's with Tim today after watching the Lion King. Completely forgot about how good that movie is! It was a nice morning :)
+
+02/06/2017
+---
+I went on a run today and it felt *so* good! It was a beautiful view along the west side of Manhattan and I was listening to an amazing audiobook (Love Star) and it was just so good. Afterward, I went and chilled at 61 Local with Tim where there was a really awesome live band (Jess Best), and the staff ended up singing and it was kind-of magical.
+
+02/07/2017
+---
+I freaking love my purple/pink hair :) I was getting ready for tomorrow's ManhattanJS today and doing errands and I caught myself checking it out in the mirror and felt great. Thank you Amanda!
+
+02/08/2017
+---
+Tonight was the dressed-up ManhattanJS! It was so much fun and everyone looked so fly. Afterward, a group of us went to karaoke in Korea town and got a bunch of sake and sang a lot and it was a ton of fun. Will do again.
+
+02/09/2017
+---
+I met up with Sam Phippen at the Dead Rabbit--a really awesome cocktail bar that also has food. The menu was a comic book! And they switch it up regularly as a series! :P I even have a book from this bar with cocktail recipes, so its pretty famous. It was really nice to decompress with him and drink really awesome cocktails. I hope to go back soon.
+
+02/10/2017
+---
+After work we had the third-biweekly wine tasting. This week's theme was sparkling wine and we tasted 6 and had to pick out the real champagne from the bunch/guess which was which. I got them all wrong :P. I wanted to stay in tonight after going out the past two nights so I stayed in and did calligraphy invites for Liza's wedding. Tim came over later to read a book I recommended to him and to chill, and it was just a nice night in.
+
+02/11/2017
+---
+I got dinner at this wine bar (Bar Veloce) with Tim--which was super good because when does wine + prosciutto + cheese ever turn out bad? :P Then we went to a comedy show where they read out breakups via text message, and got absinthe after. I ended up stopping by a liquor store and buying chartreuse and absinthe so I have that now :P Doc Henderson's--I'm excited to try it out.
+
+02/12/2017
+---
+This morning I got breakfast with Tim at Westville which was super good because they had this great veggie market plate, which was a nice healthy wakeup before going to a chocolate-baking competition at the Royal Palms where my roommate, Patricia was competing. That was super fun because a lot of people showed up and we tasted *so* much chocolate. I loved the chocolate babka and chocolate sausage.

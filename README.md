@@ -26,22 +26,20 @@ I'm also doing 5 25-Days Projects in 2017:
 
 - [ ] Record/Post Toolsday Episode
 - [ ] Writing
+- [ ] Final post for Shopify
+- [ ] Loews for various tasks
+- [ ] Offline-first design talk outline
+- [ ] Finish post about Windows experience
 - [ ] Make sure to send book outline
 - [ ] Find an editor for the book
 - [ ] Work on BattleDeck Generator in Vue
-- [ ] Review Github PRs for my repos
 - [ ] VR Tag <-- Start a New one
-- [ ] Post outline: Study on blend modes for color perf improvements
 - [ ] Design for stickers (Code Like a Girl)
-- [ ] Writeup initial experiences with Surface Book
-- [ ] Final post for Shopify
-- [ ] Loews for various tasks
-- [ ] Respond to all confs in inbox
-- [ ] Offline-first design talk outline
-- [ ] ManhattanJS
-- [ ] House warming
-- [ ] Finish post about Windows experience
-- [ ] Twitch stream
+- [ ] Post about 25 Days of Mentorhsip outline
+- [ ] Trainer
+- [ ] Work on Liza's invites
+- [ ] Finish reading [Resilient Web Design](https://resilientwebdesign.com/)
+- [ ] Print pages from Cracking the Coding Interview
 
 ### Things I'll Do in the Future:
 
