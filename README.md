@@ -24,7 +24,7 @@ I'm also doing 5 25-Days Projects in 2017:
 
 ### Things I'll do This Week:
 
-- [ ] Record/Post Toolsday Episode
+- [x] Record/Post Toolsday Episode
 - [ ] Writing
 - [ ] Final post for Shopify
 - [ ] Loews for various tasks
@@ -35,11 +35,12 @@ I'm also doing 5 25-Days Projects in 2017:
 - [ ] Work on BattleDeck Generator in Vue
 - [ ] VR Tag <-- Start a New one
 - [ ] Design for stickers (Code Like a Girl)
-- [ ] Post about 25 Days of Mentorhsip outline
-- [ ] Trainer
-- [ ] Work on Liza's invites
-- [ ] Finish reading [Resilient Web Design](https://resilientwebdesign.com/)
+- [x] Post about 25 Days of Mentorhsip outline
+- [x] Trainer
+- [x] Work on Liza's invites
+- [x] Finish reading [Resilient Web Design](https://resilientwebdesign.com/)
 - [ ] Print pages from Cracking the Coding Interview
+- [x] Ski Trip!
 
 ### Things I'll Do in the Future:
 

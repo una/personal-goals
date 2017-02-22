@@ -168,3 +168,38 @@ I got dinner at this wine bar (Bar Veloce) with Tim--which was super good becaus
 02/12/2017
 ---
 This morning I got breakfast with Tim at Westville which was super good because they had this great veggie market plate, which was a nice healthy wakeup before going to a chocolate-baking competition at the Royal Palms where my roommate, Patricia was competing. That was super fun because a lot of people showed up and we tasted *so* much chocolate. I loved the chocolate babka and chocolate sausage.
+
+02/13/2017
+---
+I had a really good run today on the west side of Manhattan. It was absolutely freezing out, but I was listening to Wild by Cheryl Strayed and just felt like I could keep going and going. It was such a good feeling despite the weather. I'm feeling pretty confident about the running that I'm getting back into.
+
+02/14/2017
+---
+Today was Valentines day and I spent it sending really weird valentines to my friends and Tim. I also had a trainer appointment with my new personal trainer and it felt *great*. He seems awesome and I'm really looking forward to getting back into gyming much more often.
+
+02/15/2017
+---
+I saw Tim today. We went to this *amazing* restaurant called Ouiji after Tom Dale's glowing review on Twitter. The restaurant was reviewed by a food writer for the New York Times, and oh my god was it good. We had baby octopus in this beautiful swirled sauce and crispy chicken and a make-your-own mini crepes with seven flavors thing. But my favorite dish was definitely the honey chips with ice cream for desert. Oh my god were they good.
+
+02/16/2017
+---
+Today was paint night at DigitalOcean :) We got Mexican food and painted angelfish with an instructor. I had a lot of fun doing that. Afterward, I went to 61 Local and met up with a bunch of people for BrooklynJS (a non-ticketed no-talks just-hangs event). It was a good time and I heard a lot of travel stories.
+
+02/17/2017
+---
+At work I got a DigitalOcean hat and scarf (and socks!). I also met up with Tim afterward to go see the Oscar nominated shorts (I meant to get us tickets to the animated shorts but messed up and got the live-action, which were also great).
+
+02/18/2017
+---
+Today I woke up super early to fly to Colorado for an annual friend ski trip! I had a nice long drive with Troy to the condo we got on AirBnb and it was so nice to see everyone! We got dinner out and had a few drinks and hung out by the fire :) I fell asleep on the couch because I liked falling asleep by the fire and I stayed up a bit later with Alex and Troy.
+
+02/19/2017
+---
+Today I went skiing at Keystone. It was rough at first but I got the hang of it after a lot of initial falls. It was amazing to be on the mountain, and it ended up snowing a bit later in the day. Was a pretty magical sight to see so much snow at a ski resort :)
+
+02/20/2017
+---
+My favorite part of today was snow tubing at Keystone. All 6 of us went snow tubing and it was just a lot of fun. The people there would spin you and you could go in groups up to four people. We did a few runs and it just felt really good to be out there again because I couldn't ski or do much other activity due to my leg.
+
+02/21/2017
+---
