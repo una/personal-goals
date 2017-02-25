@@ -171,7 +171,7 @@ This morning I got breakfast with Tim at Westville which was super good because 
 
 02/13/2017
 ---
-I had a really good run today on the west side of Manhattan. It was absolutely freezing out, but I was listening to Wild by Cheryl Strayed and just felt like I could keep going and going. It was such a good feeling despite the weather. I'm feeling pretty confident about the running that I'm getting back into.
+I had a really good run today on the west side of Manhattan. It was absolutely freezing out, but I was listening to Wild by Cheryl Strayed and just felt like I could keep going and going. It was such a good feeling despite the weather. Afterward I ordered sashimi and it was great. I'm feeling pretty confident about the running that I'm getting back into.
 
 02/14/2017
 ---

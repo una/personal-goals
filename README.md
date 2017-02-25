@@ -18,29 +18,28 @@ I'm also doing 5 25-Days Projects in 2017:
 4. Dev Doodles
 5. Meditation
 
-# February 5, 2017
+# February 19, 2017
 
 ### This Week's Focus: Write & Run
 
 ### Things I'll do This Week:
 
-- [x] Record/Post Toolsday Episode
+- [ ] Record/Post Toolsday Episode
 - [ ] Writing
 - [ ] Final post for Shopify
-- [ ] Loews for various tasks
-- [ ] Offline-first design talk outline
+- [ ] Tech diagramming talk outline
 - [ ] Finish post about Windows experience
 - [ ] Make sure to send book outline
 - [ ] Find an editor for the book
 - [ ] Work on BattleDeck Generator in Vue
 - [ ] VR Tag <-- Start a New one
 - [ ] Design for stickers (Code Like a Girl)
-- [x] Post about 25 Days of Mentorhsip outline
-- [x] Trainer
-- [x] Work on Liza's invites
-- [x] Finish reading [Resilient Web Design](https://resilientwebdesign.com/)
 - [ ] Print pages from Cracking the Coding Interview
-- [x] Ski Trip!
+- [ ] Buzzfeed Tech Talks
+- [ ] Outline Power of CSS talk (start writing slides)
+- [ ] Outline CSS Conf EU Talk (how its going to go)
+- [ ] Prep for Liza's bridal shower
+- [ ] Finish envelopes for Liza
 
 ### Things I'll Do in the Future:
 
