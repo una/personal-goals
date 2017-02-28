@@ -203,3 +203,27 @@ My favorite part of today was snow tubing at Keystone. All 6 of us went snow tub
 
 02/21/2017
 ---
+Today I flew home from Colorado to New York. The flight wasn't too bad, and I slept for most of it.
+
+02/22/2017
+---
+After I found out about the ACL tear (third confirmation) from an orthopedist here, Tim met me up by where the MRI office was (near Central Park), and he bought me a ukulele to learn since I couldn't run or work out anymore. It was such a sweet gesture. We walked around the park for a bit afterward (and saw a really nice sunset) and then headed to the Buzzfeed tech talk event.
+
+02/23/2017
+---
+Today I tried playing ukulele for the first time! And I actually was picking it up pretty fast :D I learned to play "Stand by Me" and "Hallelujah" and a bunch of basic chords. I'm really loving the ukulele so far! :D It's been a lot of fun to pick up.
+
+02/24/2017
+---
+
+02/25/2017
+---
+Today I rode home for Liza's bachelorette party on Megabus and did a bunch of preparation and planning (including making her gift). Later, after dinner, I pulled out the ukulele and started playing a bit, and then my dad and brother both got guitars out and joined. I ended up learning "In the Jungle" from Lion King and we had a solid 3-hour jam session as a family :) it was great.
+
+02/26/2017
+---
+Today was Liza's bridal shower! The event went really well. Liza was super happy (and was literally glowing). She loved the games that we played (it seemed like everyone had fun) and really liked the gift I got her too :D. The book Marissa put together was really really cute as well. Liza had a great day, which also made me super happy.
+
+02/27/2017
+---
+I was walking home from Barnes and Noble today on the street adjacent to mine and realized there are so many awesome little stores and restaurants to still be explored! The neighborhood I moved in to is so cool :) and I can't wait to discover more of it.

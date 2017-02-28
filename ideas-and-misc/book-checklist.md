@@ -185,7 +185,8 @@ None -- I listened to a lot of podcasts and was traveling all month
 - [ ] How We Got to Now: Six Innovations that Made the Modern World -- Steve Johnson
 - [x] Love Star --  Andri Snaer Magnason
 - [ ] And the Monkey Learned Nothing -- Tom Lutz :star:
-- [ ] Wild -- Cheryl Strayed :star:
+- [x] Wild -- Cheryl Strayed :star:
+- [x] The Life of Pi -- Ang Lee
 
 To-Read/Recommendations:
 ---

@@ -24,6 +24,7 @@
 ## Tribeca
 
 - [x] Third Rail
+- [x] Everyman Espresso
 
 ## Uncategorized
 
@@ -33,7 +34,7 @@
 - [ ] Culture (PR: the best cookie in NYC)
 - [ ] Ninth Street Espresso
 - [ ] Bluestone Lane (PR: australian brand that serves Nitro cold brew)
-- [ ] Ramini (PR: interesting spot, they serve 41st Parallel from Vancouver) 
+- [ ] Ramini (PR: interesting spot, they serve 41st Parallel from Vancouver)
 - [ ] Blue Bottle (PR: still the best pour over)
 - [ ] Joe's (PR: best house brew)
 - [ ] Toby's Estate (PR: best take home beans)
@@ -50,3 +51,4 @@
 
 - [x] Regular Visitors
 - [x] Konditori 💻
+- [x] 61 Local ⭐💻🍽
