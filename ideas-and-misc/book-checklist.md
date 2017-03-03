@@ -182,11 +182,16 @@ None -- I listened to a lot of podcasts and was traveling all month
 ## February 2017
 
 - [x] Guards! Guards! -- Terry Pratchett
-- [ ] How We Got to Now: Six Innovations that Made the Modern World -- Steve Johnson
-- [x] Love Star --  Andri Snaer Magnason
-- [ ] And the Monkey Learned Nothing -- Tom Lutz :star:
+- [x] Love Star --  Andri Snaer Magnason :star:
 - [x] Wild -- Cheryl Strayed :star:
 - [x] The Life of Pi -- Ang Lee
+- [x] Resilient Web Design -- Jermy Keith
+
+## March 2017
+
+- [ ] And the Monkey Learned Nothing -- Tom Lutz :star:
+- [ ] How We Got to Now: Six Innovations that Made the Modern World -- Steve Johnson
+
 
 To-Read/Recommendations:
 ---

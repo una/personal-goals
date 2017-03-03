@@ -28,7 +28,7 @@ I'm also doing 5 25-Days Projects in 2017:
 - [ ] Writing
 - [ ] Post Windows blog post (finish it)
 - [ ] Record audio for Windows blog post
-- [ ] Prep for Housewarming party (clean, etc)
+- [x] Prep for Housewarming party (clean, etc)
 - [ ] Have Housewarming
 - [ ] Follow up with editor for book
 - [ ] Follow up with book illustrator
@@ -38,7 +38,7 @@ I'm also doing 5 25-Days Projects in 2017:
 - [ ] Make sure to send book outline
 - [ ] Work on BattleDeck Generator in Vue
 - [ ] Make pixel characters for CSS Conf EU talk
-- [ ] MRI Results
+- [x] MRI Results
 
 ### Things I'll Do in the Future:
 
