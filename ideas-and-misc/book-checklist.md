@@ -185,11 +185,12 @@ None -- I listened to a lot of podcasts and was traveling all month
 - [x] Love Star --  Andri Snaer Magnason :star:
 - [x] Wild -- Cheryl Strayed :star:
 - [x] The Life of Pi -- Ang Lee
-- [x] Resilient Web Design -- Jermy Keith
+- [x] Resilient Web Design -- Jeremy Keith
 
 ## March 2017
 
-- [ ] And the Monkey Learned Nothing -- Tom Lutz :star:
+- [ ] And the Monkey Learned Nothing -- Tom Lutz
+- [ ] Leaders Eat Last -- Simon Sinek :star:
 - [ ] How We Got to Now: Six Innovations that Made the Modern World -- Steve Johnson
 
 

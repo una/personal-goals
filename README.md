@@ -18,27 +18,31 @@ I'm also doing 5 25-Days Projects in 2017:
 4. Dev Doodles
 5. Meditation
 
-# February 26, 2017
+# March 5, 2017
 
-### This Week's Focus: Talks & Book
+### This Week's Focus: Organize & SXSW
 
 ### Things I'll do This Week:
 
 - [ ] Record/Post Toolsday Episode
 - [ ] Writing
+- [ ] Add Patreon to Toolsday website
+- [ ] Outline "Why Design Systems Fail"
+- [ ] Propose "Why Design Systems Fail" to bigger site for posting
+- [ ] Set up new notebook
+- [ ] Pack for SXSW
+- [ ] Sort out where I'll be living for SXSW
+- [ ] Make surgery appointment/talk to other doctors
+- [ ] Invoice CSSConfEU flights
+- [ ] Book flight to Seattle
+- [ ] Book flight to Cape Town
+- [ ] Fly to Austin for SXSW
 - [ ] Post Windows blog post (finish it)
 - [ ] Record audio for Windows blog post
-- [x] Prep for Housewarming party (clean, etc)
-- [ ] Have Housewarming
-- [ ] Follow up with editor for book
-- [ ] Follow up with book illustrator
-- [ ] Sort out Gitbook outline situation
 - [ ] Outline Power of CSS talk (start writing slides)
 - [ ] Design for stickers (Code Like a Girl)
-- [ ] Make sure to send book outline
 - [ ] Work on BattleDeck Generator in Vue
 - [ ] Make pixel characters for CSS Conf EU talk
-- [x] MRI Results
 
 ### Things I'll Do in the Future:
 
@@ -56,4 +60,4 @@ I'm also doing 5 25-Days Projects in 2017:
 - [ ] Implement offline support for my blog
 - [ ] Build an Offline Web App (Heiroglyph)
 - [ ] Raise money for women in tech organizations
-- [ ] Read [Resilient Web Design](https://resilientwebdesign.com/)
+- [x] Read [Resilient Web Design](https://resilientwebdesign.com/)

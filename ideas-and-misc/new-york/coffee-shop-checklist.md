@@ -15,13 +15,15 @@
 ## East Village
 
 - [x] Caffe Bene (Broadway)
+- [x] Why Not Coffee
+- [ ] Native Bean
 - [ ] Abraco (PR: my absolute favorite in the city, get the olive oil bread)
 
 ## Lower East Side
 
 - [x] Berkli Parc ⭐💻🍽
 
-## Tribeca
+## TriBeCa
 
 - [x] Third Rail
 - [x] Everyman Espresso
@@ -35,7 +37,6 @@
 - [ ] Ninth Street Espresso
 - [ ] Bluestone Lane (PR: australian brand that serves Nitro cold brew)
 - [ ] Ramini (PR: interesting spot, they serve 41st Parallel from Vancouver)
-- [ ] Blue Bottle (PR: still the best pour over)
 - [ ] Joe's (PR: best house brew)
 - [ ] Toby's Estate (PR: best take home beans)
 - [ ] Cafe Bare (PR: great litte cafe treats)
@@ -52,3 +53,4 @@
 - [x] Regular Visitors
 - [x] Konditori 💻
 - [x] 61 Local ⭐💻🍽
+- [ ] Blue Bottle (PR: still the best pour over)
