@@ -227,3 +227,35 @@ Today was Liza's bridal shower! The event went really well. Liza was super happy
 02/27/2017
 ---
 I was walking home from Barnes and Noble today on the street adjacent to mine and realized there are so many awesome little stores and restaurants to still be explored! The neighborhood I moved in to is so cool :) and I can't wait to discover more of it.
+
+02/28/2017
+---
+Tonight I recorded a really good Toolsday with Chris and did the ukulele intro and it was so much fun and made me happy and I really like playing it :) We also set up a Patreon page to finally get some funding!
+
+03/01/2017
+---
+I went to Blue Ribbon Sushi today with Tim :) And it was super good not at 2 AM also. We watched American Beauty afterward. A weird but good movie :P It was really nice to hang one last time before we didn't see each other for a while.
+
+03/02/2017
+---
+I cleaned today and got a bunch done for before Ally comes over. I really like my room :) I think its super cute and I'm excited for Ally to be here.
+
+03/03/2017
+---
+Today was me and Patricia's house warming! The party went really well -- everyone seemed to have a good time and the drinks Patricia made were insanely good. I got to meet our downstairs neighbor, Patrick, who is really cool! It was good overall :)
+
+03/04/2017
+---
+I got breakfast at 61 Local with Ally and then we went to this brunch comedy show called Bangers and Mash in the East Village. It was really funny and well done. Then, we went to the Spring Break Art show (which was HUGE) in Midtown and ended the day getting a ton of Japanese BBQ and sake at Myu-Guku in Astor Place. Needless to say we were exhausted by the end of the day and finished it off reading books in bed :)
+
+03/05/2017
+---
+Me and Ally got brunch at Perla today where I ordered this *really good* dish of brussels sprouts with fried eggs on top and a red sauce and it was just so colorful and yummy. Then we walked around and did a bit of shopping on the west side where I bought 2 new pairs of shoes at this store called Steven which is a Steve Madden experimental store where they only make one pair of shoes in each size. *Then* we met up with Sam to go dress shopping for the DO party in March and met up with Leah for drinks after. The evening ended with Sam getting margaritas and tacos. Another big day.
+
+03/06/2017
+---
+Today I got such good mail! I got the first Art Snacks box and also a bunch of pens I ordered from Jet Pens (including a DIY multi pen where I picked out all the colors!). I drew on this Muji notebook I had bought with Ally and began to set it up with my travels. its such a perfect notebook! And I experimented with the Art Snacks things :)
+
+03/07/2017
+---
+Today was full of meetings but good. I feel good that I'm finally getting a chance to do some leading and organizing at work for this consolidated design system. Also realizing how important to-do lists are in my life. They're helping me a ton to get things done.

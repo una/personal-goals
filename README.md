@@ -24,17 +24,17 @@ I'm also doing 5 25-Days Projects in 2017:
 
 ### Things I'll do This Week:
 
-- [ ] Record/Post Toolsday Episode
+- [x] Record/Post Toolsday Episode
 - [ ] Writing
 - [ ] Add Patreon to Toolsday website
 - [ ] Outline "Why Design Systems Fail"
 - [ ] Propose "Why Design Systems Fail" to bigger site for posting
-- [ ] Set up new notebook
+- [x] Set up new notebook
 - [ ] Pack for SXSW
-- [ ] Sort out where I'll be living for SXSW
+- [x] Sort out where I'll be living for SXSW
 - [ ] Make surgery appointment/talk to other doctors
-- [ ] Invoice CSSConfEU flights
-- [ ] Book flight to Seattle
+- [x] Invoice CSSConfEU flights
+- [x] Book flight to Seattle
 - [ ] Book flight to Cape Town
 - [ ] Fly to Austin for SXSW
 - [ ] Post Windows blog post (finish it)
