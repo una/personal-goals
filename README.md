@@ -27,16 +27,16 @@ I'm also doing 5 25-Days Projects in 2017:
 - [x] Record/Post Toolsday Episode
 - [ ] Writing
 - [ ] Add Patreon to Toolsday website
-- [ ] Outline "Why Design Systems Fail"
+- [x] Outline "Why Design Systems Fail"
 - [ ] Propose "Why Design Systems Fail" to bigger site for posting
 - [x] Set up new notebook
-- [ ] Pack for SXSW
+- [x] Pack for SXSW
 - [x] Sort out where I'll be living for SXSW
 - [ ] Make surgery appointment/talk to other doctors
 - [x] Invoice CSSConfEU flights
 - [x] Book flight to Seattle
-- [ ] Book flight to Cape Town
-- [ ] Fly to Austin for SXSW
+- [x] Book flight to Cape Town
+- [x] Fly to Austin for SXSW
 - [ ] Post Windows blog post (finish it)
 - [ ] Record audio for Windows blog post
 - [ ] Outline Power of CSS talk (start writing slides)

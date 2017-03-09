@@ -259,3 +259,11 @@ Today I got such good mail! I got the first Art Snacks box and also a bunch of p
 03/07/2017
 ---
 Today was full of meetings but good. I feel good that I'm finally getting a chance to do some leading and organizing at work for this consolidated design system. Also realizing how important to-do lists are in my life. They're helping me a ton to get things done.
+
+03/08/2017
+---
+Today is International Women's Day! Which I adore :) I brought my coworkers flowers and my company did an IWD breakfast and also got us potted tulips/hyacinths to take. It was very cute.
+
+03/09/2017
+---
+Flying to SXSW
