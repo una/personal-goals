@@ -266,4 +266,40 @@ Today is International Women's Day! Which I adore :) I brought my coworkers flow
 
 03/09/2017
 ---
-Flying to SXSW
+Today I flew to Austin! And Jo picked me up from the airport and we got lunch at Cenote and then went shopping at the Modcloth store after picking up SXSW badges. THEN we picked up her foster, Almond from the vet and hung out at a coffee shop and it was a nice day :)
+
+03/10/2017
+---
+SXSW day one! I hung out with Jo today. We started out at the Capital One House where they had these *beautiful* new textured credit cards and chatted with the person who designed the experience. We then went to Spredfast and that place was insane--they had these 360 videos where they threw glitter at you and milkshakes with donut toppings. Then, I hung out with Brennen and went to Nat Geo for drinks and then the IBM party where I caught up with everyone.
+
+03/11/2017
+---
+SXSW today -- I did my mentorship session and saw some really good panels. The morning started off with this New Faces of Creativity panel at the Dell house, which was the second time they had done it (the first was on stage at SXSW, and this smaller venue was super chill and had food). It was also really cool to see one of my favorite modern authors, Cheryl Strayed, being interviewed by Tim Ferris.
+
+03/12/2017
+---
+Today was so good! SO much happening at SXSW, but the best part was definitely sitting front row at Neil Degrasse Tyson interviewing Ron Howard at the Nat Geo house. It was an amazing experience to see him do a live talk and I'm just so in awe of his communication abilities.
+
+03/13/2017
+---
+Today was a great day! I went to the trade show at SXSW and that was such a highlight. Lots of VR but also some cool consumer products like this adorable programmable stereo for kids. The day started out hilariously because I had a mixup meeting up with Jo and we ended up at this private Youtube breakfast event. It was great :P
+
+03/14/2017
+---
+Another great SXSW day. I spent the day with Jo, hanging out by Rainey at this "In Search Of" TBS thing, saw Kesha do a talk, got lunch with a few people and some free avo salad, hung out at the Twitter house with Ian for a bit, then went to Einstein's birthday at Net Geo (amazing drinks omg), and finally met up with Jake Albaugh to try to get into the Wu Tang Clan concert but ended up seeing a different artist that night instead.
+
+03/15/2017
+---
+I stopped by SXSW today after working a half day and ran into Ian at the Youtube House. They had really good food catered (even though it was kinda crazy to get some) and Jain was playing. The show was *SO GOOD*! I really like her music now that I've discovered it. Really great stop in. And then I met up with Brian and Chris at Chris' place to play Rock Band like old times :)
+
+03/16/2017
+---
+Today I got dinner with a bunch of friends (8 of us) at this Italian place after spending the day working from one of my favorite coffee shops in East Austin, Cenote :D. It was a great food day. I got the salmon salad at Cenote and then this stuffed quail at the Italian place with sweet potato mash. Great nomz and catch ups.
+
+03/17/2017
+---
+Today was kind of crazy and serendipitous. I was hanging out with Dan and talking about cameras and then we got Torchy's and Topo and decided to just head to a camera store afterward to take a look. At this camera store, which was *huge* by the way, they just happened to have the camera I had been looking for that someone brought in 3 days ago (used). So I bought it :D It's a very expensive camera but it was a pretty good deal for it. I now have a super awesome Fujifilm x100t! 
+
+03/18/2017
+---
+I got breakfast with Jo and Lauren at Blue Dahlia today :) It was such a good ending to my Austin trip. I love this restaurant and East Austin and it was just a super chill way to spend the morning before my flight. :) Got the frittata as always.

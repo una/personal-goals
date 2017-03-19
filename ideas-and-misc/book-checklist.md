@@ -190,9 +190,10 @@ None -- I listened to a lot of podcasts and was traveling all month
 ## March 2017
 
 - [ ] And the Monkey Learned Nothing -- Tom Lutz
-- [ ] Leaders Eat Last -- Simon Sinek :star:
 - [ ] How We Got to Now: Six Innovations that Made the Modern World -- Steve Johnson
-
+- [x] Leaders Eat Last -- Simon Sinek :star:
+- [ ] Grit: The Power of Passion and Perseverance -- Angela Duckworth
+- [ ] Shoe Dog -- Phil Knight
 
 To-Read/Recommendations:
 ---
