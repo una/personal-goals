@@ -303,3 +303,7 @@ Today was kind of crazy and serendipitous. I was hanging out with Dan and talkin
 03/18/2017
 ---
 I got breakfast with Jo and Lauren at Blue Dahlia today :) It was such a good ending to my Austin trip. I love this restaurant and East Austin and it was just a super chill way to spend the morning before my flight. :) Got the frittata as always.
+
+03/19/2017
+---
+video games and coding, tomb rader

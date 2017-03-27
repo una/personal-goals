@@ -18,28 +18,30 @@ I'm also doing 5 25-Days Projects in 2017:
 4. Dev Doodles
 5. Meditation
 
-# March 19, 2017
+# March 26, 2017
 
-### This Week's Focus: Book/Talks
+### This Week's Focus: Talks
 
 ### Things I'll do This Week:
 
 - [ ] Record/Post Toolsday Episode
 - [ ] Writing
+- [ ] Get other key cut
+- [ ] Do Evan & Ian's lettering logo
+- [ ] Finish blog post on CSS Grid
 - [ ] Check in with Pat on illustrations
 - [ ] Check in with Sarah on outline
 - [ ] Make surgery appointment/talk to other doctors
-- [ ] Add Patreon to Toolsday website
 - [ ] Finish "Why Design Systems Fail" Post
 - [ ] Post Windows blog post (finish it)
 - [ ] Record audio for post
-- [ ] Outline Power of CSS talk (start writing slides)
-- [ ] Neil Degrasse Tyson Quotes in CSS Talk
-- [ ] Design for stickers (Code Like a Girl)
 - [ ] Work on BattleDeck Generator in Vue
-- [ ] Make pixel characters for CSS Conf EU talk
-- [ ] Touch ups/additions to Perf talk
-- [ ] DO 5 Year Anniversary Party
+- [ ] Finish pixel characters for CSS Conf EU talk
+- [ ] Finish demo for CSS Conf EU
+- [ ] Sent talk to AEA
+- [ ] Go to the gym
+- [ ] Ukulele lesson
+- [ ] Review/practice Perf talk
 
 ### Things I'll Do in the Future:
 

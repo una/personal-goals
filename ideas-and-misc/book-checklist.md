@@ -193,9 +193,15 @@ None -- I listened to a lot of podcasts and was traveling all month
 - [ ] How We Got to Now: Six Innovations that Made the Modern World -- Steve Johnson
 - [x] Leaders Eat Last -- Simon Sinek :star:
 - [ ] Grit: The Power of Passion and Perseverance -- Angela Duckworth
+
+
+## On Deck
+
+- [ ] Thinking in Systems -- Donella Meadows
 - [ ] Shoe Dog -- Phil Knight
 
-To-Read/Recommendations:
+
+## To-Read/Recommendations:
 ---
 - [ ] Pitch Perfect -- Bill McGowan //via Wes Bos
 - [ ] Invisible Cities -- Italo Calvino //via Pat & Patricia
