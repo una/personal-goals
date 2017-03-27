@@ -306,4 +306,31 @@ I got breakfast with Jo and Lauren at Blue Dahlia today :) It was such a good en
 
 03/19/2017
 ---
-video games and coding, tomb rader
+westville, video games and coding, tomb raider
+
+03/20/2017
+---
+playing with my camera
+
+03/21/2017
+---
+met up with harry and jackie at the wayland -- had last words
+
+03/22/2017
+---
+stay at home prep day for the party, did my nails
+
+03/23/2017
+---
+DigitalOcean 5 year anniversary party
+
+03/24/2017
+---
+stayed in and got a lot of work done writing this css talk in css
+
+03/25/2017
+---
+brunch with leah, the strand bookstore (got a crossstitch thing and harry potter illustrated), met up with tim, went to this super small sake bar and got food there, stayed up for f1
+
+03/26/2017
+---
