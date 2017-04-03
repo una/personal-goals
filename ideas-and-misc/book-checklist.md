@@ -185,21 +185,22 @@ None -- I listened to a lot of podcasts and was traveling all month
 - [x] Love Star --  Andri Snaer Magnason :star:
 - [x] Wild -- Cheryl Strayed :star:
 - [x] The Life of Pi -- Ang Lee
-- [x] Resilient Web Design -- Jeremy Keith
+- [x] Resilient Web Design -- Jeremy Keith :star:
 
 ## March 2017
 
+- [x] Leaders Eat Last -- Simon Sinek :star:
+- [x] Grit: The Power of Passion and Perseverance -- Angela Duckworth
+
+## June 2017
+
 - [ ] And the Monkey Learned Nothing -- Tom Lutz
 - [ ] How We Got to Now: Six Innovations that Made the Modern World -- Steve Johnson
-- [x] Leaders Eat Last -- Simon Sinek :star:
-- [ ] Grit: The Power of Passion and Perseverance -- Angela Duckworth
-
+- [ ] Shoe Dog: A Memoir by the Creator of Nike -- Phil Knight :star:
 
 ## On Deck
 
 - [ ] Thinking in Systems -- Donella Meadows
-- [ ] Shoe Dog -- Phil Knight
-
 
 ## To-Read/Recommendations:
 ---

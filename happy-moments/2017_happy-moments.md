@@ -298,7 +298,7 @@ Today I got dinner with a bunch of friends (8 of us) at this Italian place after
 
 03/17/2017
 ---
-Today was kind of crazy and serendipitous. I was hanging out with Dan and talking about cameras and then we got Torchy's and Topo and decided to just head to a camera store afterward to take a look. At this camera store, which was *huge* by the way, they just happened to have the camera I had been looking for that someone brought in 3 days ago (used). So I bought it :D It's a very expensive camera but it was a pretty good deal for it. I now have a super awesome Fujifilm x100t! 
+Today was kind of crazy and serendipitous. I was hanging out with Dan and talking about cameras and then we got Torchy's and Topo and decided to just head to a camera store afterward to take a look. At this camera store, which was *huge* by the way, they just happened to have the camera I had been looking for that someone brought in 3 days ago (used). So I bought it :D It's a very expensive camera but it was a pretty good deal for it. I now have a super awesome Fujifilm x100t!
 
 03/18/2017
 ---
@@ -306,31 +306,63 @@ I got breakfast with Jo and Lauren at Blue Dahlia today :) It was such a good en
 
 03/19/2017
 ---
-westville, video games and coding, tomb raider
+This morning started with a nice, healthy Westville brunch with Tim, and then I ended up hanging out with him at his place while he played Tomb Raider and I worked on an open source project. It was super nice and pretty chill.
 
 03/20/2017
 ---
-playing with my camera
+I'm obsessed with the new camera I bought in Austin :D ahh it makes me so happy. I definitely spent way too much time today looking up digital photography videos to relearn.
 
 03/21/2017
 ---
-met up with harry and jackie at the wayland -- had last words
+After working late, I ended up meeting up with Harry (who was in town) and Jackie at the Wayland along with TIm and a few other people. It was *so* good to catch up! Ahh! It had been a while. We got Last Word cocktails and I remembered how much I like them :)
 
 03/22/2017
 ---
-stay at home prep day for the party, did my nails
+There is just so much I had to do this week. Tonight I stayed at home and worked on the Power of CSS talk and painted my nails for the party tomorrow. I actually took my time too, and did a french manicure like I used to do all the time.
 
 03/23/2017
 ---
-DigitalOcean 5 year anniversary party
+Tonight was the DigitalOcean 5 Year Anniversary Party!! It was amazing. The band was super good and they had amazing singers and brass players who went out and danced with us and the company invited basically anyone who's ever worked there and there was sushi during cocktail hour and everyone was all dressed up and I danced a lot :D
 
 03/24/2017
 ---
-stayed in and got a lot of work done writing this css talk in css
+I deemed this weekend focus-weekend. So I stayed in and got a lot of work done writing this CSS talk in CSS. I'm pretty stoked about it.
 
 03/25/2017
 ---
-brunch with leah, the strand bookstore (got a crossstitch thing and harry potter illustrated), met up with tim, went to this super small sake bar and got food there, stayed up for f1
+I started the day having a nice brunch with Leah at the Smith. Then, we went to the Strand Bookstore (which is amazing!). I got a cross-stitch kit and the Jim Kay illustrated Harry potter (omg its so good!). Then, I met up with Tim and his friends at a bar where I was introduced to this drink called the Cleanse (so good), and in the evening went to this super small sake bar in his neighborhood and got food there. I tried to stay up with him for F1, and it kind-of worked until F1 actually started.
 
 03/26/2017
+---
+Today I went right back into work mode. I worked on talk, made pixel art, did some research, organized meeting with people about book review and materials, started a blog post. It was productive AF.
+
+03/27/2016
+---
+I did a really good recording for Toolsday today :D I'm really into CSS grid lately and was pretty fired up about it. I also made some demos on Codepen using it and shared them and people really liked it.
+
+03/28/2016
+---
+I'm reading Shoe Dog right now, and its really good. I've been getting really into it during my commute and meals.
+
+03/29/2016
+---
+I saw this adorable dog on the subway today coming home from work. Oh my gosh. It was such a joy. I smiled at the dog and it stuck its tongue out at me and ahhh! It definitely made my evening.
+
+03/30/2016
+---
+Today was exciting! I had my first ukulele lesson and session with a new gym trainer. It was like after school activities all over the place :D I also got a salad at this place next door that was super good. I need to explore this neighborhood more. There are so many cute places.
+
+03/31/2016
+---
+Oh my gosh. Today I saw Harry Potter in concert with Tim at Radio City Music Hall. OH MY GOSH. IT WAS SO COOL! There was a full orchestra that played the score while the movie played in this giant concert hall. I loved it.
+
+04/01/2016
+---
+April fools day! I definitely had a good April Fools today on Tim when I said the bag outside of his window was gone. His face was amazing. We got brunch at an Aussie place in East Village and hung out with some of his friends before I went home to do some work and pack.
+
+04/02/2016
+---
+I arrived in Seattle and had a really nice day wandering, taking photos, and relaxing in my *beautiful* hotel room at the Edgewater right on the water (as it sounds). The desk faces the sea and theres this lovely patio and the the weather was so good today. I also went to speaker dinner at the home of one of the event organizers, which was a beautiful spot and a very chill experience.
+
+04/03/2016
 ---
