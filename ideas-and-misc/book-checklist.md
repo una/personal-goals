@@ -192,15 +192,18 @@ None -- I listened to a lot of podcasts and was traveling all month
 - [x] Leaders Eat Last -- Simon Sinek :star:
 - [x] Grit: The Power of Passion and Perseverance -- Angela Duckworth
 
-## June 2017
+## April 2017
 
+- [x] Shoe Dog: A Memoir by the Creator of Nike -- Phil Knight :star:
 - [ ] And the Monkey Learned Nothing -- Tom Lutz
 - [ ] How We Got to Now: Six Innovations that Made the Modern World -- Steve Johnson
-- [ ] Shoe Dog: A Memoir by the Creator of Nike -- Phil Knight :star:
 
 ## On Deck
 
 - [ ] Thinking in Systems -- Donella Meadows
+- [ ] When Breath Becomes Air -- 
+- [ ] The Sex Lives of Cannibals -- J. Maarten Troost
+- [ ] The Bear and the Nightingale -- Katherine Arden
 
 ## To-Read/Recommendations:
 ---

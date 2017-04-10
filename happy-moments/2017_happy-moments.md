@@ -10,51 +10,51 @@ I had the day off of work today! My Mom and Dad put in some videos of our family
 ---
 Back to the gym today to train with Louis. OMG he kicked my ass so much today. I'm kind of scared for tomorrow because honestly I could barely stand by the end of that lower-body workout. But it felt super super good to be back in the gym :)
 
-01/04/2016
+01/04/2017
 ---
 I was pretty productive today! I had this idea for an app-thing I wanted to build to generate random hackathon ideas and ended up using Vue.js for the first time and stringing together a few modules pretty fast to get something running. It felt pretty good to go from idea to creation so fast. And its been a while since I built something, too.
 
-01/05/2016
+01/05/2017
 ---
 It snowed today right as I was heading out to go to the gym. And when I finished my workout, the car was covered in it and the air was super fresh and I felt really good. It was so pretty outside :)
 
-01/06/2016
+01/06/2017
 ---
 I went to a "wedding" dinner party today for Anna & Igor (who legally got married today but are having their actual wedding and reception later in the year). It was so cute :) and great to see this group of people I don't get to hang out with very often. Much food, a few games, and a bit of catching up. Was super nice.
 
-01/07/2016
+01/07/2017
 ---
 Today was "move-in" day for my New York apartment in Brooklyn! It started snowing *hard* on the drive up (ended up being 7 inches!) but we prevailed, unloaded the car, and built a bunch of IKEA furniture. It was super productive. The highlight of the day was probably the dinner we had at Cafe Luluc. OMG it was so good. I got seafood soup and it ended up being a ton of mussels, shrimp, and lobster, and then got duck which was also *on pointe* and they even brought us complimentary creme brule! WOWOW. It was impressive. The service was also unbelievable (also helped that not many people were there due to the huge snow storm, but still), all in all, fantastic day.
 
-01/08/2016
+01/08/2017
 ---
 I got breakfast in this cute place called Smile Cafe with my parents this morning before going back to my apartment to build the last shelving unit. It was all pretty efficient :) I'm happy to have gotten it all done.
 
-01/09/2016
+01/09/2017
 ---
 Last workout with Louis! It was a fun one. We focused on deadlifting. SO many deadlifts! :P But I ended up lifting 145 lbs for 6 reps at one point, which isn't too bad. I'm going to miss Louis so much when I'm off to NY again.
 
-01/10/2016
+01/10/2017
 ---
 Tonight was my grandpa's 80th birthday! We went to this Uzbek restaurant my family frequents, and the food was yummy and I got to see a lot of my family there too.
 
-01/11/2016
+01/11/2017
 ---
 Tonight was Manhattan JS! My first one! It was such a great event, and I left it very inspired to build things. One of the talks was about data visualization and describing the entire process. Was super inspiring. And Rachel did an electronics talk, and now I'm all :) ahh need to build something.
 
-01/12/2016
+01/12/2017
 ---
 Today Patricia and I had to take out the recycling, and we had a *lot* of big boxes from the furniture we had gotten, so we ended up throwing them down the stairs. It was actually a *lot* of fun to watch them go flying :P It was my first night in the new apartment too!
 
-01/13/2016
+01/13/2017
 ---
 Today was Earl's going-away drinks. Afterward, I met up with Tim to get some dinner. During the wait, we met this Australian couple(?) who chatted with us a while and started up this questions game (our answers were supposed to reveal something about ourselves). :P That was fun, and food was great (cute little place in the East Village), and then we got absinthe and melted into the seats of this bar as we talked about life. Afterward, we went to my place where I gave Tim a Stromae-education. Not a bad night.
 
-01/14/2016
+01/14/2017
 ---
 I got brunch with my coworker this morning at Pietro Nolita--this entirely pink little restaurant near where the corporate apartment is. It was so cute! And very instagrammable :P Then I went on a little adventure with Patricia in search of kitchen ware at restaurant supply stores.
 
-01/15/2016
+01/15/2017
 ---
 I joined CitiBike Share this morning :) and rode around a bit and then saw Arrival with Tim at the Alamo Drafthouse! Ahh it made me so happy to be biking again and also that the Alamo Drafthouse is so close to me :D It's about equidistant from me here than the one in Austin was.
 
@@ -336,33 +336,58 @@ I started the day having a nice brunch with Leah at the Smith. Then, we went to 
 ---
 Today I went right back into work mode. I worked on talk, made pixel art, did some research, organized meeting with people about book review and materials, started a blog post. It was productive AF.
 
-03/27/2016
+03/27/2017
 ---
 I did a really good recording for Toolsday today :D I'm really into CSS grid lately and was pretty fired up about it. I also made some demos on Codepen using it and shared them and people really liked it.
 
-03/28/2016
+03/28/2017
 ---
 I'm reading Shoe Dog right now, and its really good. I've been getting really into it during my commute and meals.
 
-03/29/2016
+03/29/2017
 ---
 I saw this adorable dog on the subway today coming home from work. Oh my gosh. It was such a joy. I smiled at the dog and it stuck its tongue out at me and ahhh! It definitely made my evening.
 
-03/30/2016
+03/30/2017
 ---
 Today was exciting! I had my first ukulele lesson and session with a new gym trainer. It was like after school activities all over the place :D I also got a salad at this place next door that was super good. I need to explore this neighborhood more. There are so many cute places.
 
-03/31/2016
+03/31/2017
 ---
 Oh my gosh. Today I saw Harry Potter in concert with Tim at Radio City Music Hall. OH MY GOSH. IT WAS SO COOL! There was a full orchestra that played the score while the movie played in this giant concert hall. I loved it.
 
-04/01/2016
+04/01/2017
 ---
 April fools day! I definitely had a good April Fools today on Tim when I said the bag outside of his window was gone. His face was amazing. We got brunch at an Aussie place in East Village and hung out with some of his friends before I went home to do some work and pack.
 
-04/02/2016
+04/02/2017
 ---
 I arrived in Seattle and had a really nice day wandering, taking photos, and relaxing in my *beautiful* hotel room at the Edgewater right on the water (as it sounds). The desk faces the sea and theres this lovely patio and the the weather was so good today. I also went to speaker dinner at the home of one of the event organizers, which was a beautiful spot and a very chill experience.
 
-04/03/2016
+04/03/2017
 ---
+AEA Day One was today! I got to hang out in the speaker room with everyone and saw some really amazing speakers present. Afterward, a few of us went out to eat in a cute place near the hotel and I came back early, practiced my talk and was asleep by 11. It was nice.
+
+04/04/2017
+---
+I presented today! And it went really well! And I got positive feedback from a lot of people, including the other speakers, which felt great :) It was the first 60-minute talk I gave and I felt pretty good about it. I'm really happy to be a part of AEA this year.
+
+04/05/2017
+---
+I flew back from Seattle to New York today. Tim came over to my neighborhood and we got some food at this wine bar called June on the street over from mine. There are so many really cute bars and restaurants around! I really need to start hanging out here more often.
+
+04/06/2017
+---
+Today I had my trainer session and ukulele lesson! I love Thursdays now :D It's the best day. I love getting toting myself around like a middle schooler getting to activities. Very fun, and I always feel so much better after a workout.
+
+04/07/2017
+---
+I stayed in tonight and did a *lot* of work on my book. I wrote part of a section on testing and I reorganized the entire book so that it could be reviewed by Sarah later this month. Pretty proud of the work on that.
+
+04/08/2017
+---
+Today was really good! I saw this movie with Tim and his friends at th Nighthawk (it was about disco in the 80's), and then we got food in the area (Williamsburg) before I headed to a dinner party that my friend Thomas organized. Bunch of stuff, ping ponged around Brooklyn, and it was great.
+
+04/09/2017
+---
+It finally feels like spring! I got brunch with Tim at the Ugly Duckling down the street, and had a few Aperol Spritz' to celebrate spring. We then met up with more of his friends for Sam's birthday at Jazz BBQ in midtown later. Ate so much good food today and chilled. We ended the evening with a video game at his place.

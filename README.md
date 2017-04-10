@@ -18,7 +18,7 @@ I'm also doing 5 25-Days Projects in 2017:
 4. Dev Doodles
 5. Meditation
 
-# April 2, 2017
+# April 9, 2017
 
 ### This Week's Focus: Finish Up Talks
 
@@ -28,22 +28,20 @@ I'm also doing 5 25-Days Projects in 2017:
 - [ ] Writing -- write about CSS layout
 - [ ] Writing -- write about web history, get review
 - [ ] Writing -- write about JS basics
-- [ ] Get other key cut
+- [ ] Get other key cut (20th Street)
 - [ ] Do Evan & Ian's lettering logo
-- [ ] Make surgery appointment/talk to other doctors
-- [ ] Finish "Why Design Systems Fail" Post
 - [ ] Post Windows blog post (finish it)
-- [ ] Work on BattleDeck Generator in Vue
 - [ ] Finish pixel characters for CSS Conf EU talk
-- [ ] Finish demo for CSS Conf EU
 - [ ] Finish "Why Design Systems Fail" Post
-- [ ] Post Windows blog post (finish it)
 - [ ] Fix up Classless
-- [ ] Send out Web Love Newsletter
-- [ ] AEA Talk
+- [ ] Send out Web Love Newsletter <--
 - [ ] Finish Power of CSS Talk (polish & practice)
 - [ ] Add tooltips in YMNNJS
-- [ ] Discussion dinner app in Vu (plan)
+- [ ] Discussion Dinners app in Vue (plan)
+- [ ] Add fonts to CSS Grid Travels Page
+- [ ] Passover
+- [ ] Practice CSS Conf EU Talk
+- [ ] Practice Power of CSS Talk
 
 ### Things I'll Do in the Future:
 
