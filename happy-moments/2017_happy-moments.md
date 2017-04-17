@@ -391,3 +391,31 @@ Today was really good! I saw this movie with Tim and his friends at th Nighthawk
 04/09/2017
 ---
 It finally feels like spring! I got brunch with Tim at the Ugly Duckling down the street, and had a few Aperol Spritz' to celebrate spring. We then met up with more of his friends for Sam's birthday at Jazz BBQ in midtown later. Ate so much good food today and chilled. We ended the evening with a video game at his place.
+
+04/10/2017
+---
+I love getting hand-written letters. Today I got a note from someone who's podcast I was on, and a rad card to go along with it :) Felt great.
+
+04/11/2017
+---
+Oh my gosh it was so nice out today! I wore a dress and it felt great :) Springtime is here!! I hope!
+
+04/12/2017
+---
+Manhattan JS was today, at the Squarespace space, and they had a beautiful rooftop with a view of the city that was pretty mesmerizing. Springtime in NY is great.
+
+04/13/2017
+---
+I got a new iPhone today! And went to get poke with Tim. And all in all it wasn't that bad.
+
+4/14/2017
+---
+I worked from home today! And it was a super nice day! And i forgot how much I love working from home :D It was so nice to sleep in a little and then get right to working on my talks in the evening. I even got a little ukulele practice in.
+
+4/15/2017
+---
+I was out with Tim and his friends today for his friend, Laura's birthday. We hung out outside at this bar called Greenwood Park and I got drunk on cider and sangria on a really beautiful day while hanging out with a lot of awesome people.
+
+5/16/2017
+---
+Today I started the morning with breakfast quiche at 61 Local, then Skyped Jo and Dan for a while, then did some playing around in illustrator and some work from my todo list.

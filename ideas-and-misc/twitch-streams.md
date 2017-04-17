@@ -1,3 +1,5 @@
 # Twitch Stream Ideas: craftsAndCode
 
-- Nerdy Valentines series
+- Card making
+- My pens for lettering
+- Live designing one of the poem pages

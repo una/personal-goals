@@ -18,14 +18,19 @@ I'm also doing 5 25-Days Projects in 2017:
 4. Dev Doodles
 5. Meditation
 
-# April 9, 2017
+# April 16, 2017
 
-### This Week's Focus: Finish Up Talks
+### This Week's Focus: Book & Talk Practice
 
 ### Things I'll do This Week:
 
 - [ ] Record/Post Toolsday Episode
-- [ ] Writing -- write about CSS layout
+- [ ] Writing -- go over existing copy
+- [ ] Read [this](https://css-tricks.com/debugging-tips-tricks/)
+- [ ] Read and make something with [AR.js](https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf)
+- [ ] Web Love Newsletter
+- [ ] Set a Vue day to read through saved posts
+- [ ] Design Systems dinner, make a reservation and send calander invites
 - [ ] Writing -- write about web history, get review
 - [ ] Writing -- write about JS basics
 - [ ] Get other key cut (20th Street)
@@ -34,14 +39,11 @@ I'm also doing 5 25-Days Projects in 2017:
 - [ ] Finish pixel characters for CSS Conf EU talk
 - [ ] Finish "Why Design Systems Fail" Post
 - [ ] Fix up Classless
-- [ ] Send out Web Love Newsletter <--
-- [ ] Finish Power of CSS Talk (polish & practice)
 - [ ] Add tooltips in YMNNJS
 - [ ] Discussion Dinners app in Vue (plan)
-- [ ] Add fonts to CSS Grid Travels Page
-- [ ] Passover
 - [ ] Practice CSS Conf EU Talk
 - [ ] Practice Power of CSS Talk
+- [ ] VSCode Post: Workspace Customization
 
 ### Things I'll Do in the Future:
 
