@@ -197,7 +197,10 @@ None -- I listened to a lot of podcasts and was traveling all month
 - [x] Shoe Dog: A Memoir by the Creator of Nike -- Phil Knight :star:
 - [x] When Breath Becomes Air -- Paul Kalanithi :star:
 - [x] The Sex Lives of Cannibals -- J. Maarten Troost :star:
-- [ ] We Are Legion (We Are Bob) -- Dennis E. Taylor :star:
+- [x] We Are Legion (We Are Bob) -- Dennis E. Taylor :star:
+
+## May 2017
+- [ ] The Design of Everyday Things -- Donald A. Norman
 - [ ] And the Monkey Learned Nothing -- Tom Lutz
 - [ ] How We Got to Now: Six Innovations that Made the Modern World -- Steve Johnson
 
@@ -206,7 +209,6 @@ None -- I listened to a lot of podcasts and was traveling all month
 - [ ] Thinking in Systems -- Donella Meadows
 - [ ] The Bear and the Nightingale -- Katherine Arden
 - [ ] The Subtle Art of Not Giving a F*ck: Mark Manson
-- [ ] The Design of Everyday Things -- Donald A. Norman
 
 ## To-Read/Recommendations:
 ---

@@ -408,14 +408,74 @@ Manhattan JS was today, at the Squarespace space, and they had a beautiful rooft
 ---
 I got a new iPhone today! And went to get poke with Tim. And all in all it wasn't that bad.
 
-4/14/2017
+04/14/2017
 ---
 I worked from home today! And it was a super nice day! And i forgot how much I love working from home :D It was so nice to sleep in a little and then get right to working on my talks in the evening. I even got a little ukulele practice in.
 
-4/15/2017
+04/15/2017
 ---
 I was out with Tim and his friends today for his friend, Laura's birthday. We hung out outside at this bar called Greenwood Park and I got drunk on cider and sangria on a really beautiful day while hanging out with a lot of awesome people.
 
-5/16/2017
+04/16/2017
 ---
 Today I started the morning with breakfast quiche at 61 Local, then Skyped Jo and Dan for a while, then did some playing around in illustrator and some work from my todo list.
+
+04/17/2017
+---
+I've been doing a lot of lettering again lately! This time I've been using the Tombow markers for gradient calligraphy with white pen additions on top to make for some pretty cool effects.
+
+04/18/2017
+---
+The Web Love stickers came in! Ahh they're better than I anticipated. I love how they turned out :) and instantly gave a bunch away, and started prepping some to send.
+
+04/19/2017
+---
+Today I went to a gay bar with Sam and Selby after work and then to another place next door to sit down for another drink. It was really good to catch up and hang out. Ooh and I was told I was getting a raise today, too!
+
+04/20/2017
+---
+I took off a day from work today for a mental health day because of all the stuff I have going on. I'm so glad I did. It felt really good to sleep in and I needed a day to chill and really focus on the talks.
+
+04/21/2017
+---
+Today after work was a formal friday event and charity raffle. I donated a bunch of money but didn't win anything :P But it was still fun and I enjoyed hanging with people and drinking/eating at the event after the week full of focus.
+
+04/22/2017
+---
+In the morning I went to my trainer and then I settled in to do a bunch of work. Later, I met up with Sam at taqueria and Tim joined and we drank way too much between there and Third Man when other friends joined.
+
+04/23/2017
+---
+Today was recovery day. I had a nice morning getting coffee with Tim and then walked around my neighborhood getting an adorable solo early dinner at a place called Kitchen Cobble Hill. Then, I went back to my place to practice my talks and record Toolsday + blog post. A nice end to a very productive weekend and weekend.
+
+04/24/2017
+---
+I got sushi with Tim at a really cute Blue Ribbon sushi by my work in SOHO. We then went to his place to hang out and do work, and it was super nice :)
+
+04/25/2017
+---
+I stayed up pretty late working on some book review things, knowing I could sleep in tomorrow :) That's really all. Huge nerd night for Una.
+
+04/26/2017
+---
+Today I flew to Squares conf! The speaker dinner was also tonight, and I got to catch up with Snook and Kit as well as meet some new friends.
+
+04/27/2017
+---
+I had the best conference lunch today! Omg. I went with Mae and some of her friends from Fresh2Design and we ended up getting lunch at this Mexican place called Mi Dia. They made tableside guacamole covered in bacon and we had a few (yummy) cucumber mules.
+
+04/28/2017
+---
+My talk went really, really well today! When I got off stage a girl yelled out at me that she wants to learn to code now. And a lot of people came up to me afterward to tell me how much they liked it :) Yay, success.
+
+04/29/2017
+---
+I flew back to NYC today and spent the day in Central Park with Tim and some of his friends. There was a babe, a pup, and I took a ton of photos of everyone :) Such a lovely afternoon.
+
+04/30/2017
+---
+Flight to Berlin was today! I watched Fantastic Beasts and Where to Find Them on the plane. It was also just really nice to travel with someone :) Tim was being super helpful.
+
+05/01/2017
+---
+May Day street festival in Berlin
