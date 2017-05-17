@@ -478,4 +478,67 @@ Flight to Berlin was today! I watched Fantastic Beasts and Where to Find Them on
 
 05/01/2017
 ---
-May Day street festival in Berlin
+We arrived in Berlin today! And found out it was May Day (a day off from work for protests and political riots). There was a street festival in Kreuzberg that I attended with Tim and met up with Michael and we had currywurst and hung out in the park before getting to work.
+
+05/02/2017
+---
+I got my hair dyed today as per my Berlin tradition :) I love how it turned out! I also went into town with Tim and walked around a bit in Alexanderplatz, saw some of the touristy sites, before settling down to do some work.
+
+05/03/2017
+---
+Tim and I worked from St. Oberholz today—one of my favorite coffee shops, that I've been to a few times now in Berlin. It was pretty chill, and then we walked around the street and dipped into a pretty yummy chicken place.
+
+05/04/2017
+---
+I worked on my talk a lot today and then went to pre-CSSConfEU drinks
+
+05/05/2017
+---
+CSS Conf EU
+
+05/06/2017
+---
+JS Conf EU + late-night Karaoke & burgers before catching a flight
+
+05/07/2017
+---
+Made it to SA, beautiful hotel, did a lot of writing on the plane
+
+05/08/2017
+---
+Conference day 1: omg the venue, wine after party
+
+05/09/2017
+---
+conference day 2: tim arrived, wine tasting at (get name) outside as the sun set, bubble bath
+
+05/10/2017
+---
+Spent the day at the wine resort (Spier) with Emma and Seb. It was *such* a lovely day! We started with breakfast by the pool, then went to the bird conservatory they had on the campus and got to hold owls and snakes and even bottle feed a baby antelope that was just brought in after making friends with one of the employees. Then, we picnicked on the property in front of a beautiful lake and got pastel de natas and then had a really yummy dinner later with all of the speakers in town.
+
+05/11/2017
+---
+Drove to the safari area (Sanbona Wildlife Reserve), beautiful view and lunch, amazing room, went on a game drive, white lions eating a freshly killed antelope
+
+05/12/2017
+---
+two gam drives today, amazing massage in between, saw elephants pass right in front of the car
+
+05/13/2017
+---
+morning game drive to see rhinos, got to airbnb right off the beach in camps bay, lunch , early sleeep
+
+05/14/2017
+---
+shark watching, dinner at place 
+
+05/15/2017
+---
+table mountain + bought awesome dress/jacket
+
+05/16/2017
+---
+flight back, was nice to lay in my own bed
+
+05/17/2017
+---

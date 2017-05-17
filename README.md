@@ -20,23 +20,26 @@ I'm also doing 5 25-Days Projects in 2017:
 
 # April 30, 2017
 
-### This Week's Focus: Prep for Leaving + Squares
+### This Week's Focus: Writing, React
 
 ### Things I'll do This Week:
 
 - [ ] Record/Post Toolsday Episode
+- [ ] Writing — finish intro JS things 
+- [ ] Writing — framework overview
 - [ ] Read [this](https://css-tricks.com/debugging-tips-tricks/)
 - [ ] Read and make something with [AR.js](https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf)
 - [ ] Set a Vue day to read through saved posts
 - [ ] Get other key cut (20th Street)
-- [ ] Finish pixel characters for CSS Conf EU talk
 - [ ] Finish "Why Design Systems Fail" Post
 - [ ] Fix up Classless
 - [ ] Add tooltips in YMNNJS
-- [ ] Discussion Dinners app in Vue (plan)
-- [ ] Half book deadline!
-- [ ] Practice, practice, practice CSS Conf EU talk
-- [ ] Give CSS Conf EU Talk
+- [ ] Go over Wes' React course
+- [ ] Start building Comms Class for Devs site
+- [ ] Check in with illustration
+- [ ] Practice Power of CSS talk
+- [ ] Outline post on CSS Custom Properties tips & tricks
+- [ ] Think about CSS in JS series
 
 ### Things I'll Do in the Future:
 
