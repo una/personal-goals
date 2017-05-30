@@ -490,55 +490,102 @@ Tim and I worked from St. Oberholz today—one of my favorite coffee shops, that
 
 05/04/2017
 ---
-I worked on my talk a lot today and then went to pre-CSSConfEU drinks
+I worked on my talk a lot today and then went to pre-CSSConfEU drinks.
 
 05/05/2017
 ---
-CSS Conf EU
+Day one of CSS Conf EU! Ahh it's such an amazing event! And massive! My talk went okay (definitely messed up a bit but people seemed to like it). It was a great reunion though and seeing everyone was a blast at the post-CSS-conf-pre-JS-conf party.
 
 05/06/2017
 ---
-JS Conf EU + late-night Karaoke & burgers before catching a flight
+JS Conf EU was today. I played this game called joust with a bunch of people that involved lights and trying to hit other people's arms down. After the conference after party we did some late-night Karaoke & got burgers before I had to leave to catch my next flight out (to Cape Town!).
 
 05/07/2017
 ---
-Made it to SA, beautiful hotel, did a lot of writing on the plane
+I Made it to Cape Town! And got picked up with a bunch of the speakers at the airport and taken to a beautiful hotel (a wine estate!) with a beautiful room on a beautiful campus. I also did a lot of writing on the plane, which was pretty great.
 
 05/08/2017
 ---
-Conference day 1: omg the venue, wine after party
+PixelUp conference day 1: OMG the venue blew my mind. It was on another wine estate and as we came in, the view over the mountains and still lake was amazing. We had the conference after party today, which features amazing drinks and wine from the venue. Wowowow I'm still not over how beautiful it was. Excellent day.
 
 05/09/2017
 ---
-conference day 2: tim arrived, wine tasting at (get name) outside as the sun set, bubble bath
+Today was the second day of th PixelUp Conference! I spoke, and it felt really good, despite having a massive 3-course lunch right beforehand (steak today). Tim arrived as the conference ended, and we went to a wine tasting for "dinner" as the sun set where we had amazing nachos, a cheese plate, 4 wines, and pet some cute dogs. Then, we hung out in the lobby and drank more Pinotage and had deserts and then I had a bubble bath. :) Ahhh I can't get over this place.
 
 05/10/2017
 ---
-Spent the day at the wine resort (Spier) with Emma and Seb. It was *such* a lovely day! We started with breakfast by the pool, then went to the bird conservatory they had on the campus and got to hold owls and snakes and even bottle feed a baby antelope that was just brought in after making friends with one of the employees. Then, we picnicked on the property in front of a beautiful lake and got pastel de natas and then had a really yummy dinner later with all of the speakers in town.
+I spent the day at the wine resort where we were staying (Spier) with Emma and Seb. It was *such* a lovely day! We started with breakfast by the pool, then went to the bird conservatory they had on the campus and got to hold owls and snakes and even bottle feed a baby antelope that was just brought in after making friends with one of the employees. Then, we picnicked on the property in front of a beautiful lake and got pastel de natas and then had a really yummy dinner later with all of the speakers in town.
 
 05/11/2017
 ---
-Drove to the safari area (Sanbona Wildlife Reserve), beautiful view and lunch, amazing room, went on a game drive, white lions eating a freshly killed antelope
+We drove to the safari area today (Sanbona Wildlife Reserve), and arrived to a beautiful view and lunch. The room is *incredible*. We also went on our first game drive today, and saw white lions eating a freshly killed antelope *right* by the safari jeep! It was insane! The smell and the sound. Instantly made it worth it.
 
 05/12/2017
 ---
-two gam drives today, amazing massage in between, saw elephants pass right in front of the car
+We had two game drives today! And got out to walk over to a cheetah at one point and saw elephants pass right in front of the car! So close to it! I also got a cheeky massage in between the game drives (it was so good and the massage oil smelled of lemongrass!).
 
 05/13/2017
 ---
-morning game drive to see rhinos, got to airbnb right off the beach in camps bay, lunch , early sleeep
+Today was our last day at Sambona. We did a morning game drive to see rhinos, then headed back to Cape Town and had to say goodbye :(. Tim and I checed into our AirBnb, which was in a pretty nice spot—right off the beach in Camps Bay. We had lunch on our street, got some ice cream, and then passed out early.
 
 05/14/2017
 ---
-shark watching, dinner at place 
+Today we went shark watching with Kevin and Nemo. While we didnt see any sharks (because of the orcas that have been killing them for their livers!), we still had a nice time. We then got dinner at an *amazing* restaurant called Kloof Street House. The drinks were great and it was in this outdoorsy, jungly-type place.
 
 05/15/2017
 ---
-table mountain + bought awesome dress/jacket
+I went up to Table Mountain on the cable car with Tim this morning (we saw the sun rise over Cape Town, and it was beautiful). The view up there was just breathtaking. I also bought an awesome brightly patterned dress/jacket in town today :).
 
 05/16/2017
 ---
-flight back, was nice to lay in my own bed
+The flight back from Cape Town was today (and the end of yesterday). It was so nice to finally lay in my own bed again.
 
 05/17/2017
 ---
+
+05/18/2017
+---
+
+05/19/2017
+---
+I was very lazy today and instead of going to this concert, ended up hanging out late at work, ordering $100 worth of sushi with a bunch of coworkers, and chatting until 10 PM on the office patio. It was good catch-ups.
+
+05/20/2017
+---
+I hung out with Tim and his friends today. It was so nice :) Sam was dog-sitting an *adorable* and super friendly pupper, and we hung out in their backyard, drank cider, and ate a lot of cheese and crackers.
+
+05/21/2017
+---
+I arrived in Poland today and went on a long(ish) walk to and around Old Town. It was such a beautiful day! The weather was perfect and it was really cool to see the architecture and squares in Old Town.
+
+05/22/2017
+---
+I got a lot of work done today in Poland. I stopped by Zlotsy Tarsay and did some shopping (bought a denim jacket and some heels to wear for my talk), took a bath, did a bunch of work on the BUI design system, released it and got a lot of positive feedback! It was a great day.
+
+05/23/2017
+---
+Today I walked around Warsaw, and went to this coffee shop called Kafka. It was in the University area and afterward I stopped by the University Biblioteca which has *amazing* *beautiful* gardens on the roof! :O Was so nice. Then, the Front-Trends speaker dinner was later in the day and very delicious.
+
+05/24/2017
+---
+Today was the first day of Front-Trends (and also my talk). Michael (xzyfer) brought be a unicorn patch he found at a random thrift store in Berlin, and the conference talk went well, and it was a great group. We went to get pierogis after the conference and stayed out for a while drinking and chatting.
+
+05/25/2017
+---
+Today was the last day of the conference and also its after-party. The after-party was on a rooftop loft and we all had Zubrowka with apple juice and cinammon (And it's super yummy). I was also gifted the cutest pair of socks for helping out with a video series for the Awwwsomes :) and had a really fun time with everyone overall, and when we got back to the hotel lobby we stayed up for a while chatting and drinking some more.
+
+05/26/2017
+---
+I flew to Miami today! And it was all about prepping for Liza's bachelorette party. Along with Dana and Vanessa, we blew up baloons, made jello shots, prepped presentations of things, and blew up this massive swan float (which Liza later named Swanita). Vanessa had some really yummy chocolate challah that we had for dinner, too.
+
+05/27/2017
+---
+Everyone came in today in the morning for Liza's bachelorette weekend! We had a pool party, margaritas, jello shots, beers, lots of dancing, grilled burgers, and it was an amazing time overall. Vanessa's parents house is insanely nice. After the day drinking, we headed to the Wynwood area for dinner and to walk around the Wynwood walls, and afterward went to a latin club to do some dancing.
+
+05/28/2017
+---
+Today was *such* a fun day. The crew for Liza's bachelorette hung out by the pool in the morning, then headed to South Beach to see an *incredible* (seriously) drag show brunch at the Palace. We were the wild table of 15, and the show was really impressive. Then, we had some beach time and took photos in our Bride Squad shirts and hung out by the pool at night and ordered pizza and wings. It was great.
+
+05/29/2017
+---
+Omgosh I'm so into Westworld lately! I got on my flight to London (a layover to Split) and they had the entire first season on the flight and it was hard to stop watching :P.

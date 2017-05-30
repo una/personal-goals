@@ -200,14 +200,14 @@ None -- I listened to a lot of podcasts and was traveling all month
 - [x] We Are Legion (We Are Bob) -- Dennis E. Taylor :star:
 
 ## May 2017
-- [ ] The Design of Everyday Things -- Donald A. Norman
+- [x] The Design of Everyday Things -- Donald A. Norman
+- [ ] The Bear and the Nightingale -- Katherine Arden
 - [ ] And the Monkey Learned Nothing -- Tom Lutz
 - [ ] How We Got to Now: Six Innovations that Made the Modern World -- Steve Johnson
 
 ## On Deck
 
 - [ ] Thinking in Systems -- Donella Meadows
-- [ ] The Bear and the Nightingale -- Katherine Arden
 - [ ] The Subtle Art of Not Giving a F*ck: Mark Manson
 
 ## To-Read/Recommendations:

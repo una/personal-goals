@@ -24,7 +24,7 @@ I'm also doing 5 25-Days Projects in 2017:
 
 ### Things I'll do This Week:
 
-- [ ] Record/Post Toolsday Episode
+- [x] Record/Post Toolsday Episode
 - [ ] Writing — finish intro JS things 
 - [ ] Writing — framework overview
 - [ ] Read [this](https://css-tricks.com/debugging-tips-tricks/)
@@ -34,9 +34,9 @@ I'm also doing 5 25-Days Projects in 2017:
 - [ ] Finish "Why Design Systems Fail" Post
 - [ ] Fix up Classless
 - [ ] Add tooltips in YMNNJS
-- [ ] Go over Wes' React course
+- [x] Go over Wes' React course
 - [ ] Start building Comms Class for Devs site
-- [ ] Check in with illustration
+- [x] Check in with illustration
 - [ ] Practice Power of CSS talk
 - [ ] Outline post on CSS Custom Properties tips & tricks
 - [ ] Think about CSS in JS series
