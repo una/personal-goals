@@ -201,14 +201,16 @@ None -- I listened to a lot of podcasts and was traveling all month
 
 ## May 2017
 - [x] The Design of Everyday Things -- Donald A. Norman
-- [ ] The Bear and the Nightingale -- Katherine Arden
+- [x] The Bear and the Nightingale -- Katherine Arden
+
+## June 2017
+- [ ] The Subtle Art of Not Giving a F*ck -- Mark Manson
 - [ ] And the Monkey Learned Nothing -- Tom Lutz
 - [ ] How We Got to Now: Six Innovations that Made the Modern World -- Steve Johnson
 
 ## On Deck
 
 - [ ] Thinking in Systems -- Donella Meadows
-- [ ] The Subtle Art of Not Giving a F*ck: Mark Manson
 
 ## To-Read/Recommendations:
 ---

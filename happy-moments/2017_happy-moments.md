@@ -589,3 +589,14 @@ Today was *such* a fun day. The crew for Liza's bachelorette hung out by the poo
 05/29/2017
 ---
 Omgosh I'm so into Westworld lately! I got on my flight to London (a layover to Split) and they had the entire first season on the flight and it was hard to stop watching :P.
+
+05/30/2017
+---
+After work, I watched an episode of Westworld with Tim before taking a bath and going to sleep. That was a really nice virtual date :)
+
+05/31/2017
+---
+Today was my day to see Split! I did a walking tour of Diecletians palace and walked around a lot, had a really nice lunch by myself at Bokeria, and then later got a massage. It was so nice.
+
+06/01/2017
+---

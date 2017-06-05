@@ -18,13 +18,15 @@ I'm also doing 5 25-Days Projects in 2017:
 4. Dev Doodles
 5. Meditation
 
-# April 30, 2017
+# June 4, 2017
 
-### This Week's Focus: Writing, React
+### This Week's Focus: Wedding!
 
 ### Things I'll do This Week:
 
-- [x] Record/Post Toolsday Episode
+- [ ] Record Toolsday
+- [ ] Get Dress Fitted/Tailored
+- [ ] Record Post: CSS Custom Properties
 - [ ] Writing — finish intro JS things 
 - [ ] Writing — framework overview
 - [ ] Read [this](https://css-tricks.com/debugging-tips-tricks/)
@@ -32,14 +34,14 @@ I'm also doing 5 25-Days Projects in 2017:
 - [ ] Set a Vue day to read through saved posts
 - [ ] Get other key cut (20th Street)
 - [ ] Finish "Why Design Systems Fail" Post
-- [ ] Fix up Classless
+- [ ] Fix up Classless <-- !
 - [ ] Add tooltips in YMNNJS
-- [x] Go over Wes' React course
-- [ ] Start building Comms Class for Devs site
-- [x] Check in with illustration
-- [ ] Practice Power of CSS talk
-- [ ] Outline post on CSS Custom Properties tips & tricks
 - [ ] Think about CSS in JS series
+- [ ] Review book edits
+- [ ] Start building Comms Class for Devs site
+- [ ] Practice / revise MOH Speech
+- [ ] Liza's Wedding!
+- [ ] Pre-surgery appointment
 
 ### Things I'll Do in the Future:
 
@@ -54,7 +56,7 @@ I'm also doing 5 25-Days Projects in 2017:
 - [ ] Finish [JavaScript 30](https://javascript30.com/)
 - [ ] "Walk Me Through JS" Video Series
 - [ ] Toolsday & Web Love stickers
-- [ ] Implement offline support for my blog
+- [x] Implement offline support for my blog
 - [ ] Build an Offline Web App (Heiroglyph)
 - [ ] Raise money for women in tech organizations
 - [x] Read [Resilient Web Design](https://resilientwebdesign.com/)
