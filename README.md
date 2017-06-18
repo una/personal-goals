@@ -25,11 +25,11 @@ I'm also doing 5 25-Days Projects in 2017:
 ### Things I'll do This Week:
 
 - [ ] Record Toolsday
-- [ ] Get Dress Fitted/Tailored
-- [ ] Record Post: CSS Custom Properties
+- [x] Get Dress Fitted/Tailored
+- [x] Record Post: CSS Custom Properties
 - [ ] Writing — finish intro JS things 
 - [ ] Writing — framework overview
-- [ ] Read [this](https://css-tricks.com/debugging-tips-tricks/)
+- [x] Read [this](https://css-tricks.com/debugging-tips-tricks/)
 - [ ] Read and make something with [AR.js](https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf)
 - [ ] Set a Vue day to read through saved posts
 - [ ] Get other key cut (20th Street)
@@ -37,11 +37,11 @@ I'm also doing 5 25-Days Projects in 2017:
 - [ ] Fix up Classless <-- !
 - [ ] Add tooltips in YMNNJS
 - [ ] Think about CSS in JS series
-- [ ] Review book edits
+- [x] Review book edits
 - [ ] Start building Comms Class for Devs site
-- [ ] Practice / revise MOH Speech
-- [ ] Liza's Wedding!
-- [ ] Pre-surgery appointment
+- [x] Practice / write out MOH Speech
+- [x] Liza's Wedding!
+- [x] Pre-surgery appointment
 
 ### Things I'll Do in the Future:
 
