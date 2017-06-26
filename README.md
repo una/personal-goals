@@ -24,24 +24,21 @@ I'm also doing 5 25-Days Projects in 2017:
 
 ### Things I'll do This Week:
 
-- [ ] Record Toolsday
-- [x] Get Dress Fitted/Tailored
-- [x] Record Post: CSS Custom Properties
-- [ ] Writing — finish intro JS things 
-- [ ] Writing — framework overview
-- [x] Read [this](https://css-tricks.com/debugging-tips-tricks/)
-- [ ] Read and make something with [AR.js](https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf)
-- [ ] Set a Vue day to read through saved posts
-- [ ] Get other key cut (20th Street)
-- [ ] Finish "Why Design Systems Fail" Post
-- [ ] Fix up Classless <-- !
-- [ ] Add tooltips in YMNNJS
-- [ ] Think about CSS in JS series
-- [x] Review book edits
-- [ ] Start building Comms Class for Devs site
-- [x] Practice / write out MOH Speech
-- [x] Liza's Wedding!
-- [x] Pre-surgery appointment
+- [ ] 🎙 Record/Post Toolsday Episode
+- [ ] 💜 Read [this](https://stripe.com/blog/connect-front-end-experience)
+- [ ] 💛 Finish Wes Bos' ES6 Course Again
+- [ ] 💛 Set a Vue day to read through saved posts
+- [ ] ✍️ Finish "Why Design Systems Fail" Post
+- [ ] 🌐 Fix up Classless <-- !
+- [ ] 🌐 Add tooltips in YMNNJS
+- [ ] 📚 finish intro JS things 
+- [ ] 📚 framework overview
+- [ ] 📚 continue technical updates
+- [ ] 📚 create diagrams I sketched out
+- [ ] 📚 meeting about illustration
+- [ ] 💵 Finish Outline for Comms Class for Devs <-- !
+- [ ] 📢 Rewrite Image Perf talk based on feedback for AEA
+- [ ] ✍️ Finish Happy Moments updates (write out)
 
 ### Things I'll Do in the Future:
 

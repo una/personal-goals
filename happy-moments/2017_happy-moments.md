@@ -600,3 +600,99 @@ Today was my day to see Split! I did a walking tour of Diecletians palace and wa
 
 06/01/2017
 ---
+massive venue, conference after party at diocletians cellars
+
+06/02/2017
+---
+conference after party in the museum of modern art
+
+06/03/2017
+---
+
+06/04/2017
+---
+the dress fits! bought shoes for it too
+
+06/05/2017
+---
+artbox day, got three tombow markers
+
+06/06/2017
+---
+tailor said i don't need alterations
+
+06/07/2017
+---
+made liza and matt's card
+
+06/08/2017
+---
+pet a dog and saw leah, got dinner at westville, bought a ring afterward at a little boutique
+
+06/09/2017
+---
+came home for lizas wedding festivities, pet lucy
+
+06/10/2017
+---
+Tonight is the night before Liza and Matt's wedding. They had their rehearsal dinner and I stayed with her in the suite and watched Say Yes to the Dress until we fell asleep. SO excited for tomorrow.
+
+06/11/2017
+---
+Today is Liza's wedding!!! It was such a fun day, getting dolled up in the morning and dancing to literally every song. Before the wedding, Matt sent Liza a video he made where he did 99 days of "I Love Yous" on his morning run. It was *such* a fun wedding. My speech even made Matt cry :) so job well done there, I think.
+
+06/12/2017
+---
+driving up, dinner at kitchen
+
+06/13/2017
+---
+surgery day, snapchat before surgery made me feel better
+
+06/14/2017
+---
+i was knocked out most of this day on percocet
+
+06/15/2017
+---
+Leah came over and brought goodies from the girls
+
+06/16/2017
+---
+Walking in the park
+
+06/17/2017
+---
+movies with mom and dad
+
+06/18/2017
+---
+Father's day is today! As a thank you, I took my parents out to dinner at a really nice Japanese place called Taiki and we got the Omakase (this was my first time getting Omakase!).
+
+06/19/2017
+---
+I went back to work today and had a meeting with HR about the transition to design and what my role would look like there. I think it could be really good, so I'm hoping that things work out okay!
+
+06/20/2017
+---
+Today was a very productive day at work (this whole week really has been). I looked to see what other tickets I should be doing and realized that I had no more left in this really long series of updating the design system based on the old system. So I did a little celebration.
+
+06/21/2017
+---
+Today was my first day of physical therapy! I got my knee to bend over 90 degrees on my own! And I lifted my leg for the first time. It was all very exciting :D. My surgeon also told me that the incision and site looked great.
+
+06/22/2017
+---
+Sam came over today and we hung out and played Mario Kart on his switch (yes on a tiny screen, but we made it work). We also got dinner at the Ugly Duckling down the street :) It was my first time drinking since the surgery (I had a Sangria).
+
+06/23/2017
+---
+PT day two! I asked if I could ditch the crutches and they said it was okay! :D So I walked home without them and it was such a sweet relief.
+
+06/24/2017
+---
+I watched a bunch of Silicon Valley today and did a bit of book writing. Later at night i went out to the Clover Club and got this cocktail that always came with an overflow glass. It was nice. I walked all the way there without my brace.
+
+6/25/2017
+---
+Today there was a street festival on my street! I woke up to drums and went out along the street. I got some lunch, a ring, and a really nice dress. I loved the vibes :) and it was a beautiful day out. The beautiful day was topped with dinner at La Vara, a few blocks away, with Tim. OMG IT WAS SO GOOD. Definitely a new favorite.
