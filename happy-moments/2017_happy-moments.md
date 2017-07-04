@@ -693,6 +693,36 @@ PT day two! I asked if I could ditch the crutches and they said it was okay! :D 
 ---
 I watched a bunch of Silicon Valley today and did a bit of book writing. Later at night i went out to the Clover Club and got this cocktail that always came with an overflow glass. It was nice. I walked all the way there without my brace.
 
-6/25/2017
+06/25/2017
 ---
 Today there was a street festival on my street! I woke up to drums and went out along the street. I got some lunch, a ring, and a really nice dress. I loved the vibes :) and it was a beautiful day out. The beautiful day was topped with dinner at La Vara, a few blocks away, with Tim. OMG IT WAS SO GOOD. Definitely a new favorite.
+
+06/26/2017
+---
+Skype chat for 2 hours with Jo and Lauren
+
+06/27/2017
+---
+- went to work, bought iPad & pencil, Hamrick gave me his brush set for free
+
+06/28/2017
+---
+stayed up till 2 AM making my own Procreate brush!
+
+06/29/2017
+---
+First steps w/o brace
+
+06/30/2017
+---
+
+06/01/2017
+---
+Todat was my first day back at the gym and it felt *GREAT*. I did an upper body workout and then PT at the gym and it was good :) Happy to be back.
+
+06/02/2017
+---
+
+06/03/2017
+---
+went to gym, got on bike

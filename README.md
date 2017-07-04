@@ -18,27 +18,26 @@ I'm also doing 5 25-Days Projects in 2017:
 4. Dev Doodles
 5. Meditation
 
-# June 4, 2017
+# July 2, 2017
 
-### This Week's Focus: Wedding!
+### This Week's Focus: Writing & Walking
 
 ### Things I'll do This Week:
 
 - [ ] 🎙 Record/Post Toolsday Episode
+- [ ] 💌 Send out Web Love Weekly
+- [ ] 🎙 Line up guests for shows
 - [ ] 💜 Read [this](https://stripe.com/blog/connect-front-end-experience)
-- [ ] 💛 Finish Wes Bos' ES6 Course Again
+- [ ] 💛 Finish Wes Bos' ES6 Course
 - [ ] 💛 Set a Vue day to read through saved posts
 - [ ] ✍️ Finish "Why Design Systems Fail" Post
 - [ ] 🌐 Fix up Classless <-- !
 - [ ] 🌐 Add tooltips in YMNNJS
 - [ ] 📚 finish intro JS things 
-- [ ] 📚 framework overview
-- [ ] 📚 continue technical updates
-- [ ] 📚 create diagrams I sketched out
-- [ ] 📚 meeting about illustration
-- [ ] 💵 Finish Outline for Comms Class for Devs <-- !
-- [ ] 📢 Rewrite Image Perf talk based on feedback for AEA
+- [ ] 💵 Finish Outline for Comms Class for Devs <-- ! Monday
 - [ ] ✍️ Finish Happy Moments updates (write out)
+- [ ] 🕹 Make frame for @dev_doodles Instagram
+- [ ] 🕹 Start posting @dev_doodles
 
 ### Things I'll Do in the Future:
 
