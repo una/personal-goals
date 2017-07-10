@@ -206,6 +206,9 @@ None -- I listened to a lot of podcasts and was traveling all month
 ## June 2017
 - [x] The Subtle Art of Not Giving a F*ck -- Mark Manson
 - [x] And the Monkey Learned Nothing -- Tom Lutz
+
+## July 2017
+- [x] The Everything Store: Jeff Bezos and the Age of Amazon -- Brad Stone
 - [ ] How We Got to Now: Six Innovations that Made the Modern World -- Steve Johnson
 
 ## On Deck

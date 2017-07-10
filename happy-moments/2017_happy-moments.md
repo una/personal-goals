@@ -596,42 +596,43 @@ After work, I watched an episode of Westworld with Tim before taking a bath and 
 
 05/31/2017
 ---
-Today was my day to see Split! I did a walking tour of Diecletians palace and walked around a lot, had a really nice lunch by myself at Bokeria, and then later got a massage. It was so nice.
+Today was my day to see Split! I did a walking tour of Diecletians palace and walked around a lot, had a really nice lunch by myself at Bokeria (an amazing restaurant that had such good fish and great win and I sat outside on the side street and the weather was perfect), and then later got a massage. It was so nice.
 
 06/01/2017
 ---
-massive venue, conference after party at diocletians cellars
+Woah! The Shift conference is at a massive venue. The national theatre here! It was day one and the conference after party was at Diocletians cellars! Like, his actual cellars! I was blown away. :O
 
 06/02/2017
 ---
-conference after party in the museum of modern art
+This conference is getting a little ridiculous. I did my talk today and it went well, and then the conference after party was in the Split Museum of Modern Art! We walked around the exhibit at night and drank wine and it was super cool. There was this one particularly impressive mural directly on the wall.
 
 06/03/2017
 ---
+Today was a flying day! But it was fine :P no loud babies, and I made it home okay.
 
 06/04/2017
 ---
-the dress fits! bought shoes for it too
+OMG! Massive news today! I stopped by work to get my package (the bridesmaids dress for Liza's wedding to try on) and the dress fits! It fits! I didn't think it would but it does! I also bought shoes for the event!
 
 06/05/2017
 ---
-artbox day, got three tombow markers
+It's Artbox day! In this month's box, I got three tombow markers! How rad :) I love getting art supplies I already love.
 
 06/06/2017
 ---
-tailor said i don't need alterations
+Today after work I went to this bridal specialty tailor to get the dress for Liza's altered, and she said i don't need alterations! Like, any! At all! WhAT!?
 
 06/07/2017
 ---
-made liza and matt's card
+Today I made Liza and Matt's card for their wedding :) I had a lot of fun drawing and inking them. EEE!! I can't believe its so soon!
 
 06/08/2017
 ---
-pet a dog and saw leah, got dinner at westville, bought a ring afterward at a little boutique
+Leah and I got dinner at Westville today (and I pet a dog along the way)! I bought a ring afterward at a little boutique when we walked around Chelsea :)
 
 06/09/2017
 ---
-came home for lizas wedding festivities, pet lucy
+Tonight I came home for Liza's wedding festivities after work. I pet Lucy and slept in the basement of my parents house and all was well in the world.
 
 06/10/2017
 ---
@@ -643,27 +644,27 @@ Today is Liza's wedding!!! It was such a fun day, getting dolled up in the morni
 
 06/12/2017
 ---
-driving up, dinner at kitchen
+I drove up to NYC today with my parents for the final day before surgery. We got dinner at Kitchen Cobble Hill and stayed at the Holiday Inn (which is super nice) in Downtown Brooklyn. Tomorrow is surgery day!
 
 06/13/2017
 ---
-surgery day, snapchat before surgery made me feel better
+Surgery day! I remember the anesthesia being awesome. The anesthesiologist was so gentle I barely felt the needle go in, and I fell asleep so peacefully. When I woke up, my leg didn't hurt too bad (because of the nerve block) and it was all over!
 
 06/14/2017
 ---
-i was knocked out most of this day on percocet
+I was knocked out most of this day on percocet 😆
 
 06/15/2017
 ---
-Leah came over and brought goodies from the girls
+Today I went for a walk in the park for the first time (on crutches still) with my parents. They took me out there in the wheelchair and I did some practice walking. It was nice to get outside.
 
 06/16/2017
 ---
-Walking in the park
+Leah came over today while my parents were out and brought goodies from the girls (amazing dark chocolate, La Croix, almonds, and some magazines). It was so nice! We watched Girl on the Train (which we both had read), and hung out for a while.
 
 06/17/2017
 ---
-movies with mom and dad
+I'm getting better at walking with the crutches. I went to the park again today and walked there (with the crutches). Spend the rest of the night watching movies with Mom and Dad. There was a really good one about this really smart girl and her Dad/Grandma fighting over her schooling. Sounds weird typing it out, but it was good, I swear.
 
 06/18/2017
 ---
@@ -699,30 +700,56 @@ Today there was a street festival on my street! I woke up to drums and went out 
 
 06/26/2017
 ---
-Skype chat for 2 hours with Jo and Lauren
+I Skype chatted for about 2 hours with Jo and Lauren today. It was a great catchup. Lauren is dating someone O.O! Jo too. What a life :P
 
 06/27/2017
 ---
-- went to work, bought iPad & pencil, Hamrick gave me his brush set for free
+I went to work today for a few meetings, and afterward bought the new iPad Pro & an Appl Pencil. I LOVE IT SO MUCH ALREADY! And Ryan Hamrick gave me his brush set for free! I'm do giddy.
 
 06/28/2017
 ---
-stayed up till 2 AM making my own Procreate brush!
+I stayed up till 2 AM tonight making my own Procreate brush! It was so much fun! I'm going to give it to my newsletter subscribers.
 
 06/29/2017
 ---
-First steps w/o brace
+Today I took my first steps without the brace!! (Using the crutch as a cane). It still felt like a really big accomplishment.
 
 06/30/2017
 ---
+I cleaned my desk today and really settled in to write a ton of my book. I got to over 60k words! And got through most of the round 1 tech edits! AHH ITS HAPPENING!
 
-06/01/2017
+07/01/2017
 ---
-Todat was my first day back at the gym and it felt *GREAT*. I did an upper body workout and then PT at the gym and it was good :) Happy to be back.
+Today was my first day back at the gym and it felt *GREAT*. I did an upper body workout and then PT at the gym and it was good :) Happy to be back.
 
-06/02/2017
+07/02/2017
 ---
+Sam Phippen came to my neighborhood today and we got brunch at Leyenda and then we stopped by Stinky's (a cheese store) to buy cheese and meat for a cheese plate. *It* *was* *so* *good*!
 
-06/03/2017
+07/03/2017
 ---
-went to gym, got on bike
+I went to gym today and got on the bike for the first time!! It felt like my first real workout in ages. It was great. I also painted my nails with the American flag for Independance day tomorrow!
+
+07/04/2017
+---
+Happy 4th of July! I went to East River State Park in Brooklyn to meet up with Tim and a big group of his friends to drink Rosé, hang out and play Uno, and watch fireworks. It was a great view.
+
+07/05/2017
+---
+I may have outdone the walking yesterday, so today instead of going back to work, I stayed home all day and iced my knee. The gym is getting easier, though, and I'm getting better at walking without the brace.
+
+07/06/2017
+---
+I finally went back to work today for the time being! And I got a promotion as a part of my transition to the design team (to Senior level)! And a raise to bump me to the lower end of the pay spectrum there. :D YAY!
+
+07/07/2017
+---
+Today was nice and chill. I stopped by the Mac store to get some Fix+ and get my color (NC20). I'm also getting really good at going up stairs one at a time!
+
+07/08/2017
+---
+I did a lot of errands today (like laundry and cleaning), and the most intense one was my quest for HaloTop ice cream! I ended up going to Target by Downtown Brooklyn to find it, and almost missed it, but then THERE IT WAS as I left the store. I felt accomplished.
+
+07/09/2017
+---
+Took the train into DC from New York today. I arrived and got brunch with Ally and Vicki at Carving Room (such a nice catchup, we ran so long with brunch). Then I got to the hotel in Alexandria and checked in and went to the speaker dinner (Etheopian! Yum!).
