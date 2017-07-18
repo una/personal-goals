@@ -753,3 +753,35 @@ I did a lot of errands today (like laundry and cleaning), and the most intense o
 07/09/2017
 ---
 Took the train into DC from New York today. I arrived and got brunch with Ally and Vicki at Carving Room (such a nice catchup, we ran so long with brunch). Then I got to the hotel in Alexandria and checked in and went to the speaker dinner (Etheopian! Yum!).
+
+07/10/2017
+---
+Today was the first day of An Event Apart. I worked on my talk a bit today and got a bit of writing done. The hotel room had a beautiful view from the 28th floor and I enjoyed being there. I also was able to do a split today! (With the brace on)
+
+07/11/2017
+---
+I gave my talk at AEA today :) *and* afterward I went into town to the CodepenDC meetup to give another talk (about pixel art this time). Somehow the demo worked perfectly. It was also such a nice reunion! I got to see a bunch of people from DC I hadn't seen in a while like Scott and Dave (and of course Ally). Ally and I went to get Nando's afterward :P
+
+07/12/2017
+---
+I took an early train in and went right into work today! And today I got a promotion and raise! For my transition to the design team I'm now a senior front-end developer working within the design org.
+
+07/13/2017
+---
+Today was a pretty standard day, but I did get to mess with boys on the internet (Tinder) so that was fun :)
+
+07/14/2017
+---
+Today I went to a new PT which KILLED me with this thing called the Graston technique. Then, I saw a *really amazing* Broadway play with Etelle and Jenna called Indecent. Wow it was really touching. When I came home I ate half a pint of Halo Top too :) so all in all, great evening.
+
+07/15/2017
+---
+Today my brother was in town, so I went to meet up with him after this awesome homecooked brunch my roommate threw. We went to the Whitney Museum (which I got in for free because my brother's friend worked at a company of which they were a client). After the museum, we got really yummy Greek food on the upper east side.
+
+07/16/2017
+---
+I spent the entire morning writing and being productive after the weekend of enjoying NYC. And then I went to meet up with a boy for drinks at a bar (first date since my breakup). But the date was actually pretty great :) And we stayed out to get dinner and drop by my favorite bar, Ghost Donkey :P And then I got home and watched the Game of Thrones premier.
+
+07/17/2016
+---
+Today I went to the new PT place again. It feels really good to go. I just feel so productive and they have so much more room to move and its nice. It feels like I'm back in a real gym.

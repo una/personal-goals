@@ -209,11 +209,13 @@ None -- I listened to a lot of podcasts and was traveling all month
 
 ## July 2017
 - [x] The Everything Store: Jeff Bezos and the Age of Amazon -- Brad Stone
-- [ ] How We Got to Now: Six Innovations that Made the Modern World -- Steve Johnson
+- [x] Girls in White Dresses -- Jennifer Close
+- [ ] The Signal and the Noise -- Nate Silver
 
 ## On Deck
 
 - [ ] Thinking in Systems -- Donella Meadows
+- [ ] How We Got to Now: Six Innovations that Made the Modern World -- Steve Johnson
 
 ## To-Read/Recommendations:
 ---

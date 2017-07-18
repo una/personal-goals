@@ -24,9 +24,9 @@ I'm also doing 5 25-Days Projects in 2017:
 
 ### Things I'll do This Week:
 
+- [ ] 🎨 Create/Post Dev Doodle
+- [ ] 🚀 Build "My Library" Vue thing
 - [ ] 🎙 Record/Post Toolsday Episode
-- [ ] 🎙 Line up guests for shows
-- [ ] 💌 Send out Web Love Weekly
 - [ ] 💜 Read [this](https://stripe.com/blog/connect-front-end-experience)
 - [ ] 💛 Finish Wes Bos' ES6 Course
 - [ ] ✍️ Finish "Why Design Systems Fail" Post
@@ -34,10 +34,9 @@ I'm also doing 5 25-Days Projects in 2017:
 - [ ] 🌐 Add tooltips in YMNNJS
 - [ ] 📚 Finish intro JS things
 - [ ] 📚 Finish tech edits
-- [ ] 🎨 Do another Dev Doodle
-- [ ] 📢 Give talk at AEA
-- [ ] 📢 Give talk at CodepenDC Meetup
-- [ ] 🚀 Build "My Library" Vue thing
+- [ ] 📚 CSS in JS Section
+- [ ] 🚀 Prep for Comms Class for Devs Recording
+- [ ] 🎂 Sort out birthday plans (and have bday party)
 
 ### Things I'll Do in the Future:
 
