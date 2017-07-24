@@ -12,11 +12,11 @@ Personal goals made open source for accessibility across computers I use, transp
 
 I'm also doing 5 25-Days Projects in 2017:
 
-1. Running
-2. Writing Letters
-3. Mentorship
-4. Dev Doodles
-5. Meditation
+1. ⭕ Running
+2. ⭕ Writing Letters
+3. ✅ Mentorship
+4. 🌀 Dev Doodles
+5. 🌀 Meditation
 
 # July 2, 2017
 
@@ -24,9 +24,8 @@ I'm also doing 5 25-Days Projects in 2017:
 
 ### Things I'll do This Week:
 
-- [ ] 🎨 Create/Post Dev Doodle
-- [ ] 🚀 Build "My Library" Vue thing
 - [ ] 🎙 Record/Post Toolsday Episode
+- [ ] 🚀 Build "My Library" Vue thing
 - [ ] 💜 Read [this](https://stripe.com/blog/connect-front-end-experience)
 - [ ] 💛 Finish Wes Bos' ES6 Course
 - [ ] ✍️ Finish "Why Design Systems Fail" Post
@@ -35,8 +34,12 @@ I'm also doing 5 25-Days Projects in 2017:
 - [ ] 📚 Finish intro JS things
 - [ ] 📚 Finish tech edits
 - [ ] 📚 CSS in JS Section
-- [ ] 🚀 Prep for Comms Class for Devs Recording
-- [ ] 🎂 Sort out birthday plans (and have bday party)
+- [ ] Continue meditation streak
+- [ ] Go home for Grandmas Bday
+- [ ] Get Massage :)
+- [ ] Deal with medical bills
+- [ ] Work on talk for ColdFront Conf
+- [ ] Start talk for Design Systems Coalition
 
 ### Things I'll Do in the Future:
 

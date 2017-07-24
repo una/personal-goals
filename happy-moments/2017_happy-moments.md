@@ -782,6 +782,23 @@ Today my brother was in town, so I went to meet up with him after this awesome h
 ---
 I spent the entire morning writing and being productive after the weekend of enjoying NYC. And then I went to meet up with a boy for drinks at a bar (first date since my breakup). But the date was actually pretty great :) And we stayed out to get dinner and drop by my favorite bar, Ghost Donkey :P And then I got home and watched the Game of Thrones premier.
 
-07/17/2016
+07/17/2017
 ---
 Today I went to the new PT place again. It feels really good to go. I just feel so productive and they have so much more room to move and its nice. It feels like I'm back in a real gym.
+
+07/18/2017
+---
+
+07/19/2017
+---
+Ben (boy I went out with on Sunday), invited me to an OK GO concert that was playing at the Brookfield Center. It was so much fun! My first music event in NYC and it was on the water and super nice. Afterward, we headed back to TriBeCa so I could pick something up from my office and then had some late night Mexican food.
+
+07/20/2017
+---
+
+07/21/2017
+---
+
+07/22/2017
+---
+It's my birthday! I had a great day today. Woke up, had a good workout, got my free Starbucks, bought a bunch of alcohol to take with us to Karaoke later. Liza and Matt were in town and I got a group together at Salvation Taco and then we went to sing karaoke at Karaoke City. Was a fun birthday.
