@@ -18,7 +18,7 @@ I'm also doing 5 25-Days Projects in 2017:
 4. 🌀 Dev Doodles
 5. 🌀 Meditation
 
-# July 2, 2017
+# August 13, 2017
 
 ### This Week's Focus: Writing & Walking
 

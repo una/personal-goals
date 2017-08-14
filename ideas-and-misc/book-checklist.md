@@ -200,7 +200,7 @@ None -- I listened to a lot of podcasts and was traveling all month
 - [x] We Are Legion (We Are Bob) -- Dennis E. Taylor :star:
 
 ## May 2017
-- [x] The Design of Everyday Things -- Donald A. Norman
+- [x] The Design of Everyday Things -- Donald A. Norman :star:
 - [x] The Bear and the Nightingale -- Katherine Arden
 
 ## June 2017
@@ -210,7 +210,12 @@ None -- I listened to a lot of podcasts and was traveling all month
 ## July 2017
 - [x] The Everything Store: Jeff Bezos and the Age of Amazon -- Brad Stone
 - [x] Girls in White Dresses -- Jennifer Close
-- [ ] The Signal and the Noise -- Nate Silver
+- [x] The Signal and the Noise -- Nate Silver
+
+## August 2017
+
+- [x] Solve for Happy: Engineer Your Path to Joy -- Mo Gawdat :star:
+- [ ] A Man Called Ove -- Frederik Backman :star:
 
 ## On Deck
 

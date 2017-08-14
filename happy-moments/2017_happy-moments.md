@@ -526,7 +526,7 @@ We had two game drives today! And got out to walk over to a cheetah at one point
 
 05/13/2017
 ---
-Today was our last day at Sambona. We did a morning game drive to see rhinos, then headed back to Cape Town and had to say goodbye :(. Tim and I checed into our AirBnb, which was in a pretty nice spot—right off the beach in Camps Bay. We had lunch on our street, got some ice cream, and then passed out early.
+Today was our last day at Sambona. We did a morning game drive to see rhinos, then headed back to Cape Town and had to say goodbye :(. Tim and I checked into our AirBnb, which was in a pretty nice spot—right off the beach in Camps Bay. We had lunch on our street, got some ice cream, and then passed out early.
 
 05/14/2017
 ---
@@ -780,7 +780,7 @@ Today my brother was in town, so I went to meet up with him after this awesome h
 
 07/16/2017
 ---
-I spent the entire morning writing and being productive after the weekend of enjoying NYC. And then I went to meet up with a boy for drinks at a bar (first date since my breakup). But the date was actually pretty great :) And we stayed out to get dinner and drop by my favorite bar, Ghost Donkey :P And then I got home and watched the Game of Thrones premier.
+I spent the entire morning writing and being productive after the weekend of enjoying NYC. And then I went to meet up with a boy for drinks at a bar (first date since my last breakup). But the date was actually pretty great :) And we stayed out to get dinner and drop by my favorite bar, Ghost Donkey :P And then I got home and watched the Game of Thrones premier.
 
 07/17/2017
 ---
@@ -788,6 +788,7 @@ Today I went to the new PT place again. It feels really good to go. I just feel 
 
 07/18/2017
 ---
+Today I got a bunch of packages in, including a super cheeky swimsuit. When I put it on, I felt pretty confident (I honestly felt like Kylie Jenner :P). Had a good workout today too and OMG I TOUCHED MY BUTT WITH MY FOOT! Ahh! So many flexion gains.
 
 07/19/2017
 ---
@@ -795,10 +796,103 @@ Ben (boy I went out with on Sunday), invited me to an OK GO concert that was pla
 
 07/20/2017
 ---
+I feel like a boss now that I'm back in the gym. Seriously, it feels *SO* good. I'm starting to feel confident about my body again, and thats a great feeling.
 
 07/21/2017
 ---
+Today, Patricia was out of town, and I also am feeling amped up on music, so I ended up plugging my laptop into the big sound system and just turned on music super loud and danced to it and sang and it was the best. I ended up laying on the floow singing and feeling the subway cars move under the apartment.
 
 07/22/2017
 ---
 It's my birthday! I had a great day today. Woke up, had a good workout, got my free Starbucks, bought a bunch of alcohol to take with us to Karaoke later. Liza and Matt were in town and I got a group together at Salvation Taco and then we went to sing karaoke at Karaoke City. Was a fun birthday.
+
+07/23/2017
+---
+Today I did some practice recordings for my Comms Class for Devs series, and I also decided to cut my hair on a whim. OH MY GOD I FEEL SO MUCH BETTER. Having short hair just feels more "me" and I love how it turned out. Best spontaneous decision ever.
+
+07/24/2017
+---
+I got dinner and drinks with Leah today after work at Hundred Acres to celebrate her new job and my promotion. It was *so* nice! And she works right by me now (the place was exactly 8 mins from both of us). There is so much to explore and she's doing great and I'm really happy that we'll hang out more now.
+
+07/25/2017
+---
+I went out to Chelsea Market today to get tacos at the "best tacqueria in NYC" (Taqueria #1). After the tacos, though, I stopped by a book store and saw all of these adorable pins. And they were made by These are Things! I instantly got nostaligia for the print they sent me when I was a design student and couldn't afford it and it made me so happy to see :)
+
+07/26/2017
+---
+DigitalOcean did a free dinner cruise around the Hudson with an open bar and beautiful view. It was a lot of fun. I also wore this floral kimono with a navy dress so I felt like I was a goddess with the wind.
+
+07/27/2017
+---
+Today I held a hand letterin workshop! And it was super fun and went really well and now I feel like I could run legit workshops for people in New York!
+
+07/28/2017
+---
+Today I tried to go see the Andrew Bird concert with Ben but it was wayyy too crazy of a line. So instead we got dinner/drinks at this adorable place in Park Slope called Brookvin and went back to my place to listen to music and hang out.
+
+07/29/2017
+---
+Today was so much fun! I went home for my grandma's 80th birthday to get so many surprises for my own! My parents got me a ring and necklace from Tiffanys as birthday gifts, and my Mom surprised me with a cake at the party later on. The party itself was a blast, with so much food, a DJ, and lots of dancing (we closed out a Kavkaz restauraunt). :D Then, I went out in Baltimore with some friends and ended up getting to sleep at 4 AM. Amazing birthday.
+
+07/30/2017
+---
+I headed back to NYC today and was just pretty lazy after a very active weekend. I ended up going over Ben's place to watch Rick and Morty with a few people and that didn't end up happening because internets are hard, but I had a good time there anyway.
+
+07/31/2017
+---
+I went to the gym this afternoon and really felt like I crushed it! It felt so good to get on the leg press and do 70 for single-leg press on the surgery leg (110 together). I also watched GoT on the bike (which I really liked doing, and should just work out while I watch it from now on).
+
+08/01/2017
+---
+I saw Anastasia with Etel and Jenna today! IT WAS SO GOOD! The costumes were amazing (I especially love 1920's style) and the set was wowowow. It had these digital screens that rotated and changed and really brought it to life. Amazing singers and actors and everything. I'm really glad we went!
+
+08/02/2017
+---
+I got another art snacks package today! And in it, I got a cool new Fig pen that had a separate ink canister and case. I really love the pen and have been using it a lot so far. I also had a great workout at the gym tonight and my knee is really starting to feel better.
+
+08/03/2017
+---
+I built this virtual mixtape and visualization using the web audio API and put it on Codepen and played with blend modes and it was a lot of fun :) Just a quick little project, but it felt good to build something small and experimental that turned out well.
+
+08/04/2017
+---
+I stayed up for a while building this ASL slackbot (and it was going really well!) and then I made this CD case (ahh it had been a long time since I did a mixtape project thing). I love how it turned out! So it was a nice night of building/making things both on and offline.
+
+08/05/2017
+---
+Today started with a morning phone call with Ben that was nice as a catch up. I then had a really great, long workout with no time limits :) and spent the rest of the day catching up on work, emails, and organizing my life and travel.
+
+08/06/2017
+---
+Today I woke up, had a really good workout, and then saw The Big Sick at the Alamao Drafthous with Ben. It's his birthday! So I made him a virtual mixtape and CD cover and he really liked it so that was nice to see :) The movie was good and we encountered a great enthusiastic pupper on the way home.
+
+08/07/2017
+---
+Official day one of DO Shark Week! There's an espresoo bar! And the swag is great! And its been so good seeing everyone in the office! :D
+
+08/08/2017
+---
+Tonight was team dinners for Shark Week! We went to Macao Trading Co in Tribeca and it was *so* good! I got the Waygu steak :P yumm. Also they had good drinks and pimento peppers for appetizers. It was a fun bonding time. After dinner, I met Ben for one of his friend's shows at Bowery Electric and went back to mine with him.
+
+08/09/2017
+---
+Today was guild night for DigitalOcean shark week. I hung out with #fabulous and picked up some new makeup (an eyelash curler and lipsticks), and drank some Italian wine with #wine :P It was fun, but I got a bit tipsy before physical therapy (which honestly made it more fun in the end).
+
+08/10/2017
+---
+Tonight was DO Game Night. We ended up playing Werewolf for literally 5 hours (until 1 AM). It was so much fun, and I killed it as a werewolf in the last game, which got down to 3 people! :)
+
+08/11/2017
+---
+I went to the Yankees/Red Sox game with DigitalOcean tonight for the end of Shark Week. It was so cool! We had a pre-game food/drink thing underneath the sign and the seats were pretty good. I basically learned baseball for 2 innings, drank for 4 innings, and watched the last 3. Yankees won! But just at the end!
+
+08/12/2017
+---
+Today was the last day of Shark Weekend! I met everyone at Coney Island and rode on the big rollercoaster and some other rides, won Go-Karting, and won a giant unicorn! It was a lot of fun :)
+
+08/13/2017
+---
+This morning I went over to Suz's place to be a guest on her live Twitch stream! It was a lot of fun! I did sketch notes while we talked through making a Hamilton lottery light bulb bot :D While it wasn't *technically* successful, we had a lot of fun and I learned a lot.
+
+08/14/2017
+---
