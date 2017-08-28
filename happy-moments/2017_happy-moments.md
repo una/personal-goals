@@ -896,3 +896,56 @@ This morning I went over to Suz's place to be a guest on her live Twitch stream!
 
 08/14/2017
 ---
+My capo came in for my ukulele! And I spent the evening playing with it and learning some new songs :)
+
+08/15/2017
+---
+After work today I went to a talk about how to build habit forming products. The talk was pretty interesting and the author of a book on this topic was giving it. I ate some salad, went to the talk, and then gymed it up afterward.
+
+08/16/2017
+---
+I got a postcard in the mail from Earl today! It was super sweet! He drew on the back side of it and it came as a surprise :) I love mail a lot and this was a cool one.
+
+08/17/2017
+---
+I spoke at the NYC Design Systems Coalition meetup tonight! It was a great group and the talk went well (now I want turn it into a longer session, too). Afterward, I got dinner at this sushi place with Jina, Joel, and another one of the speakers. It was super yummy.
+
+08/18/2017
+---
+I was supposed to help Ben cook dinner tonight but PT ended up going super late so he basically did all the work :P It was really yummy though :) and I loved having someone cook for me (it's been ages since the last time that happened).
+
+08/19/2017
+---
+I spent the day working on my ColdFront Conf talk at Bens place and got a lot done. Tonight I got dinner with Maria at this really good sushi place in Tribeca and then drinks with Jina and Claudina at Please Don't Tell (Jina called literally 45 times at exactly 3 PM to get us reservations!). It was awesome to catch up with them, and Claudina gave a lot of awesome financial advice. I basically am going to invest in cryptocurrency immediately.
+
+08/20/2017
+---
+I got brunch with Selby and Sam today, which turned into afternoon hangs and frosé times :P That was super nice. I love them both. I also started investing in cryptocurreny and stocks today! I'm having (maybe too much) fun with this :P And am really excited to see where it goes!
+
+08/21/2017
+---
+Omgosh today I freaked out because I had ordered this set of 18 pastel Tombow markers for my bullet journaling future and I got them in today and had to show everyone and I can't wait to use them more!! Squee!
+
+08/22/2017
+---
+I met with my surgeon today and got an xray of my knee and got it on a CD via a PC DICOM viewer. It was a fun challenge to get the images off of it, but it was pretty cool to see my screws :P.
+
+08/23/2017
+---
+I got my bullet journal in today! And immediately started using it. I started journaling the Lake trip and made some layout idea pages and I'm really excited to fill this thing!
+
+08/24/2017
+---
+Today I took Leah out for her birthday. We went to a rooftop bar accross the street from where I work called the Jimmy. It was fabulous there and the weather was perfect :) The view was incredible and the drinks were good (we started with frosé lol). Everyone was dressed super well, and we got really yummy fried chicken sliders.
+
+08/25/2017
+---
+Today was so much fun! I left work early (half day) to go on a roadtrip with Ben to this lakehouse AirBnb on Lake Ariel. The place was *beautiful* and we went kayaking on the lake as the sun set, and meditated while we were out there. Then, we got dinner at this random diner in town and the food was actually really amazing. Ben's steak was surprisingly well cooked and my salmon was solid, too. The rosemary and aoli infused oil for the bread was insanly yummy. Then, we got back and roasted marshmallows outside for smores (the AirBnb host left out a basket of smores materials for us!) and stayed up late talking about life and relationships and it was really great :) At 2 AM I realized there were a bunch of framed certificates and it turned out that the place where we stayed was built by and owned by a Nobel Prize laureate for Chemisty for inventing conductive polymers!! It was nuts. I freaked out about how cool that was for a while.
+
+08/26/2017
+---
+I woke up at the Lakehouse to the AirBnb cat, Einstein, cuddling with Ben and I. Made coffee, sat on the porch swing, and then we canoed on the lake for a bit. It was such a nice relaxing morning. After swimming and drying off, we went to go find some lunch and stopped at the Forklift Café where we saw a flyer for hot air balloon rides and ended up in some really hilarious long conversations with the woman who ran the operation. We ended up going hiking at George W. Child's Park on the Deleware Water Gap and it was beautifullll. Took lots of photos, then headed back to the city and watched the Matrix at Ben's place.
+
+08/27/2017
+---
+Today I am flying to Chicago for An Event Apart! I got a seat upgrade to first class and the entire row to myself ;) had a nice little journaling session as I drank wine and had snacks. Great flight!

@@ -16,30 +16,33 @@ I'm also doing 5 25-Days Projects in 2017:
 2. ⭕ Writing Letters
 3. ✅ Mentorship
 4. 🌀 Dev Doodles
-5. 🌀 Meditation
+5. ✅ Meditation (23 consecutive)
 
-# August 13, 2017
+# August 20, 2017
 
 ### This Week's Focus: Writing & Walking
 
 ### Things I'll do This Week:
 
 - [ ] 🎙 Record/Post Toolsday Episode
+- [ ] Finish Repo Lovers questions
+- [ ] Finish ColdFront Talk (add to psych part)
 - [ ] 🚀 Build "My Library" Vue thing
 - [ ] 💜 Read [this](https://stripe.com/blog/connect-front-end-experience)
 - [ ] 💛 Finish Wes Bos' ES6 Course
-- [ ] ✍️ Finish "Why Design Systems Fail" Post
+- [ ] ✍️ Finish "Why Design Systems Fail" Post/Talk Outline
 - [ ] 🌐 Fix up Classless <-- !
 - [ ] 🌐 Add tooltips in YMNNJS
 - [ ] 📚 Finish intro JS things
 - [ ] 📚 Finish tech edits
 - [ ] 📚 CSS in JS Section
-- [ ] Continue meditation streak
-- [ ] Go home for Grandmas Bday
 - [ ] Get Massage :)
-- [ ] Deal with medical bills
-- [ ] Work on talk for ColdFront Conf
-- [ ] Start talk for Design Systems Coalition
+- [ ] Post a dev doodle
+- [ ] Write thank you letters for Patrons
+- [ ] Give talk @ AEA
+- [ ] Give Practice talk for ColdFront Conf
+- [ ] Respond to Text Review
+- [ ] Do Half-Year Review in Bullet Journal
 
 ### Things I'll Do in the Future:
 

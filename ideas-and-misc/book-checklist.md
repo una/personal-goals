@@ -215,7 +215,8 @@ None -- I listened to a lot of podcasts and was traveling all month
 ## August 2017
 
 - [x] Solve for Happy: Engineer Your Path to Joy -- Mo Gawdat :star:
-- [ ] A Man Called Ove -- Frederik Backman :star:
+- [x] A Man Called Ove -- Frederik Backman :star:
+- [ ] Prisoners of Geography: Ten Maps That Explain Everything About the World -- Tim Marshall :star:
 
 ## On Deck
 
