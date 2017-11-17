@@ -216,12 +216,29 @@ None -- I listened to a lot of podcasts and was traveling all month
 
 - [x] Solve for Happy: Engineer Your Path to Joy -- Mo Gawdat :star:
 - [x] A Man Called Ove -- Frederik Backman :star:
-- [ ] Prisoners of Geography: Ten Maps That Explain Everything About the World -- Tim Marshall :star:
+- [x] Prisoners of Geography: Ten Maps That Explain Everything About the World -- Tim Marshall :star:
+
+## September 2017
+- [x] The Time Traveler's Wife -- Audrey Niffenegger :star:
+- [x] A Million Years in a Day -- Greg Jenner
+
+## October 2017
+- [x] The Sun and Her Flowers -- Rupi Kaur *(poetry)* :star:
+- [x] Big Magic: Creative Living Beyond Fear -- Elizabeth Gilbert
+- [x] Creativity Inc. -- Ed Catmull and Amy Wallace :star:
+- [ ] Milk and Honey -- Rupi Kaur *(poetry)* 
+
+## November 2017
+- [x] The Girls -- Emma Cline :star:
+- [x] A House in the Sky -- Amanda Lindhout and Sarah Corbett :star:
+- [ ] Sapiens
+- [ ] Thinking in Systems
 
 ## On Deck
 
 - [ ] Thinking in Systems -- Donella Meadows
 - [ ] How We Got to Now: Six Innovations that Made the Modern World -- Steve Johnson
+- The New CSS Layout -- Rachel Andrews
 
 ## To-Read/Recommendations:
 ---

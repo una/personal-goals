@@ -948,4 +948,319 @@ I woke up at the Lakehouse to the AirBnb cat, Einstein, cuddling with Ben and I.
 
 08/27/2017
 ---
-Today I am flying to Chicago for An Event Apart! I got a seat upgrade to first class and the entire row to myself ;) had a nice little journaling session as I drank wine and had snacks. Great flight!
+Today I am flying to Chicago for An Event Apart! I got a seat upgrade to first class and the entire row to myself ;) had a nice little journaling session as I drank wine and had snacks. The speaker dinner was at this ping pong place, and it was really fun :)
+
+08/28/2017
+---
+Today was beautiful in Chicago. I left the conference with a few people to go walk to the cloud gate (the bean) in Millenium Park. It was actually very, very cool in person.
+
+08/29/2017
+---
+I spoke today! And that went well. And then I went to the Takashi Murakami exhibit at the Museum of Contemporary Art. It was an amazing exhibit! It had his Pop Art and also a newer piece based on the tsunami in Japan in 2011 which featured a 300 foot painting! It was so colorful and intense and had so many different techniques applied. I was in awe the entire time. Seriously great exhibit. And afterward, there was lize jazz in th garden of the museum :) perfect day to visit.
+
+08/30/2017
+---
+Today was a rush! I woke up super early to catch a flight back to New York and arrive in time for work. I also was working on a bit of lettering for my Septmber spread, which is looking pretty rad :P I'm very happy with it, and I'm finding journaling really nic and relaxing.
+
+08/31/2017
+---
+I saw Aladdin on Broadway today with some of the DigitalOcean ladies! It was a great show! The stage set (pyrotechnics and effects) as well as the costumes were the best part. I *loved* the costumes :) And this habit of seeing Broadway shows.
+
+09/01/2017
+---
+I spent most of the night working on my talk for Copenhagen, and I feel pretty good about it. I got a lot done, so I'm stoked about my progress.
+
+09/02/2017
+---
+I spent the morning working from 61 Local with Ben, and then prepared for my flight to Copenhagen. I got an Economy Plus ticket, which also came with lounge access and early boarding. AND didn't have a seat buddy (the entire flight is pretty empty)! So it's about to be a really relaxing flight.
+
+09/03/2017
+---
+I arrived in Copenhagen around 2 PM and met up with Ruth by 3. We walked around a bit, went up the tower in the center of the city, and then met up with Karolina and Ben for some drinks. We all got hungry and looked for a dinner spot. Oh my gosh. This dinner spot we endedu up at wsa *not* as expected, but it was *incredible*. It was a place with fixed menus and no more information but that. The meal starter was bull's balls and they were actually really yummy. We also had some fish-based starters and for the main they cooked up this massive beef shank for the four of us. It was *incredible*! Seriously. And came with a bunch of sides and bread to make little wraps with it, and they even made a fak apron with the logo of the restaurant in permanent marker on the front (VOOG, iirc) for Ben who was carving it for us. Pricey but worth it.
+
+09/04/2017
+---
+I walked around Copenhagen today and got lunch and schnapps with Sam at this really popular, traditional Danish spot. We took pictures of all the food, because it looked beautiful and was also delicious. There was a lot of fish :P Herring was amazing and we got hot-pressed lox, which was new for me. My favorite was the butter fish (I forget the name but it was local and also seasonal). Speaker dinner was at PatéPaté. and involved no paté but the food was also good :P
+
+09/05/2017
+---
+Day one of Coldfront Conf! LiveJS Network did a rad intro and Ben's talk about performance was great. Overall I enjoyed the conference, and had a few drinks at the after party before escaping with a few people to get some dinner at a Danish place.
+
+09/06/2017
+---
+Today is the last day of Coldfront Conf! And also the day I spoke. Which went well! I asked Kevin to take some notes for my on how to improve my talk because I felt like it could use some work. His notes were mostly about visual cohesion. After the event, a bunch of people went to go grab some food in the Meat Packing district, which all of the Techfestival stuff was going on. We hung out for a while, drank some beer, at some Barbeque. Lol it was weird having BBQ in Copenhagen, but the company was great.
+
+09/07/2017
+---
+I flew into Tallinn today with Ruth and after taking a bath and getting myself together, went to the tech check for Refresh. Once I found the venue (which was confusing on its own) and did the tech check, we had the speaker dinner. Dinner was so good! Estonian food is so yum! And I also got this cocktail with all of these little roses in it (it was super fragrant). It was a really cool spot and nice time.
+
+09/08/2017
+---
+Today was the day of the Refresh conference! I had a lot of fun! Honestly they did a great job curating (at least the front-end track), and I watched almost all of the talks (and really enjoyed them!). Also, every Estonian I met there that attended was incredibly nice and were pretty vocal about chatting after my talk too. It was super cool :) After the conference and the conference after-party, I went to this bar called Sigmond Freud in the Old Town with a few people that Harry Roberts had recommended. Woah, what a solid suggestion. The drinks were *fantastic*. We ended up having a pretty late night and got burgers at like 1:30 AM and then I was walked through a grocery store to pick out which Estonian treats I should buy to take home by a local friend of someone I met at the conference. It was one of those nights :P
+
+09/09/2017
+---
+I had *such* a yummy dinner with Flaki today at Peacock. This restaurant makes their own beer-somthing-something bread. Lol it was so fancy and tasted incredible, the crust being super flaky and the inside super moist. I also had really good duck breast with this tomato that was like poached but also fried. I don't know, it was fantastic.
+
+09/10/2017
+---
+I'm flying back from Tallinn today and the morning (getting to the airport) was such an adventure. My Uber driver was amazing though. Basically, the entire town was closed for a marathon and getting out was tricky. I was cutting it close to the flight, and it was very on and off about getting totally stopped or finding little ways around. At one point, he even go out of his car to give a candy to the person behind him who let us into the lane (it was very much at a standstill). 
+
+09/11/2017
+---
+Ben came over today! That was nice :) We hung out around my neighborhood and ended up getting breakfast food at like 10 PM at the diner down the street from me.
+
+09/12/2017
+---
+Today I spoke at the Design Driven event at Buzzfeed. The talk went *really* well. I had a lot of people come up to me afterward with questions, and they were really engaged in the topic -- which was accessibility. Kind of warmed my heart to see so many people interested in it.
+
+09/13/2017
+---
+PT was good today! And then I went over to Ben's and we had a really good talk. I've been feeling weirdly stressy lately, so it was good to have.
+
+09/14/2017
+---
+I did a nice hang-out-with-myself-at-61-local-and-review-my-goals night tonight :) So needed. I love that place.
+
+09/15/2017
+---
+I went over to Ben's place and hung out/drank with his roommates/friends. We stopped by this rad beer store that had Delerium Tremens and it just reminded me of Brussels :)
+
+09/16/2017
+---
+Today was work day! And I got *so*  much done! I also decided on the next series Chris and I are going to do for Toolsday: it's going to be project-based :) so that will give me an excuse to do more JS!
+
+09/17/2017
+---
+I went to Rockaway beach with Maria today :) and then did some serious shopping :P Now I have new shoes and 3 new pairs of jeans (really needed them)!
+
+09/18/2017
+---
+My makeup looked *so* good today! I used some of the golds and bronzes from the Juvia's Palace pallete that I have. I got a lot of compliments on it :)
+
+09/19/2017
+---
+
+09/20/2017
+---
+I co-worked with Tim today and we got drinks together in my neighborhood
+
+09/21/2017
+---
+MCing the Codepen Meetup
+
+09/22/2017
+---
+
+09/23/2017
+---
+I went on a little adventure through the city today with Ben. We walked to the waterfront from my place and took a thousand photos and ended up at this cafe called the Rain cafe by Brooklyn Bridge Park where we met this cute cat and took some more photos. We then walked the Brooklyn Bridge over to Manhattan and went to Southport where there was a little festival happening and got some lunch. Afterward, we went to the rooftop bar at the Hudson Hotel and had the perfect seats for watching the sun set over the city and it was such a good day.
+
+09/24/2017
+---
+I flew into Toronto today and landed in the city airport on the little island in front of it. It's such a beautiful spot! I was able to take a free shuttle and walk to the hotel for FITC Toronto. I ended up getting Momofuku with a group of people from the conference and ate too much but it was fine.
+
+09/25/2017
+---
+
+09/26/2017
+---
+late night ice cream
+
+09/27/2017
+---
+
+09/28/2017
+---
+Sushi & sake flight w/Sam — walking along the waterfront home
+
+09/29/2017
+---
+Reading Estonia E-Government book
+
+09/30/2017
+---
+Yom Kippur — hung out w/Ben, walked around my neighborhood and jammed outside (me on Uke and him playing drums on the uke), took train home, broke fast w/family, jams with my dad
+
+10/01/2017
+---
+Home — picked Sunflowers with parents, did a walk around Oregon Ridge Park, colorfully painted trees, stopped by Irvine Nature Center
+
+10/02/2017
+---
+Finished October spread in bullt journal with the leaves
+
+10/03/2017
+---
+Ben cooked peanut chicken tonight with couscous for his roommates and I :) I brought a a Pinotage (which was major throwbacks to South Africa, omg I miss it), and then we played chess after dinner! (Well, he was teaching me to play chess and I was trying to keep up)
+
+10/04/2017
+---
+Painted my nails gold glitter
+10/05/2017
+---
+Flew in, visited Walker museum while we waited for ppl, had lunch, & drove up to north Minnesota for AIGA Design Camp, Presidents dinner
+
+10/06/2017
+---
+Spoke @ AIGA Design Camp -- progressive dinner, watched a beautiful sunset
+
+10/07/2017
+---
+AIGA Design Camp 2nd day — amazing weather, hung out on dock and journaled, boat. Ghost stories and smores later at the board house
+
+10/08/2017
+---
+AIGA Design Camp, last day. Morning sessions — Tad Carpenter had an amazing talk that really stuck with me and convinced me to get the book "Orbiting the Giant Hairball." Flight back
+
+10/09/2017
+---
+
+10/10/2017
+---
+Leyenda with Ben — really cool cocktail menu that opened outward and fantastic drinks
+
+10/11/2017
+---
+Finishing Rupi Kaur's book
+
+10/12/2017
+---
+WFH, haircut
+
+10/13/2017
+---
+
+10/14/2017
+---
+Anna's wedding -- buying the bride, getting dressed up + red lipstick, wedding 
+
+10/15/2017
+---
+Second day of Anna's wedding -- flight to Barcelona
+
+10/16/2017
+---
+I got in to Barcelona today, and took a mid-day nap because I was so tired! The hotel is really, really cool and there's a great rooftop with a pool, bar, and view overlooking th city. It was also the night of the speaker dinner, and venue tour right beforehand. The venue is *INCREDIBLE*. I can't emphasize that enough. It's at the Palau de la Musica, which is so beautifully ornate and art-nuveau. In the center is this incredible stained glass chandelier, and there are musical sirens on the stage and horses on the ceiling and asymttrical lights with peacock feather mosaics. It's just, wow. On the way from the venue to dinner (which was tapas style at Mariona's mothers hous — an amazing spot), Monica and I stopped into a store and both bought dresses :) I ended the night with Monica and Chris at the Barcelona SOHO house right across the street from where we had just been having speaker dinner. 
+
+10/17/2017
+---
+Today began my MC-ing career! It's the first day of Smashing, which has been really great. The venue is incredible (seriously I can't get over it), and the talk quality is so high!
+
+10/18/2017
+---
+Last day of Smashing Conf Barcelona! Today was another great conference talk day. I had a lot of fun MC-ing today and got to throw papers into the air and get the audience to cheer :) so that was nice. After the conference, they had a speaker farewell dinner where they boarded us all into a bus and drove us up a hill 30 minutes outside of the city center to an observatory! It was very cool. Dinner was fantastic (and around a giant table), and we were greeted with champagne and museum time. The only downside was that it had rained and was cloudy so we couldnt see the stars they wanted to show us. However, we did go outside at the observatory roof and saw lightning storms over the city below us. So that was pretty awesome. The whole experience was, really.
+
+10/19/2017
+---
+The conference is over but there were workshops today and a few people stayed in Barcelona for extra days. It was rainy today so I walked around in the morning but decided to just start work a bit earlier to finish earlier. I went to dinner with Lea, Chris, and Sarah at this amazzzinggggg gourmet restaurant (need to get the name!) and played their rating game. We had a lot of amazing food (my favorite being the Tuna Belly with celery ice cream and algae reduction) and had a lot of wine and it was a great time.
+
+10/20/2017
+---
+Today was wonderful! I went to Figueres with Lea and Chris to go to the Dali museum, which was *so* cool! Dali did full-room installations, and I got to see some of my favorite paintings, and he even designed jewelry! Moving jewelry! Who knew!? Definitely worth the train ride up there. Afterward, I did some work and ended up meeting Lea, Chris, and Sarah for drinks around midnight when I was finished. We ended up going to this cocktail bar called Paradiso, which had a line, but we waited. Eventually they asked us if we wanted the private room (omg yes). They led us into the Pastrami-Shop entrance, past two beautiful interior bars, into a coat closet, and then a bathroom. The waitor pulled down a soap dispenser, typed in a code, and the side of the bathroom where the sink was swung open into a *stunning* bronze-covered private bar. We had our own bartender and the drinks were *fantastic*. This was hands-down the best cocktail bar I've ever been to.
+
+10/21/2017
+---
+Todays my last day in Barcelona! I slept in after being out all night and headed to Park Güell first. Then, I went to Casa Battlo and walked around a bit and got som souveniers. I met up with Lea and Chris to go to La Sagrada Familia, and we went into the mosoleum next to the church. Then we went back, did Wine O'Clock at the hotel, and went to dinner at my first Michelin Star Restaurant! We ended the night with drinks by the conference venue.
+
+10/22/2017
+---
+Today I am flying to San Fransisco from Barcelona (it's a 12 hour flight)! I started reading "Orbiting the Giant Hairball" which is actually a really amazing book :) and there's a free seat next to me. So all-in-all — I've had worse flights.
+
+10/23/2017
+---
+
+10/24/2017
+---
+
+10/25/2017
+---
+
+10/26/2017
+---
+
+10/27/2017
+---
+Friday! PT, got dinner with Ben at the ugly duckling, had a little adventure to Target looking for halloween costumes, watched stranger things
+
+10/28/2017
+---
+breakfast at 61 local, slow morning, spent the day getting our costumes together for a haloween party, stopped by this amazing notebook store (name) and some pretty cool clothes stores, went out, watched a horror movie (it follows), and then stranger things
+
+10/29/2017
+---
+I had breakfast with Ben on this rainy day at the diner near him. Then I took the train home and did a ton of work today. Most notably I wrote blog post for CSS Tricks about the Contrast Swap technique. It was really fun and quick to write and I did an illustration for it too!
+
+10/30/2017
+---
+
+10/31/2017
+---
+Today was our Design Team Offsite! The space was really cozy and Celia brought her adorable dog, Gypsy. We got HBDI assesments and then Aurora photos taken. I went right from here to the airport to fly to Santiago.
+
+11/01/2017
+---
+Today was my first day in Santiago! I slept in a bit while waiting for Ally to arrive, and then we went exploring. We got breakfast at this place called Mulato and saw a tour guide walk by, so we found the free walking tour and did the evening one. Before that though, we found ourselves in this park that was a huge hill with a castle on it and a great view. It was super nice to see the city like that on our first day.
+
+11/02/2017
+---
+Ally and I went to the big Metropolitan Park today in Santiago. We took the funicular up there and then the cable car over the mountain to the other side. The view was amazing! And we ended up on the other side of town at an amazing spot for lunch called Ambrosia. We took the cable car back to enjoy the view again :)
+
+11/03/2017
+---
+Today was StarsConf! I gave the opening keynote to over 850 people! I did my Technical Diagramming talk and it went over really well (a lot better than expected). A lot of people came up and chatted with me afterward too, and there was a doggo at the conference!
+
+11/04/2017
+---
+I skipped the conference with Ally today to sleep in and have a relaxation day. We got massages (an hour long for less than $30!) and a nice lunch at Bocanarîz (omg this place is so so so good, we went here last night for dinner and liked it so much we came back). We headed back to the room in the evening where I worked through Wes Bos' React course (again) while Ally played Mario on her Switch until dinner, which we got with another conference attendee. It was a great day.
+
+11/05/2017
+---
+Today Ally and I went on a day trip to Cajon de Maipo. The weather was so nice (finally)! And the mountain lake we drove to was really beautiful. We had really good Carmenére wine there and other snacks and enjoyed being out in the Andes.
+
+11/06/2017
+---
+Day trip #2 today! Ally and I went on a trip to this place called the Inca Lagoon, which was behind this ski resort up a pretty windy road. We also stopped at a vineyard (San Sebastian) on the way. For dinner, Ally and I checked out the pisco sour place next to Bocanarîz (It was called Chipe Libre). OMG THIS PLACE WAS ALSO AMAZING. I has this beautiful octopus and really great pisco sours mixed with basil and cucumber and we sat outside in a beautifully lit courtyard.
+
+11/07/2017
+---
+Today was my last day in Santiago! Ally and I walked to lunch across town at this restaurant that was a 360 degree rotating restaurant, so we got a pretty great view of the city. Afterward we were near the massive mall center in the city so we walked around and explored some cute stores like Casa y Ideas :) I got some more React work done before my flight back as well.
+
+11/08/2017
+---
+I came back to my desk at DigitalOcean to find it moved but also with 3 monitors! So I finally got to sort out and use that setup. I also got accupuncture for the first time and it felt cool and tingly and went to a PT session that actually made me feel better for a littl bit.
+
+11/09/2017
+---
+Wes Bos sent me some surprise stickers today! They're from his #BosStickers sticker pack, and are super cool :D I love getting mail so this was a really awesome surprise.
+
+11/10/2017
+---
+I hung out with Ben today and ended up going to see a midnight comedy show at UCB Theatre (it was the New York Comedy Festival). It was a burlesque show / comedy show mix, which was only weird when the first act did an homage to Stranger Things as her burlesque theme. Other than that, it was great and acts were funny.
+
+11/11/2017
+---
+Today was a really nice morning :) I packed for my trip and went to the Guggenheim (for the first time!) with Ben. It was such a cool building, and the exhibit was really interesting too. I'm really glad I got a chance to go finally!
+
+11/12/2017
+---
+Today I arrived in Leeds, where I was promptly met by Harry and Gillian for a little tour of the city and some drinks. We took a water taxi from their side of downtown to the other, and drank at the top of a hotel bar with an amazing view. For late lunch/dinner they took me to their favorite spot for a true English roast. WOW. it was so good! Yorkshire pudding is my new favorite thing. The night ended at a variety of cocktail bars, including on I really loved called Vice and Virtue. Not a bad first day.
+
+11/13/2017
+---
+Today I worked remotly and also walked around Leeds with Harry for a bit. We went to the Corn Exchange (super beautiful building that just decorated for the holidays :)). We also ended up meeting with some people to get "a proper" fish and chips for lunch, including mashy peas, curry dipping sauce, and a cream soda that was apparently very typically British. It was greatttt.
+
+11/14/2017
+---
+Today there was a rainbow in Leeds! Like a really legit one! Harry and I got a "fry-up" (AKA English breakfast) and then wandered around a really cool design store. We worked from a brewery for a while which had really yummy food also (I had this goat cheese and fig on some toast that was amaze), all before a really good 3-cours dinner at the Ox Club. After that dinner, we got champagne and went to the Christmas market which is already up in Leeds!
+
+11/15/2017
+---
+I flew to Belfast today! Really needed some chill time after the Leeds trip and constant travel, so I took a nice long bath and just did nothing for a few hours (AND played ukulele for a little while!). When I did leave, I walked around Victoria Square and got dinner with Sareh at a pizza place. Then, I met Harry for drinks at the most beautiful cocktail bar I've ever been too — Merchant's Bar — which has won awards, and used to be an old bank vault. It's so lavishly decorated! And there was a nice fire going. The bartender had carved a diamond out of clear ice! Was nuts.
+
+11/16/2017
+---
+The Pixel Pioneers conference was today! I spent the morning going to the Titanic Museum and shipyard area, and it really blew me away. The museum was super interactive, and there was even a little Disney-like cable car within it. The entire thing was really well done and the building itself is beautiful. I'm glad I went before the conference!
+
+11/17/2017
+---

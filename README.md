@@ -13,36 +13,18 @@ Personal goals made open source for accessibility across computers I use, transp
 I'm also doing 5 25-Days Projects in 2017:
 
 1. ⭕ Running
-2. ⭕ Writing Letters
+2. 🌀 Writing Letters
 3. ✅ Mentorship
-4. 🌀 Dev Doodles
+4. ✅ Dev Doodles
 5. ✅ Meditation (23 consecutive)
 
-# August 20, 2017
+# [Date Normally Goes Here]
 
-### This Week's Focus: Writing & Walking
+### This Week's Focus: N/A
 
 ### Things I'll do This Week:
 
-- [ ] 🎙 Record/Post Toolsday Episode
-- [ ] Finish Repo Lovers questions
-- [ ] Finish ColdFront Talk (add to psych part)
-- [ ] 🚀 Build "My Library" Vue thing
-- [ ] 💜 Read [this](https://stripe.com/blog/connect-front-end-experience)
-- [ ] 💛 Finish Wes Bos' ES6 Course
-- [ ] ✍️ Finish "Why Design Systems Fail" Post/Talk Outline
-- [ ] 🌐 Fix up Classless <-- !
-- [ ] 🌐 Add tooltips in YMNNJS
-- [ ] 📚 Finish intro JS things
-- [ ] 📚 Finish tech edits
-- [ ] 📚 CSS in JS Section
-- [ ] Get Massage :)
-- [ ] Post a dev doodle
-- [ ] Write thank you letters for Patrons
-- [ ] Give talk @ AEA
-- [ ] Give Practice talk for ColdFront Conf
-- [ ] Respond to Text Review
-- [ ] Do Half-Year Review in Bullet Journal
+I haven't done this in a while, since I've moved to my bullet journal in September. However, you can look through the archive for ideas :) It's helped me for about 3 years!
 
 ### Things I'll Do in the Future:
 
