@@ -1040,17 +1040,19 @@ My makeup looked *so* good today! I used some of the golds and bronzes from the 
 
 09/19/2017
 ---
+I was sick today :( but I went to One Medical and got diagnosed right away with strep (which I suspected) and it was just a nice overall experience for a doctor's visit.
 
 09/20/2017
 ---
-I co-worked with Tim today and we got drinks together in my neighborhood
+I co-worked with Tim today and we got drinks together in my neighborhood. It's really good hanging out with him again :)
 
 09/21/2017
 ---
-MCing the Codepen Meetup
+I MC-ed the first Codepen meetup in a long time today! It was a small but really great group. Tim and I went together and kind-of matched in our light-colored denim jackets :P
 
 09/22/2017
 ---
+A bunch of new pens from Jet Pens came in today :) Got some new double-tipped marker pens that I really like.
 
 09/23/2017
 ---
@@ -1062,33 +1064,35 @@ I flew into Toronto today and landed in the city airport on the little island in
 
 09/25/2017
 ---
+I had bought some cute hot pink shoes with pearls around the heel in Toronto yesterday, so I wore those to the conference today :) The first conference after-party event was today and it was in this 3D space that I remember had the coolest bathrooms, covered in mosaiced mirrors. I ended up at steakhouse with Chris Coyier and someone else at like midnight too. I had calmari. YOLO.
 
 09/26/2017
 ---
-late night ice cream
+There was another after-event for the FITC conference today (put on by MailChimp). It was pretty fun :) I love the people I've met at this conference, and got some late night ice cream with some of them and went by the big lit up Toronto sign at the Eaton Center.
 
 09/27/2017
 ---
+Flying out of the Billy Bishop City airport in Toronto is pretty cool — you get a beautiful view of the city from the runway (and I had a window seat :)).
 
 09/28/2017
 ---
-Sushi & sake flight w/Sam — walking along the waterfront home
+I got some sushi with Sam today, but also we did a whol sake flight :P oops. And then walked along the waterfront to get home. It was nice.
 
 09/29/2017
 ---
-Reading Estonia E-Government book
+I'm currently reading this Estonia E-Government book I was given at a conference in Estonia, and its super cool, despite looking like a textbook :P
 
 09/30/2017
 ---
-Yom Kippur — hung out w/Ben, walked around my neighborhood and jammed outside (me on Uke and him playing drums on the uke), took train home, broke fast w/family, jams with my dad
+Yom Kippur is today — and I'm fasting, as per usual. I hung out w/Ben, walked around my neighborhood and we jammed outside (me on Uke and him playing drums on the uke). It was a nice morning, except we ended up sitting in front of a farmer's market (while your girl here is fasting :P). I took the train home later just in time to break the fast with my family, and had some jams with my Dad later in the day (him on guitar, me on uke).
 
 10/01/2017
 ---
-Home — picked Sunflowers with parents, did a walk around Oregon Ridge Park, colorfully painted trees, stopped by Irvine Nature Center
+I am home today. I picked Sunflowers with my parents and did a walk around Oregon Ridge Park. There was this really cool installation in the middle of the forest off of a trail of these really colorfully painted trees. We stopped by Irvine Nature Center after our little "hike," which was such a throwback! It was a nice outdoorsy day.
 
 10/02/2017
 ---
-Finished October spread in bullt journal with the leaves
+I finished my October spread in bullet journal today which features pastel leaves. :) Bullet journaling always makes me happy.
 
 10/03/2017
 ---
@@ -1096,48 +1100,51 @@ Ben cooked peanut chicken tonight with couscous for his roommates and I :) I bro
 
 10/04/2017
 ---
-Painted my nails gold glitter
+I painted my nails gold and glittery today :) Time to break out the fun autumnal colors and glitters.
+
 10/05/2017
 ---
-Flew in, visited Walker museum while we waited for ppl, had lunch, & drove up to north Minnesota for AIGA Design Camp, Presidents dinner
+I flew in to Minneapolis today for AIGA Design Camp. A few of us who had arrived around the same time visited the Walker museum while we waited for others. We then had lunch, & drove up to northern Minnesota where the event is actually being held. It's *such* a beautiful location! I'm really excited for the next few days.
 
 10/06/2017
 ---
-Spoke @ AIGA Design Camp -- progressive dinner, watched a beautiful sunset
+Today I apoke @ AIGA Design Camp, which was new for me (a very design-focused crowd). There was this progressive dinner, where you switch tables for every cours, and a really beautiful sunset (it was honestly like every color of the rainbow).
 
 10/07/2017
 ---
-AIGA Design Camp 2nd day — amazing weather, hung out on dock and journaled, boat. Ghost stories and smores later at the board house
+AIGA Design Camp 2nd day had amazing weather. I wanted to spend some time out in it, so I hung out on dock and journaled, and later went on a boat with a bunch of the other speakers and staff. At night, we went to the staff house for an after party where there were smores and we exchanged ghost stories, and I'll never be the same again (Tad Carpenter has the freakiest ones).
 
 10/08/2017
 ---
-AIGA Design Camp, last day. Morning sessions — Tad Carpenter had an amazing talk that really stuck with me and convinced me to get the book "Orbiting the Giant Hairball." Flight back
+Today's the last AIGA Design Camp (sadface). There were just some morning sessions — Tad Carpenter had an amazing talk that really stuck with me and convinced me to get the book "Orbiting the Giant Hairball."
 
 10/09/2017
 ---
+I walkd to PT but had a bit of time between work and my session so I walked around the Barnes and Noble nearby for a little while. I picked up a poetry book by Rupi Kaur that intriguied me and just always enjoy book stores.
 
 10/10/2017
 ---
-Leyenda with Ben — really cool cocktail menu that opened outward and fantastic drinks
+I went to Leyenda with Ben today. It's right by me and I love their food and drinks! It has a really cool cocktail menu that opens outward, and it really well organized. I remember playing with it for a while.
 
 10/11/2017
 ---
-Finishing Rupi Kaur's book
+I already finished up Rupi Kaur's book. It's intense and amazing. I'm going to order her first one now :)
 
 10/12/2017
 ---
-WFH, haircut
+I worked from hom today and got a haircut! Feeling super good about it. Love cutting my hair and having it be all super curly again :) I learned a new technique too — where you apply hair mouse through all your hair and really comb it in before scrunching. Guess I've been doing it wrong.
 
 10/13/2017
 ---
+Nomssss I tried a new Halo Top today — pancake & waffles. It's super sweet but really good. I'm very into it (and all the other ones, too).
 
 10/14/2017
 ---
-Anna's wedding -- buying the bride, getting dressed up + red lipstick, wedding 
+Anna's wedding was today! I took a super early train in to go to her place for the buying of the bride (actually really cute Russian wedding tradition). I loved getting dressed up and wore a long black dress with red lipstick, and looked very 1920's in this dress with that hair and also the pearls I borrowed from my grandma. I loved it.
 
 10/15/2017
 ---
-Second day of Anna's wedding -- flight to Barcelona
+Today was the second day of Anna's wedding, so I went over there around brunch time with my family for some food. I brought my suitcase because I was flying to Barcelona directly afterward.
 
 10/16/2017
 ---
@@ -1169,23 +1176,27 @@ Today I am flying to San Fransisco from Barcelona (it's a 12 hour flight)! I sta
 
 10/23/2017
 ---
+I'm at Chrome Dev Summit today! Its been such a reunion! Kat and Tim are here from Australia, and Suz is here and Monika and Mariko and a bunch of the Google devs/dev rel folks, and a lot of others, and its just been a really nice morning of hugs and reunions.
 
 10/24/2017
 ---
+Today was the last day of Chrome Dev Summit. Its been a solid event and I got to meet some new web friends in person :) Had a solid talk about shaders and blend modes with Martin Splitt which was really nerdy and enjoyable, and I even ended up at the Google Developer Expert / Staff after-party for the event.
 
 10/25/2017
 ---
+I flew back in New York Today! And tried to do some hackathoning on the flight, but it was a bit difficult, so I ended up just waiting until I got back to do some work at night and help with things.
 
 10/26/2017
 ---
+Today is day two of the DigitalOcean hackathon. We're building a dashboard "world-view" of how all of the application traffic was working (what was up and what wasn't etc.). It's a really fun team to work with and a fun project to work on. I got to experiment with SVG diagramming more :)
 
 10/27/2017
 ---
-Friday! PT, got dinner with Ben at the ugly duckling, had a little adventure to Target looking for halloween costumes, watched stranger things
+Friday! My team ended up winning two categories (Judges Choice and People's Choice) for the company hackathon! I got dinner with Ben at the Ugly Duckling (love that place!), had a little adventure to Target looking for halloween costumes (why is it just a bunch of onesies there?), and began watching the new season of Stranger Things.
 
 10/28/2017
 ---
-breakfast at 61 local, slow morning, spent the day getting our costumes together for a haloween party, stopped by this amazing notebook store (name) and some pretty cool clothes stores, went out, watched a horror movie (it follows), and then stranger things
+I had a slow morning, got breakfast at 61 Local, and spent the day with Ben getting our costumes together for a Halloween party. We stopped by this amazing notebook store called McNally Jackson, and some pretty cool clothing stores accross the street from it where I fell in love with a $2000 jacket. We watched a horror movie (It Follows), went out to this Halloween party, and then watched stranger things.
 
 10/29/2017
 ---
@@ -1193,6 +1204,7 @@ I had breakfast with Ben on this rainy day at the diner near him. Then I took th
 
 10/30/2017
 ---
+Today was a pretty normal day, but I did discover a really funny comic artist (@skeleton_claw) that I spent a bit of time going through their timeline smiling at.
 
 10/31/2017
 ---
@@ -1264,3 +1276,4 @@ The Pixel Pioneers conference was today! I spent the morning going to the Titani
 
 11/17/2017
 ---
+Today I am flying from Belfast to Baltimore. I had a 5-hour layover in Heathrow, which was actually pretty nice. I was able to chill for a while, and finish an audiobook (A House in the Sky — so intense and so good), and also get some work done (worked on the MyLibrary App using Preact CLI). 
