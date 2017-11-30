@@ -231,14 +231,14 @@ None -- I listened to a lot of podcasts and was traveling all month
 ## November 2017
 - [x] The Girls -- Emma Cline :star:
 - [x] A House in the Sky -- Amanda Lindhout and Sarah Corbett :star:
-- [ ] Sapiens
+- [ ] Sapiens :star:
 - [ ] Thinking in Systems
 
 ## On Deck
 
 - [ ] Thinking in Systems -- Donella Meadows
 - [ ] How We Got to Now: Six Innovations that Made the Modern World -- Steve Johnson
-- The New CSS Layout -- Rachel Andrews
+- [ ] The New CSS Layout -- Rachel Andrews
 
 ## To-Read/Recommendations:
 ---

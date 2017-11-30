@@ -1277,3 +1277,51 @@ The Pixel Pioneers conference was today! I spent the morning going to the Titani
 11/17/2017
 ---
 Today I am flying from Belfast to Baltimore. I had a 5-hour layover in Heathrow, which was actually pretty nice. I was able to chill for a while, and finish an audiobook (A House in the Sky — so intense and so good), and also get some work done (worked on the MyLibrary App using Preact CLI). 
+
+11/18/2017
+---
+I went to an Etheopian restaurant with my parents and some Russian family friends today. The food was yummy and then we went back to one of their houses (which was massive by the way) for more drinks while I played ping pong and watched movie scnes on a projector.
+
+11/19/2017
+---
+I went and did a bunch of shopping with my parents today. We stopped by Marshall's which is massive and has a lot of good things for gifting. I gifted myself a candle :P
+
+11/20/2017
+---
+I spent the day hanging out in my house working, and woke up to my dog at my feet :) Then I watched baking TV shows with my Mom on the Food Network.
+
+11/21/2017
+---
+I saw Liza's new house today! It's pretty big, and kind of crazy that she's a homeowner now! What! We had dinner and hung out while she packed for the holidays.
+
+11/22/2017
+---
+Today I went to a bunch of doctors visits to get an MRI and some new pain meds. I also spent the evening doing a bullet journal page of ukulele chords.
+
+11/23/2017
+---
+Happy Thanksgiving! I woke up and watched the parade with my family, and then the dog show (as is traditional). Then we went to my cousins house for the dinner :) I lov turkey with cranberry sauce! And playing N64 between courses. My cousin also made a great brussels sprout salad with grapes and pistchios. 
+
+11/24/2017
+---
+Today was black friday :) I didn't buy much (except a really great coat from Burlington). I also went to the Hunt Valley tree lighting with my parents (and Joe Flacco was there too!) and got dinner at CPK. After that I got ready and went out dancing with two friends in Fed Hill until 3 AM.
+
+11/25/2017
+---
+Today I went back to New York for the weekend before going right back out to San Francisco. Ben came over and we got some drinks in my neighborhood and I got to wear my new-to-me fur collar from my Mom :)
+
+11/26/2017
+---
+I went to the Museum of the American Indian (a Smithsonian) with Ben today after walking around Battery Park for a bit. They had a REALLY cool exhibition that focused on light and sound. After the museum we got lunch at the Dead Rabbit (and he loved it there :)) and then we went to my office to pick up some of my packages and play drums on the electric drumkit down there.
+
+11/27/2017
+---
+Today I flew into San Francisco to attend Clarity. I saw Jina's new place and ended up doing some shopping because the hotel was directly accross the street from the massive Westfield Shopping Center. I bought a *beautiful* Kate Spade watch and they honored the Cyber Monday deal for it in store (they wouldn't online). The speaker reception was also tonight (at Wingtip) and I got to saber a champagne! It was awesome!
+
+11/28/2017
+---
+Today was the first day of Clarity and I did my Hallelujah-based intro song :) It was a lot of fun and so many people said they loved my song and jokes. I also got dinner with a few people and had a mini South Africa trip reunion because Sebastian also showed up :)
+
+11/29/2017
+---
+Today was the last day of Clarity! I got to introduce and interview Debbie Millman, which was quiete the privelage, and the after party was at the Github office! Which I had been dying to go to. The drinks were great and Chris (my podcast cohost) also showed up so it was a nice reunion.
