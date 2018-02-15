@@ -35,7 +35,7 @@ I haven't done this in a while, since I've moved to my bullet journal in Septemb
 - [ ] Make an electron app
 - [ ] Build a SlackBot (MyTime)
 - [ ] Every Day App (Happy moments or X-Days Projects)
-- [ ] Take this [online elecctronics class](http://www.instructables.com/class/Electronics-Class/)
+- [ ] Take this [online electronics class](http://www.instructables.com/class/Electronics-Class/)
 - [ ] Finish [JavaScript 30](https://javascript30.com/)
 - [ ] "Walk Me Through JS" Video Series
 - [ ] Toolsday & Web Love stickers
