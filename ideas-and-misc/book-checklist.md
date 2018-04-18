@@ -231,12 +231,33 @@ None -- I listened to a lot of podcasts and was traveling all month
 ## November 2017
 - [x] The Girls -- Emma Cline :star:
 - [x] A House in the Sky -- Amanda Lindhout and Sarah Corbett :star:
-- [ ] Sapiens :star:
-- [ ] Thinking in Systems
+- [x] Sapiens -- Yuval Noah Harari
+- [ ] Thinking in Systems -- Donella Meadows
+
+## December 2017
+- [x] The Power -- Naomi Alderman :star:
+- [x] The Handmaid's Tale -- Margaret Atwood :star:
+
+## January 2018
+- [x] A House in the Sky: A Memoir -- Amanda Lindhout and Sara Corbett
+- [x] What Happened -- Hillary Clinton
+- [x] Little Fires Everywhere -- Celeste Ng :star:
+- [ ] Principles: Life and Work -- Ray Dalio
+
+## February 2018
+- [x] Homo Deus -- Yuval Noah Harari :star:
+
+## March 2018
+- [x] Educated: A Memoir -- Tara Westover :star:
+- [x] Broad Band -- Clair Evans :star:
+- [x] The Glass Castle -- Jeannette Walls
+
+## April 2018
+- [x] Eleanor Oliphant is Completely Fine -- Gail Honeyman
+- [x] Pachinko -- Min Jin Lee
 
 ## On Deck
 
-- [ ] Thinking in Systems -- Donella Meadows
 - [ ] How We Got to Now: Six Innovations that Made the Modern World -- Steve Johnson
 - [ ] The New CSS Layout -- Rachel Andrews
 
